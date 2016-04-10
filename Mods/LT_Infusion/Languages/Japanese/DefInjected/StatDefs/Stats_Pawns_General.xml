@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MoveSpeed.label>Move スピード</MoveSpeed.label>
+  <MentalBreakThreshold.label>Mental break threshold</MentalBreakThreshold.label>
+  <GlobalLearningFactor.label>Global learning factor</GlobalLearningFactor.label>
+  <ComfyTemperatureMin.label>Minimum comfortable 冷暖房</ComfyTemperatureMin.label>
+  <ComfyTemperatureMax.label>Maximum comfortable 冷暖房</ComfyTemperatureMax.label>
+  <ImmunityGainSpeed.label>Immunity gain スピード</ImmunityGainSpeed.label>
+</LanguageData>

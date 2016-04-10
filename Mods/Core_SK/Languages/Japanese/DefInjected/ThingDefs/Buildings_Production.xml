@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <TableGrill.label>Simple Grill</TableGrill.label>
+  <TableButcher.label>Butcher Table</TableButcher.label>
+  <CookStove.label>コンロ を調理する</CookStove.label>
+  <CookStove_Pro.label>Professional コンロ を調理する</CookStove_Pro.label>
+  <TableOven.label>Electric Oven</TableOven.label>
+  <Canningstove.label>Canning コンロ</Canningstove.label>
+  <CandyTable.label>キャンディー Table</CandyTable.label>
+  <NutrientPasteDispenser.label>Nutrient Paste ディスペンサー</NutrientPasteDispenser.label>
+  <Hopper.label>ディスペンサー ホッパー</Hopper.label>
+  <Brewery.label>醸造台</Brewery.label>
+  <TableTobacco.label>タバコ Rolling Bench</TableTobacco.label>
+  <TableCoffee.label>コーヒー Machine</TableCoffee.label>
+  <TableSawmillHand.label>手 製材のこぎり</TableSawmillHand.label>
+  <TableSawmillElectric.label>Electric 製材のこぎり</TableSawmillElectric.label>
+  <TableFurnace.label>手 Smelting Furnace</TableFurnace.label>
+  <ElectricSmelter.label>Electric Smelter</ElectricSmelter.label>
+  <TableMachining.label>Electric Machining Table</TableMachining.label>
+  <TableElectronics.label>Electronics Table</TableElectronics.label>
+  <TableTailor.label>Tailor&apos;s Loom</TableTailor.label>
+  <ModernLoom.label>Modern Loom</ModernLoom.label>
+  <HyperLoom.label>Hyper Loom</HyperLoom.label>
+  <TableLoom.label>Tailor&apos;s 作業台</TableLoom.label>
+  <TableMender.label>Mending 作業台</TableMender.label>
+  <MatterConverter.label>Inorganic Matter Converter</MatterConverter.label>
+  <ToolBench.label>手 Assembling 作業台</ToolBench.label>
+  <AdvToolBench.label>Electric Assembling Bench</AdvToolBench.label>
+  <TableSmithing.label>Smithing Bench</TableSmithing.label>
+  <EAF.label>Electric Arc Furnace</EAF.label>
+  <TableStonecutter.label>手 Machining Table</TableStonecutter.label>
+  <TableSculpting.label>Sculptor&apos;s Table</TableSculpting.label>
+  <ConcreteMixer.label>手 コンクリート ミキサー</ConcreteMixer.label>
+  <EConcreteMixer.label>Electric コンクリート ミキサー</EConcreteMixer.label>
+  <Extractor.label>Mine Extractor</Extractor.label>
+  <ExtractorDebris.label>Exhausted Mine Extractor</ExtractorDebris.label>
+  <RareExtractor.label>Advanced Mine Extractor</RareExtractor.label>
+  <ExtractorDebrisRare.label>Exhausted Advanced Mine Extractor</ExtractorDebrisRare.label>
+  <OilExtractor.label>油 Extractor</OilExtractor.label>
+  <Fissure.label>油 Fissure</Fissure.label>
+  <FissureGenerator.label>Drilling Rig</FissureGenerator.label>
+  <ChemicalLab.label>石油化学プラント</ChemicalLab.label>
+  <GC.label>Gas Centrifuge</GC.label>
+  <CentrifugeFeeder.label>Gas Centrifuge ホッパー</CentrifugeFeeder.label>
+  <Crematorium.label>Crematorium</Crematorium.label>
+  <ResearchBench.label>研究 Bench</ResearchBench.label>
+  <TableChemlab.label>Chemical Laboratory</TableChemlab.label>
+  <TableOrganvat.label>Organ Vat</TableOrganvat.label>
+  <TableComposter.label>コンポスター</TableComposter.label>
+  <WeaponCraftingWorkTable.label>Weapon Crafting 作業台</WeaponCraftingWorkTable.label>
+  <AdvWeaponCraftingWorkTable.label>Advanced Weapon Crafting 作業台</AdvWeaponCraftingWorkTable.label>
+  <MechWeaponCraftingWorkTable.label>メカノイド Weapon 作業台</MechWeaponCraftingWorkTable.label>
+  <AmmoCraftingTable.label>弾薬 Crafting Table</AmmoCraftingTable.label>
+  <TableBasicProsthetic.label>義肢 作業台</TableBasicProsthetic.label>
+  <TableSurrogates.label>代用 Organ 作業台</TableSurrogates.label>
+  <TableSynthetics.label>合成 Organ Assembler</TableSynthetics.label>
+  <TableBionics.label>Bionics 作業台</TableBionics.label>
+  <UpgradingStation.label>Advanced Bionics 作業台</UpgradingStation.label>
+  <RobAssem.label>Robotic Assembler</RobAssem.label>
+  <Matterfab.label>クアンタム Fabricator</Matterfab.label>
+  <HadronCollider.label>Hadron Collider</HadronCollider.label>
+  <HadronColliderFeeder.label>Hadron Collider ホッパー</HadronColliderFeeder.label>
+  <PremitiveHydroponic.label>Saturated soil</PremitiveHydroponic.label>
+  <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
+  <NewHydroponicsBasin.label>Advanced 水耕栽培器</NewHydroponicsBasin.label>
+  <ClutterAlloyHydroponicsBasinVS.label>水耕栽培 Pot</ClutterAlloyHydroponicsBasinVS.label>
+</LanguageData>

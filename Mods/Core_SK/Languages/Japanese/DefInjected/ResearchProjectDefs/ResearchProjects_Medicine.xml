@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <HospitalBed.label>医薬品 I</HospitalBed.label>
+  <mediccrafting.label>医薬品 II</mediccrafting.label>
+  <Chemlab.label>医薬品 III</Chemlab.label>
+  <Cryptosleep.label>医薬品 IV</Cryptosleep.label>
+  <Pharmaceuticals.label>医薬品 V</Pharmaceuticals.label>
+  <CyberneticsI.label>Cybernetics I</CyberneticsI.label>
+  <CyberneticsII.label>Cybernetics II</CyberneticsII.label>
+</LanguageData>

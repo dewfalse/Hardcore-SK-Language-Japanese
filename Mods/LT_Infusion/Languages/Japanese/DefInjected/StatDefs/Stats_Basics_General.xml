@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MaxHitPoints.label>Max hit points</MaxHitPoints.label>
+  <MarketValue.label>Market value</MarketValue.label>
+  <DeteriorationRate.label>劣化 rate</DeteriorationRate.label>
+</LanguageData>

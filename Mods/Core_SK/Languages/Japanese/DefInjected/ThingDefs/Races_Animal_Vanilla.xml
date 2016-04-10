@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Megascarab.label>メガスカラベ</Megascarab.label>
+  <Cobra.label>コブラ</Cobra.label>
+  <Monkey.label>猿</Monkey.label>
+  <Chinchilla.label>チンチラ</Chinchilla.label>
+  <Boomalope.label>Boomalope</Boomalope.label>
+  <Capybara.label>カピバラ</Capybara.label>
+  <Muffalo.label>マッファロー</Muffalo.label>
+  <Iguana.label>イグアナ</Iguana.label>
+  <Rhinoceros.label>サイ</Rhinoceros.label>
+  <Dromedary.label>ラクダ</Dromedary.label>
+  <Elephant.label>象</Elephant.label>
+  <Deer.label>鹿</Deer.label>
+  <Squirrel.label>リス</Squirrel.label>
+  <Elk.label>ヘラジカ</Elk.label>
+  <Alphabeaver.label>アルファビーバー</Alphabeaver.label>
+  <WildBoar.label>イノシシ</WildBoar.label>
+  <Boomrat.label>ボムネズミ</Boomrat.label>
+  <Hare.label>ウサギ</Hare.label>
+  <Tortoise.label>亀</Tortoise.label>
+  <Thrumbo.label>Thrumbo</Thrumbo.label>
+  <Chicken.label>鶏</Chicken.label>
+  <Pig.label>豚</Pig.label>
+  <Cow.label>牛</Cow.label>
+  <Alpaca.label>アルパカ</Alpaca.label>
+  <Warg.label>ワーグ</Warg.label>
+  <YorkshireTerrier.label>ヨークシャーテリア</YorkshireTerrier.label>
+  <Husky.label>ハスキー</Husky.label>
+  <LabradorRetriever.label>ラブラドール・レトリバー</LabradorRetriever.label>
+</LanguageData>

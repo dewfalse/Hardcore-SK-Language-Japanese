@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SleepingSpot.label>Sleeping Spot</SleepingSpot.label>
+  <Bed.label>Basic ベッド</Bed.label>
+  <ComfyBed.label>Simple ベッド</ComfyBed.label>
+  <RoyalBed.label>Fancy ベッド</RoyalBed.label>
+  <bedred.label>Luxury ベッド (Red)</bedred.label>
+  <bedgreen.label>Luxury ベッド (緑)</bedgreen.label>
+  <bedblue.label>Luxury ベッド (青)</bedblue.label>
+  <royalbedred.label>Luxury Double ベッド (Red)</royalbedred.label>
+  <royalbedgreen.label>Luxury Double ベッド (緑)</royalbedgreen.label>
+  <royalbedblue.label>Luxury Double ベッド (青)</royalbedblue.label>
+  <PodBed.label>Pod ベッド</PodBed.label>
+  <HospitalBed.label>医療 ベッド</HospitalBed.label>
+  <AdvHospitalBed.label>Advanced 医療 ベッド</AdvHospitalBed.label>
+  <AnimalSleepingSpot.label>Animal Sleeping Spot</AnimalSleepingSpot.label>
+  <AnimalSleepingBox.label>Animal Sleeping Box</AnimalSleepingBox.label>
+  <AnimalBed.label>Animal ベッド</AnimalBed.label>
+  <BacklessStool.label>Backless スツール</BacklessStool.label>
+  <Stool.label>スツール</Stool.label>
+  <Armchair.label>アームチェア</Armchair.label>
+  <DiningChair.label>Dining Chair</DiningChair.label>
+  <diningchairred.label>Luxury アームチェア</diningchairred.label>
+  <PodChair.label>Holographical Cell</PodChair.label>
+  <ClutterComfySeat.label>Cozy アームチェア</ClutterComfySeat.label>
+  <ClutterCouchA.label>Couch</ClutterCouchA.label>
+  <TableShort.label>Table (Short)</TableShort.label>
+  <TableLong.label>Table (Long)</TableLong.label>
+  <GlassTableShort.label>ガラス Table</GlassTableShort.label>
+  <EndTable.label>End Table (Lamp)</EndTable.label>
+  <JournalTable.label>Journal Table</JournalTable.label>
+  <PlantPot.label>Plant Pot</PlantPot.label>
+  <EquipmentRack.label>Equipment Rack</EquipmentRack.label>
+  <ClutterShelf.label>Shelf</ClutterShelf.label>
+  <Item_shelf.label>Equipment Shelf</Item_shelf.label>
+  <RefrigeratedTrayRack.label>Refrigerated Tray Rack</RefrigeratedTrayRack.label>
+  <Storage_FabricHamper.label>Fabric Hamper</Storage_FabricHamper.label>
+  <Storage_Locker.label>衣服 Cupboard</Storage_Locker.label>
+  <Storage_MedicineCabinet.label>医薬品 Cabinet</Storage_MedicineCabinet.label>
+  <Storage_WoodenPalletSmall.label>Pallet</Storage_WoodenPalletSmall.label>
+  <Storage_SkipBig.label>Skip</Storage_SkipBig.label>
+  <Storage_HazMatContainer.label>危険物 Container</Storage_HazMatContainer.label>
+  <ClutterResourceTable.label>弾薬 Table</ClutterResourceTable.label>
+  <ClutterMedicKitTable.label>医療 kit storage</ClutterMedicKitTable.label>
+  <ClutterSmallServingTable.label>Serving Table</ClutterSmallServingTable.label>
+  <StandingLamp.label>Standing Lamp (White)</StandingLamp.label>
+  <StandingLamp_Red.label>Standing Lamp (Red)</StandingLamp_Red.label>
+  <StandingLamp_Green.label>Standing Lamp (緑)</StandingLamp_Green.label>
+  <StandingLamp_Blue.label>Standing Lamp (青)</StandingLamp_Blue.label>
+  <ClutterFloorLampA.label>床 Lamp</ClutterFloorLampA.label>
+  <CeilingLamp.label>Ceiling Lamp</CeilingLamp.label>
+  <OutdoorGroundLamp.label>Outdoor Ground Lamp</OutdoorGroundLamp.label>
+  <Lighting_PathLamp.label>Path light</Lighting_PathLamp.label>
+  <WallLamp.label>Wall Lamp</WallLamp.label>
+  <Lighting_WallLight.label>Wall Light</Lighting_WallLight.label>
+  <RopeLight.label>LED Rope Light</RopeLight.label>
+  <FloorLightSquare.label>Square 床 Light (White)</FloorLightSquare.label>
+  <FloorLightSquare_Red.label>Square 床 Light (Red)</FloorLightSquare_Red.label>
+  <FloorLightSquare_Green.label>Square 床 Light (緑)</FloorLightSquare_Green.label>
+  <FloorLightSquare_Blue.label>Square 床 Light (青)</FloorLightSquare_Blue.label>
+  <FloorAddonA.label>ゾーン marker</FloorAddonA.label>
+  <Fluffy_FeedingBowl.label>Feeding Bowl</Fluffy_FeedingBowl.label>
+  <Fluffy_ScratchingPole.label>Scratching Post</Fluffy_ScratchingPole.label>
+</LanguageData>

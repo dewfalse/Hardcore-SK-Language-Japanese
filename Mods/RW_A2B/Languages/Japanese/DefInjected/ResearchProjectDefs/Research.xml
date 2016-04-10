@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <A2B.label>コンベア Belts</A2B.label>
+  <A2B2.label>コンベア: New Components</A2B2.label>
+  <A2B_Climatization.label>コンベア: Climatization</A2B_Climatization.label>
+  <A2B_Durability.label>コンベア: コンポーネント Durability</A2B_Durability.label>
+  <A2B_Reliability.label>コンベア: コンポーネント Reliability</A2B_Reliability.label>
+  <A2B_BeltSpeed.label>コンベア: Faster Belts</A2B_BeltSpeed.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BionicEyeAnimal.label>強化 Animal 目</BionicEyeAnimal.label>
+  <SimpleProstheticArmAnimal.label>Simple 人工疑似 Animal 腕</SimpleProstheticArmAnimal.label>
+  <BionicArmAnimal.label>強化 Animal 腕</BionicArmAnimal.label>
+  <SimpleProstheticLegAnimalSmall.label>Simple 人工疑似 Animal 脚 (Small)</SimpleProstheticLegAnimalSmall.label>
+  <SimpleProstheticLegAnimalMedium.label>Simple 人工疑似 Animal 脚 (Medium)</SimpleProstheticLegAnimalMedium.label>
+  <SimpleProstheticLegAnimalLarge.label>Simple 人工疑似 Animal 脚 (Large)</SimpleProstheticLegAnimalLarge.label>
+  <SimpleProstheticLegAnimalHuge.label>Simple 人工疑似 Animal 脚 (Huge)</SimpleProstheticLegAnimalHuge.label>
+  <BionicLegAnimalSmall.label>強化 Animal 脚 (Small)</BionicLegAnimalSmall.label>
+  <BionicLegAnimalMedium.label>強化 animal 脚 (medium)</BionicLegAnimalMedium.label>
+  <BionicLegAnimalLarge.label>強化 Animal 脚 (Large)</BionicLegAnimalLarge.label>
+  <BionicLegAnimalHuge.label>強化 Animal 脚 (Huge)</BionicLegAnimalHuge.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SunLamp.label>Sun Lamp</SunLamp.label>
+  <FertilizerPump.label>Terraforming Pump</FertilizerPump.label>
+  <OrbitalTradeBeacon.label>Orbital Trade Beacon</OrbitalTradeBeacon.label>
+  <CommsConsole.label>Comms Console</CommsConsole.label>
+  <MultiAnalyzer.label>Multi-Analyzer</MultiAnalyzer.label>
+  <VitalsMonitor.label>Vitals Monitor</VitalsMonitor.label>
+  <ToolCabinet.label>Large Tool Cabinet</ToolCabinet.label>
+  <Small_ToolCabinet.label>Small Tool Cabinet</Small_ToolCabinet.label>
+  <Cook_Shelf.label>Cooking Cabinet</Cook_Shelf.label>
+  <Grave.label>Grave</Grave.label>
+  <Sarcophagus.label>Sarcophagus</Sarcophagus.label>
+  <CryptosleepCasket.label>冷凍睡眠 カプセル</CryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>古代の 冷凍睡眠 カプセル</AncientCryptosleepCasket.label>
+  <Holodeck.label>Holosuite</Holodeck.label>
+  <AutopsyTable.label>Autopsy Table</AutopsyTable.label>
+  <PunchingBag.label>Punching Bag</PunchingBag.label>
+  <Stargate.label>Stargate</Stargate.label>
+  <MiningHelmetGlower.label>Mining ヘルメット Light</MiningHelmetGlower.label>
+  <DermalRegenerator.label>Dermal regenerator</DermalRegenerator.label>
+  <ImpactionCharge.label>Impaction Charge</ImpactionCharge.label>
+</LanguageData>

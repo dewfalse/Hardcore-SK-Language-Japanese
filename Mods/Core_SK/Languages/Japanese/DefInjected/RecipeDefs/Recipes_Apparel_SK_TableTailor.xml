@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CraftApparello_Bandal.label>Baseball Cap を仕立てる</CraftApparello_Bandal.label>
+  <CraftApparello_pieband.label>バンダナ を仕立てる</CraftApparello_pieband.label>
+  <CraftApparel_Tuque.label>Fancy バンダナ を仕立てる</CraftApparel_Tuque.label>
+  <CraftApparello_Fedora.label>Fedora を仕立てる</CraftApparello_Fedora.label>
+  <CraftApparello_wassupcaptwo.label>Captain&apos;s 三角帽 を仕立てる</CraftApparello_wassupcaptwo.label>
+  <CraftWarm_Cap.label>Warm Cap を仕立てる</CraftWarm_Cap.label>
+  <CraftApparello_Vandal.label>Vandal&apos;s Cap and マフラー を仕立てる</CraftApparello_Vandal.label>
+  <CraftApparel_CowboyHat.label>Duellist&apos;s Hat を仕立てる</CraftApparel_CowboyHat.label>
+  <CraftApparel_Kufiya.label>カフィーヤ を仕立てる</CraftApparel_Kufiya.label>
+  <CraftApparello_wassupcap.label>Bicorne を仕立てる</CraftApparello_wassupcap.label>
+  <CraftApparello_Hardhat.label>Hard Hat を仕立てる</CraftApparello_Hardhat.label>
+  <CraftApparello_Chefhat.label>Chef&apos;s Hat を仕立てる</CraftApparello_Chefhat.label>
+  <CraftApparello_Commissar.label>Peaked Cap を仕立てる</CraftApparello_Commissar.label>
+  <CraftApparello_Tricorn.label>三角帽 を仕立てる</CraftApparello_Tricorn.label>
+  <CraftApparello_Sombrero.label>Sombrero を仕立てる</CraftApparello_Sombrero.label>
+  <CraftApparello_Medband.label>Medic&apos;s バンダナ を仕立てる</CraftApparello_Medband.label>
+  <CraftApparello_Headset.label>Headset with バンダナ を仕立てる</CraftApparello_Headset.label>
+  <CraftApparello_Beret.label>Beret を仕立てる</CraftApparello_Beret.label>
+  <CraftApparello_Cardshark.label>Cardshark Hat を仕立てる</CraftApparello_Cardshark.label>
+  <CraftWinter_RHEF.label>Russian 冬 Hat を仕立てる</CraftWinter_RHEF.label>
+  <CraftApparello_basicbrim.label>Voodoo Hat を仕立てる</CraftApparello_basicbrim.label>
+  <CraftApparello_NorbalSagecowl.label>Cowl を仕立てる</CraftApparello_NorbalSagecowl.label>
+  <CraftApparello_Bandit.label>Bandit Hat and マフラー を仕立てる</CraftApparello_Bandit.label>
+  <CraftPirate_Eyepatch.label>Pirate Eyepatch を仕立てる</CraftPirate_Eyepatch.label>
+  <CraftApparel_Scarf.label>マフラー を仕立てる</CraftApparel_Scarf.label>
+  <CraftApparel_CamoScarf.label>迷彩 マフラー を仕立てる</CraftApparel_CamoScarf.label>
+  <CraftApparello_chefglove.label>Oven Mitts を仕立てる</CraftApparello_chefglove.label>
+  <CraftApparello_Workglove.label>革 Gloves を仕立てる</CraftApparello_Workglove.label>
+  <CraftApparello_Motorglove.label>革 Grips を仕立てる</CraftApparello_Motorglove.label>
+  <CraftNorballo_Furcoat.label>毛皮 コート を仕立てる</CraftNorballo_Furcoat.label>
+  <CraftApparel_Parka.label>パーカー を仕立てる</CraftApparel_Parka.label>
+  <CraftApparel_ParkaB.label>Quilted ジャケット を仕立てる</CraftApparel_ParkaB.label>
+  <CraftApparel_Jacket.label>ジャケット を仕立てる</CraftApparel_Jacket.label>
+  <CraftApparello_Sheet.label>Padded ベスト を仕立てる</CraftApparello_Sheet.label>
+  <CraftApparello_Skull.label>Raider ジャケット を仕立てる</CraftApparello_Skull.label>
+  <CraftApparel_Duster.label>ダスターコート を仕立てる</CraftApparel_Duster.label>
+  <CraftApparel_Cassie.label>Blazer を仕立てる</CraftApparel_Cassie.label>
+  <CraftApparello_PonPon.label>ポンチョ を仕立てる</CraftApparello_PonPon.label>
+  <CraftApparel_TribalA.label>Tribal Wear を仕立てる</CraftApparel_TribalA.label>
+  <CraftApparello_Brocade.label>Brocade ベスト を仕立てる</CraftApparello_Brocade.label>
+  <CraftApparel_BasicShirt.label>Tシャツ を仕立てる</CraftApparel_BasicShirt.label>
+  <CraftApparello_Urbulence.label>Urban シャツ を仕立てる</CraftApparello_Urbulence.label>
+  <CraftApparel_CollarShirt.label>ボタンダウン シャツ を仕立てる</CraftApparel_CollarShirt.label>
+  <CraftNorballo_Shirt.label>Mundane シャツ を仕立てる</CraftNorballo_Shirt.label>
+  <CraftMedievalArmor_Gambeson.label>Gambeson を仕立てる</CraftMedievalArmor_Gambeson.label>
+  <CraftApparello_Tunic.label>チュニック を仕立てる</CraftApparello_Tunic.label>
+  <CraftNorballo_Loincloth.label>Loincloth を仕立てる</CraftNorballo_Loincloth.label>
+  <CraftApparello_Lederhose.label>革 ズボン を仕立てる</CraftApparello_Lederhose.label>
+  <CraftApparello_Jeans.label>ジーンズ を仕立てる</CraftApparello_Jeans.label>
+  <CraftApparello_Suspender.label>Stablehand Trousers を仕立てる</CraftApparello_Suspender.label>
+  <CraftApparel_Pants.label>Suspender ズボン を仕立てる</CraftApparel_Pants.label>
+  <CraftApparello_Armorpants.label>Armored ズボン を仕立てる</CraftApparello_Armorpants.label>
+  <CraftApparello_Scrapants.label>Patched ズボン を仕立てる</CraftApparello_Scrapants.label>
+  <CraftApparello_Holser.label>Holstered Chaps を仕立てる</CraftApparello_Holser.label>
+  <CraftApparello_Clawboots.label>Clawed ブーツ を仕立てる</CraftApparello_Clawboots.label>
+  <CraftApparello_Shoes.label>Shoes を仕立てる</CraftApparello_Shoes.label>
+  <CraftApparello_Snowboots.label>雪 ブーツ を仕立てる</CraftApparello_Snowboots.label>
+  <CraftApparello_NorbalMuffshoes.label>毛皮 ブーツ を仕立てる</CraftApparello_NorbalMuffshoes.label>
+</LanguageData>

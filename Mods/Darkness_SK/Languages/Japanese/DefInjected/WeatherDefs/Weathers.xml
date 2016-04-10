@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Clear.label>晴れ</Clear.label>
+  <Fog.label>Fog</Fog.label>
+  <Rain.label>雨</Rain.label>
+  <RainyThunderstorm.label>Rainy 雷雨</RainyThunderstorm.label>
+  <Rainstorm.label>Heavy 暴風雨</Rainstorm.label>
+  <FoggyRain.label>Foggy 雨</FoggyRain.label>
+  <SnowHard.label>Hard 雪</SnowHard.label>
+  <Blizzard.label>Blizzard</Blizzard.label>
+  <SnowGentle.label>Gentle 雪</SnowGentle.label>
+</LanguageData>

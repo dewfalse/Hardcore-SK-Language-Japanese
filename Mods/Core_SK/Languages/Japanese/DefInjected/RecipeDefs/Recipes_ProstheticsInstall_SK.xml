@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <installlifesupportheart.label>Blood Pump を移植する</installlifesupportheart.label>
+  <installlifesupportlung.label>Respirator を移植する</installlifesupportlung.label>
+  <installlifesupportkidney.label>Urine Filter を移植する</installlifesupportkidney.label>
+  <installlifesupportliver.label>Blood Filter を移植する</installlifesupportliver.label>
+  <InstallNaturalHeart.label>心臓 を移植する</InstallNaturalHeart.label>
+  <InstallNaturalLiver.label>肝臓 を移植する</InstallNaturalLiver.label>
+  <InstallNaturalKidney.label>腎臓 を移植する</InstallNaturalKidney.label>
+  <InstallNaturalLung.label>肺 を移植する</InstallNaturalLung.label>
+  <InstallNaturalEye.label>目 を移植する</InstallNaturalEye.label>
+  <InstallNaturalNose.label>鼻 を移植する</InstallNaturalNose.label>
+  <InstallNaturalEar.label>耳 を移植する</InstallNaturalEar.label>
+  <InstallNaturalJaw.label>顎 を移植する</InstallNaturalJaw.label>
+  <InstallNaturalArm.label>腕 を移植する</InstallNaturalArm.label>
+  <InstallNaturalLeg.label>脚 を移植する</InstallNaturalLeg.label>
+  <InstallNaturalStomach.label>胃 を移植する</InstallNaturalStomach.label>
+  <InstallArtificialBone_Small.label>Artificial Bone を移植する</InstallArtificialBone_Small.label>
+  <InstallArtificialBone_Medium.label>Artificial Bones を移植する</InstallArtificialBone_Medium.label>
+  <InstallArtificialBonePiece_Large.label>Artificial Bones を移植する</InstallArtificialBonePiece_Large.label>
+  <HealScars.label>Scar を治療する</HealScars.label>
+  <InstallSteelArm.label>鋼鉄 腕 を移植する</InstallSteelArm.label>
+  <InstallEyePatch.label>目 Patch を移植する</InstallEyePatch.label>
+  <InstallHookHand.label>Hook 手 を移植する</InstallHookHand.label>
+  <InstallDenture.label>入れ歯 を移植する</InstallDenture.label>
+  <InstallWoodenFoot.label>木の 足 を移植する</InstallWoodenFoot.label>
+  <InstallPegLeg.label>木の 脚 を移植する</InstallPegLeg.label>
+  <InstallSimpleProstheticLeg.label>Simple 人工疑似 脚 を移植する</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticArm.label>Simple 人工疑似 腕 を移植する</InstallSimpleProstheticArm.label>
+  <InstallGlassEye.label>ガラス 目 を移植する</InstallGlassEye.label>
+  <InstallCrystalEye.label>Crystal 目 を移植する</InstallCrystalEye.label>
+  <InstallSimpleProstheticHand.label>Simple 人工疑似 手 を移植する</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticFoot.label>Simple 人工疑似 足 を移植する</InstallSimpleProstheticFoot.label>
+  <InstallArtificialNose.label>Artificial 鼻 を移植する</InstallArtificialNose.label>
+  <InstallHydraulicJaw.label>Hydraulic 顎 を移植する</InstallHydraulicJaw.label>
+  <InstallArtificialPelvis.label>Artifical 骨盤 を移植する</InstallArtificialPelvis.label>
+  <InstallBrainStimulator.label>Brain Stimulator を移植する</InstallBrainStimulator.label>
+  <InstallSurrogateLung.label>代用 肺 を移植する</InstallSurrogateLung.label>
+  <InstallSurrogateStomach.label>代用 胃 を移植する</InstallSurrogateStomach.label>
+  <InstallSurrogateLiver.label>代用 肝臓 を移植する</InstallSurrogateLiver.label>
+  <InstallSurrogateKidney.label>代用 腎臓 を移植する</InstallSurrogateKidney.label>
+  <InstallSurrogateHeart.label>代用 心臓 を移植する</InstallSurrogateHeart.label>
+  <InstallAIChip.label>AI Chip を移植する</InstallAIChip.label>
+  <InstallSyntheticLung.label>合成 肺 を移植する</InstallSyntheticLung.label>
+  <InstallSyntheticStomach.label>合成 胃 を移植する</InstallSyntheticStomach.label>
+  <InstallSyntheticLiver.label>合成 肝臓 を移植する</InstallSyntheticLiver.label>
+  <InstallSyntheticKidney.label>合成 腎臓 を移植する</InstallSyntheticKidney.label>
+  <InstallSyntheticHeart.label>合成 心臓 を移植する</InstallSyntheticHeart.label>
+  <InstallPowerArm.label>電力 腕 を移植する</InstallPowerArm.label>
+  <InstallBionicHand.label>強化 手 を移植する</InstallBionicHand.label>
+  <InstallBionicFoot.label>強化 足 を移植する</InstallBionicFoot.label>
+  <InstallBionicEar.label>強化 耳 Implant を移植する</InstallBionicEar.label>
+  <InstallBionicJaw.label>強化 顎 Implant を移植する</InstallBionicJaw.label>
+  <InstallSilentJaw.label>Silent 顎 Implant を移植する</InstallSilentJaw.label>
+  <InstallBionicSpine.label>強化 脊椎 を移植する</InstallBionicSpine.label>
+  <InstallMedicalRib.label>医療 肋骨 Replacement を移植する</InstallMedicalRib.label>
+  <InstallAdrenalineRib.label>Adrenaline 肋骨 を移植する</InstallAdrenalineRib.label>
+  <InstallAdvancedPowerArm.label>Advanced 電力 腕 を移植する</InstallAdvancedPowerArm.label>
+  <InstallAdvancedBionicArm.label>Advanced 強化 腕 を移植する</InstallAdvancedBionicArm.label>
+  <InstallAdvancedBionicLeg.label>Advanced 強化 脚 を移植する</InstallAdvancedBionicLeg.label>
+  <InstallAdvancedBionicHand.label>Advanced 強化 手 を移植する</InstallAdvancedBionicHand.label>
+  <InstallAdvancedBionicFoot.label>Advanced 強化 足 を移植する</InstallAdvancedBionicFoot.label>
+  <InstallAdvancedBionicEye.label>Advanced 強化 目 を移植する</InstallAdvancedBionicEye.label>
+  <InstallAdvancedBionicEar.label>Advanced 強化 耳 を移植する</InstallAdvancedBionicEar.label>
+  <InstallAdvancedBionicJaw.label>Advanced 強化 顎 を移植する</InstallAdvancedBionicJaw.label>
+  <InstallAdvancedBionicSpine.label>Advanced 強化 脊椎 を移植する</InstallAdvancedBionicSpine.label>
+  <InstallExoskeletonSuit.label>Exoskeleton スーツ を移植する</InstallExoskeletonSuit.label>
+  <InstallGTEar.label>サイバネティックス 強化 耳 を移植する</InstallGTEar.label>
+  <InstallGTEye.label>サイバネティックス 強化 目 を移植する</InstallGTEye.label>
+  <InstallGTArm.label>サイバネティックス 強化 腕 を移植する</InstallGTArm.label>
+  <InstallGTHand.label>サイバネティックス 強化 手 を移植する</InstallGTHand.label>
+  <InstallGTLeg.label>サイバネティックス 強化 脚 を移植する</InstallGTLeg.label>
+  <InstallGTFoot.label>サイバネティックス 強化 足 を移植する</InstallGTFoot.label>
+  <InstallGTHeart.label>サイバネティックス 心臓 を移植する</InstallGTHeart.label>
+  <InstallGTLung.label>サイバネティックス 肺 を移植する</InstallGTLung.label>
+  <InstallGTKidney.label>サイバネティックス 腎臓 を移植する</InstallGTKidney.label>
+  <InstallGTLiver.label>サイバネティックス 肝臓 を移植する</InstallGTLiver.label>
+  <InstallGTStomach.label>サイバネティックス 胃 を移植する</InstallGTStomach.label>
+  <InstallGTDentures.label>サイバネティックス 入れ歯 を移植する</InstallGTDentures.label>
+  <InstallGTSpine.label>サイバネティックス 強化 脊椎 を移植する</InstallGTSpine.label>
+</LanguageData>

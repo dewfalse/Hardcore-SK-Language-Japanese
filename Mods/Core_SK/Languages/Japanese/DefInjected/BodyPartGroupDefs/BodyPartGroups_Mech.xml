@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <PlasmaCutter.label>プラズマ cutter</PlasmaCutter.label>
+  <FrontLeftMechanicalLeg.label>Front 左 脚</FrontLeftMechanicalLeg.label>
+  <FrontRightMechanicalLeg.label>Front 右 脚</FrontRightMechanicalLeg.label>
+  <FrontParalyzeComponent.label>Paralytic コンポーネント</FrontParalyzeComponent.label>
+  <WheelsEnclosure.label>Wheel enclosure</WheelsEnclosure.label>
+  <MechanicalCoreSkullywag.label>コア</MechanicalCoreSkullywag.label>
+  <MechanicalCoreScoutbot.label>コア</MechanicalCoreScoutbot.label>
+  <CoveredByShield.label>シールド</CoveredByShield.label>
+  <MeleeTentacles.label>触手</MeleeTentacles.label>
+  <Igniter.label>Igniter</Igniter.label>
+  <FuelContainer.label>燃料 container</FuelContainer.label>
+</LanguageData>

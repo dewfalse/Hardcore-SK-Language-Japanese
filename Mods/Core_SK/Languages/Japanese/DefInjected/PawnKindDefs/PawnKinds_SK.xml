@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BrotherhoodGuard.label>Brotherhood Guard</BrotherhoodGuard.label>
+  <BrotherhoodStriker.label>Brotherhood Striker</BrotherhoodStriker.label>
+  <BrotherhoodProtector.label>Brotherhood Protector</BrotherhoodProtector.label>
+  <BrotherhoodScout.label>Brotherhood Scout</BrotherhoodScout.label>
+  <BrotherhoodDestroyer.label>Brotherhood Destroyer</BrotherhoodDestroyer.label>
+  <BrotherhoodSentinel.label>Brotherhood Sentinel</BrotherhoodSentinel.label>
+  <SectarianSoldier.label>Sectarian Soldier</SectarianSoldier.label>
+  <SectarianStriker.label>Sectarian Striker</SectarianStriker.label>
+  <SectarianHunter.label>Sectarian Hunter</SectarianHunter.label>
+  <SectarianEagleEye.label>Sectarian Eagle 目</SectarianEagleEye.label>
+  <SectarianDestroyer.label>Sectarian Destroyer</SectarianDestroyer.label>
+  <SectarianSentinel.label>Sectarian Sentinel</SectarianSentinel.label>
+  <SyndicateProspector.label>シンジケート Prospector</SyndicateProspector.label>
+  <SyndicateStriker.label>シンジケート Striker</SyndicateStriker.label>
+  <SyndicateHunter.label>シンジケート Hunter</SyndicateHunter.label>
+  <SyndicateHawkeye.label>シンジケート Hawkeye</SyndicateHawkeye.label>
+  <SyndicateDevastator.label>シンジケート Devastator</SyndicateDevastator.label>
+  <SyndicateAnnihilator.label>シンジケート Annihilator</SyndicateAnnihilator.label>
+  <SyndicateBloodborne.label>シンジケート bloodborne</SyndicateBloodborne.label>
+  <OrionChaser.label>玉ねぎ Chaser</OrionChaser.label>
+  <OrionSunderer.label>玉ねぎ Sunderer</OrionSunderer.label>
+  <OrionHunter.label>玉ねぎ Hunter</OrionHunter.label>
+  <OrionHawkeye.label>玉ねぎ Hawkeye</OrionHawkeye.label>
+  <OrionRager.label>玉ねぎ Rager</OrionRager.label>
+  <OrionSunRiser.label>玉ねぎ Sun Riser</OrionSunRiser.label>
+  <OrionBloodborne.label>玉ねぎ bloodborne</OrionBloodborne.label>
+  <NightbladesDesperado.label>Nightblades Desperado</NightbladesDesperado.label>
+  <NightbladesBrigand.label>Nightblades Brigand</NightbladesBrigand.label>
+  <NightbladesHessian.label>Nightblades Hessian</NightbladesHessian.label>
+  <NightbladesExploder.label>Nightblades Exploder</NightbladesExploder.label>
+  <NightbladesKing.label>Nightblades King</NightbladesKing.label>
+  <PredatorsRaven.label>Predators Raven</PredatorsRaven.label>
+  <PredatorsLynx.label>Predators Lynx</PredatorsLynx.label>
+  <PredatorsWolf.label>Predators Wolf</PredatorsWolf.label>
+  <PredatorsHawkeye.label>Predators Hawkeye</PredatorsHawkeye.label>
+  <PredatorsBomber.label>Predators Bomber</PredatorsBomber.label>
+  <PredatorsShaman.label>Predators Shaman</PredatorsShaman.label>
+  <PredatorsSlasher.label>Predators Slasher</PredatorsSlasher.label>
+  <NovaAllianceSoldier.label>Nova Corps Soldier</NovaAllianceSoldier.label>
+  <NovaAllianceAssault.label>Nova Corps Assault</NovaAllianceAssault.label>
+  <NovaAllianceSapper.label>Nova Corps Sapper</NovaAllianceSapper.label>
+  <NovaCommander.label>Nova commander</NovaCommander.label>
+  <NarnInsurgent.label>Narn Insurgent</NarnInsurgent.label>
+  <NarnHeadCutter.label>Narn 頭 Cutter</NarnHeadCutter.label>
+  <NarnShahid.label>Narn Shahid</NarnShahid.label>
+  <NarnShaman.label>Narn shaman</NarnShaman.label>
+</LanguageData>

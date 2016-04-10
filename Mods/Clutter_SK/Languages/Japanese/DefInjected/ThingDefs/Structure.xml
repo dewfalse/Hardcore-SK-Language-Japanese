@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ClutterFence.label>コンクリート フェンス</ClutterFence.label>
+  <ClutterConcreteFenceA.label>コンクリート Tall フェンス</ClutterConcreteFenceA.label>
+  <ClutterSilverWall.label>Panel Reinforced Wall</ClutterSilverWall.label>
+  <ClutterUtilityWall.label>Utility Wall</ClutterUtilityWall.label>
+  <ClutterUWallLight.label>Lighted Utility Wall</ClutterUWallLight.label>
+  <ReinforcedDoor.label>Reinforced ドア</ReinforcedDoor.label>
+</LanguageData>

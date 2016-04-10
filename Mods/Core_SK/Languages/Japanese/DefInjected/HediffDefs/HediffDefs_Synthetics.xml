@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AIChip.label>AI Chip</AIChip.label>
+  <SyntheticLung.label>合成 肺</SyntheticLung.label>
+  <SyntheticStomach.label>合成 胃</SyntheticStomach.label>
+  <SyntheticLiver.label>合成 肝臓</SyntheticLiver.label>
+  <SyntheticKidney.label>合成 腎臓</SyntheticKidney.label>
+  <SyntheticHeart.label>合成 心臓</SyntheticHeart.label>
+</LanguageData>

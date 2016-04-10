@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BuildHandGun.label>Colt M1911 を組み立てる</BuildHandGun.label>
+  <BuildNailGun.label>Nail Gun を組み立てる</BuildNailGun.label>
+  <BuildP226Gun.label>SIG Sauer P226 を組み立てる</BuildP226Gun.label>
+  <Build_LeeEnfield.label>Lee-Enfield を組み立てる</Build_LeeEnfield.label>
+  <BuildPDW.label>Uzi を組み立てる</BuildPDW.label>
+  <BuildHeavySMG.label>Spectre M4 Luger を組み立てる</BuildHeavySMG.label>
+  <BuildPumpShotgun.label>Remington 870 を組み立てる</BuildPumpShotgun.label>
+  <BuildM37A2_USCM.label>M37A2 Pump ショットガン を組み立てる</BuildM37A2_USCM.label>
+  <BuildSniperRifle.label>M24 スナイパー ライフル を組み立てる</BuildSniperRifle.label>
+  <BuildM42A_USCM.label>M42A Scope ライフル を組み立てる</BuildM42A_USCM.label>
+  <BuildDragunovSVU.label>SVU OTs-03 Dragunov を組み立てる</BuildDragunovSVU.label>
+  <BuildLMG.label>L-15 LMG を組み立てる</BuildLMG.label>
+  <BuildM240_USCM.label>M240 火炎放射器 を組み立てる</BuildM240_USCM.label>
+  <BuildM56_USCM.label>M56 Smart Gun を組み立てる</BuildM56_USCM.label>
+  <BuildMinigun.label>XM214 Microgun を組み立てる</BuildMinigun.label>
+  <BuildChargeRifle.label>R2 Charge ライフル を組み立てる</BuildChargeRifle.label>
+  <BuildAssaultRifle.label>M16 ライフル を組み立てる</BuildAssaultRifle.label>
+  <BuildSG553Gun.label>SIG SG553 を組み立てる</BuildSG553Gun.label>
+  <BuildAUG.label>Steyr AUG A3 を組み立てる</BuildAUG.label>
+  <BuildSCAR_H.label>FN SCAR-H を組み立てる</BuildSCAR_H.label>
+  <BuildFAMAS.label>FAMAS G2 を組み立てる</BuildFAMAS.label>
+  <BuildIncendiaryLauncher.label>RL T9 Burning Sun を組み立てる</BuildIncendiaryLauncher.label>
+  <DeconstructPersonalShield.label>personal シールド を分解する</DeconstructPersonalShield.label>
+  <BuildDeringerPistol.label>Remington M95 Derringer を組み立てる</BuildDeringerPistol.label>
+  <BuildSphinxPistol.label>Sphinx AT 2000 を組み立てる</BuildSphinxPistol.label>
+  <BuildVektorCP.label>Vektor CP1 を組み立てる</BuildVektorCP.label>
+  <BuildParaOrdnancePFourteenFortyfive.label>Para Ordnance P14-45 を組み立てる</BuildParaOrdnancePFourteenFortyfive.label>
+  <BuildTecnine.label>TEC-9 を組み立てる</BuildTecnine.label>
+  <BuildTMPMachinePistol.label>Silenced TMP を組み立てる</BuildTMPMachinePistol.label>
+  <Build93RBurstPistol.label>ベレッタ 93R を組み立てる</Build93RBurstPistol.label>
+  <BuildMosinBoltRifle.label>Mosin-Nagant M91 を組み立てる</BuildMosinBoltRifle.label>
+  <BuildSkorpionSMG.label>サソリ EVO 3 を組み立てる</BuildSkorpionSMG.label>
+  <BuildM3SMG.label>M3 Greasegun を組み立てる</BuildM3SMG.label>
+  <BuildVector.label>Kriss Vector K10 を組み立てる</BuildVector.label>
+  <BuildMP5Gun.label>HK MP5A3 を組み立てる</BuildMP5Gun.label>
+  <BuildUMP45Gun.label>HK UMP45 を組み立てる</BuildUMP45Gun.label>
+  <BuildStrikerShotgun.label>Striker ショットガン を組み立てる</BuildStrikerShotgun.label>
+  <BuildTacticalShotgun.label>M45 Tactical ショットガン を組み立てる</BuildTacticalShotgun.label>
+  <BuildAA12AutoShotgun.label>Atchisson Assault AA-12 を組み立てる</BuildAA12AutoShotgun.label>
+  <BuildTacticalAutoshotgun.label>M90 CAWS を組み立てる</BuildTacticalAutoshotgun.label>
+  <BuildWA2000SpecialistRifle.label>Walther WA 2000 ライフル を組み立てる</BuildWA2000SpecialistRifle.label>
+  <BuildXM8MilitaryRifle.label>HK XM8 Military ライフル を組み立てる</BuildXM8MilitaryRifle.label>
+  <BuildAK47Gun.label>AK-47 を組み立てる</BuildAK47Gun.label>
+  <BuildTacticalCombatrifle.label>MA5 ICWS を組み立てる</BuildTacticalCombatrifle.label>
+  <BuildCXfour.label>ベレッタ CX4 を組み立てる</BuildCXfour.label>
+  <BuildPCnine.label>Ruger PC-9 を組み立てる</BuildPCnine.label>
+  <BuildUSC.label>HK USC を組み立てる</BuildUSC.label>
+  <BuildAKS74U.label>AKS-74U を組み立てる</BuildAKS74U.label>
+  <BuildM4A1Gun.label>M4A1 Carbine を組み立てる</BuildM4A1Gun.label>
+  <BuildGalilBurstRifle.label>RPK-74 を組み立てる</BuildGalilBurstRifle.label>
+  <BuildHeavyCombatRifle.label>MA39X ICWS を組み立てる</BuildHeavyCombatRifle.label>
+  <BuildM82Gun.label>Barrett M82A1 SASR を組み立てる</BuildM82Gun.label>
+  <BuildTAMSR.label>SRS99 AM スナイパー ライフル を組み立てる</BuildTAMSR.label>
+  <BuildARFifty.label>Armalite AR-50 を組み立てる</BuildARFifty.label>
+  <BuildMDFifty.label>Micor Defense MD50 を組み立てる</BuildMDFifty.label>
+  <BuildHecateII.label>Ultima Ratio Hecate II を組み立てる</BuildHecateII.label>
+  <BuildMilkorGrenadeLauncher.label>Milkor MGL を組み立てる</BuildMilkorGrenadeLauncher.label>
+  <BuildStunGun.label>XS5 Stun Gun を組み立てる</BuildStunGun.label>
+  <BuildRPG.label>RPG-7 を組み立てる</BuildRPG.label>
+  <BuildM5_USCM.label>M5 RPG を組み立てる</BuildM5_USCM.label>
+  <BuildMagnum.label>Build .44 Remington Magnum</BuildMagnum.label>
+  <BuildLaserRifle.label>One-beam レーザー ライフル を組み立てる</BuildLaserRifle.label>
+  <BuildHeavyLaserRifle.label>Tri-beam レーザー ライフル を組み立てる</BuildHeavyLaserRifle.label>
+  <BuildBurstLaserRifle.label>Penta-beam レーザー ライフル を組み立てる</BuildBurstLaserRifle.label>
+  <BuildPlasmaCarbine.label>C3 プラズマ Carbine を組み立てる</BuildPlasmaCarbine.label>
+  <BuildPlasmaRifle.label>C7 Multi-プラズマ ライフル を組み立てる</BuildPlasmaRifle.label>
+  <BuildPlasmaPrecision.label>C2 プラズマ Precision ライフル を組み立てる</BuildPlasmaPrecision.label>
+  <BuildRailgunMKI.label>X-Zero レールガン を組み立てる</BuildRailgunMKI.label>
+  <BuildATR.label>PTRD-41 ライフル を組み立てる</BuildATR.label>
+  <BuildLAW.label>M72 LAW を組み立てる</BuildLAW.label>
+  <BuildGun_ATML.label>FGM-148 ジャベリン を組み立てる</BuildGun_ATML.label>
+  <BuildDesertEagle.label>砂漠 Eagle を組み立てる .45 ACP</BuildDesertEagle.label>
+  <BuildVintorez.label>VSS Thread Cutter を組み立てる</BuildVintorez.label>
+  <BuildMarineSturmRifle.label>TAR-21 を組み立てる</BuildMarineSturmRifle.label>
+  <BuildM249.label>M249 MG を組み立てる をのこぎりで切る</BuildM249.label>
+  <BuildEmpGrenades.label>EMP グレネード を組み立てる</BuildEmpGrenades.label>
+  <MakeMolotov.label>火炎瓶 を組み立てる</MakeMolotov.label>
+  <MakeIncendiaryGrenade.label>Incendiary グレネード を組み立てる</MakeIncendiaryGrenade.label>
+  <BuildFragGrenades.label>Frag グレネード を組み立てる</BuildFragGrenades.label>
+  <BuildShockGrenades.label>ショック グレネード を組み立てる</BuildShockGrenades.label>
+  <BuildFusionGrenades.label>Fusion グレネード を組み立てる</BuildFusionGrenades.label>
+  <BuildPlasmaGrenades.label>プラズマ グレネード を組み立てる</BuildPlasmaGrenades.label>
+  <BuildFireExtinguisher.label>Fire Extinguisher を組み立てる</BuildFireExtinguisher.label>
+  <BuildMeleeWeapon_Shocker.label>Melee Shocker を組み立てる</BuildMeleeWeapon_Shocker.label>
+  <BuildSpecialWeapon_ThrowingKnifeOne.label>投げ ナイフ (Balanced を鍛造する)</BuildSpecialWeapon_ThrowingKnifeOne.label>
+  <BuildSpecialWeapon_ThrowingKnifeTwo.label>投げ ナイフ (Melee を鍛造する)</BuildSpecialWeapon_ThrowingKnifeTwo.label>
+  <BuildSpecialWeapon_ThrowingKnifeThree.label>投げ ナイフ (Ranged を鍛造する)</BuildSpecialWeapon_ThrowingKnifeThree.label>
+  <BuildBow_Short.label>Short Bow を作成する</BuildBow_Short.label>
+  <BuildPila.label>Pila を作成する</BuildPila.label>
+  <BuildBow_Great.label>Great Bow を作成する</BuildBow_Great.label>
+  <BuildNorbal_Scorpion.label>スコルピオ を作成する</BuildNorbal_Scorpion.label>
+  <BuildArbalest.label>Balestra を作成する</BuildArbalest.label>
+  <BuildCrossbow.label>クロスボウ を作成する</BuildCrossbow.label>
+  <BuildRecurveBow.label>Recurve Bow を作成する</BuildRecurveBow.label>
+  <BuildNorbalBow_Grape.label>Scythian Bow を作成する</BuildNorbalBow_Grape.label>
+  <BuildMeleeWeapon_Spear.label>槍 を作成する</BuildMeleeWeapon_Spear.label>
+  <BuildMeleeWeapon_Mace.label>矛 を鍛造する</BuildMeleeWeapon_Mace.label>
+  <BuildMeleeWeapon_Club.label>棍棒 を作成する</BuildMeleeWeapon_Club.label>
+  <BuildNorbalMeleeWeapon_ShortSwordtwo.label>Norbal Sword を鍛造する</BuildNorbalMeleeWeapon_ShortSwordtwo.label>
+  <BuildNorbalMeleeWeapon_ShortSword.label>Heroic Sword を鍛造する</BuildNorbalMeleeWeapon_ShortSword.label>
+  <BuildNorbalMeleeWeapon_Ax.label>Norbal War Axe を鍛造する</BuildNorbalMeleeWeapon_Ax.label>
+  <BuildNorbalMeleeWeapon_Bigax.label>Battleaxe を鍛造する</BuildNorbalMeleeWeapon_Bigax.label>
+  <BuildMeleeWeapon_Dagger.label>Dagger を鍛造する</BuildMeleeWeapon_Dagger.label>
+  <BuildMeleeWeapon_Gladius.label>Gladius を鍛造する</BuildMeleeWeapon_Gladius.label>
+  <BuildMeleeWeapon_LongSword.label>Longsword を鍛造する</BuildMeleeWeapon_LongSword.label>
+  <BuildMeleeWeapon_Scimitar.label>シミター を鍛造する</BuildMeleeWeapon_Scimitar.label>
+  <BuildMeleeWeapon_Glaive.label>Glaive を鍛造する</BuildMeleeWeapon_Glaive.label>
+  <BuildMeleeWeapon_Partisan.label>Partisan を鍛造する</BuildMeleeWeapon_Partisan.label>
+  <BuildMeleeWeapon_Knife.label>ナイフ を鍛造する</BuildMeleeWeapon_Knife.label>
+  <BuildMeleeWeapon_Bonesaw.label>Bonesaw を鍛造する</BuildMeleeWeapon_Bonesaw.label>
+  <BuildMeleeWeapon_Machete.label>マチェーテ を鍛造する</BuildMeleeWeapon_Machete.label>
+  <BuildMeleeWeapon_Monkeywrench.label>猿 Wrench を鍛造する</BuildMeleeWeapon_Monkeywrench.label>
+  <BuildMeleeWeapon_Cleaver.label>Сleaver を鍛造する</BuildMeleeWeapon_Cleaver.label>
+  <BuildMeleeWeapon_Shiv.label>ジャックナイフ を鍛造する</BuildMeleeWeapon_Shiv.label>
+  <BuildMeleeWeapon_Tanto.label>Tanto を鍛造する</BuildMeleeWeapon_Tanto.label>
+  <BuildMeleeWeapon_Katana.label>刀 を鍛造する</BuildMeleeWeapon_Katana.label>
+  <BuildMeleeWeapon_Tsurugi.label>Tsurugi を鍛造する</BuildMeleeWeapon_Tsurugi.label>
+  <BuildMeleeWeapon_Sledgehammer.label>スレッジハンマー を鍛造する</BuildMeleeWeapon_Sledgehammer.label>
+</LanguageData>

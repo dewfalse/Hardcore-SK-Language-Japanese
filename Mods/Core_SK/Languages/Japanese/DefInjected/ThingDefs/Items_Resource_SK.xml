@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <NickelBar.label>ニッケル 合金</NickelBar.label>
+  <Cobalt.label>コバルト 合金</Cobalt.label>
+  <Pyrolusite.label>軟マンガン鉱 鉱石</Pyrolusite.label>
+  <Manganese.label>マンガン 合金</Manganese.label>
+  <Wolframite.label>鉄マンガン重石 鉱石</Wolframite.label>
+  <Tungsten.label>タングステン 合金</Tungsten.label>
+  <Chromium.label>クロム 合金</Chromium.label>
+  <Silver.label>シルバー 鉱石</Silver.label>
+  <Gold.label>金 鉱石</Gold.label>
+  <Steel.label>鉄 鉱石</Steel.label>
+  <Nickel.label>ニッケル 鉱石</Nickel.label>
+  <Copper.label>銅 鉱石</Copper.label>
+  <Aluminium.label>ボーキサイト 鉱石</Aluminium.label>
+  <Ilmenite.label>イルメナイト 鉱石</Ilmenite.label>
+  <CopperBar.label>銅 合金</CopperBar.label>
+  <AluminiumBar.label>アルミニウム 合金</AluminiumBar.label>
+  <CastIron.label>鋳鉄 合金</CastIron.label>
+  <SteelBar.label>鋼鉄 合金</SteelBar.label>
+  <GoldBar.label>金 合金</GoldBar.label>
+  <SilverBar.label>スターリング シルバー 合金</SilverBar.label>
+  <FerrosiliconAlloy.label>センダスト 合金</FerrosiliconAlloy.label>
+  <FerromanganeseAlloy.label>シュピーゲル 合金</FerromanganeseAlloy.label>
+  <CupronickelAlloy.label>メルキオール 合金</CupronickelAlloy.label>
+  <Plasteel.label>Stein 合金</Plasteel.label>
+  <Permalloy.label>パーマロイ 合金</Permalloy.label>
+  <AlnicoAlloy.label>アルニコ 合金</AlnicoAlloy.label>
+  <NichromeAlloy.label>ニクロム 合金</NichromeAlloy.label>
+  <CobaltIronAlloy.label>コバール 合金</CobaltIronAlloy.label>
+  <StelliteAlloy.label>ステライト 合金</StelliteAlloy.label>
+  <TitaniumBar.label>フェロチタン 合金</TitaniumBar.label>
+  <NitinolAlloy.label>ニチノール 合金</NitinolAlloy.label>
+  <PobediteAlloy.label>Pobedite 合金</PobediteAlloy.label>
+  <Titanium.label>チタニウム 合金</Titanium.label>
+  <WoodLog.label>木 Log</WoodLog.label>
+  <WoodPlank.label>木の厚板</WoodPlank.label>
+  <Bamboo.label>竹 Log</Bamboo.label>
+  <BambooPlank.label>竹の厚板</BambooPlank.label>
+  <Cloth.label>生地</Cloth.label>
+  <MuffaloWool.label>マッファロー 毛</MuffaloWool.label>
+  <CamelHair.label>ラクダ Hair</CamelHair.label>
+  <AlpacaWool.label>アルパカ 毛</AlpacaWool.label>
+  <WeedCloth.label>麻</WeedCloth.label>
+  <RamWool.label>Ram 毛</RamWool.label>
+  <DevilstrandCloth.label>デビルストランド 生地</DevilstrandCloth.label>
+  <Synthread.label>Synthread</Synthread.label>
+  <Hyperweave.label>Hyperweave</Hyperweave.label>
+  <Kevlar.label>ケブラー</Kevlar.label>
+  <Chitin.label>キチン</Chitin.label>
+  <HerbalMedicine.label>生 ゼリジウム</HerbalMedicine.label>
+  <Medicine.label>医薬品</Medicine.label>
+  <GlitterworldMedicine.label>Advanced 医薬品</GlitterworldMedicine.label>
+  <HerbMedicine.label>生薬</HerbMedicine.label>
+  <GlassBatch.label>ガラス Batch</GlassBatch.label>
+  <Glass.label>ガラス Frame</Glass.label>
+  <ReinforcedGlass.label>強化ガラス Frame</ReinforcedGlass.label>
+  <RawCotton.label>生 木綿</RawCotton.label>
+  <RawDevilstrand.label>生 デビルストランド</RawDevilstrand.label>
+  <Kindling.label>焚き付け</Kindling.label>
+  <Mulch.label>マルチ</Mulch.label>
+  <Sand.label>砂</Sand.label>
+  <Silicon.label>シリコン</Silicon.label>
+  <EthanolFuel.label>エタノール 燃料</EthanolFuel.label>
+  <ElectronicComponents.label>電子部品</ElectronicComponents.label>
+  <Electronics.label>Integrated 電気回路</Electronics.label>
+  <Microchips.label>Microchip Integrated 電気回路</Microchips.label>
+  <BioMicrochips.label>BioElectronic Devices</BioMicrochips.label>
+  <Biomatter.label>バイオマター</Biomatter.label>
+  <ArtificialBone.label>Artificial Bone</ArtificialBone.label>
+  <Nitre.label>硝石</Nitre.label>
+  <Coal.label>石炭 鉱石</Coal.label>
+  <Charcoal.label>木炭</Charcoal.label>
+  <CrushedStone.label>瓦礫</CrushedStone.label>
+  <Ash.label>灰</Ash.label>
+  <DepletedUranium.label>Depleted ウラニウム 合金</DepletedUranium.label>
+  <CarbonAlloy.label>カーボン Fiber 合金</CarbonAlloy.label>
+  <Concrete.label>コンクリート</Concrete.label>
+  <Peat.label>Peat</Peat.label>
+  <BioDiesel.label>BioDiesel 燃料</BioDiesel.label>
+  <Snow.label>雪 Block</Snow.label>
+  <SoftClay.label>Soft 粘土</SoftClay.label>
+  <ClayBrick.label>粘土 Bricks</ClayBrick.label>
+  <Powder.label>火薬</Powder.label>
+  <Napalm.label>Napalm</Napalm.label>
+  <CrudeOil.label>原油</CrudeOil.label>
+  <Polymers.label>ポリマー</Polymers.label>
+  <Plastic.label>プラスチック</Plastic.label>
+  <Rubber.label>ゴム</Rubber.label>
+  <SyntheticFibers.label>合成 Fibers</SyntheticFibers.label>
+  <Carbon.label>カーボン</Carbon.label>
+  <SyntheticAmmonia.label>合成 アンモニア</SyntheticAmmonia.label>
+  <Paraffins.label>パラフィン</Paraffins.label>
+  <Sulphates.label>硫黄</Sulphates.label>
+  <Fuel.label>燃料 油</Fuel.label>
+  <Matter.label>Inorganic Matter</Matter.label>
+  <DrillHead.label>ドリルヘッド</DrillHead.label>
+  <PileOfBooks.label>Pile of Books</PileOfBooks.label>
+  <PaintingSupplies.label>Painting Supplies</PaintingSupplies.label>
+  <MineralSonarModule.label>鉱物 Sonar Module</MineralSonarModule.label>
+  <AlphaPoly.label>Alpha Poly</AlphaPoly.label>
+  <BetaPoly.label>Beta Poly</BetaPoly.label>
+  <Antimatter.label>反物質</Antimatter.label>
+  <MagneticMaterial.label>Magnetic Material</MagneticMaterial.label>
+  <BiosyntheticMaterial.label>BioSynthetic Material</BiosyntheticMaterial.label>
+  <Hexcell.label>HexCell</Hexcell.label>
+  <Compaste.label>Compound Paste</Compaste.label>
+  <ThrumboHorn.label>Thrumbo Horn</ThrumboHorn.label>
+  <RobotParts.label>ロボット パーツ</RobotParts.label>
+  <CopperBar.stuffProps.stuffAdjective>銅</CopperBar.stuffProps.stuffAdjective>
+  <AluminiumBar.stuffProps.stuffAdjective>アルミニウム</AluminiumBar.stuffProps.stuffAdjective>
+  <CastIron.stuffProps.stuffAdjective>鋳鉄</CastIron.stuffProps.stuffAdjective>
+  <SteelBar.stuffProps.stuffAdjective>鋼鉄</SteelBar.stuffProps.stuffAdjective>
+  <GoldBar.stuffProps.stuffAdjective>Golden</GoldBar.stuffProps.stuffAdjective>
+  <SilverBar.stuffProps.stuffAdjective>シルバー</SilverBar.stuffProps.stuffAdjective>
+  <FerrosiliconAlloy.stuffProps.stuffAdjective>センダスト</FerrosiliconAlloy.stuffProps.stuffAdjective>
+  <FerromanganeseAlloy.stuffProps.stuffAdjective>シュピーゲル</FerromanganeseAlloy.stuffProps.stuffAdjective>
+  <CupronickelAlloy.stuffProps.stuffAdjective>メルキオール</CupronickelAlloy.stuffProps.stuffAdjective>
+  <Plasteel.stuffProps.stuffAdjective>Stein</Plasteel.stuffProps.stuffAdjective>
+  <Permalloy.stuffProps.stuffAdjective>パーマロイ</Permalloy.stuffProps.stuffAdjective>
+  <AlnicoAlloy.stuffProps.stuffAdjective>アルニコ</AlnicoAlloy.stuffProps.stuffAdjective>
+  <NichromeAlloy.stuffProps.stuffAdjective>ニクロム</NichromeAlloy.stuffProps.stuffAdjective>
+  <CobaltIronAlloy.stuffProps.stuffAdjective>コバール</CobaltIronAlloy.stuffProps.stuffAdjective>
+  <StelliteAlloy.stuffProps.stuffAdjective>ステライト</StelliteAlloy.stuffProps.stuffAdjective>
+  <TitaniumBar.stuffProps.stuffAdjective>フェロチタン</TitaniumBar.stuffProps.stuffAdjective>
+  <NitinolAlloy.stuffProps.stuffAdjective>ニチノール</NitinolAlloy.stuffProps.stuffAdjective>
+  <PobediteAlloy.stuffProps.stuffAdjective>Pobedite</PobediteAlloy.stuffProps.stuffAdjective>
+  <Titanium.stuffProps.stuffAdjective>チタニウム</Titanium.stuffProps.stuffAdjective>
+  <WoodLog.stuffProps.stuffAdjective>木 Log</WoodLog.stuffProps.stuffAdjective>
+  <WoodPlank.stuffProps.stuffAdjective>木の厚板</WoodPlank.stuffProps.stuffAdjective>
+  <Bamboo.stuffProps.stuffAdjective>竹 Log</Bamboo.stuffProps.stuffAdjective>
+  <BambooPlank.stuffProps.stuffAdjective>竹の厚板</BambooPlank.stuffProps.stuffAdjective>
+  <WeedCloth.stuffProps.stuffAdjective>麻</WeedCloth.stuffProps.stuffAdjective>
+  <RamWool.stuffProps.stuffAdjective>Ram 毛</RamWool.stuffProps.stuffAdjective>
+  <Glass.stuffProps.stuffAdjective>ガラス</Glass.stuffProps.stuffAdjective>
+  <ReinforcedGlass.stuffProps.stuffAdjective>強化ガラス</ReinforcedGlass.stuffProps.stuffAdjective>
+  <Kindling.stuffProps.stuffAdjective>焚き付け</Kindling.stuffProps.stuffAdjective>
+  <EthanolFuel.stuffProps.stuffAdjective>エタノール 燃料</EthanolFuel.stuffProps.stuffAdjective>
+  <DepletedUranium.stuffProps.stuffAdjective>Depleted ウラニウム</DepletedUranium.stuffProps.stuffAdjective>
+  <CarbonAlloy.stuffProps.stuffAdjective>カーボン Fiber 合金</CarbonAlloy.stuffProps.stuffAdjective>
+  <Concrete.stuffProps.stuffAdjective>コンクリート</Concrete.stuffProps.stuffAdjective>
+  <Snow.stuffProps.stuffAdjective>雪 Block</Snow.stuffProps.stuffAdjective>
+  <ClayBrick.stuffProps.stuffAdjective>粘土 Bricks</ClayBrick.stuffProps.stuffAdjective>
+  <AlphaPoly.stuffProps.stuffAdjective>Alpha Poly</AlphaPoly.stuffProps.stuffAdjective>
+  <BetaPoly.stuffProps.stuffAdjective>Beta Poly</BetaPoly.stuffProps.stuffAdjective>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SoilRich.label>Rich Soil</SoilRich.label>
+  <SoilTilled.label>Tilled Soil</SoilTilled.label>
+  <WoodPlankFloor.label>オーク 厚板</WoodPlankFloor.label>
+  <WoodPlankFloor2.label>Brown 木 床</WoodPlankFloor2.label>
+  <WoodPlankFloor3.label>Light 木 厚板</WoodPlankFloor3.label>
+  <WoodPlankFloor4.label>Styled 木 床</WoodPlankFloor4.label>
+  <WoodPlankFloor5.label>Brown 木 厚板</WoodPlankFloor5.label>
+  <WoodPlankFloor6.label>Tan 木 厚板</WoodPlankFloor6.label>
+  <Concrete.label>コンクリート</Concrete.label>
+  <DarkConcrete.label>Dark コンクリート</DarkConcrete.label>
+  <CeramicTile.label>Ceramic Tile</CeramicTile.label>
+  <PavedTile.label>Paved Tile</PavedTile.label>
+  <SilverTile.label>シルバー Tile</SilverTile.label>
+  <SterileTile.label>Sterile Tile</SterileTile.label>
+  <MetalTile.label>White Metal Tile</MetalTile.label>
+  <MetalTile2.label>Black Metal Tile</MetalTile2.label>
+  <MetalTile3.label>Grey Metal Tile</MetalTile3.label>
+  <MetalTile4.label>Patterned Metal Tile</MetalTile4.label>
+  <CarpetBeige.label>Beige 絨毯</CarpetBeige.label>
+  <CarpetRed.label>Red 絨毯</CarpetRed.label>
+  <CarpetGreen.label>緑 絨毯</CarpetGreen.label>
+  <CarpetBlue.label>青 絨毯</CarpetBlue.label>
+  <CarpetCream.label>Cream 絨毯</CarpetCream.label>
+  <CarpetDark.label>Dark 絨毯</CarpetDark.label>
+  <GoldTile.label>金 Tile</GoldTile.label>
+  <GoldSolid.label>Solid 金</GoldSolid.label>
+  <TileSandstone.label>砂岩 Tile</TileSandstone.label>
+  <TileGranite.label>花崗岩 Tile</TileGranite.label>
+  <TileLimestone.label>石灰岩 Tile</TileLimestone.label>
+  <TileSlate.label>粘板岩 Tile</TileSlate.label>
+  <TileMarble.label>大理石 Tile</TileMarble.label>
+  <RoughSandstoneFloor.label>Rough 砂岩</RoughSandstoneFloor.label>
+  <RoughGraniteFloor.label>Rough 花崗岩</RoughGraniteFloor.label>
+  <RoughLimestoneFloor.label>Rough 石灰岩</RoughLimestoneFloor.label>
+  <RoughSlateFloor.label>Rough 粘板岩</RoughSlateFloor.label>
+  <RoughMarbleFloor.label>Rough 大理石</RoughMarbleFloor.label>
+</LanguageData>

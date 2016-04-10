@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CookMealSalad.label>Simple サラダ を作る</CookMealSalad.label>
+  <CookMealSalad_Bulk.label>Simple サラダ を作る</CookMealSalad_Bulk.label>
+  <CookMealSimple.label>Simple Meal を調理する</CookMealSimple.label>
+  <CookMealSimple_Bulk.label>Simple Meals を調理する</CookMealSimple_Bulk.label>
+  <CookMealFine.label>Fine Meal を調理する</CookMealFine.label>
+  <CookMealFine_Bulk.label>Fine Meals を調理する</CookMealFine_Bulk.label>
+  <CookMealLavish.label>Lavish Meal を調理する</CookMealLavish.label>
+  <CookMealLavish_Bulk.label>Lavish Meals を調理する</CookMealLavish_Bulk.label>
+  <CookMealLuxury.label>Luxury Meal を調理する</CookMealLuxury.label>
+  <CookMealLuxury_Bulk.label>Luxury Meals を調理する</CookMealLuxury_Bulk.label>
+  <CookRoastedMeat.label>Roasted 肉 を調理する</CookRoastedMeat.label>
+  <CookMealJerky.label>ジャーキー 肉 を調理する</CookMealJerky.label>
+  <MakeBread.label>焼く Bread Loaves</MakeBread.label>
+  <Makecheese.label>チーズ を作る</Makecheese.label>
+  <MakeDriedfruit.label>Dry Fresh Fruit</MakeDriedfruit.label>
+  <MakeTofu.label>豆腐 を作る</MakeTofu.label>
+  <MakeBurger.label>ハンバーガー を調理する</MakeBurger.label>
+  <MakeBurgerCheese.label>チーズ ハンバーガー を調理する</MakeBurgerCheese.label>
+  <MakeBurgerDeluxe.label>Deluxe ハンバーガー を調理する</MakeBurgerDeluxe.label>
+  <MakeCheeseGrilled.label>Grilled チーズ を調理する</MakeCheeseGrilled.label>
+  <MakePizza.label>焼く ピザ</MakePizza.label>
+  <MakeFruitYogurt.label>Fruit ヨーグルト を作る</MakeFruitYogurt.label>
+  <MakeFruitYogurt_Bulk.label>Fruit ヨーグルト を作る</MakeFruitYogurt_Bulk.label>
+  <MakeChocoMilk.label>チョコレート ミルク を作る</MakeChocoMilk.label>
+  <MakeChocoMilk_Bulk.label>チョコレート ミルク を作る</MakeChocoMilk_Bulk.label>
+  <BrewTea.label>Cups of 茶 を醸造する</BrewTea.label>
+  <BrewSpectagoTea.label>Cups of Spectago 茶 を醸造する</BrewSpectagoTea.label>
+  <BrewCoffee.label>Cups of コーヒー を醸造する</BrewCoffee.label>
+  <MakeFruitDrink.label>Fruit Drinks を作る</MakeFruitDrink.label>
+  <CraftCigarillos.label>巻く Cigarillos</CraftCigarillos.label>
+  <CraftCigar.label>巻く Cigars</CraftCigar.label>
+  <GatherHerbsCollection.label>ハーブ Collections を集める</GatherHerbsCollection.label>
+  <Makeweedcig.label>巻く ウィード シガレット</Makeweedcig.label>
+  <MakeOil.label>ウィード 油 を作る</MakeOil.label>
+  <MakePieBlueberry.label>焼く ブルーベリー パイ</MakePieBlueberry.label>
+  <MakePiePumpkin.label>焼く かぼちゃ パイ</MakePiePumpkin.label>
+  <MakeChocolate.label>チョコレート を作る</MakeChocolate.label>
+  <MakeCaramel.label>キャラメル Snacks を作る</MakeCaramel.label>
+  <MakeTaffy.label>タフィー キャンディー を作る</MakeTaffy.label>
+  <MakeCookies.label>焼く チョコレート クッキー</MakeCookies.label>
+  <MakeSweetBun.label>焼く Sweet Rolls</MakeSweetBun.label>
+  <MakeStewMushrooms.label>キノコ シチュー を調理する</MakeStewMushrooms.label>
+  <MakeStewMushrooms_Bulk.label>キノコ シチュー を調理する</MakeStewMushrooms_Bulk.label>
+  <MakeSaladwMushrooms.label>キノコ サラダ を作る</MakeSaladwMushrooms.label>
+  <MakeSaladwMushrooms_Bulk.label>キノコ サラダ を作る</MakeSaladwMushrooms_Bulk.label>
+  <MakeVegetables.label>揚げ物の盛り合わせ を調理する</MakeVegetables.label>
+  <MakeRoastwMushrooms.label>Pot Roast and キノコ を調理する</MakeRoastwMushrooms.label>
+  <MakeRoastwMushrooms_Bulk.label>a bulk of Pot Roast and キノコ を調理する</MakeRoastwMushrooms_Bulk.label>
+  <MakeTincture.label>キノコ チンキ剤 を作る</MakeTincture.label>
+  <MakeTincture_Bulk.label>bottles of キノコ チンキ剤 を作る</MakeTincture_Bulk.label>
+  <MakeBasicCannedFood.label>Basic 缶詰 Food を作る</MakeBasicCannedFood.label>
+  <MakeExtraCannedFood.label>Extra 缶詰 Food を作る</MakeExtraCannedFood.label>
+  <MakeMetalCannedMeat.label>缶詰 肉 を作る</MakeMetalCannedMeat.label>
+  <BrewMedicalDrink.label>医療 Drink を醸造する</BrewMedicalDrink.label>
+  <MakeSugar.label>挽く 砂糖</MakeSugar.label>
+  <MakeFlour.label>挽く 小麦粉</MakeFlour.label>
+  <Makesoymilk.label>豆乳 を作る</Makesoymilk.label>
+  <Fluffy_CookCatFood.label>キャットフード を作る</Fluffy_CookCatFood.label>
+  <MakeSilage.label>Silage を作る</MakeSilage.label>
+  <BrewBeer.label>ビール を醸造する</BrewBeer.label>
+  <Distillcider.label>りんご サイダー を醸造する</Distillcider.label>
+  <Distillrum.label>ラム酒 を蒸留する</Distillrum.label>
+  <DistillStrawberryWine.label>いちご ワイン を蒸留する</DistillStrawberryWine.label>
+  <DistillSaki.label>日本酒 を蒸留する</DistillSaki.label>
+  <DistillVodka.label>ウオッカ を蒸留する</DistillVodka.label>
+  <DistillTequila.label>テキーラ を蒸留する</DistillTequila.label>
+  <DistillWhisky.label>ウィスキー を蒸留する</DistillWhisky.label>
+</LanguageData>

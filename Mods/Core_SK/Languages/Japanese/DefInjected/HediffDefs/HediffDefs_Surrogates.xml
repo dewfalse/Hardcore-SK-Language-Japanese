@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BrainStimulator.label>Brain Stimulator</BrainStimulator.label>
+  <SurrogateLung.label>代用 肺</SurrogateLung.label>
+  <SurrogateStomach.label>代用 胃</SurrogateStomach.label>
+  <SurrogateLiver.label>代用 肝臓</SurrogateLiver.label>
+  <SurrogateKidney.label>代用 腎臓</SurrogateKidney.label>
+  <SurrogateHeart.label>代用 心臓</SurrogateHeart.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Burn.label>燃やす</Burn.label>
+  <Crush.label>Crush</Crush.label>
+  <Crack.label>crack</Crack.label>
+  <Cut.label>Cut</Cut.label>
+  <Scratch.label>Scratch</Scratch.label>
+  <Bite.label>Bite</Bite.label>
+  <Stab.label>Stab</Stab.label>
+  <Gunshot.label>Gunshot</Gunshot.label>
+  <Shredded.label>Shredded</Shredded.label>
+  <MissingBodyPart.label>Missing body part</MissingBodyPart.label>
+</LanguageData>

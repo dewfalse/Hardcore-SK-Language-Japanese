@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Cut.label>Cut</Cut.label>
+  <Crush.label>Crush</Crush.label>
+  <Blunt.label>Blunt</Blunt.label>
+  <Stab.label>Stab</Stab.label>
+  <Bullet.label>弾丸</Bullet.label>
+  <Arrow.label>Arrow</Arrow.label>
+  <Scratch.label>Scratch</Scratch.label>
+  <Bite.label>Bite</Bite.label>
+  <ToxicBite.label>Toxic bite</ToxicBite.label>
+  <Bomb.label>爆弾</Bomb.label>
+  <Fragment.label>Fragment</Fragment.label>
+</LanguageData>

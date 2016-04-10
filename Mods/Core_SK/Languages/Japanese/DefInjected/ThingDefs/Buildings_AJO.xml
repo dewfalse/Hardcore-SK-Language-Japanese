@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <GoTable.label>碁盤</GoTable.label>
+  <ReversiTable.label>Reversi Table</ReversiTable.label>
+  <CardTable.label>Card Table</CardTable.label>
+  <RimColony.label>RimColony</RimColony.label>
+  <Bookcase.label>Bookcase</Bookcase.label>
+  <ReadingTable.label>Reading Table</ReadingTable.label>
+  <Painting.label>Painting</Painting.label>
+  <Easel.label>Painting イーゼル</Easel.label>
+  <ArcadeRS.label>Arcade: ラム酒 Swirled</ArcadeRS.label>
+  <ArcadeMC.label>Arcade: MintCraft</ArcadeMC.label>
+  <ArcadeHL.label>Arcade: Halva Life</ArcadeHL.label>
+  <ArcadeES.label>Arcade: Elder Scones</ArcadeES.label>
+  <ArcadeBG.label>Arcade: Baguettris</ArcadeBG.label>
+  <ArcadeCB.label>Arcade: Cooking Baba</ArcadeCB.label>
+  <ArcadePS.label>Arcade: Plants Vs. Salamis</ArcadePS.label>
+  <ArcadePK.label>Arcade: Psycho Knots</ArcadePK.label>
+  <ArcadeSP.label>Arcade: Speltunky</ArcadeSP.label>
+  <ArcadeTZ.label>Arcade: The Zimz</ArcadeTZ.label>
+  <ArcadeTV.label>Arcade: Trauma Vendor</ArcadeTV.label>
+  <MinifiedPainting.label>Painting</MinifiedPainting.label>
+</LanguageData>

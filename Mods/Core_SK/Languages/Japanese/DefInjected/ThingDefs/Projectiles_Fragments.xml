@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Fragment_Grenade40mmFragSmall.label>small 砲弾 fragments</Fragment_Grenade40mmFragSmall.label>
+  <Fragment_Grenade40mmFragMedium.label>medium 砲弾 fragments</Fragment_Grenade40mmFragMedium.label>
+  <Fragment_Grenade40mmFragLarge.label>large 砲弾 fragments</Fragment_Grenade40mmFragLarge.label>
+  <Fragment_MortarSmall.label>small 砲弾 fragments</Fragment_MortarSmall.label>
+  <Fragment_MortarMedium.label>medium 砲弾 fragments</Fragment_MortarMedium.label>
+  <Fragment_MortarLarge.label>large 砲弾 fragments</Fragment_MortarLarge.label>
+  <Fragment_HeatSmall.label>small 砲弾 fragments</Fragment_HeatSmall.label>
+  <Fragment_HeatMedium.label>medium 砲弾 fragments</Fragment_HeatMedium.label>
+  <Fragment_HeatLarge.label>large 砲弾 fragments</Fragment_HeatLarge.label>
+  <Fragment_GrenadeFragSmall.label>small 砲弾 fragments</Fragment_GrenadeFragSmall.label>
+  <Fragment_GrenadeFragMedium.label>medium 砲弾 fragments</Fragment_GrenadeFragMedium.label>
+  <Fragment_GrenadeFragLarge.label>large 砲弾 fragments</Fragment_GrenadeFragLarge.label>
+  <Fragment_CannonSmall.label>small 砲弾 fragments</Fragment_CannonSmall.label>
+  <Fragment_CannonMedium.label>medium 砲弾 fragments</Fragment_CannonMedium.label>
+  <Fragment_CannonLarge.label>large 砲弾 fragments</Fragment_CannonLarge.label>
+  <Fragment_RocketSmall.label>small 砲弾 fragments</Fragment_RocketSmall.label>
+  <Fragment_RocketMedium.label>medium 砲弾 fragments</Fragment_RocketMedium.label>
+  <Fragment_RocketLarge.label>large 砲弾 fragments</Fragment_RocketLarge.label>
+</LanguageData>

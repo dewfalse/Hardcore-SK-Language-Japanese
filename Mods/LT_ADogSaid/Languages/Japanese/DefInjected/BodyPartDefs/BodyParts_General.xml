@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AnimalLeftEye.label>左 目</AnimalLeftEye.label>
+  <AnimalRightEye.label>右 目</AnimalRightEye.label>
+  <AnimalLeftEar.label>左 耳</AnimalLeftEar.label>
+  <AnimalRightEar.label>右 耳</AnimalRightEar.label>
+  <AnimalNose.label>鼻</AnimalNose.label>
+  <AnimalJaw.label>顎</AnimalJaw.label>
+  <AnimalLeftArm.label>左 腕</AnimalLeftArm.label>
+  <AnimalRightArm.label>右 腕</AnimalRightArm.label>
+  <AnimalLeftLeg.label>左 脚</AnimalLeftLeg.label>
+  <AnimalRightLeg.label>右 脚</AnimalRightLeg.label>
+</LanguageData>

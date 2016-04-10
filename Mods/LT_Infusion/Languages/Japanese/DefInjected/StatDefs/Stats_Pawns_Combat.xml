@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
+  <AimingDelayFactor.label>Aiming time</AimingDelayFactor.label>
+  <MeleeHitChance.label>Melee hit chance</MeleeHitChance.label>
+</LanguageData>

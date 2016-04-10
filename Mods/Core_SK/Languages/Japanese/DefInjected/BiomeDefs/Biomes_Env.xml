@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <IceSheet.label>Ice Sheet</IceSheet.label>
+  <AridShrubland.label>Arid Shrubland</AridShrubland.label>
+  <TemperateForest.label>Temperate Forest</TemperateForest.label>
+  <Desert.label>砂漠</Desert.label>
+  <TropicalRainforest.label>Tropical 熱帯雨林</TropicalRainforest.label>
+  <BorealForest.label>Boreal Forest</BorealForest.label>
+  <Tundra.label>Tundra</Tundra.label>
+</LanguageData>

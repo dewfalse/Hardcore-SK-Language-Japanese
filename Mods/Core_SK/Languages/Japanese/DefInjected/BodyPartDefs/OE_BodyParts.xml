@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Stomach.label>胃</Stomach.label>
+  <LeftArm.label>左 腕</LeftArm.label>
+  <RightArm.label>右 腕</RightArm.label>
+  <LeftLeg.label>左 脚</LeftLeg.label>
+  <RightLeg.label>右 脚</RightLeg.label>
+  <LeftEye.label>左 目</LeftEye.label>
+  <RightEye.label>右 目</RightEye.label>
+  <LeftEar.label>左 耳</LeftEar.label>
+  <RightEar.label>右 耳</RightEar.label>
+  <Nose.label>鼻</Nose.label>
+  <Jaw.label>顎</Jaw.label>
+  <Spine.label>脊椎</Spine.label>
+  <Rib1.label>First 肋骨</Rib1.label>
+  <Rib2.label>Second 肋骨</Rib2.label>
+  <Rib3.label>Third 肋骨</Rib3.label>
+  <Rib4.label>Fourth 肋骨</Rib4.label>
+  <Rib5.label>Fifth 肋骨</Rib5.label>
+  <Rib6.label>Sixth 肋骨</Rib6.label>
+  <Rib7.label>Seventh 肋骨</Rib7.label>
+  <Rib8.label>Eighth 肋骨</Rib8.label>
+  <Rib9.label>Ninth 肋骨</Rib9.label>
+  <Rib10.label>Tenth 肋骨</Rib10.label>
+  <Rib11.label>Eleventh 肋骨</Rib11.label>
+  <Rib12.label>Twelfth 肋骨</Rib12.label>
+</LanguageData>

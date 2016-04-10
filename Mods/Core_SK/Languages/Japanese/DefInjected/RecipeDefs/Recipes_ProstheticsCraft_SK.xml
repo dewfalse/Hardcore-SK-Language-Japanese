@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CreateSimpleProstheticLeg.label>Simple 人工疑似 脚 を作成する</CreateSimpleProstheticLeg.label>
+  <CreateSimpleProstheticArm.label>Simple 人工疑似 腕 を作成する</CreateSimpleProstheticArm.label>
+  <CreateSimpleProstheticHand.label>Simple 人工疑似 手 を作成する</CreateSimpleProstheticHand.label>
+  <CreateSimpleProstheticFoot.label>Simple 人工疑似 足 を作成する</CreateSimpleProstheticFoot.label>
+  <CreateArtificialNose.label>Artificial 鼻 を作成する</CreateArtificialNose.label>
+  <CreateHydraulicJaw.label>Hydraulic 顎 を作成する</CreateHydraulicJaw.label>
+  <CreateGlassEye.label>ガラス 目 を作成する</CreateGlassEye.label>
+  <CreateCrystalEye.label>Crystal 目 を作成する</CreateCrystalEye.label>
+  <CreateArtificialPelvis.label>Artificial 骨盤 を作成する</CreateArtificialPelvis.label>
+  <CreateSteelArm.label>Metallic 腕 を作成する</CreateSteelArm.label>
+  <CreatePegLeg.label>木の 脚 を作成する</CreatePegLeg.label>
+  <CreateEyePatch.label>目 Patch を作成する</CreateEyePatch.label>
+  <CreateHookHand.label>Hook 手 を作成する</CreateHookHand.label>
+  <CreateDenture.label>入れ歯 を作成する</CreateDenture.label>
+  <CreateWoodenFoot.label>木の 足 を作成する</CreateWoodenFoot.label>
+  <CreateBrainStimulator.label>Brain Stimulator を作成する</CreateBrainStimulator.label>
+  <CreateSurrogateLung.label>代用 肺 を製造する</CreateSurrogateLung.label>
+  <CreateSurrogateStomach.label>代用 胃 を製造する</CreateSurrogateStomach.label>
+  <CreateSurrogateLiver.label>代用 肝臓 を製造する</CreateSurrogateLiver.label>
+  <CreateSurrogateKidney.label>代用 腎臓 を製造する</CreateSurrogateKidney.label>
+  <CreateSurrogateHeart.label>代用 心臓 を製造する</CreateSurrogateHeart.label>
+  <CreateAIChip.label>AI Chip を作成する</CreateAIChip.label>
+  <CreateSyntheticLung.label>合成 肺 を製造する</CreateSyntheticLung.label>
+  <CreateSyntheticStomach.label>合成 胃 を製造する</CreateSyntheticStomach.label>
+  <CreateSyntheticLiver.label>合成 肝臓 を製造する</CreateSyntheticLiver.label>
+  <CreateSyntheticKidney.label>合成 腎臓 を製造する</CreateSyntheticKidney.label>
+  <CreateSyntheticHeart.label>合成 心臓 を製造する</CreateSyntheticHeart.label>
+  <CreateSyntheticSkin.label>合成 Skin を製造する</CreateSyntheticSkin.label>
+  <CreateBionicEye.label>強化 目 を作成する</CreateBionicEye.label>
+  <CreatePowerArm.label>電力 腕 を作成する</CreatePowerArm.label>
+  <CreateBionicArm.label>強化 腕 を作成する</CreateBionicArm.label>
+  <CreateBionicHand.label>強化 手 を作成する</CreateBionicHand.label>
+  <CreateBionicFoot.label>強化 足 を作成する</CreateBionicFoot.label>
+  <CreateBionicLeg.label>強化 脚 を作成する</CreateBionicLeg.label>
+  <CreateBionicEar.label>強化 耳 を作成する</CreateBionicEar.label>
+  <CreateBionicJaw.label>強化 顎 を作成する</CreateBionicJaw.label>
+  <CreateSilentJaw.label>Silent 顎 を作成する</CreateSilentJaw.label>
+  <CreateBionicSpine.label>強化 脊椎 を作成する</CreateBionicSpine.label>
+  <CreateMedicalRib.label>医療 肋骨 を作成する</CreateMedicalRib.label>
+  <CreateAdrenalineRib.label>Adrenaline 肋骨 を作成する</CreateAdrenalineRib.label>
+  <CreateAdvancedBionicEye.label>強化 目 をアップグレードする</CreateAdvancedBionicEye.label>
+  <CreateAdvancedPowerArm.label>電力 腕 をアップグレードする</CreateAdvancedPowerArm.label>
+  <CreateAdvancedBionicArm.label>強化 腕 をアップグレードする</CreateAdvancedBionicArm.label>
+  <CreateAdvancedBionicHand.label>強化 手 をアップグレードする</CreateAdvancedBionicHand.label>
+  <CreateAdvancedBionicFoot.label>強化 足 をアップグレードする</CreateAdvancedBionicFoot.label>
+  <CreateAdvancedBionicLeg.label>強化 脚 をアップグレードする</CreateAdvancedBionicLeg.label>
+  <CreateAdvancedBionicJaw.label>強化 顎 をアップグレードする</CreateAdvancedBionicJaw.label>
+  <CreateAdvancedBionicEar.label>強化 耳 をアップグレードする</CreateAdvancedBionicEar.label>
+  <CreateAdvancedBionicSpine.label>強化 脊椎 をアップグレードする</CreateAdvancedBionicSpine.label>
+  <CreatePowerClaw.label>シザー Blade をアップグレードする</CreatePowerClaw.label>
+  <CreateExoskeletonSuit.label>Exoskeleton スーツ を作成する</CreateExoskeletonSuit.label>
+  <CreateGTBionicEye.label>サイバネティックス 強化 目 を製造する</CreateGTBionicEye.label>
+  <CreateGTBionicArm.label>サイバネティックス 強化 腕 を製造する</CreateGTBionicArm.label>
+  <CreateGTBionicHand.label>サイバネティックス 強化 手 を製造する</CreateGTBionicHand.label>
+  <CreateGTBionicFoot.label>サイバネティックス 強化 足 を製造する</CreateGTBionicFoot.label>
+  <CreateGTBionicLeg.label>サイバネティックス 強化 脚 を製造する</CreateGTBionicLeg.label>
+  <CreateGTBionicJaw.label>サイバネティックス 強化 顎 を製造する</CreateGTBionicJaw.label>
+  <CreateGTBionicEar.label>サイバネティックス 強化 耳 を製造する</CreateGTBionicEar.label>
+  <CreateGTBionicSpine.label>サイバネティックス 強化 脊椎 を製造する</CreateGTBionicSpine.label>
+  <CreateGTLung.label>サイバネティックス 肺 を製造する</CreateGTLung.label>
+  <CreateGTStomach.label>サイバネティックス 胃 を製造する</CreateGTStomach.label>
+  <CreateGTLiver.label>サイバネティックス 肝臓 を製造する</CreateGTLiver.label>
+  <CreateGTKidney.label>サイバネティックス 腎臓 を製造する</CreateGTKidney.label>
+  <CreateGTHeart.label>サイバネティックス 心臓 を製造する</CreateGTHeart.label>
+</LanguageData>

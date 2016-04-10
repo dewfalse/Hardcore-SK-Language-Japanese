@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ComfyTech.label>New 家具: Tier I</ComfyTech.label>
+  <ComfyTechTierII.label>New 家具: Tier II</ComfyTechTierII.label>
+  <ComfyTechTierIII.label>New 家具: Tier III</ComfyTechTierIII.label>
+  <ComfyTechTierIV.label>New 家具: Tier IV</ComfyTechTierIV.label>
+  <ComfyTechTierV.label>New 家具: Tier V</ComfyTechTierV.label>
+  <ComfyTechTierVI.label>New 家具: Tier VI</ComfyTechTierVI.label>
+  <StorageI.label>Storage I</StorageI.label>
+  <StorageII.label>Storage II</StorageII.label>
+</LanguageData>

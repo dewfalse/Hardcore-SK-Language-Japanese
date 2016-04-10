@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BuildingOnOffToggle.label>切り替え a building on/off</BuildingOnOffToggle.label>
+  <CoalPowerToggleFuelConsume.label>切り替え the 石炭 発電機 from consuming 燃料</CoalPowerToggleFuelConsume.label>
+  <ExtendMechWall.label>extend machanical wall</ExtendMechWall.label>
+  <RecessMechWall.label>recess machanical wall</RecessMechWall.label>
+  <ExtendMechEmbrasure.label>extend machanical embrasure</ExtendMechEmbrasure.label>
+  <CrematoriusToggleStripBodies.label>crematorius strip bodies 切り替え</CrematoriusToggleStripBodies.label>
+  <FillInFissure.label>fill fissure</FillInFissure.label>
+  <DeepStorageEjectAll.label>deep storage eject all</DeepStorageEjectAll.label>
+  <DeactivateDroid.label>deactivate droid</DeactivateDroid.label>
+  <ExtractorChangeResource.label>extractor choose resource</ExtractorChangeResource.label>
+  <FissureGeneratorChangeFissure.label>fissure 発電機 choose fissure</FissureGeneratorChangeFissure.label>
+</LanguageData>

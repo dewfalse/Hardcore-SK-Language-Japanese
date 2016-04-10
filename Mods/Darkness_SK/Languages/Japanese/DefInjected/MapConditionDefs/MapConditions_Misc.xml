@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SolarFlare.label>太陽 フレア</SolarFlare.label>
+  <Eclipse.label>Eclipse</Eclipse.label>
+  <PsychicDrone.label>サイキック drone</PsychicDrone.label>
+  <PsychicSoothe.label>サイキック soothe</PsychicSoothe.label>
+  <ToxicFallout.label>Toxic fallout</ToxicFallout.label>
+  <VolcanicWinter.label>Volcanic 冬</VolcanicWinter.label>
+  <HeatWave.label>Heat wave</HeatWave.label>
+  <ColdSnap.label>Cold snap</ColdSnap.label>
+</LanguageData>

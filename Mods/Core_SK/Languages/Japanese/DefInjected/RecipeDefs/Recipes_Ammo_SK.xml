@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeSulfur.label>Obtain 硫黄</MakeSulfur.label>
+  <MakePowder.label>火薬 を作る</MakePowder.label>
+  <MakeNapalm.label>Napalm を作る</MakeNapalm.label>
+  <MakeArtilleryShell.label>80mm Explosive 迫撃砲 砲弾 を作る</MakeArtilleryShell.label>
+  <MakeIncendiaryShell.label>80mm Incendiary 迫撃砲 砲弾 を作る</MakeIncendiaryShell.label>
+  <MakeHMGB.label>14 を作る.5mmx15 Heavy MG 弾丸</MakeHMGB.label>
+  <MakeCannonShell.label>120mm キャノン 砲弾 を作る</MakeCannonShell.label>
+  <MakeHowizerShell.label>155mm 榴弾砲 砲弾 を作る</MakeHowizerShell.label>
+  <MakeAvengerShell.label>30mmx8 Avenger 砲弾 を作る</MakeAvengerShell.label>
+  <MakeChainShell.label>35mmx3 機関砲 砲弾 を作る</MakeChainShell.label>
+  <MakeRockets.label>130mmx1 ミサイル を作る</MakeRockets.label>
+  <MakeRocketsM.label>130mmx3 ミサイル を作る</MakeRocketsM.label>
+  <MakeRocketsH.label>130mmx6 ミサイル を作る</MakeRocketsH.label>
+  <MakeTurretEMPGrenades.label>80mmx3 EMP 迫撃砲 砲弾 を作る</MakeTurretEMPGrenades.label>
+  <MakeAMRound.label>Make .50calx6 AM タレット Rounds</MakeAMRound.label>
+  <MakeTurretAGCGrenades.label>30mmx6 GL タレット グレネード を作る</MakeTurretAGCGrenades.label>
+  <MakeVulcanShell.label>20mmx20 Vulcan 弾丸 を作る</MakeVulcanShell.label>
+  <MakeMagneticShell.label>Magnetic 砲弾 を作る</MakeMagneticShell.label>
+  <MakeNuclearWarhead.label>Nuclear Warhead を作る</MakeNuclearWarhead.label>
+</LanguageData>

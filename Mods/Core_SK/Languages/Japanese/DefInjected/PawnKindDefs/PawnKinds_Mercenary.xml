@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MercenaryGunner.label>傭兵 Gunner</MercenaryGunner.label>
+  <MercenarySniper.label>傭兵 fusilier</MercenarySniper.label>
+  <GrenadierDestructive.label>Grenadier</GrenadierDestructive.label>
+  <GrenadierEMP.label>EMP grenadier</GrenadierEMP.label>
+  <MercenarySlasher.label>傭兵 Slasher</MercenarySlasher.label>
+  <MercenaryHeavy.label>Heavy 傭兵</MercenaryHeavy.label>
+  <PirateBoss.label>Boss</PirateBoss.label>
+  <MercenaryElite.label>elite 傭兵</MercenaryElite.label>
+</LanguageData>

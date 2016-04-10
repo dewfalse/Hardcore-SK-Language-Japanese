@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AdvancedPowerArm.label>Advanced 電力 腕</AdvancedPowerArm.label>
+  <AdvancedBionicArm.label>Advanced 強化 腕</AdvancedBionicArm.label>
+  <AdvancedBionicLeg.label>Advanced 強化 脚</AdvancedBionicLeg.label>
+  <AdvancedBionicHand.label>Advanced 強化 手</AdvancedBionicHand.label>
+  <AdvancedBionicFoot.label>Advanced 強化 足</AdvancedBionicFoot.label>
+  <AdvancedBionicEar.label>Advanced 強化 耳</AdvancedBionicEar.label>
+  <AdvancedBionicJaw.label>Advanced 強化 顎</AdvancedBionicJaw.label>
+  <AdvancedBionicEye.label>Advanced 強化 目</AdvancedBionicEye.label>
+  <AdvancedBionicSpine.label>Advanced 強化 脊椎</AdvancedBionicSpine.label>
+  <ExoskeletonSuit.label>Exoskeleton スーツ</ExoskeletonSuit.label>
+</LanguageData>

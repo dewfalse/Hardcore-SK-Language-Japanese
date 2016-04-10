@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CremateCorpse.label>死骸 を火葬する</CremateCorpse.label>
+  <BurnApparel.label>燃やす 衣服</BurnApparel.label>
+  <BurnThings.label>燃やす Materials</BurnThings.label>
+  <CremateCorpseCampfire.label>死骸 を火葬する</CremateCorpseCampfire.label>
+  <BurnApparelCampfire.label>燃やす 衣服</BurnApparelCampfire.label>
+  <BurnThingsCampfire.label>燃やす Materials</BurnThingsCampfire.label>
+</LanguageData>

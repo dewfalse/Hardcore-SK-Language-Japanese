@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Proj_GrenadeFrag.label>Frag グレネード</Proj_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>Frag グレネード</Weapon_GrenadeFrag.label>
+  <Norbhammer_Thrown.label>ハンマー (Thrown)</Norbhammer_Thrown.label>
+  <Norbhammar.label>ハンマー</Norbhammar.label>
+  <Proj_GrenadeMolotov.label>火炎瓶</Proj_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.label>火炎瓶</Weapon_GrenadeMolotov.label>
+  <Proj_GrenadeEMP.label>EMP グレネード</Proj_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>EMP グレネード</Weapon_GrenadeEMP.label>
+  <Proj_stunGrenade.label>ショック グレネード Fragment</Proj_stunGrenade.label>
+  <Weapon_ShockGrenade.label>ショック グレネード</Weapon_ShockGrenade.label>
+  <Proj_GrenadeFlame.label>Incendiary グレネード</Proj_GrenadeFlame.label>
+  <Weapon_GrenadeFlame.label>Incendiary グレネード</Weapon_GrenadeFlame.label>
+  <Proj_GrenadePlasma.label>プラズマ グレネード</Proj_GrenadePlasma.label>
+  <Weapon_GrenadePlasma.label>プラズマ グレネード</Weapon_GrenadePlasma.label>
+  <Proj_GrenadeFusion.label>Fusion グレネード</Proj_GrenadeFusion.label>
+  <Weapon_GrenadeFusion.label>Fusion グレネード</Weapon_GrenadeFusion.label>
+</LanguageData>

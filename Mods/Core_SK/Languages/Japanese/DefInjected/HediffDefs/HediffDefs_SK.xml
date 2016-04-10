@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Radiation.label>Radiation</Radiation.label>
+  <lifesupportheart.label>Blood Pump</lifesupportheart.label>
+  <lifesupportlung.label>Respirator</lifesupportlung.label>
+  <lifesupportkidney.label>Urine Filter</lifesupportkidney.label>
+  <lifesupportliver.label>Blood Filter</lifesupportliver.label>
+  <SpaceSpiceA.label>Space Spice (High)</SpaceSpiceA.label>
+  <SpaceSpiceB.label>Space Spice (Surge)</SpaceSpiceB.label>
+  <SpaceSpiceC.label>Space Spice (Bad Trip)</SpaceSpiceC.label>
+  <SpaceSpiceD.label>Space Spice (Doom)</SpaceSpiceD.label>
+  <Weed.label>ウィード (High)</Weed.label>
+  <OnekickGood.label>OneKick (Surge)</OnekickGood.label>
+  <OnekickDeath.label>One Kick (Bad Trip)</OnekickDeath.label>
+  <Brownies.label>Brownie</Brownies.label>
+  <Tobacco.label>タバコ</Tobacco.label>
+  <StrongTobacco.label>タバコ</StrongTobacco.label>
+  <SpectagoTea.label>Spectago 茶</SpectagoTea.label>
+  <Caffeine.label>カフェイン</Caffeine.label>
+  <Coffee.label>カフェイン</Coffee.label>
+  <StrongCoffee.label>カフェイン</StrongCoffee.label>
+  <Alcohol.label>アルコール</Alcohol.label>
+  <MidAlcohol.label>アルコール</MidAlcohol.label>
+  <StrongAlcohol.label>アルコール</StrongAlcohol.label>
+  <MedicalDrink.label>抗生物質</MedicalDrink.label>
+</LanguageData>

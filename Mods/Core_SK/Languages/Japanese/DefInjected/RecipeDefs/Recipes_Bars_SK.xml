@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeSteelBars_Hand.label>鋼鉄 合金 を精錬する</MakeSteelBars_Hand.label>
+  <MakeSteelBars_Electric.label>鋼鉄 合金 を精錬する</MakeSteelBars_Electric.label>
+  <MakeCastIron_Hand.label>鋳鉄 合金 を精錬する</MakeCastIron_Hand.label>
+  <MakeCastIron_Electric.label>鋳鉄 合金 を精錬する</MakeCastIron_Electric.label>
+  <ProcessNickelOre.label>ニッケル/コバルト 合金 を精錬する</ProcessNickelOre.label>
+  <ProcessForManganese.label>マンガン 合金 を精錬する</ProcessForManganese.label>
+  <ProcessForChromium.label>クロム 合金 を精錬する</ProcessForChromium.label>
+  <ProcessTungsten.label>タングステン 合金 を精錬する</ProcessTungsten.label>
+  <ProcessTitanium.label>チタニウム 合金 を精錬する</ProcessTitanium.label>
+  <MakeCupronickelAlloy.label>メルキオール 合金 を精錬する</MakeCupronickelAlloy.label>
+  <MakeFerrosiliconAlloy.label>センダスト 合金 を精錬する</MakeFerrosiliconAlloy.label>
+  <MakeFerronickelAlloy.label>Stein 合金 を精錬する</MakeFerronickelAlloy.label>
+  <MakePermalloy.label>パーマロイ 合金 を精錬する</MakePermalloy.label>
+  <MakeCobaltIronAlloy.label>コバール 合金 を精錬する</MakeCobaltIronAlloy.label>
+  <MakeFerromanganeseAlloy.label>シュピーゲル 合金 を精錬する</MakeFerromanganeseAlloy.label>
+  <MakeStelliteAlloy.label>ステライト 合金 を精錬する</MakeStelliteAlloy.label>
+  <MakeNichromeAlloy.label>ニクロム 合金 を精錬する</MakeNichromeAlloy.label>
+  <MakeAlnicoAlloy.label>アルニコ 合金 を精錬する</MakeAlnicoAlloy.label>
+  <MakePobediteAlloy.label>Pobedite 合金 を作る</MakePobediteAlloy.label>
+  <MakeGoldBars_Hand.label>金 合金 を精錬する</MakeGoldBars_Hand.label>
+  <MakeGoldBars_Electric.label>金 合金 を精錬する</MakeGoldBars_Electric.label>
+  <MakeSilverBars_Hand.label>スターリング シルバー 合金 を精錬する</MakeSilverBars_Hand.label>
+  <MakeSilverBars_Electric.label>スターリング シルバー 合金 を精錬する</MakeSilverBars_Electric.label>
+  <MakeCopperBars_Hand.label>銅 合金 を精錬する</MakeCopperBars_Hand.label>
+  <MakeCopperBars_Electric.label>銅 合金 を作る</MakeCopperBars_Electric.label>
+  <MakeAluminiumBars_Hand.label>アルミニウム 合金 を精錬する</MakeAluminiumBars_Hand.label>
+  <MakeAluminiumBars_Electric.label>アルミニウム 合金 を精錬する</MakeAluminiumBars_Electric.label>
+  <MakeFerrotitaniumAlloy.label>フェロチタン 合金 を精錬する</MakeFerrotitaniumAlloy.label>
+  <MakeNitinolAlloy.label>ニチノール 合金 を精錬する</MakeNitinolAlloy.label>
+  <MakeCarbonAlloy.label>カーボン Fiber 合金 を作る</MakeCarbonAlloy.label>
+</LanguageData>

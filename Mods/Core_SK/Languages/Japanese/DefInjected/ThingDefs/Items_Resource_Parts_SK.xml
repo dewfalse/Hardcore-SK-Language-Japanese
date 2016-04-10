@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Spare_Parts.label>スペアパーツ</Spare_Parts.label>
+  <GlassJar.label>ガラス Jar</GlassJar.label>
+  <MetalCan.label>Metal Can</MetalCan.label>
+  <Wire.label>電線</Wire.label>
+  <Weapon_Parts.label>Weapon パーツ</Weapon_Parts.label>
+  <Pistol_Component.label>ピストル コンポーネント</Pistol_Component.label>
+  <SMG_Component.label>SMG コンポーネント</SMG_Component.label>
+  <Shotgun_Component.label>ショットガン コンポーネント</Shotgun_Component.label>
+  <Rifle_Component.label>ライフル コンポーネント</Rifle_Component.label>
+  <AdvRifle_Component.label>Advanced ライフル コンポーネント</AdvRifle_Component.label>
+  <Sniper_Component.label>スナイパー コンポーネント</Sniper_Component.label>
+  <AdvSniper_Component.label>Advanced スナイパー コンポーネント</AdvSniper_Component.label>
+  <Heavy_Component.label>Heavy Weapon コンポーネント</Heavy_Component.label>
+  <Launcher_Component.label>Launcher Weapon コンポーネント</Launcher_Component.label>
+  <Plasma_Component.label>プラズマ Weapon コンポーネント</Plasma_Component.label>
+  <Laser_Component.label>レーザー ライフル コンポーネント</Laser_Component.label>
+  <ReinforcedConcrete.label>鉄筋コンクリート</ReinforcedConcrete.label>
+  <Mechanism.label>機械部品</Mechanism.label>
+  <AdvMechanism.label>Advanced 機械部品</AdvMechanism.label>
+  <ReinforcedConcrete.stuffProps.stuffAdjective>鉄筋コンクリート</ReinforcedConcrete.stuffProps.stuffAdjective>
+</LanguageData>

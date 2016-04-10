@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <WorkSpeedGlobal.label>Global 仕事 スピード</WorkSpeedGlobal.label>
+  <MiningSpeed.label>Mining スピード</MiningSpeed.label>
+  <ConstructionSpeed.label>建築 スピード</ConstructionSpeed.label>
+  <PlantWorkSpeed.label>Plant 仕事 スピード</PlantWorkSpeed.label>
+  <HarvestFailChance.label>Harvest fail chance</HarvestFailChance.label>
+</LanguageData>

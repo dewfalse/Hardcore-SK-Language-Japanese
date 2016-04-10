@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Warrior.label>warrior</Warrior.label>
+  <Scout.label>scout</Scout.label>
+  <Ranger.label>ranger</Ranger.label>
+  <Worker.label>worker</Worker.label>
+  <Guard.label>guard</Guard.label>
+  <Mind.label>mind</Mind.label>
+  <Knowledge.label>knowledge</Knowledge.label>
+  <Discovery.label>discovery</Discovery.label>
+  <Labour.label>labour</Labour.label>
+  <Haste.label>haste</Haste.label>
+  <Summer.label>夏</Summer.label>
+  <Winter.label>冬</Winter.label>
+  <Defense.label>defense</Defense.label>
+  <Success.label>success</Success.label>
+  <Passion.label>passion</Passion.label>
+  <Blessing.label>blessing</Blessing.label>
+  <Diligence.label>diligence</Diligence.label>
+  <Research.label>研究</Research.label>
+  <Fastwalk.label>fastwalk</Fastwalk.label>
+  <Friendship.label>friendship</Friendship.label>
+  <Desert.label>砂漠</Desert.label>
+  <Tundra.label>tundra</Tundra.label>
+  <Protection.label>protection</Protection.label>
+  <Memories.label>memories</Memories.label>
+  <Experiments.label>experiments</Experiments.label>
+  <Everwork.label>everwork</Everwork.label>
+  <Persuation.label>persuation</Persuation.label>
+  <Encounter.label>encounter</Encounter.label>
+  <Momentum.label>momentum</Momentum.label>
+  <Victory.label>victory</Victory.label>
+  <Sight.label>sight</Sight.label>
+  <Flame.label>flame</Flame.label>
+  <Ice.label>ice</Ice.label>
+  <Stronghold.label>stronghold</Stronghold.label>
+  <Omnipresence.label>omnipresence</Omnipresence.label>
+  <Omnipotence.label>omnipotence</Omnipotence.label>
+  <FatalBlow.label>fatal blow</FatalBlow.label>
+  <Hypervision.label>visn</Hypervision.label>
+  <Master.label>master</Master.label>
+  <Alliance.label>alliance</Alliance.label>
+  <Sunlight.label>太陽光</Sunlight.label>
+  <Moonlight.label>moonlight</Moonlight.label>
+  <Titanguard.label>titanguard</Titanguard.label>
+  <Infinity.label>infinity</Infinity.label>
+  <Possibility.label>possibility</Possibility.label>
+  <Cycle.label>cycle</Cycle.label>
+  <Invulnerability.label>invulnerability</Invulnerability.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeSpareParts_Hand.label>スペアパーツ を作る</MakeSpareParts_Hand.label>
+  <MakeSpareParts_Electric.label>スペアパーツ を作る</MakeSpareParts_Electric.label>
+  <MakeWires_Hand.label>電線 を作る</MakeWires_Hand.label>
+  <MakeWires_Electric.label>電線 を作る</MakeWires_Electric.label>
+  <MakeSand_Hand.label>砂 from 瓦礫 を作る</MakeSand_Hand.label>
+  <MakeSand_Electric.label>砂 from 瓦礫 を作る</MakeSand_Electric.label>
+  <MakeSand_Hand_Chunk.label>砂 from 塊 を作る</MakeSand_Hand_Chunk.label>
+  <MakeSand_Electric_Chunk.label>砂 from 塊 を作る</MakeSand_Electric_Chunk.label>
+  <MakeCrushedStone_Hand.label>瓦礫 from ブロック を作る</MakeCrushedStone_Hand.label>
+  <MakeCrushedStone_Electric.label>瓦礫 from ブロック を作る</MakeCrushedStone_Electric.label>
+  <MakeCrushedStone_Hand_Chunk.label>瓦礫 from 塊 を作る</MakeCrushedStone_Hand_Chunk.label>
+  <MakeCrushedStone_Electric_Chunk.label>瓦礫 from 塊 を作る</MakeCrushedStone_Electric_Chunk.label>
+  <MakeReinforcedConcrete_Hand.label>鉄筋コンクリート を作る</MakeReinforcedConcrete_Hand.label>
+  <MakeReinforcedConcrete_Electric.label>鉄筋コンクリート を作る</MakeReinforcedConcrete_Electric.label>
+  <MakeSimpleMechanism_Hand.label>機械部品 を作る</MakeSimpleMechanism_Hand.label>
+  <MakeSimpleMechanism_Electric.label>機械部品 を作る</MakeSimpleMechanism_Electric.label>
+  <MakeAdvMechanism_Hand.label>Advanced 機械部品 を作る</MakeAdvMechanism_Hand.label>
+  <MakeAdvMechanism_Electric.label>Advanced 機械部品 を作る</MakeAdvMechanism_Electric.label>
+  <MakeMetalCan.label>Metal Cans を作る</MakeMetalCan.label>
+</LanguageData>

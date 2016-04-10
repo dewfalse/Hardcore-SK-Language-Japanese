@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <TrainingBullet.label>Training 弾丸</TrainingBullet.label>
+  <Nail_naillet.label>nail</Nail_naillet.label>
+  <Bullet_45ACP.label>.45ACP 弾丸</Bullet_45ACP.label>
+  <Bullet_40SW.label>.40 inch Smith-Wesson 弾丸</Bullet_40SW.label>
+  <Bullet_44inchMAG.label>.44 Remington Magnum</Bullet_44inchMAG.label>
+  <Bullet_50AE.label>.50 inch Action Express</Bullet_50AE.label>
+  <Bullet_10GaugeShotGun.label>10-Gauge ショットガン 砲弾</Bullet_10GaugeShotGun.label>
+  <Bullet_12GaugeShotGun.label>12-Gauge ショットガン 砲弾</Bullet_12GaugeShotGun.label>
+  <Bullet_303InchBritish.label>.303 inch British</Bullet_303InchBritish.label>
+  <Bullet_556x45Nato.label>5.56x45mm NATO STANAG</Bullet_556x45Nato.label>
+  <Bullet_545x39Soviet.label>5.45x39mm Soviet</Bullet_545x39Soviet.label>
+  <Bullet_762x39FMJ.label>7.62x39mm FMJ</Bullet_762x39FMJ.label>
+  <Bullet_9x39Soviet.label>9x39mm Soviet</Bullet_9x39Soviet.label>
+  <Bullet_762x51Nato.label>7.62x51mm NATO</Bullet_762x51Nato.label>
+  <300inchMagnum.label>.300 inch Winchester magnum</300inchMagnum.label>
+</LanguageData>

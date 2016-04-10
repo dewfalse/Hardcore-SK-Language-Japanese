@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ClutterSmallTableModern.label>Modern Table (Small)</ClutterSmallTableModern.label>
+  <ClutterMediumTableModern.label>Modern Table (Medium)</ClutterMediumTableModern.label>
+  <ClutterSquareTableModern.label>Modern Table (Square)</ClutterSquareTableModern.label>
+  <ClutterCouchA.label>Couch</ClutterCouchA.label>
+  <ClutterComfySeat.label>Cozy アームチェア</ClutterComfySeat.label>
+  <ClutterStool.label>Redisigned スツール</ClutterStool.label>
+  <ClutterFreezer.label>Small Freezer</ClutterFreezer.label>
+  <ClutterTrashBin.label>Auto ゴミ箱</ClutterTrashBin.label>
+  <ClutterLockerA.label>Clothing locker</ClutterLockerA.label>
+  <ClutterCabinetA.label>Cabinet</ClutterCabinetA.label>
+  <ClutterLocker.label>Locker</ClutterLocker.label>
+  <TinkerTable.label>Tinker Table</TinkerTable.label>
+  <TinkerTableMKII.label>Tinker Table MK2</TinkerTableMKII.label>
+</LanguageData>

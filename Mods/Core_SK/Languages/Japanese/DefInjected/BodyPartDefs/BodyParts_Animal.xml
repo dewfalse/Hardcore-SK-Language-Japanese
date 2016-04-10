@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <LeftFirstLegClaw.label>左 脚 first 爪</LeftFirstLegClaw.label>
+  <LeftSecondLegClaw.label>左 脚 second 爪</LeftSecondLegClaw.label>
+  <LeftThirdLegClaw.label>左 脚 third 爪</LeftThirdLegClaw.label>
+  <LeftFourthLegClaw.label>左 脚 fourth 爪</LeftFourthLegClaw.label>
+  <RightFirstLegClaw.label>右 脚 first 爪</RightFirstLegClaw.label>
+  <RightSecondLegClaw.label>右 脚 second 爪</RightSecondLegClaw.label>
+  <RightThirdLegClaw.label>右 脚 third 爪</RightThirdLegClaw.label>
+  <RightFourthLegClaw.label>右 脚 fourth 爪</RightFourthLegClaw.label>
+</LanguageData>

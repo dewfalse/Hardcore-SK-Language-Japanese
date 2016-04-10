@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <GermanShepherd.label>ジャーマンシェパード</GermanShepherd.label>
+  <Samoyed.label>サモエド</Samoyed.label>
+  <BorderCollie.label>ボーダーコリー</BorderCollie.label>
+  <Alphalo.label>アルファマッファロー</Alphalo.label>
+  <Hedgehog.label>ハリネズミ</Hedgehog.label>
+  <Crashbug.label>クラッシュバグ</Crashbug.label>
+  <Fly.label>ハエ</Fly.label>
+  <Flea.label>ノミ</Flea.label>
+  <Furx.label>Furx</Furx.label>
+  <Lacosdile.label>Lacosdile</Lacosdile.label>
+  <Mosquito.label>Mosquito</Mosquito.label>
+  <Quadhog.label>クアッドホッグ</Quadhog.label>
+  <Rimdog.label>リムドッグ</Rimdog.label>
+  <Rimram.label>リムラム</Rimram.label>
+  <Rimwolf.label>リムウルフ</Rimwolf.label>
+  <Snork.label>Snork</Snork.label>
+  <Spindlecrib.label>Spindlecrib</Spindlecrib.label>
+  <Tarantula.label>タランチュラ</Tarantula.label>
+  <Scorpion.label>サソリ</Scorpion.label>
+  <Feralisk.label>Feralisk</Feralisk.label>
+  <Terramorph.label>Terramorph</Terramorph.label>
+  <Fenrir.label>フェンリル</Fenrir.label>
+</LanguageData>

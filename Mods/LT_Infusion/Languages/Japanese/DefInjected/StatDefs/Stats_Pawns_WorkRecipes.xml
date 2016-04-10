@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SculptingSpeed.label>Sculpting スピード</SculptingSpeed.label>
+  <TailoringSpeed.label>Tailoring スピード</TailoringSpeed.label>
+  <SmithingSpeed.label>Smithing スピード</SmithingSpeed.label>
+  <CookSpeed.label>Cooking スピード</CookSpeed.label>
+  <FoodPoisonChance.label>Food poison chance</FoodPoisonChance.label>
+  <BrewingSpeed.label>Brewing スピード</BrewingSpeed.label>
+  <ButcheryFleshSpeed.label>Butchery スピード</ButcheryFleshSpeed.label>
+  <ButcheryFleshEfficiency.label>Butchery efficiency</ButcheryFleshEfficiency.label>
+  <ButcheryMechanoidSpeed.label>メカノイド disassembly スピード</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidEfficiency.label>メカノイド disassembly efficiency</ButcheryMechanoidEfficiency.label>
+  <StonecuttingSpeed.label>Stonecutting スピード</StonecuttingSpeed.label>
+  <SmeltingSpeed.label>Smelting スピード</SmeltingSpeed.label>
+</LanguageData>

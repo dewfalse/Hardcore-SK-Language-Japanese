@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Stonecutting.label>建築 I</Stonecutting.label>
+  <ConstructionII.label>建築 II</ConstructionII.label>
+  <ConstructionIII.label>建築 III</ConstructionIII.label>
+  <ConstructionIV.label>建築 IV</ConstructionIV.label>
+  <CraftingI.label>Crafting I</CraftingI.label>
+  <ElectricSmelting.label>Crafting II</ElectricSmelting.label>
+  <Machining.label>Crafting III</Machining.label>
+  <CraftingIV.label>Crafting IV</CraftingIV.label>
+  <MetalFab.label>Crafting V</MetalFab.label>
+  <MatterManipulation.label>Crafting VI</MatterManipulation.label>
+  <AdvancedFact.label>Crafting VII</AdvancedFact.label>
+  <PowerI.label>電力 I</PowerI.label>
+  <PowerII.label>電力 II</PowerII.label>
+  <GeothermalPower.label>電力 IV</GeothermalPower.label>
+  <PowerIV.label>電力 V</PowerIV.label>
+  <PowerV.label>電力 VI</PowerV.label>
+  <PowerVI.label>電力 VII</PowerVI.label>
+  <DynElect.label>電力 VIII</DynElect.label>
+  <AntimatterReaction.label>電力 IX</AntimatterReaction.label>
+  <SecurityI.label>防衛: Basic Defence</SecurityI.label>
+  <IEDIncendiary.label>防衛: Incendiary IEDs</IEDIncendiary.label>
+  <IEDBomb.label>防衛: Explosive IEDs</IEDBomb.label>
+  <Mortars.label>防衛: Mortars</Mortars.label>
+  <AdvWeapontable.label>防衛: Advanced weapons</AdvWeapontable.label>
+  <MechanoidWeaponTech.label>防衛: メカノイド Weapons</MechanoidWeaponTech.label>
+  <JoyI.label>The Art Of Relaxation I</JoyI.label>
+  <JoyII.label>The Art Of Relaxation II</JoyII.label>
+  <JoyIII.label>The Art Of Relaxation III</JoyIII.label>
+  <JoyIV.label>The Art Of Relaxation IV</JoyIV.label>
+  <UtilityStructures.label>Base Structures I</UtilityStructures.label>
+  <BaseUtilities.label>Base Structures II</BaseUtilities.label>
+  <WallReinforcment.label>Base Structures III</WallReinforcment.label>
+  <WallReinforcmentHealth.label>Base Structures IV</WallReinforcmentHealth.label>
+  <ColoredLights.label>Colored Lights</ColoredLights.label>
+  <Communications.label>Communication Station</Communications.label>
+  <Cremation.label>Cremation</Cremation.label>
+  <PneumaticPicks.label>Pneumatic Picks</PneumaticPicks.label>
+</LanguageData>

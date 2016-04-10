@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <PlantGrass.label>Grass</PlantGrass.label>
+  <PlantTallGrass.label>Tall Grass</PlantTallGrass.label>
+  <PlantHaygrass.label>まぐさ</PlantHaygrass.label>
+  <PlantPotato.label>じゃがいも Plant</PlantPotato.label>
+  <PlantCorn.label>とうもろこし Plant</PlantCorn.label>
+  <PlantRice.label>米 Plant</PlantRice.label>
+  <PlantAgave.label>竜舌蘭 Plant</PlantAgave.label>
+  <PlantStrawberry.label>いちご Plant</PlantStrawberry.label>
+  <PlantCotton.label>木綿 茂み</PlantCotton.label>
+  <PlantDevilstrand.label>デビルストランド キノコ</PlantDevilstrand.label>
+  <PlantXerigium.label>ゼリジウム Plant</PlantXerigium.label>
+  <PlantHops.label>ホップ Plant</PlantHops.label>
+  <Plantblueberry.label>ブルーベリー 茂み</Plantblueberry.label>
+  <Plantcloudberry.label>クラウドベリー 茂み</Plantcloudberry.label>
+  <Plantgooseberry.label>グースベリー 茂み</Plantgooseberry.label>
+  <Planteggplant.label>ナス 茂み</Planteggplant.label>
+  <Plantpumpkin.label>かぼちゃ Vine</Plantpumpkin.label>
+  <Plantbean.label>豆 Stalk</Plantbean.label>
+  <PlantTomato.label>トマト Vine</PlantTomato.label>
+  <PlantCarrot.label>にんじん Plant</PlantCarrot.label>
+  <Plantcocoa.label>ココアの木</Plantcocoa.label>
+  <Plantsugarcane.label>さとうきび Plant</Plantsugarcane.label>
+  <Plantaloe.label>アロエ Plant</Plantaloe.label>
+  <Plantbamboo.label>竹 Stalks</Plantbamboo.label>
+  <PlantTea.label>茶 Shrub</PlantTea.label>
+  <PlantAppletree.label>りんごの木</PlantAppletree.label>
+  <PlantBananaTree.label>バナナの木</PlantBananaTree.label>
+  <PlantorangeTree.label>オレンジの木</PlantorangeTree.label>
+  <PlantPeachTree.label>ももの木</PlantPeachTree.label>
+  <Plantgrape.label>ぶどう Vine</Plantgrape.label>
+  <Plantmushroom.label>シャンピニオン キノコ</Plantmushroom.label>
+  <Plantoats.label>燕麦 Grass</Plantoats.label>
+  <Plantwheat.label>小麦 Grass</Plantwheat.label>
+  <PlantCoffee.label>コーヒー Plant</PlantCoffee.label>
+  <PlantTobacco.label>タバコ Plant</PlantTobacco.label>
+  <WeedP.label>ウィード Plant</WeedP.label>
+  <PlantLettuce.label>レタス Plant</PlantLettuce.label>
+  <mediplant.label>野ばら Flowers</mediplant.label>
+  <mediplanty.label>オトギリソウ Plant</mediplanty.label>
+  <mediplantg.label>ミント Plant</mediplantg.label>
+  <Plantonion.label>玉ねぎ Plant</Plantonion.label>
+  <PlantOutdoorSpectago.label>Spectago Flower</PlantOutdoorSpectago.label>
+  <PlantHeveaTree.label>ゴムノキの木</PlantHeveaTree.label>
+</LanguageData>

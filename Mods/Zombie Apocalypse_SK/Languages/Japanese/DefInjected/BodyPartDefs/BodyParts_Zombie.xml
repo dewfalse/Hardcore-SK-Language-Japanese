@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <zHead.label>頭</zHead.label>
+  <zSkull.label>skull</zSkull.label>
+  <zBrain.label>brain</zBrain.label>
+  <zLeftEye.label>左 目</zLeftEye.label>
+  <zRightEye.label>右 目</zRightEye.label>
+  <zLeftEar.label>左 耳</zLeftEar.label>
+  <zRightEar.label>右 耳</zRightEar.label>
+  <zNose.label>鼻</zNose.label>
+  <zJaw.label>顎</zJaw.label>
+  <zNeck.label>neck</zNeck.label>
+  <zRib.label>肋骨</zRib.label>
+  <zSpine.label>脊椎</zSpine.label>
+  <zLeftLeg.label>左 脚</zLeftLeg.label>
+  <zLeftFoot.label>左 足</zLeftFoot.label>
+  <zRightLeg.label>右 脚</zRightLeg.label>
+  <zRightFoot.label>右 足</zRightFoot.label>
+  <zHeart.label>心臓</zHeart.label>
+  <zLeftLung.label>左 肺</zLeftLung.label>
+  <zRightLung.label>右 肺</zRightLung.label>
+  <zLeftKidney.label>左 腎臓</zLeftKidney.label>
+  <zRightKidney.label>右 腎臓</zRightKidney.label>
+  <zLiver.label>肝臓</zLiver.label>
+  <zStomach.label>胃</zStomach.label>
+  <zTorso.label>胴体</zTorso.label>
+  <zLeftShoulder.label>左 肩</zLeftShoulder.label>
+  <zLeftArm.label>左 腕</zLeftArm.label>
+  <zLeftHand.label>左 手</zLeftHand.label>
+  <zLeftHandPinky.label>左 pinky</zLeftHandPinky.label>
+  <zLeftHandRingFinger.label>左 ring 指</zLeftHandRingFinger.label>
+  <zLeftHandMiddleFinger.label>左 middle 指</zLeftHandMiddleFinger.label>
+  <zLeftHandIndexFinger.label>左 index 指</zLeftHandIndexFinger.label>
+  <zLeftHandThumb.label>左 親指</zLeftHandThumb.label>
+  <zRightShoulder.label>右 肩</zRightShoulder.label>
+  <zRightArm.label>右 腕</zRightArm.label>
+  <zRightHand.label>右 手</zRightHand.label>
+  <zRightHandPinky.label>右 pinky</zRightHandPinky.label>
+  <zRightHandRingFinger.label>右 ring 指</zRightHandRingFinger.label>
+  <zRightHandMiddleFinger.label>右 middle 指</zRightHandMiddleFinger.label>
+  <zRightHandIndexFinger.label>右 index 指</zRightHandIndexFinger.label>
+  <zRightHandThumb.label>右 親指</zRightHandThumb.label>
+  <zLeftFootLittleToe.label>左 little 足指</zLeftFootLittleToe.label>
+  <zLeftFootFourthToe.label>左 fourth 足指</zLeftFootFourthToe.label>
+  <zLeftFootMiddleToe.label>左 middle 足指</zLeftFootMiddleToe.label>
+  <zLeftFootSecondToe.label>左 second 足指</zLeftFootSecondToe.label>
+  <zLeftFootBigToe.label>左 big 足指</zLeftFootBigToe.label>
+  <zRightFootLittleToe.label>右 little 足指</zRightFootLittleToe.label>
+  <zRightFootFourthToe.label>右 fourth 足指</zRightFootFourthToe.label>
+  <zRightFootMiddleToe.label>右 middle 足指</zRightFootMiddleToe.label>
+  <zRightFootSecondToe.label>右 second 足指</zRightFootSecondToe.label>
+  <zRightFootBigToe.label>右 big 足指</zRightFootBigToe.label>
+  <zLeftClavicle.label>左 鎖骨</zLeftClavicle.label>
+  <zRightClavicle.label>右 鎖骨</zRightClavicle.label>
+  <zSternum.label>sternum</zSternum.label>
+  <zLeftHumerus.label>左 humerus</zLeftHumerus.label>
+  <zRightHumerus.label>右 humerus</zRightHumerus.label>
+  <zLeftRadius.label>左 radius</zLeftRadius.label>
+  <zRightRadius.label>右 radius</zRightRadius.label>
+  <zPelvis.label>骨盤</zPelvis.label>
+  <zLeftFemur.label>左 femur</zLeftFemur.label>
+  <zRightFemur.label>右 femur</zRightFemur.label>
+  <zLeftTibia.label>左 tibia</zLeftTibia.label>
+  <zRightTibia.label>右 tibia</zRightTibia.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Matty.label>Matty</Matty.label>
+  <Precious.label>Precious</Precious.label>
+  <Metallic.label>Metallic</Metallic.label>
+  <RareMetallic.label>Rare Metallic</RareMetallic.label>
+  <SolidMetallic.label>Solid Metallic</SolidMetallic.label>
+  <Woody.label>木の</Woody.label>
+  <Stony.label>Stony</Stony.label>
+  <Fabric.label>Fabric</Fabric.label>
+  <HF.label>Hitech Fabric</HF.label>
+  <Leathery.label>Leathery</Leathery.label>
+  <Plastic.label>プラスチック</Plastic.label>
+  <Glass.label>ガラス</Glass.label>
+  <Parts.label>パーツ</Parts.label>
+  <WoodLogs.label>木 Logs</WoodLogs.label>
+  <Kindlingstuff.label>焚き付け</Kindlingstuff.label>
+  <Foods.label>Foods</Foods.label>
+  <Stuff.label>Stuff</Stuff.label>
+  <Chemical.label>Chemical</Chemical.label>
+  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
+  <Paint.label>Paint</Paint.label>
+</LanguageData>

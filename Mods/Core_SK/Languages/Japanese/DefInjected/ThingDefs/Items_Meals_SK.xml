@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>
+  <MealNutrientPaste.label>Nutrient Paste Meal</MealNutrientPaste.label>
+  <MealSimple.label>Simple Meal</MealSimple.label>
+  <MealFine.label>Fine Meal</MealFine.label>
+  <MealLavish.label>Lavish Meal</MealLavish.label>
+  <MealLuxury.label>Luxury Meal</MealLuxury.label>
+  <MealSalad.label>Simple サラダ</MealSalad.label>
+  <MealJerky.label>ジャーキー</MealJerky.label>
+  <driedfruit.label>Dried Fruit</driedfruit.label>
+  <bread.label>Bread</bread.label>
+  <Cheese.label>チーズ</Cheese.label>
+  <Burger.label>ハンバーガー</Burger.label>
+  <CheeseBurger.label>チーズ ハンバーガー</CheeseBurger.label>
+  <DeluxeBurger.label>Deluxe ハンバーガー</DeluxeBurger.label>
+  <GrilledCheese.label>Grilled チーズ Sandwich</GrilledCheese.label>
+  <Pizza.label>ピザ</Pizza.label>
+  <FruitYogurt.label>Fruit ヨーグルト</FruitYogurt.label>
+  <Chocomilk.label>チョコレート ミルク</Chocomilk.label>
+  <RoastedMeat.label>Roasted 肉</RoastedMeat.label>
+  <StewMushrooms.label>キノコ シチュー</StewMushrooms.label>
+  <SaladwMushrooms.label>サラダ with キノコ</SaladwMushrooms.label>
+  <RoastwMushrooms.label>Pot Roast and キノコ</RoastwMushrooms.label>
+  <FriedVegetables.label>揚げ物の盛り合わせ</FriedVegetables.label>
+  <MushroomTincture.label>キノコ チンキ剤</MushroomTincture.label>
+  <MedicalDrink.label>抗生物質</MedicalDrink.label>
+  <Cuptea.label>1杯の 茶</Cuptea.label>
+  <CupSpectagoTea.label>1杯の Spectago 茶</CupSpectagoTea.label>
+  <CupCoffee.label>1杯の コーヒー</CupCoffee.label>
+  <FruitDrink.label>Fruit Drink</FruitDrink.label>
+  <Caramel.label>キャラメル</Caramel.label>
+  <Taffy.label>タフィー</Taffy.label>
+  <cookie.label>クッキー</cookie.label>
+  <PieBlueberry.label>ブルーベリー パイ 一切れ</PieBlueberry.label>
+  <PiePumpkin.label>かぼちゃ パイ 一切れ</PiePumpkin.label>
+  <SweetBun.label>菓子パン</SweetBun.label>
+  <Chocolate.label>チョコレート</Chocolate.label>
+  <Cigarillos.label>Cigarillos</Cigarillos.label>
+  <Cigar.label>Cigar</Cigar.label>
+  <HerbsCollection.label>ハーブ Collection</HerbsCollection.label>
+  <Weed.label>ウィード</Weed.label>
+  <WeedCig.label>ウィード シガレット</WeedCig.label>
+  <OneKick.label>One Kick</OneKick.label>
+  <SpaceSpice.label>Space Spice</SpaceSpice.label>
+  <WeedOil.label>ウィード 油</WeedOil.label>
+  <soylentgreen.label>ソイレント・グリーン</soylentgreen.label>
+  <ExtraCannedFood.label>Extra 缶詰 Meal</ExtraCannedFood.label>
+  <BasicCannedFood.label>Basic 缶詰 Meal</BasicCannedFood.label>
+  <MetalCannedMeat.label>Metal 缶詰 肉</MetalCannedMeat.label>
+  <Beer.label>1本の ビール</Beer.label>
+  <rum.label>1本の ラム酒</rum.label>
+  <strawberrywine.label>1本の ワイン</strawberrywine.label>
+  <saki.label>1本の 日本酒</saki.label>
+  <vodka.label>1本の ウオッカ</vodka.label>
+  <whisky.label>1本の ウィスキー</whisky.label>
+  <cider.label>1本の りんご サイダー</cider.label>
+  <tequila.label>1本の テキーラ</tequila.label>
+  <Fluffy_CatFood.label>加工済み キャットフード</Fluffy_CatFood.label>
+</LanguageData>

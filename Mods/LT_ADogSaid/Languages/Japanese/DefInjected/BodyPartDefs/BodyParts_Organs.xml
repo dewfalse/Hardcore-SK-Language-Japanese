@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AnimalHeart.label>心臓</AnimalHeart.label>
+  <AnimalLeftLung.label>左 肺</AnimalLeftLung.label>
+  <AnimalRightLung.label>右 肺</AnimalRightLung.label>
+  <AnimalLeftKidney.label>左 腎臓</AnimalLeftKidney.label>
+  <AnimalRightKidney.label>右 腎臓</AnimalRightKidney.label>
+  <AnimalLiver.label>肝臓</AnimalLiver.label>
+  <AnimalStomach.label>胃</AnimalStomach.label>
+</LanguageData>

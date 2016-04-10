@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <GunTurretCooling.label>防衛: Sentry タレット</GunTurretCooling.label>
+  <SentryGunUpgradeBarrelI.label>Sentry Gun Barrel I をアップグレードする</SentryGunUpgradeBarrelI.label>
+  <SentryGunUpgradeBarrelII.label>Sentry Gun Barrel II をアップグレードする</SentryGunUpgradeBarrelII.label>
+  <SentryGunUpgradeCoolingI.label>Sentry Gun Cooling I をアップグレードする</SentryGunUpgradeCoolingI.label>
+  <SentryGunUpgradeCoolingII.label>Sentry Gun Cooling II をアップグレードする</SentryGunUpgradeCoolingII.label>
+  <SentryGunUpgradeLoaderI.label>Sentry Gun Loader I をアップグレードする</SentryGunUpgradeLoaderI.label>
+  <SentryGunUpgradeLoaderII.label>Sentry Gun Loader II をアップグレードする</SentryGunUpgradeLoaderII.label>
+</LanguageData>

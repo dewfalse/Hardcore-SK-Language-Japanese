@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <UnfinishedSculpture.label>Unfinished 彫像</UnfinishedSculpture.label>
+  <UnfinishedWeapon.label>Unfinished weapon</UnfinishedWeapon.label>
+  <UnfinishedApparel.label>Unfinished 衣服</UnfinishedApparel.label>
+  <UnfinishedMetallicApparel.label>Unfinished mettalic 衣服</UnfinishedMetallicApparel.label>
+  <UnfinishedProsthesis.label>Unfinished prosthesis</UnfinishedProsthesis.label>
+  <MinifiedSculpture.label>彫像</MinifiedSculpture.label>
+  <MinifiedFurniture.label>家具</MinifiedFurniture.label>
+</LanguageData>

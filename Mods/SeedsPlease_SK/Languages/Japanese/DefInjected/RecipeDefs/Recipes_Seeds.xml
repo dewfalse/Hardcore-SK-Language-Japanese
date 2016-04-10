@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <HempSeed.label>ウィード から種子を取る</HempSeed.label>
+  <XerigiumSeed.label>生 ゼリジウム から種子を取る</XerigiumSeed.label>
+  <EggSeed.label>ナス Fruit から種子を取る</EggSeed.label>
+  <MushroomSeed.label>生 シャンピニオン から種子を取る</MushroomSeed.label>
+  <PotatoSeed.label>じゃがいも から種子を取る</PotatoSeed.label>
+  <CornSeed.label>とうもろこし から種子を取る</CornSeed.label>
+  <RiceSeed.label>米 から種子を取る</RiceSeed.label>
+  <StrawberrySeed.label>いちご から種子を取る</StrawberrySeed.label>
+  <CottonSeed.label>生 木綿 から種子を取る</CottonSeed.label>
+  <DevilstrandSeed.label>生 デビルストランド から種子を取る</DevilstrandSeed.label>
+  <HopSeed.label>ホップ から種子を取る</HopSeed.label>
+  <CoffeeSeed.label>コーヒー 豆 から種子を取る</CoffeeSeed.label>
+  <TobaccoSeed.label>タバコの葉 から種子を取る</TobaccoSeed.label>
+  <BlueberrySeed.label>ブルーベリー から種子を取る</BlueberrySeed.label>
+  <PumpkinSeed.label>かぼちゃ から種子を取る</PumpkinSeed.label>
+  <TomatoSeed.label>トマト から種子を取る</TomatoSeed.label>
+  <LettuceSeed.label>レタス から種子を取る</LettuceSeed.label>
+  <CarrotSeed.label>にんじん から種子を取る</CarrotSeed.label>
+  <CocoaSeed.label>ココア 豆 から種子を取る</CocoaSeed.label>
+  <SugarcaneSeed.label>さとうきび から種子を取る</SugarcaneSeed.label>
+  <PlantbeanSeed.label>豆 Pods から種子を取る</PlantbeanSeed.label>
+  <PlantTeaSeed.label>茶の葉 から種子を取る</PlantTeaSeed.label>
+  <AloeSeed.label>アロエの葉 から種子を取る</AloeSeed.label>
+  <BambooSeed.label>竹 Logs から種子を取る</BambooSeed.label>
+  <AppleSeed.label>りんご から種子を取る</AppleSeed.label>
+  <BananaSeed.label>バナナ から種子を取る</BananaSeed.label>
+  <OrangeSeed.label>オレンジ から種子を取る</OrangeSeed.label>
+  <PeachSeed.label>もも から種子を取る</PeachSeed.label>
+  <GrapeSeed.label>ぶどう から種子を取る</GrapeSeed.label>
+  <mediplantSeed.label>野ばら から種子を取る</mediplantSeed.label>
+  <mediplantySeed.label>オトギリソウ から種子を取る</mediplantySeed.label>
+  <mediplantgSeed.label>ミントの葉 から種子を取る</mediplantgSeed.label>
+  <SpectagoSeed.label>Rainbow Petals から種子を取る</SpectagoSeed.label>
+  <WheatSeed.label>小麦 から種子を取る</WheatSeed.label>
+  <OatsSeed.label>燕麦 から種子を取る</OatsSeed.label>
+  <GooseberrySeed.label>グースベリー から種子を取る</GooseberrySeed.label>
+  <CloudberrySeed.label>クラウドベリー から種子を取る</CloudberrySeed.label>
+  <OnionSeed.label>玉ねぎ から種子を取る</OnionSeed.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <PlantRaspberry.label>ラズベリー 茂み</PlantRaspberry.label>
+  <PlantBush.label>茂み</PlantBush.label>
+  <PlantSaguaroCactus.label>Saguaro サボテン</PlantSaguaroCactus.label>
+  <PlantPincushionCactus.label>Pincushion サボテン</PlantPincushionCactus.label>
+  <PlantTreeOak.label>オークの木</PlantTreeOak.label>
+  <PlantTreePoplar.label>ポプラの木</PlantTreePoplar.label>
+  <PlantTreePine.label>松の木</PlantTreePine.label>
+  <PlantTreeBirch.label>樺の木</PlantTreeBirch.label>
+  <PlantTreeTeak.label>チークの木</PlantTreeTeak.label>
+  <PlantTreeCecropia.label>セクロピアの木</PlantTreeCecropia.label>
+</LanguageData>
