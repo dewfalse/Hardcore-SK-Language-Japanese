@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Light.label>light</Light.label>
-  <LightApparel.label>light</LightApparel.label>
+  <Light.label>ライト</Light.label>
+  <LightApparel.label>ライト</LightApparel.label>
   <Heavy.label>heavy</Heavy.label>
   <HeavyRange.label>heavy</HeavyRange.label>
   <Small.label>small</Small.label>
@@ -32,7 +32,7 @@
   <Weaving.label>weaving</Weaving.label>
   <Hunting.label>hunting</Hunting.label>
   <Cooking.label>cooking</Cooking.label>
-  <Mining.label>mining</Mining.label>
+  <Mining.label>採掘</Mining.label>
   <Establishing.label>establishing</Establishing.label>
   <Farming.label>farming</Farming.label>
   <Stonevein.label>stonevein</Stonevein.label>

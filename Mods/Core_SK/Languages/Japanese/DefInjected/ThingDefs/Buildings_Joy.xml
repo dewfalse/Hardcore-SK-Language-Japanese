@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <HorseshoesPin.label>Horseshoe Pit</HorseshoesPin.label>
-  <ChessTable.label>Chess Table</ChessTable.label>
-  <BilliardsTable.label>Billiards Table</BilliardsTable.label>
+  <ChessTable.label>チェス テーブル</ChessTable.label>
+  <BilliardsTable.label>ビリヤード テーブル</BilliardsTable.label>
   <Television.label>テレビ</Television.label>
   <Telescope.label>望遠鏡</Telescope.label>
 </LanguageData>

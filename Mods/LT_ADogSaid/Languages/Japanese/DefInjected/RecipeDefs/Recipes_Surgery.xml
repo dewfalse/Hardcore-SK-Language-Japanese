@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <InstallBionicEyeAnimal.label>強化 Animal 目 を移植する</InstallBionicEyeAnimal.label>
-  <InstallBionicArmAnimal.label>強化 Animal 腕 を移植する</InstallBionicArmAnimal.label>
-  <InstallSimpleProstheticArmAnimal.label>Simple 人工疑似 Animal 腕 を移植する</InstallSimpleProstheticArmAnimal.label>
-  <InstallPegLegAnimal.label>Animal 木の 脚 を移植する</InstallPegLegAnimal.label>
+  <InstallBionicEyeAnimal.label>強化 動物 目 を移植する</InstallBionicEyeAnimal.label>
+  <InstallBionicArmAnimal.label>強化 動物 腕 を移植する</InstallBionicArmAnimal.label>
+  <InstallSimpleProstheticArmAnimal.label>簡易 人工疑似 動物 腕 を移植する</InstallSimpleProstheticArmAnimal.label>
+  <InstallPegLegAnimal.label>動物 木の 脚 を移植する</InstallPegLegAnimal.label>
   <ADS_RemoveBodyPart.label>Remove Part</ADS_RemoveBodyPart.label>
 </LanguageData>

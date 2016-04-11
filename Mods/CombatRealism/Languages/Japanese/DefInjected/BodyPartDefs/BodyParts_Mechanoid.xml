@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MechanicalThorax.label>Thorax</MechanicalThorax.label>
   <LeftBlade.label>左 blade</LeftBlade.label>
@@ -7,10 +7,10 @@
   <LeftMechanicalFoot.label>左 足</LeftMechanicalFoot.label>
   <RightMechanicalLeg.label>右 脚</RightMechanicalLeg.label>
   <RightMechanicalFoot.label>右 足</RightMechanicalFoot.label>
-  <MechanicalCentipedeBodyFirstRing.label>First body ring</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodySecondRing.label>Second body ring</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodyThirdRing.label>Third body ring</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyFourthRing.label>Fourth body ring</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFifthRing.label>Fifth body ring</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodySixthRing.label>Sixth body ring</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodyFirstRing.label>第一 body ring</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodySecondRing.label>第二 body ring</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>第三 body ring</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>第四 body ring</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>第五 body ring</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>第六 body ring</MechanicalCentipedeBodySixthRing.label>
 </LanguageData>

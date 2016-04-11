@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Arrow_Short.label>Short Bow Arrow</Arrow_Short.label>
   <Bow_Short.label>Short Bow</Bow_Short.label>
@@ -9,7 +9,7 @@
   <Norbal_BoardingCrossbow.label>Bolt</Norbal_BoardingCrossbow.label>
   <Norbal_Scorpion.label>スコルピオ</Norbal_Scorpion.label>
   <Bolt_Arbalest.label>Bolt</Bolt_Arbalest.label>
-  <Arbalest.label>Balestra</Arbalest.label>
+  <Arbalest.label>バレストラ</Arbalest.label>
   <Bolt_Crossbow.label>Bolt</Bolt_Crossbow.label>
   <Crossbow.label>クロスボウ</Crossbow.label>
   <NorbalArrow_Grape.label>Greatbow Arrow</NorbalArrow_Grape.label>

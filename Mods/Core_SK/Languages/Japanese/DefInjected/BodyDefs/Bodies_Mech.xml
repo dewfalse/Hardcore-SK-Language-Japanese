@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MechanicalCrawler.label>Mechanical crawler</MechanicalCrawler.label>
   <MechanicalSkullywag.label>Mechanical skullywag</MechanicalSkullywag.label>
-  <AssimilatedHuman.label>Human</AssimilatedHuman.label>
+  <AssimilatedHuman.label>人間</AssimilatedHuman.label>
   <MechanicalScoutbot.label>Mechanical scoutbot</MechanicalScoutbot.label>
   <MechanicalAssaulter.label>Assaulter</MechanicalAssaulter.label>
   <MechanicalCarrier.label>Carrier</MechanicalCarrier.label>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <AIPawnBaseResearch.label>Mobile AI</AIPawnBaseResearch.label>
   <AIPawnAdvResearchConstruction.label>AI: 建築</AIPawnAdvResearchConstruction.label>
-  <AIPawnAdvResearchMining.label>AI: Mining</AIPawnAdvResearchMining.label>
+  <AIPawnAdvResearchMining.label>AI: 採掘</AIPawnAdvResearchMining.label>
   <AIPawnAdvResearchCombat.label>AI: Combat Tactics</AIPawnAdvResearchCombat.label>
   <AIPawnAdvResearchCooking.label>AI: Cooking</AIPawnAdvResearchCooking.label>
   <AIPawnAdvResearchCaring.label>AI: Caring</AIPawnAdvResearchCaring.label>
-  <AIPawnAdvResearchCrafting.label>AI: Crafting</AIPawnAdvResearchCrafting.label>
+  <AIPawnAdvResearchCrafting.label>AI: 工作</AIPawnAdvResearchCrafting.label>
   <AIPawnAdvResearchIntellectual.label>AI: Intellectual</AIPawnAdvResearchIntellectual.label>
 </LanguageData>

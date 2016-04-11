@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MineralDeposits.label>鉱床 of 鉱物</MineralDeposits.label>
   <RareMineralDeposits.label>鉱床 of Rare 鉱物</RareMineralDeposits.label>
@@ -14,6 +14,6 @@
   <MineableTitanium.label>イルメナイト 鉱石 鉱床</MineableTitanium.label>
   <MineableManganese.label>軟マンガン鉱 鉱石 鉱床</MineableManganese.label>
   <MineableTungsten.label>鉄マンガン重石 鉱石 鉱床</MineableTungsten.label>
-  <SteamGeyser.label>蒸気 Geyser</SteamGeyser.label>
+  <SteamGeyser.label>間欠泉</SteamGeyser.label>
   <CollapsedRocks.label>Collapsed 岩</CollapsedRocks.label>
 </LanguageData>

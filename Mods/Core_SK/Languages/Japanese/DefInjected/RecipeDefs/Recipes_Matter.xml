@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ConvertResourcesRaw.label>Inorganic Matter を作る</ConvertResourcesRaw.label>
+  <ConvertResourcesRaw.label>無機物 を作る</ConvertResourcesRaw.label>
   <ConvertToSteel.label>鉄 鉱石 を作る</ConvertToSteel.label>
   <ConvertToCopper.label>銅 鉱石 を作る</ConvertToCopper.label>
   <ConvertToAluminium.label>ボーキサイト 鉱石 を作る</ConvertToAluminium.label>
@@ -12,6 +12,6 @@
   <ConvertToSilver.label>シルバー 鉱石 を作る</ConvertToSilver.label>
   <ConvertToGold.label>金 鉱石 を作る</ConvertToGold.label>
   <ConvertToCloth.label>生地 を作る</ConvertToCloth.label>
-  <ConvertToGlassBatch.label>ガラス Batch を作る</ConvertToGlassBatch.label>
+  <ConvertToGlassBatch.label>ガラス バッチ を作る</ConvertToGlassBatch.label>
   <ConvertToPolymers.label>ポリマー を作る</ConvertToPolymers.label>
 </LanguageData>

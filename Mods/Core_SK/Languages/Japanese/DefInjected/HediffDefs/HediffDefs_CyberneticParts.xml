@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <GTHeart.label>サイバネティックス 心臓</GTHeart.label>
-  <GTLung.label>サイバネティックス 肺</GTLung.label>
-  <GTKidney.label>サイバネティックス 腎臓</GTKidney.label>
-  <GTLiver.label>サイバネティックス 肝臓</GTLiver.label>
-  <GTStomach.label>サイバネティックス 胃</GTStomach.label>
-  <GTDentures.label>サイバネティックス 強化 入れ歯</GTDentures.label>
-  <GTArm.label>サイバネティックス 強化 腕</GTArm.label>
-  <GTHand.label>サイバネティックス 強化 手</GTHand.label>
-  <GTLeg.label>サイバネティックス 強化 脚</GTLeg.label>
-  <GTFoot.label>サイバネティックス 強化 足</GTFoot.label>
-  <GTEye.label>サイバネティックス 強化 目</GTEye.label>
-  <GTEar.label>サイバネティックス 強化 耳</GTEar.label>
-  <GTSpine.label>サイバネティックス 強化 脊椎</GTSpine.label>
+  <GTHeart.label>サイバネティクス 心臓</GTHeart.label>
+  <GTLung.label>サイバネティクス 肺</GTLung.label>
+  <GTKidney.label>サイバネティクス 腎臓</GTKidney.label>
+  <GTLiver.label>サイバネティクス 肝臓</GTLiver.label>
+  <GTStomach.label>サイバネティクス 胃</GTStomach.label>
+  <GTDentures.label>サイバネティクス 強化 入れ歯</GTDentures.label>
+  <GTArm.label>サイバネティクス 強化 腕</GTArm.label>
+  <GTHand.label>サイバネティクス 強化 手</GTHand.label>
+  <GTLeg.label>サイバネティクス 強化 脚</GTLeg.label>
+  <GTFoot.label>サイバネティクス 強化 足</GTFoot.label>
+  <GTEye.label>サイバネティクス 強化 目</GTEye.label>
+  <GTEar.label>サイバネティクス 強化 耳</GTEar.label>
+  <GTSpine.label>サイバネティクス 強化 脊椎</GTSpine.label>
 </LanguageData>

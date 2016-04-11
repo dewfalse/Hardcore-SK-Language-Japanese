@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Mortar_Crate.label>80mm Explosive 迫撃砲 Launcher 箱</Mortar_Crate.label>
-  <IMortar_Crate.label>80mm Incendiary 迫撃砲 Launcher 箱</IMortar_Crate.label>
+  <Mortar_Crate.label>80mm Explosive 迫撃砲 ランチャー 箱</Mortar_Crate.label>
+  <IMortar_Crate.label>80mm Incendiary 迫撃砲 ランチャー 箱</IMortar_Crate.label>
   <AMTurret_Crate.label>.50cal アンチマテリアル タレット 箱</AMTurret_Crate.label>
   <Plasma_Crate.label>プラズマ タレット 箱</Plasma_Crate.label>
-  <EMP_Crate.label>80mm EMP 迫撃砲 Launcher 箱</EMP_Crate.label>
-  <RocketLauncher_Crate.label>Heavy ミサイル System 箱</RocketLauncher_Crate.label>
-  <LightMissileSystem_Crate.label>Light ミサイル System 箱</LightMissileSystem_Crate.label>
-  <MediumMissileSystem_Crate.label>Medium ミサイル System 箱</MediumMissileSystem_Crate.label>
+  <EMP_Crate.label>80mm EMP 迫撃砲 ランチャー 箱</EMP_Crate.label>
+  <RocketLauncher_Crate.label>Heavy ミサイル システム 箱</RocketLauncher_Crate.label>
+  <LightMissileSystem_Crate.label>ライト ミサイル システム 箱</LightMissileSystem_Crate.label>
+  <MediumMissileSystem_Crate.label>Medium ミサイル システム 箱</MediumMissileSystem_Crate.label>
   <Avenger_Crate.label>30mm Avenger Fire キャノン 箱</Avenger_Crate.label>
   <Chain_Crate.label>35mm 機関砲 箱</Chain_Crate.label>
   <NavalGunTurret_Crate.label>35mm Automated 機関砲 箱</NavalGunTurret_Crate.label>
   <MGTurret_Crate.label>14.5mm Heavy MG 箱</MGTurret_Crate.label>
-  <AGCturret_Crate.label>30mm グレネード Launcher 箱</AGCturret_Crate.label>
+  <AGCturret_Crate.label>30mm グレネード ランチャー 箱</AGCturret_Crate.label>
   <CannonTurret_Crate.label>120mm Tank キャノン 箱</CannonTurret_Crate.label>
-  <VulcanCannon_Crate.label>20mm Vulcan キャノン 箱</VulcanCannon_Crate.label>
+  <VulcanCannon_Crate.label>20mm バルカン キャノン 箱</VulcanCannon_Crate.label>
   <DevastatorTurret_Crate.label>Devastator Magnetic カタパルト 箱</DevastatorTurret_Crate.label>
   <PrecisionLaserBeamTurret_Crate.label>Precision Laserbeam タレット 箱</PrecisionLaserBeamTurret_Crate.label>
   <HowitzerTurret_Crate.label>155mm 榴弾砲 キャノン 箱</HowitzerTurret_Crate.label>
@@ -28,7 +28,7 @@
   <HowitzerShell.label>155mm 榴弾砲 砲弾</HowitzerShell.label>
   <MagneticShell.label>Magnetic 砲弾</MagneticShell.label>
   <AvengerShell.label>30mmx8 Avenger 砲弾</AvengerShell.label>
-  <VulcanShell.label>20mmx20 Vulcan 弾丸</VulcanShell.label>
+  <VulcanShell.label>20mmx20 バルカン 弾丸</VulcanShell.label>
   <ChainShell.label>35mmx3 機関砲 砲弾</ChainShell.label>
   <Rockets.label>130mm x1 ミサイル</Rockets.label>
   <RocketsM.label>130mm x3 ミサイル</RocketsM.label>

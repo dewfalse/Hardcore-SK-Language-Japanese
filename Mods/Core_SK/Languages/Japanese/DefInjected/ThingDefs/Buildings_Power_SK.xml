@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <PowerConduit.label>電力 Conduit</PowerConduit.label>
-  <HeavyPowerConduit.label>Heavy 電力 Conduit</HeavyPowerConduit.label>
-  <PowerSwitch.label>電力 Switch</PowerSwitch.label>
+  <PowerConduit.label>電力 電線</PowerConduit.label>
+  <HeavyPowerConduit.label>Heavy 電力 電線</HeavyPowerConduit.label>
+  <PowerSwitch.label>電力 スイッチ</PowerSwitch.label>
   <Battery.label>バッテリー</Battery.label>
   <FissionBattery.label>Fission バッテリー</FissionBattery.label>
   <SolarGenerator.label>太陽 発電機</SolarGenerator.label>
-  <WindTurbine.label>Wind Turbine</WindTurbine.label>
+  <WindTurbine.label>風力発電機</WindTurbine.label>
   <SteamGenerator.label>蒸気 発電機</SteamGenerator.label>
   <GenHopper.label>蒸気 発電機 ホッパー</GenHopper.label>
   <BioGenerator.label>BioGenerator</BioGenerator.label>
@@ -17,14 +17,14 @@
   <FuelPowerPlant.label>燃料 発電機</FuelPowerPlant.label>
   <FuelFeeder.label>燃料 発電機 ホッパー</FuelFeeder.label>
   <GeothermalGenerator.label>地熱 発電機</GeothermalGenerator.label>
-  <ThermoelectricGenerator.label>Thermoelectric 発電機</ThermoelectricGenerator.label>
+  <ThermoelectricGenerator.label>熱電気 発電機</ThermoelectricGenerator.label>
   <NPP.label>Nuclear 発電機</NPP.label>
   <NPPD.label>Nuclear 発電機 Debris</NPPD.label>
   <MNP.label>Military Nuclear Plant</MNP.label>
   <MNPD.label>Military Nuclear Plant Debris</MNPD.label>
   <NuclearFeeder.label>Nuclear Plant ホッパー</NuclearFeeder.label>
   <CapsuleReactor.label>Capsule Reactor</CapsuleReactor.label>
-  <GauseWindTurbine.label>Gause Wind Turbine</GauseWindTurbine.label>
+  <GauseWindTurbine.label>ガウス 風力発電機</GauseWindTurbine.label>
   <TeslaLigthningPower.label>Tesla Lightning 発電機</TeslaLigthningPower.label>
   <PlasmaGeothermalPlant.label>プラズマ Reactor</PlasmaGeothermalPlant.label>
   <PlasmaGenFeeder.label>プラズマ Reactor ホッパー</PlasmaGenFeeder.label>

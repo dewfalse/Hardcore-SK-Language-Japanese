@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>
-  <MealNutrientPaste.label>Nutrient Paste Meal</MealNutrientPaste.label>
-  <MealSimple.label>Simple Meal</MealSimple.label>
+  <MealNutrientPaste.label>栄養 ペースト Meal</MealNutrientPaste.label>
+  <MealSimple.label>簡易 Meal</MealSimple.label>
   <MealFine.label>Fine Meal</MealFine.label>
   <MealLavish.label>Lavish Meal</MealLavish.label>
   <MealLuxury.label>Luxury Meal</MealLuxury.label>
-  <MealSalad.label>Simple サラダ</MealSalad.label>
+  <MealSalad.label>簡易 サラダ</MealSalad.label>
   <MealJerky.label>ジャーキー</MealJerky.label>
   <driedfruit.label>Dried Fruit</driedfruit.label>
   <bread.label>Bread</bread.label>

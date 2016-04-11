@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Radiation.label>Radiation</Radiation.label>
+  <Radiation.label>放射線</Radiation.label>
   <lifesupportheart.label>Blood Pump</lifesupportheart.label>
   <lifesupportlung.label>Respirator</lifesupportlung.label>
   <lifesupportkidney.label>Urine Filter</lifesupportkidney.label>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Stomach.label>胃</Stomach.label>
   <LeftArm.label>左 腕</LeftArm.label>
@@ -12,16 +12,16 @@
   <Nose.label>鼻</Nose.label>
   <Jaw.label>顎</Jaw.label>
   <Spine.label>脊椎</Spine.label>
-  <Rib1.label>First 肋骨</Rib1.label>
-  <Rib2.label>Second 肋骨</Rib2.label>
-  <Rib3.label>Third 肋骨</Rib3.label>
-  <Rib4.label>Fourth 肋骨</Rib4.label>
-  <Rib5.label>Fifth 肋骨</Rib5.label>
-  <Rib6.label>Sixth 肋骨</Rib6.label>
-  <Rib7.label>Seventh 肋骨</Rib7.label>
-  <Rib8.label>Eighth 肋骨</Rib8.label>
-  <Rib9.label>Ninth 肋骨</Rib9.label>
-  <Rib10.label>Tenth 肋骨</Rib10.label>
-  <Rib11.label>Eleventh 肋骨</Rib11.label>
-  <Rib12.label>Twelfth 肋骨</Rib12.label>
+  <Rib1.label>第一 肋骨</Rib1.label>
+  <Rib2.label>第二 肋骨</Rib2.label>
+  <Rib3.label>第三 肋骨</Rib3.label>
+  <Rib4.label>第四 肋骨</Rib4.label>
+  <Rib5.label>第五 肋骨</Rib5.label>
+  <Rib6.label>第六 肋骨</Rib6.label>
+  <Rib7.label>第七 肋骨</Rib7.label>
+  <Rib8.label>第八 肋骨</Rib8.label>
+  <Rib9.label>第九 肋骨</Rib9.label>
+  <Rib10.label>第十 肋骨</Rib10.label>
+  <Rib11.label>第十一 肋骨</Rib11.label>
+  <Rib12.label>第十二 肋骨</Rib12.label>
 </LanguageData>

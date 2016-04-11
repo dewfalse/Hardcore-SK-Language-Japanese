@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <RecruitPrisonerChance.label>Recruit 囚人 chance</RecruitPrisonerChance.label>
-  <TameAnimalChance.label>Tame animal chance</TameAnimalChance.label>
-  <TrainAnimalChance.label>Train animal chance</TrainAnimalChance.label>
+  <TameAnimalChance.label>Tame 動物 chance</TameAnimalChance.label>
+  <TrainAnimalChance.label>Train 動物 chance</TrainAnimalChance.label>
   <SocialImpact.label>Social chat impact</SocialImpact.label>
   <GiftImpact.label>Diplomatic gift impact</GiftImpact.label>
   <TradePriceImprovement.label>Trade price improvement</TradePriceImprovement.label>

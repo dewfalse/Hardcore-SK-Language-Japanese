@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <CookMealSalad.label>Simple サラダ を作る</CookMealSalad.label>
-  <CookMealSalad_Bulk.label>Simple サラダ を作る</CookMealSalad_Bulk.label>
-  <CookMealSimple.label>Simple Meal を調理する</CookMealSimple.label>
-  <CookMealSimple_Bulk.label>Simple Meals を調理する</CookMealSimple_Bulk.label>
+  <CookMealSalad.label>簡易 サラダ を作る</CookMealSalad.label>
+  <CookMealSalad_Bulk.label>簡易 サラダ を作る</CookMealSalad_Bulk.label>
+  <CookMealSimple.label>簡易 Meal を調理する</CookMealSimple.label>
+  <CookMealSimple_Bulk.label>簡易 Meals を調理する</CookMealSimple_Bulk.label>
   <CookMealFine.label>Fine Meal を調理する</CookMealFine.label>
   <CookMealFine_Bulk.label>Fine Meals を調理する</CookMealFine_Bulk.label>
   <CookMealLavish.label>Lavish Meal を調理する</CookMealLavish.label>
@@ -58,7 +58,7 @@
   <MakeFlour.label>挽く 小麦粉</MakeFlour.label>
   <Makesoymilk.label>豆乳 を作る</Makesoymilk.label>
   <Fluffy_CookCatFood.label>キャットフード を作る</Fluffy_CookCatFood.label>
-  <MakeSilage.label>Silage を作る</MakeSilage.label>
+  <MakeSilage.label>飼料 を作る</MakeSilage.label>
   <BrewBeer.label>ビール を醸造する</BrewBeer.label>
   <Distillcider.label>りんご サイダー を醸造する</Distillcider.label>
   <Distillrum.label>ラム酒 を蒸留する</Distillrum.label>

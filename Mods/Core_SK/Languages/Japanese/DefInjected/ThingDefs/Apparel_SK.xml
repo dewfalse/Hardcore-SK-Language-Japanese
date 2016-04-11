@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Apparello_Lederhose.label>革 ズボン</Apparello_Lederhose.label>
   <Norballo_Loincloth.label>Loincloth</Norballo_Loincloth.label>
@@ -15,7 +15,7 @@
   <Apparello_Spants.label>Space Marine Leggings</Apparello_Spants.label>
   <Apparello_Cryptonautpants.label>Cryptonaut ズボン</Apparello_Cryptonautpants.label>
   <Apparel_TribalA.label>Tribal Wear</Apparel_TribalA.label>
-  <Apparello_chefglove.label>Oven Mitts</Apparello_chefglove.label>
+  <Apparello_chefglove.label>オーブン Mitts</Apparello_chefglove.label>
   <Apparello_Workglove.label>革 Gloves</Apparello_Workglove.label>
   <Apparello_ReinforcedGlove.label>Reinforced Gloves</Apparello_ReinforcedGlove.label>
   <Apparello_Motorglove.label>革 Grips</Apparello_Motorglove.label>
@@ -33,9 +33,9 @@
   <Apparello_NorbalMuffshoes.label>毛皮 ブーツ</Apparello_NorbalMuffshoes.label>
   <Apparello_Boots.label>Spurred ブーツ</Apparello_Boots.label>
   <Apparello_Spboots.label>Cryptonaut Springers</Apparello_Spboots.label>
-  <Pirate_Eyepatch.label>Pirate Eyepatch</Pirate_Eyepatch.label>
+  <Pirate_Eyepatch.label>海賊 眼帯</Pirate_Eyepatch.label>
   <Apparel_Scarf.label>マフラー</Apparel_Scarf.label>
-  <Apparello_Shadess.label>Sunshades</Apparello_Shadess.label>
+  <Apparello_Shadess.label>サンシェード</Apparello_Shadess.label>
   <Apparel_CamoScarf.label>迷彩 マフラー</Apparel_CamoScarf.label>
   <Apparello_Brimsk.label>Goggled Ski マスク</Apparello_Brimsk.label>
   <Marine_BattleMask.label>Marine Storm マスク</Marine_BattleMask.label>
@@ -72,13 +72,13 @@
   <Apparel_Cassie.label>Blazer</Apparel_Cassie.label>
   <Apparello_PonPon.label>ポンチョ</Apparello_PonPon.label>
   <Apparel_NSuit.label>Marine スーツ</Apparel_NSuit.label>
-  <Skynet_Cloak.label>Skynet Cloak</Skynet_Cloak.label>
-  <Apparello_GShell.label>Light 電力 アーマー</Apparello_GShell.label>
+  <Skynet_Cloak.label>スカイネット Cloak</Skynet_Cloak.label>
+  <Apparello_GShell.label>ライト 電力 アーマー</Apparello_GShell.label>
   <Apparello_Meditux.label>Doctor&apos;s Brocade</Apparello_Meditux.label>
   <Scout_Jaffa_Armor.label>Scout アーマー</Scout_Jaffa_Armor.label>
   <Apparello_GShellII.label>Medium 電力 アーマー</Apparello_GShellII.label>
   <Apparello_Syndicate.label>シンジケート コート</Apparello_Syndicate.label>
-  <Apparel_HS.label>Сhemical Protection スーツ</Apparel_HS.label>
+  <Apparel_HS.label>化学防護 スーツ</Apparel_HS.label>
   <MedievalArmor_PlateArmor.label>Plate アーマー</MedievalArmor_PlateArmor.label>
   <GhillieOverall.label>Marine Ghillie Overalls</GhillieOverall.label>
   <Marine_Armor.label>Marine Personal アーマー</Marine_Armor.label>
@@ -90,7 +90,7 @@
   <Rimarsenal_InteractorCloak.label>Interactor Cloak</Rimarsenal_InteractorCloak.label>
   <Siegearmor.label>Siege アーマー</Siegearmor.label>
   <CCArmor.label>Close Combat アーマー</CCArmor.label>
-  <MiningHelmet.label>Mining ヘルメット</MiningHelmet.label>
+  <MiningHelmet.label>採掘 ヘルメット</MiningHelmet.label>
   <Apparello_Snorkhood.label>Tusk 頭 Garment</Apparello_Snorkhood.label>
   <Apparello_HornedHead.label>Horned 頭 Garment</Apparello_HornedHead.label>
   <Apparello_Slughood.label>Thick 革 頭 Garment</Apparello_Slughood.label>
@@ -113,7 +113,7 @@
   <Apparello_Vandal.label>Vandal&apos;s Cap and マフラー</Apparello_Vandal.label>
   <Apparel_CowboyHat.label>Duellist&apos;s Hat</Apparel_CowboyHat.label>
   <Apparel_Kufiya.label>カフィーヤ</Apparel_Kufiya.label>
-  <Apparello_wassupcap.label>Bicorne</Apparello_wassupcap.label>
+  <Apparello_wassupcap.label>二角帽</Apparello_wassupcap.label>
   <Apparello_Hardhat.label>Hard Hat</Apparello_Hardhat.label>
   <Apparello_Chefhat.label>Chef&apos;s Hat</Apparello_Chefhat.label>
   <Apparello_Commissar.label>Peaked Cap</Apparello_Commissar.label>
@@ -143,8 +143,8 @@
   <Apparello_Quote.label>War Engineer&apos;s Comm-Link</Apparello_Quote.label>
   <Apparello_Rockman.label>Shuttle Pilot Helm</Apparello_Rockman.label>
   <Interactor_Helmet.label>Interactor Hood</Interactor_Helmet.label>
-  <Apparel_HSH.label>Сhemical Protection ヘルメット</Apparel_HSH.label>
-  <Apparello_Skullhood.label>Human Skull</Apparello_Skullhood.label>
+  <Apparel_HSH.label>化学防護 ヘルメット</Apparel_HSH.label>
+  <Apparello_Skullhood.label>人間 Skull</Apparello_Skullhood.label>
   <Apparello_Furxhood.label>毛皮 頭 Garment</Apparello_Furxhood.label>
   <WeldingHelmet.label>Welding ヘルメット</WeldingHelmet.label>
   <Apparello_basicbrim.label>Voodoo Hat</Apparello_basicbrim.label>
@@ -156,7 +156,7 @@
   <MedievalArmor_GreatHelm.label>Topfhelm</MedievalArmor_GreatHelm.label>
   <Apparello_Bandit.label>Bandit Hat and マフラー</Apparello_Bandit.label>
   <Apparello_Chefhatplus.label>Tinkercraft Chef Hat</Apparello_Chefhatplus.label>
-  <Apparel_Psymask.label>Psy Gas マスク</Apparel_Psymask.label>
+  <Apparel_Psymask.label>Psy ガス マスク</Apparel_Psymask.label>
   <Apparello_Docteur.label>Surgeon&apos;s Headgear</Apparello_Docteur.label>
   <Apparello_Gas.label>ガスマスク</Apparello_Gas.label>
   <Apparello_ViperGas.label>エレファントガスマスク</Apparello_ViperGas.label>
@@ -173,10 +173,10 @@
   <Apparello_Meffect.label>Enviro-Headgear</Apparello_Meffect.label>
   <Apparello_Hivehat.label>Hive ヘルメット</Apparello_Hivehat.label>
   <Apparello_Hivehell.label>蒸気 ヘルメット</Apparello_Hivehell.label>
-  <Apparello_LPow.label>Light 電力 アーマー ヘルメット</Apparello_LPow.label>
+  <Apparello_LPow.label>ライト 電力 アーマー ヘルメット</Apparello_LPow.label>
   <Apparel_DoomHelmet.label>Doom ヘルメット</Apparel_DoomHelmet.label>
   <Apparel_PowerArmorHelmet.label>電力 アーマー ヘルメット</Apparel_PowerArmorHelmet.label>
-  <Buckler.label>Buckler</Buckler.label>
+  <Buckler.label>バックラー</Buckler.label>
   <MedievalShield.label>Medieval シールド</MedievalShield.label>
-  <BallisticShield.label>Ballistic シールド</BallisticShield.label>
+  <BallisticShield.label>防弾盾</BallisticShield.label>
 </LanguageData>

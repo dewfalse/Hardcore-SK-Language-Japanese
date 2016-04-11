@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <PolymersResourceInfo.label>ポリマー</PolymersResourceInfo.label>
   <FuelResourceInfo.label>燃料</FuelResourceInfo.label>
-  <SulphatesResourceInfo.label>Sulphates</SulphatesResourceInfo.label>
+  <SulphatesResourceInfo.label>硫酸塩</SulphatesResourceInfo.label>
   <ParaffinsResourceInfo.label>パラフィン</ParaffinsResourceInfo.label>
-  <SyntheticAmmoniaResourceInfo.label>SyntheticAmmonia</SyntheticAmmoniaResourceInfo.label>
+  <SyntheticAmmoniaResourceInfo.label>合成アンモニア</SyntheticAmmoniaResourceInfo.label>
 </LanguageData>

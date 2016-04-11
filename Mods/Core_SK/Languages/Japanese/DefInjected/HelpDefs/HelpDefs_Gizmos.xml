@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <TRST.label>Trouble starting</TRST.label>
   <BLDN.label>Buildings</BLDN.label>
-  <CRFT.label>Crafting</CRFT.label>
+  <CRFT.label>工作</CRFT.label>
   <MISC.label>その他</MISC.label>
   <ABT.label>About</ABT.label>
 </LanguageData>

@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Matty.label>Matty</Matty.label>
   <Precious.label>Precious</Precious.label>
-  <Metallic.label>Metallic</Metallic.label>
-  <RareMetallic.label>Rare Metallic</RareMetallic.label>
-  <SolidMetallic.label>Solid Metallic</SolidMetallic.label>
+  <Metallic.label>金属製</Metallic.label>
+  <RareMetallic.label>Rare 金属製</RareMetallic.label>
+  <SolidMetallic.label>Solid 金属製</SolidMetallic.label>
   <Woody.label>木の</Woody.label>
   <Stony.label>Stony</Stony.label>
   <Fabric.label>Fabric</Fabric.label>
-  <HF.label>Hitech Fabric</HF.label>
+  <HF.label>ハイテク Fabric</HF.label>
   <Leathery.label>Leathery</Leathery.label>
   <Plastic.label>プラスチック</Plastic.label>
   <Glass.label>ガラス</Glass.label>

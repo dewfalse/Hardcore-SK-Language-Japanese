@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <GuttedCorpse.label>内蔵を取り出された 死骸</GuttedCorpse.label>
-  <EggFRaptorFertilized.label>ラプトル 卵 (Fertilized)</EggFRaptorFertilized.label>
-  <EggLacosdileFertilized.label>Lacosdile 卵 (Fertilized)</EggLacosdileFertilized.label>
+  <EggFRaptorFertilized.label>ラプトル 卵 (有精卵)</EggFRaptorFertilized.label>
+  <EggLacosdileFertilized.label>ラコスダイル 卵 (有精卵)</EggLacosdileFertilized.label>
   <Hay.label>まぐさ</Hay.label>
-  <Silage.label>Silage</Silage.label>
+  <Silage.label>飼料</Silage.label>
   <RawHops.label>ホップ</RawHops.label>
   <RawPotatoes.label>じゃがいも</RawPotatoes.label>
   <RawCorn.label>とうもろこし</RawCorn.label>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <BulkGoodsTrader.label>Bulk Resources 商人</BulkGoodsTrader.label>
   <FoodTrader.label>Food 商人</FoodTrader.label>
@@ -7,7 +7,7 @@
   <CombatSupplier.label>Combat Supplier</CombatSupplier.label>
   <ExoticTrader.label>Exotic Goods 商人</ExoticTrader.label>
   <SlaveTrader.label>Slave 商人</SlaveTrader.label>
-  <DeepSpaceMiningShip.label>Deep Space Mining 宇宙船</DeepSpaceMiningShip.label>
-  <PirateMerchant.label>Pirate Merchant</PirateMerchant.label>
-  <AnimalTrader.label>Animal 商人</AnimalTrader.label>
+  <DeepSpaceMiningShip.label>Deep Space 採掘 宇宙船</DeepSpaceMiningShip.label>
+  <PirateMerchant.label>海賊 Merchant</PirateMerchant.label>
+  <AnimalTrader.label>動物 商人</AnimalTrader.label>
 </LanguageData>

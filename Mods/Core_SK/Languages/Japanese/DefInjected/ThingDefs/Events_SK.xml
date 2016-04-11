@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <FWcounter.label>unspecified filth</FWcounter.label>
   <GENcounter.label>unspecified filth</GENcounter.label>
@@ -31,8 +31,8 @@
   <SScounter.label>unspecified filth</SScounter.label>
   <RADcounter.label>unspecified filth</RADcounter.label>
   <NFcounter.label>unspecified filth</NFcounter.label>
-  <CosmicRAD.label>radiation filth</CosmicRAD.label>
-  <NFRAD.label>radiation filth</NFRAD.label>
+  <CosmicRAD.label>放射線 filth</CosmicRAD.label>
+  <NFRAD.label>放射線 filth</NFRAD.label>
   <Abomination.label>忌まわしきもの</Abomination.label>
   <Void.label>Shadow</Void.label>
 </LanguageData>

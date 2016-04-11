@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Door.label>ドア</Door.label>
   <Autodoor.label>自動ドア</Autodoor.label>
@@ -8,12 +8,12 @@
   <OpenBlastDoor.label>Large Blast Gate (Open)</OpenBlastDoor.label>
   <ClosedBlastDoor.label>Large Blast Gate (Closed)</ClosedBlastDoor.label>
   <JammedBlastDoor.label>Large Blast Gate (Jammed)</JammedBlastDoor.label>
-  <Wall.label>Wall</Wall.label>
-  <WallLog.label>Wall</WallLog.label>
-  <Snowywall.label>雪 Wall</Snowywall.label>
-  <WallLighted.label>Motion センサー Lighted Wall</WallLighted.label>
+  <Wall.label>壁</Wall.label>
+  <WallLog.label>壁</WallLog.label>
+  <Snowywall.label>雪の壁</Snowywall.label>
+  <WallLighted.label>Motion センサー Lightedの壁</WallLighted.label>
   <Fence.label>フェンス</Fence.label>
   <RoofSupport.label>Roof Support</RoofSupport.label>
   <DoorGlass.label>ドア</DoorGlass.label>
-  <Window.label>Window</Window.label>
+  <Window.label>窓</Window.label>
 </LanguageData>

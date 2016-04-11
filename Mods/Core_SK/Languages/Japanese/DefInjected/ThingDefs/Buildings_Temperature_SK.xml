@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Campfire.label>キャンプファイア</Campfire.label>
   <FirePit.label>炉</FirePit.label>
   <Building_Heater.label>石炭 Burner</Building_Heater.label>
   <HeaterHopper.label>石炭 Burner ホッパー</HeaterHopper.label>
-  <EHeatedFloor.label>Electric Heated 床</EHeatedFloor.label>
+  <EHeatedFloor.label>電動 Heated フロア</EHeatedFloor.label>
   <SmallHeater.label>Small ヒーター</SmallHeater.label>
   <SmallFan.label>Small Fan</SmallFan.label>
   <Heater.label>ヒーター</Heater.label>

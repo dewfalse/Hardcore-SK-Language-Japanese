@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <QuadrupedAnimalWithPaws.label>四足動物 animal</QuadrupedAnimalWithPaws.label>
-  <QuadrupedAnimalWithPawsAndTail.label>四足動物 animal</QuadrupedAnimalWithPawsAndTail.label>
-  <QuadrupedAnimalWithHooves.label>四足動物 animal</QuadrupedAnimalWithHooves.label>
-  <QuadrupedAnimalWithHoovesAndHump.label>四足動物 animal</QuadrupedAnimalWithHoovesAndHump.label>
-  <QuadrupedAnimalWithHoovesAndTusks.label>四足動物 animal</QuadrupedAnimalWithHoovesAndTusks.label>
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>四足動物 animal</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
-  <QuadrupedAnimalWithHoovesAndHorn.label>四足動物 animal</QuadrupedAnimalWithHoovesAndHorn.label>
-  <QuadrupedAnimalWithClawsTailAndJowl.label>四足動物 animal</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <QuadrupedAnimalWithPaws.label>四足 動物</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>四足 動物</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>四足 動物</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>四足 動物</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>四足 動物</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>四足 動物</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>四足 動物</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>四足 動物</QuadrupedAnimalWithClawsTailAndJowl.label>
   <TurtleLike.label>Turtle-like</TurtleLike.label>
   <Monkey.label>猿</Monkey.label>
 </LanguageData>

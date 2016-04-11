@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Clear.label>晴れ</Clear.label>
-  <Fog.label>Fog</Fog.label>
+  <Fog.label>霧</Fog.label>
   <Rain.label>雨</Rain.label>
-  <RainyThunderstorm.label>Rainy 雷雨</RainyThunderstorm.label>
+  <RainyThunderstorm.label>雷雨</RainyThunderstorm.label>
   <Rainstorm.label>Heavy 暴風雨</Rainstorm.label>
   <FoggyRain.label>Foggy 雨</FoggyRain.label>
   <SnowHard.label>Hard 雪</SnowHard.label>

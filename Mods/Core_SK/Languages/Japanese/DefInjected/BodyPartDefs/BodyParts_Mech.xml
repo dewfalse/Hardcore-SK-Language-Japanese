@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MechanicalShell.label>砲弾</MechanicalShell.label>
   <PlasmaCutter.label>プラズマ cutter</PlasmaCutter.label>
   <MechanicalAntenna.label>触角</MechanicalAntenna.label>
   <MechanicalCore.label>コア</MechanicalCore.label>
-  <FrontLeftMechanicalLeg.label>Front 左 脚</FrontLeftMechanicalLeg.label>
-  <FrontRightMechanicalLeg.label>Front 右 脚</FrontRightMechanicalLeg.label>
-  <MiddleLeftMechanicalLeg.label>Middle 左 脚</MiddleLeftMechanicalLeg.label>
-  <MiddleRightMechanicalLeg.label>Middle 右 脚</MiddleRightMechanicalLeg.label>
+  <FrontLeftMechanicalLeg.label>前 左 脚</FrontLeftMechanicalLeg.label>
+  <FrontRightMechanicalLeg.label>前 右 脚</FrontRightMechanicalLeg.label>
+  <MiddleLeftMechanicalLeg.label>中 左 脚</MiddleLeftMechanicalLeg.label>
+  <MiddleRightMechanicalLeg.label>中 右 脚</MiddleRightMechanicalLeg.label>
   <RearLeftMechanicalLeg.label>後ろ 左 脚</RearLeftMechanicalLeg.label>
   <RearRightMechanicalLeg.label>後ろ 右 脚</RearRightMechanicalLeg.label>
   <MechanicalGearBox.label>Gear box</MechanicalGearBox.label>
@@ -23,13 +23,13 @@
   <MechanicalCoreScoutbot.label>コア</MechanicalCoreScoutbot.label>
   <MechanicalHoverComponent.label>Hover コンポーネント</MechanicalHoverComponent.label>
   <MechanicalBackupHoverComponent.label>Backup hover コンポーネント</MechanicalBackupHoverComponent.label>
-  <FrontGun.label>Front gun</FrontGun.label>
+  <FrontGun.label>前 gun</FrontGun.label>
   <TopRightGunProtrusion.label>Top 右 gun protrusion</TopRightGunProtrusion.label>
   <BottomRightGunProtrusion.label>Bottom 右 gun protrusion</BottomRightGunProtrusion.label>
   <TopLeftGunProtrusion.label>Top 左 gun protrusion</TopLeftGunProtrusion.label>
   <BottomLeftGunProtrusion.label>Bottom 左 gun protrusion</BottomLeftGunProtrusion.label>
-  <FrontShield.label>Front シールド</FrontShield.label>
-  <ShieldWindow.label>Front シールド window</ShieldWindow.label>
+  <FrontShield.label>前 シールド</FrontShield.label>
+  <ShieldWindow.label>前 シールド 窓</ShieldWindow.label>
   <MechanicalCephalothorax.label>cephalothorax</MechanicalCephalothorax.label>
   <LargeMechanicalAbdomen.label>Large abdomen</LargeMechanicalAbdomen.label>
   <MechanicalTentacle.label>触手</MechanicalTentacle.label>
@@ -37,8 +37,8 @@
   <Claw.label>爪</Claw.label>
   <ClawGrip.label>爪 grip</ClawGrip.label>
   <SightSensor.label>Sight センサー</SightSensor.label>
-  <FrontLeftMechanicalPalp.label>Front シールド window</FrontLeftMechanicalPalp.label>
-  <FrontRightMechanicalPalp.label>Front シールド window</FrontRightMechanicalPalp.label>
+  <FrontLeftMechanicalPalp.label>前 シールド 窓</FrontLeftMechanicalPalp.label>
+  <FrontRightMechanicalPalp.label>前 シールド 窓</FrontRightMechanicalPalp.label>
   <MechanicalBody.label>Mechanical body</MechanicalBody.label>
   <ArmorPlating.label>アーマー plating</ArmorPlating.label>
   <InternalMetalPlate.label>Internal metal plate</InternalMetalPlate.label>
@@ -46,7 +46,7 @@
   <MechanicalBodySmall.label>Body</MechanicalBodySmall.label>
   <LeftTubing.label>左 tubing</LeftTubing.label>
   <RightTubing.label>右 tubing</RightTubing.label>
-  <FuelContainer.label>燃料 container</FuelContainer.label>
+  <FuelContainer.label>燃料 コンテナ</FuelContainer.label>
   <Igniter.label>Igniter</Igniter.label>
   <LeftExplosiveTank.label>左 explosive tank</LeftExplosiveTank.label>
   <RightExplosiveTank.label>右 explosive tank</RightExplosiveTank.label>

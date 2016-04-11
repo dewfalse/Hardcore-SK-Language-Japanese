@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <AdvancedPowerArm.label>Advanced 電力 腕</AdvancedPowerArm.label>
-  <AdvancedBionicArm.label>Advanced 強化 腕</AdvancedBionicArm.label>
-  <AdvancedBionicLeg.label>Advanced 強化 脚</AdvancedBionicLeg.label>
-  <AdvancedBionicHand.label>Advanced 強化 手</AdvancedBionicHand.label>
-  <AdvancedBionicFoot.label>Advanced 強化 足</AdvancedBionicFoot.label>
-  <AdvancedBionicEar.label>Advanced 強化 耳</AdvancedBionicEar.label>
-  <AdvancedBionicJaw.label>Advanced 強化 顎</AdvancedBionicJaw.label>
-  <AdvancedBionicEye.label>Advanced 強化 目</AdvancedBionicEye.label>
-  <AdvancedBionicSpine.label>Advanced 強化 脊椎</AdvancedBionicSpine.label>
-  <ExoskeletonSuit.label>Exoskeleton スーツ</ExoskeletonSuit.label>
+  <AdvancedPowerArm.label>改良型 電力 腕</AdvancedPowerArm.label>
+  <AdvancedBionicArm.label>改良型 強化 腕</AdvancedBionicArm.label>
+  <AdvancedBionicLeg.label>改良型 強化 脚</AdvancedBionicLeg.label>
+  <AdvancedBionicHand.label>改良型 強化 手</AdvancedBionicHand.label>
+  <AdvancedBionicFoot.label>改良型 強化 足</AdvancedBionicFoot.label>
+  <AdvancedBionicEar.label>改良型 強化 耳</AdvancedBionicEar.label>
+  <AdvancedBionicJaw.label>改良型 強化 顎</AdvancedBionicJaw.label>
+  <AdvancedBionicEye.label>改良型 強化 目</AdvancedBionicEye.label>
+  <AdvancedBionicSpine.label>改良型 強化 脊椎</AdvancedBionicSpine.label>
+  <ExoskeletonSuit.label>外骨格 スーツ</ExoskeletonSuit.label>
 </LanguageData>

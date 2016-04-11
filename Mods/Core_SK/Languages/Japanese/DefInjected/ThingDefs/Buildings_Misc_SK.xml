@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <SunLamp.label>Sun Lamp</SunLamp.label>
-  <FertilizerPump.label>Terraforming Pump</FertilizerPump.label>
-  <OrbitalTradeBeacon.label>Orbital Trade Beacon</OrbitalTradeBeacon.label>
-  <CommsConsole.label>Comms Console</CommsConsole.label>
-  <MultiAnalyzer.label>Multi-Analyzer</MultiAnalyzer.label>
-  <VitalsMonitor.label>Vitals Monitor</VitalsMonitor.label>
-  <ToolCabinet.label>Large Tool Cabinet</ToolCabinet.label>
-  <Small_ToolCabinet.label>Small Tool Cabinet</Small_ToolCabinet.label>
-  <Cook_Shelf.label>Cooking Cabinet</Cook_Shelf.label>
-  <Grave.label>Grave</Grave.label>
-  <Sarcophagus.label>Sarcophagus</Sarcophagus.label>
+  <SunLamp.label>太陽灯</SunLamp.label>
+  <FertilizerPump.label>テラフォーミング Pump</FertilizerPump.label>
+  <OrbitalTradeBeacon.label>貿易用ビーコン</OrbitalTradeBeacon.label>
+  <CommsConsole.label>通信機</CommsConsole.label>
+  <MultiAnalyzer.label>マルチ・アナライザ</MultiAnalyzer.label>
+  <VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
+  <ToolCabinet.label>Large ツール キャビネット</ToolCabinet.label>
+  <Small_ToolCabinet.label>Small ツール キャビネット</Small_ToolCabinet.label>
+  <Cook_Shelf.label>Cooking キャビネット</Cook_Shelf.label>
+  <Grave.label>墓</Grave.label>
+  <Sarcophagus.label>石棺</Sarcophagus.label>
   <CryptosleepCasket.label>冷凍睡眠 カプセル</CryptosleepCasket.label>
   <AncientCryptosleepCasket.label>古代の 冷凍睡眠 カプセル</AncientCryptosleepCasket.label>
   <Holodeck.label>Holosuite</Holodeck.label>
-  <AutopsyTable.label>Autopsy Table</AutopsyTable.label>
-  <PunchingBag.label>Punching Bag</PunchingBag.label>
+  <AutopsyTable.label>解剖台</AutopsyTable.label>
+  <PunchingBag.label>サンドバッグ</PunchingBag.label>
   <Stargate.label>Stargate</Stargate.label>
-  <MiningHelmetGlower.label>Mining ヘルメット Light</MiningHelmetGlower.label>
+  <MiningHelmetGlower.label>採掘 ヘルメット ライト</MiningHelmetGlower.label>
   <DermalRegenerator.label>Dermal regenerator</DermalRegenerator.label>
   <ImpactionCharge.label>Impaction Charge</ImpactionCharge.label>
 </LanguageData>

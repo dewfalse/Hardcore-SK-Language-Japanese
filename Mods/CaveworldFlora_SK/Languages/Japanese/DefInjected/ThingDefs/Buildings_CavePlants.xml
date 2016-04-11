@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <ShimmershroomGlowerSmall.label>成長中 シマーシュルーム</ShimmershroomGlowerSmall.label>
   <ShimmershroomGlowerMedium.label>成長中 シマーシュルーム</ShimmershroomGlowerMedium.label>
@@ -9,5 +9,5 @@
   <GleamcapGlowerSmall.label>成長中 グリームキャップ</GleamcapGlowerSmall.label>
   <GleamcapGlowerMedium.label>成長中 グリームキャップ</GleamcapGlowerMedium.label>
   <GleamcapGlowerBig.label>成長中 グリームキャップ</GleamcapGlowerBig.label>
-  <GleamcapSporeSpawner.label>Spores</GleamcapSporeSpawner.label>
+  <GleamcapSporeSpawner.label>胞子</GleamcapSporeSpawner.label>
 </LanguageData>

@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ButcherCorpseFlesh.label>Butcher 死骸</ButcherCorpseFlesh.label>
-  <MakeStoneBlocks.label>Stone ブロック を作る</MakeStoneBlocks.label>
-  <MakeStoneBlocks_Electric.label>Stone ブロック を作る</MakeStoneBlocks_Electric.label>
+  <ButcherCorpseFlesh.label>死骸 を解体する</ButcherCorpseFlesh.label>
+  <MakeStoneBlocks.label>石 ブロック を作る</MakeStoneBlocks.label>
+  <MakeStoneBlocks_Electric.label>石 ブロック を作る</MakeStoneBlocks_Electric.label>
   <MakeWoodPlanks_Hand.label>木 厚板 をのこぎりで切る</MakeWoodPlanks_Hand.label>
   <MakeWoodPlanks_Electric.label>木 厚板 をのこぎりで切る</MakeWoodPlanks_Electric.label>
   <MakeBambooPlanks_Hand.label>竹 厚板 をのこぎりで切る</MakeBambooPlanks_Hand.label>
@@ -12,15 +12,15 @@
   <MakeCharcoal_Hand.label>木炭 を作る</MakeCharcoal_Hand.label>
   <MakeCharcoal_Electric.label>木炭 を作る</MakeCharcoal_Electric.label>
   <ExtractMetalFromSlag.label>Metal from スラグ を精錬する</ExtractMetalFromSlag.label>
-  <SmeltWeapon.label>Metal from Weapon を精錬する</SmeltWeapon.label>
+  <SmeltWeapon.label>Metal from 武器 を精錬する</SmeltWeapon.label>
   <MakeElectronicComponents.label>電子部品 を作る</MakeElectronicComponents.label>
-  <MakeIntegratedCircuits.label>Integrated 電気回路 を作る</MakeIntegratedCircuits.label>
-  <MakeMicrochipIntegratedCircuits.label>Microchip Integrated Circuit を作る</MakeMicrochipIntegratedCircuits.label>
+  <MakeIntegratedCircuits.label>集積 電気回路 を作る</MakeIntegratedCircuits.label>
+  <MakeMicrochipIntegratedCircuits.label>マイクロチップ 集積 電子回路 を作る</MakeMicrochipIntegratedCircuits.label>
   <MakeBioelectronicDevices.label>BioElectronic Device を作る</MakeBioelectronicDevices.label>
   <MakeBioDiesel.label>BioDiesel 燃料 を作る</MakeBioDiesel.label>
-  <MakeClayBricks.label>粘土 Bricks を作る</MakeClayBricks.label>
+  <MakeClayBricks.label>粘土 レンガ を作る</MakeClayBricks.label>
   <RecycleApparel.label>衣服 into Textiles をリサイクルする</RecycleApparel.label>
-  <MakeGlassBatch.label>ガラス Batch を作る</MakeGlassBatch.label>
+  <MakeGlassBatch.label>ガラス バッチ を作る</MakeGlassBatch.label>
   <MakeGlass.label>ガラス フレーム を作る</MakeGlass.label>
   <MakeReinforcedGlass.label>強化ガラス フレーム を作る</MakeReinforcedGlass.label>
   <MixConcrete.label>コンクリート を混ぜる</MixConcrete.label>
@@ -28,13 +28,13 @@
   <MakeMulch.label>マルチ を作る</MakeMulch.label>
   <MakeCloth.label>生地 を作る</MakeCloth.label>
   <MakeWeedCloth.label>ウィード 生地 (麻 を作る)</MakeWeedCloth.label>
-  <MakeSynthreadCloth.label>Synthread 生地 を作る</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.label>シンスレッド 生地 を作る</MakeSynthreadCloth.label>
   <MakeDevilstrand.label>デビルストランド 生地 を作る</MakeDevilstrand.label>
-  <MakeHyperweaveCloth.label>Hyperweave 生地 を作る</MakeHyperweaveCloth.label>
+  <MakeHyperweaveCloth.label>ハイパーウィーブ 生地 を作る</MakeHyperweaveCloth.label>
   <ExtractBiomatterCorpse.label>Extract バイオマター from 死骸</ExtractBiomatterCorpse.label>
   <MakeEthanolFuel.label>エタノール 燃料 を作る</MakeEthanolFuel.label>
   <MakeSilicon_Electric.label>シリコン を作る</MakeSilicon_Electric.label>
-  <MakeArtificialBone.label>Artificial Bones を作る</MakeArtificialBone.label>
+  <MakeArtificialBone.label>人工 骨 を作る</MakeArtificialBone.label>
   <MakeNaturalEye.label>生体 目 を培養する</MakeNaturalEye.label>
   <MakeNaturalEar.label>生体 耳 を培養する</MakeNaturalEar.label>
   <MakeNaturalNose.label>生体 鼻 を培養する</MakeNaturalNose.label>
@@ -48,9 +48,9 @@
   <Makeherbmeds.label>Herbal 医療 Kit を作る</Makeherbmeds.label>
   <makemedicine.label>医薬品 を作成する</makemedicine.label>
   <makelifesupport.label>Life Support Device を作る</makelifesupport.label>
-  <makeadvmedicine.label>Advanced 医薬品 を作成する</makeadvmedicine.label>
+  <makeadvmedicine.label>改良型 医薬品 を作成する</makeadvmedicine.label>
   <makesoylentgreen.label>ソイレント・グリーン を作る</makesoylentgreen.label>
-  <TrainerAutopsy.label>Perform Autopsy</TrainerAutopsy.label>
+  <TrainerAutopsy.label>Perform 解剖</TrainerAutopsy.label>
   <ProduceAPoly.label>Fabricate Alpha Poly</ProduceAPoly.label>
   <ProduceBPoly.label>Fabricate Beta Poly</ProduceBPoly.label>
   <BuildMagneticMaterial.label>Synthesize Magnetic Material</BuildMagneticMaterial.label>
@@ -64,9 +64,9 @@
   <MakeKevlar.label>ケブラー を作る</MakeKevlar.label>
   <MakeCarbon.label>カーボン を作る</MakeCarbon.label>
   <MakeDrillHead.label>ドリルヘッド を作る</MakeDrillHead.label>
-  <MakePainting.label>a Painting を製造する</MakePainting.label>
-  <CookPaint.label>Painting Supplies を製造する</CookPaint.label>
+  <MakePainting.label>a 絵画 を製造する</MakePainting.label>
+  <CookPaint.label>絵画 Supplies を製造する</CookPaint.label>
   <MakeHexcell.label>Hex-Cells を作成する</MakeHexcell.label>
-  <MakeCompaste.label>Compound Paste を作成する</MakeCompaste.label>
+  <MakeCompaste.label>合成 ペースト を作成する</MakeCompaste.label>
   <MakeRobotParts.label>ロボット パーツ を作る</MakeRobotParts.label>
 </LanguageData>

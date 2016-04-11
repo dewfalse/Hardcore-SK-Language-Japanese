@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Sandbags.label>Sandbags</Sandbags.label>
-  <Parapet.label>Parapet</Parapet.label>
+  <Parapet.label>胸壁</Parapet.label>
   <chevalDeFrise.label>防御柵</chevalDeFrise.label>
-  <WallEmbrasure.label>Embrasure</WallEmbrasure.label>
+  <WallEmbrasure.label>銃眼</WallEmbrasure.label>
   <WallWire.label>Barbed 電線</WallWire.label>
   <Moat.label>Shallow Moat</Moat.label>
-  <TrapDeadfall.label>Deadfall 罠</TrapDeadfall.label>
+  <TrapDeadfall.label>落とし 罠</TrapDeadfall.label>
   <TrapIEDBomb.label>IED 罠</TrapIEDBomb.label>
-  <TrapIEDIncendiary.label>IED Napalm 罠</TrapIEDIncendiary.label>
+  <TrapIEDIncendiary.label>IED ナパーム 罠</TrapIEDIncendiary.label>
   <TurretGun.label>Automated Sentry タレット</TurretGun.label>
   <Turret_M2Browning.label>14.5mm Heavy MG タレット</Turret_M2Browning.label>
   <Turret_ChainGun.label>35mm 機関砲 タレット</Turret_ChainGun.label>
   <AvengerTurretGun.label>30mm Avenger Fire タレット</AvengerTurretGun.label>
-  <VulcanCannon.label>20mm Vulcan キャノン タレット</VulcanCannon.label>
-  <Turret_MortarIncendiary.label>80mm Incendiary 迫撃砲 Launcher</Turret_MortarIncendiary.label>
-  <Turret_MortarBomb.label>80mm Explosive 迫撃砲 Launcher</Turret_MortarBomb.label>
-  <Turret_MortarEMP.label>80mm EMP 迫撃砲 Launcher</Turret_MortarEMP.label>
-  <Turret_AGS30GrenadeLauncher.label>グレネード Launcher タレット</Turret_AGS30GrenadeLauncher.label>
-  <Turret_MortarEMP.label>80mm EMP 迫撃砲 Launcher</Turret_MortarEMP.label>
+  <VulcanCannon.label>20mm バルカン キャノン タレット</VulcanCannon.label>
+  <Turret_MortarIncendiary.label>80mm Incendiary 迫撃砲 ランチャー</Turret_MortarIncendiary.label>
+  <Turret_MortarBomb.label>80mm Explosive 迫撃砲 ランチャー</Turret_MortarBomb.label>
+  <Turret_MortarEMP.label>80mm EMP 迫撃砲 ランチャー</Turret_MortarEMP.label>
+  <Turret_AGS30GrenadeLauncher.label>グレネード ランチャー タレット</Turret_AGS30GrenadeLauncher.label>
+  <Turret_MortarEMP.label>80mm EMP 迫撃砲 ランチャー</Turret_MortarEMP.label>
   <LaserTurretGun.label>レーザー タレット</LaserTurretGun.label>
   <PrecisionTurretGun.label>Precision Laserbeam タレット</PrecisionTurretGun.label>
   <PlasmaTurretGun.label>プラズマ タレット</PlasmaTurretGun.label>
@@ -26,9 +26,9 @@
   <Turret_Cannon.label>120mm Tank キャノン タレット</Turret_Cannon.label>
   <HowitzerTurretGun.label>155mm 榴弾砲 キャノン タレット</HowitzerTurretGun.label>
   <Turret_DevastatorMortarBomb.label>Devastator Magnetic カタパルト</Turret_DevastatorMortarBomb.label>
-  <LightMissileSystem.label>Light ミサイル System</LightMissileSystem.label>
-  <MediumMissileSystem.label>Medium ミサイル System</MediumMissileSystem.label>
-  <RLGun.label>Heavy ミサイル System</RLGun.label>
+  <LightMissileSystem.label>ライト ミサイル システム</LightMissileSystem.label>
+  <MediumMissileSystem.label>Medium ミサイル システム</MediumMissileSystem.label>
+  <RLGun.label>Heavy ミサイル システム</RLGun.label>
   <NavalGunTurretGun.label>35mm Automated 機関砲 タレット</NavalGunTurretGun.label>
   <Building_Pawn_Upgrader.label>Nanite シールド Station</Building_Pawn_Upgrader.label>
 </LanguageData>

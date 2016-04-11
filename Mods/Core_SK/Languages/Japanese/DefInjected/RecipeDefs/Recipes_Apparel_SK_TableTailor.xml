@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <CraftApparello_Bandal.label>Baseball Cap を仕立てる</CraftApparello_Bandal.label>
   <CraftApparello_pieband.label>バンダナ を仕立てる</CraftApparello_pieband.label>
@@ -9,7 +9,7 @@
   <CraftApparello_Vandal.label>Vandal&apos;s Cap and マフラー を仕立てる</CraftApparello_Vandal.label>
   <CraftApparel_CowboyHat.label>Duellist&apos;s Hat を仕立てる</CraftApparel_CowboyHat.label>
   <CraftApparel_Kufiya.label>カフィーヤ を仕立てる</CraftApparel_Kufiya.label>
-  <CraftApparello_wassupcap.label>Bicorne を仕立てる</CraftApparello_wassupcap.label>
+  <CraftApparello_wassupcap.label>二角帽 を仕立てる</CraftApparello_wassupcap.label>
   <CraftApparello_Hardhat.label>Hard Hat を仕立てる</CraftApparello_Hardhat.label>
   <CraftApparello_Chefhat.label>Chef&apos;s Hat を仕立てる</CraftApparello_Chefhat.label>
   <CraftApparello_Commissar.label>Peaked Cap を仕立てる</CraftApparello_Commissar.label>
@@ -23,10 +23,10 @@
   <CraftApparello_basicbrim.label>Voodoo Hat を仕立てる</CraftApparello_basicbrim.label>
   <CraftApparello_NorbalSagecowl.label>Cowl を仕立てる</CraftApparello_NorbalSagecowl.label>
   <CraftApparello_Bandit.label>Bandit Hat and マフラー を仕立てる</CraftApparello_Bandit.label>
-  <CraftPirate_Eyepatch.label>Pirate Eyepatch を仕立てる</CraftPirate_Eyepatch.label>
+  <CraftPirate_Eyepatch.label>海賊 眼帯 を仕立てる</CraftPirate_Eyepatch.label>
   <CraftApparel_Scarf.label>マフラー を仕立てる</CraftApparel_Scarf.label>
   <CraftApparel_CamoScarf.label>迷彩 マフラー を仕立てる</CraftApparel_CamoScarf.label>
-  <CraftApparello_chefglove.label>Oven Mitts を仕立てる</CraftApparello_chefglove.label>
+  <CraftApparello_chefglove.label>オーブン Mitts を仕立てる</CraftApparello_chefglove.label>
   <CraftApparello_Workglove.label>革 Gloves を仕立てる</CraftApparello_Workglove.label>
   <CraftApparello_Motorglove.label>革 Grips を仕立てる</CraftApparello_Motorglove.label>
   <CraftNorballo_Furcoat.label>毛皮 コート を仕立てる</CraftNorballo_Furcoat.label>

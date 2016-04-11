@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <BuildHandGun.label>Colt M1911 を組み立てる</BuildHandGun.label>
   <BuildNailGun.label>Nail Gun を組み立てる</BuildNailGun.label>
@@ -91,7 +91,7 @@
   <BuildPila.label>Pila を作成する</BuildPila.label>
   <BuildBow_Great.label>Great Bow を作成する</BuildBow_Great.label>
   <BuildNorbal_Scorpion.label>スコルピオ を作成する</BuildNorbal_Scorpion.label>
-  <BuildArbalest.label>Balestra を作成する</BuildArbalest.label>
+  <BuildArbalest.label>バレストラ を作成する</BuildArbalest.label>
   <BuildCrossbow.label>クロスボウ を作成する</BuildCrossbow.label>
   <BuildRecurveBow.label>Recurve Bow を作成する</BuildRecurveBow.label>
   <BuildNorbalBow_Grape.label>Scythian Bow を作成する</BuildNorbalBow_Grape.label>
@@ -102,8 +102,8 @@
   <BuildNorbalMeleeWeapon_ShortSword.label>Heroic Sword を鍛造する</BuildNorbalMeleeWeapon_ShortSword.label>
   <BuildNorbalMeleeWeapon_Ax.label>Norbal War Axe を鍛造する</BuildNorbalMeleeWeapon_Ax.label>
   <BuildNorbalMeleeWeapon_Bigax.label>Battleaxe を鍛造する</BuildNorbalMeleeWeapon_Bigax.label>
-  <BuildMeleeWeapon_Dagger.label>Dagger を鍛造する</BuildMeleeWeapon_Dagger.label>
-  <BuildMeleeWeapon_Gladius.label>Gladius を鍛造する</BuildMeleeWeapon_Gladius.label>
+  <BuildMeleeWeapon_Dagger.label>ダガー を鍛造する</BuildMeleeWeapon_Dagger.label>
+  <BuildMeleeWeapon_Gladius.label>グラディウス を鍛造する</BuildMeleeWeapon_Gladius.label>
   <BuildMeleeWeapon_LongSword.label>Longsword を鍛造する</BuildMeleeWeapon_LongSword.label>
   <BuildMeleeWeapon_Scimitar.label>シミター を鍛造する</BuildMeleeWeapon_Scimitar.label>
   <BuildMeleeWeapon_Glaive.label>Glaive を鍛造する</BuildMeleeWeapon_Glaive.label>
@@ -111,11 +111,11 @@
   <BuildMeleeWeapon_Knife.label>ナイフ を鍛造する</BuildMeleeWeapon_Knife.label>
   <BuildMeleeWeapon_Bonesaw.label>Bonesaw を鍛造する</BuildMeleeWeapon_Bonesaw.label>
   <BuildMeleeWeapon_Machete.label>マチェーテ を鍛造する</BuildMeleeWeapon_Machete.label>
-  <BuildMeleeWeapon_Monkeywrench.label>猿 Wrench を鍛造する</BuildMeleeWeapon_Monkeywrench.label>
-  <BuildMeleeWeapon_Cleaver.label>Сleaver を鍛造する</BuildMeleeWeapon_Cleaver.label>
+  <BuildMeleeWeapon_Monkeywrench.label>モンキーレンチ を鍛造する</BuildMeleeWeapon_Monkeywrench.label>
+  <BuildMeleeWeapon_Cleaver.label>包丁 を鍛造する</BuildMeleeWeapon_Cleaver.label>
   <BuildMeleeWeapon_Shiv.label>ジャックナイフ を鍛造する</BuildMeleeWeapon_Shiv.label>
-  <BuildMeleeWeapon_Tanto.label>Tanto を鍛造する</BuildMeleeWeapon_Tanto.label>
+  <BuildMeleeWeapon_Tanto.label>短刀 を鍛造する</BuildMeleeWeapon_Tanto.label>
   <BuildMeleeWeapon_Katana.label>刀 を鍛造する</BuildMeleeWeapon_Katana.label>
-  <BuildMeleeWeapon_Tsurugi.label>Tsurugi を鍛造する</BuildMeleeWeapon_Tsurugi.label>
+  <BuildMeleeWeapon_Tsurugi.label>剣 を鍛造する</BuildMeleeWeapon_Tsurugi.label>
   <BuildMeleeWeapon_Sledgehammer.label>スレッジハンマー を鍛造する</BuildMeleeWeapon_Sledgehammer.label>
 </LanguageData>

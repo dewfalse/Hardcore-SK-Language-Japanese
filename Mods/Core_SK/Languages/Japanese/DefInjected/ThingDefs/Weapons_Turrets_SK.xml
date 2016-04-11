@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <TrainingBullet.label>Training 弾丸</TrainingBullet.label>
   <Bullet_TurretImprovised.label>Improvised タレット 弾丸</Bullet_TurretImprovised.label>
@@ -9,17 +9,17 @@
   <Gun_ChainGun.label>35mm 機関砲 砲弾</Gun_ChainGun.label>
   <Bullet_Avenger.label>30mm Avenger 砲弾</Bullet_Avenger.label>
   <Gun_Avenger.label>30mm Avenger Fire キャノン</Gun_Avenger.label>
-  <Bullet_VulcanCannon.label>20mm Vulcan キャノン 弾丸</Bullet_VulcanCannon.label>
-  <Gun_VulcanCannon.label>Vulcan キャノン</Gun_VulcanCannon.label>
+  <Bullet_VulcanCannon.label>20mm バルカン キャノン 弾丸</Bullet_VulcanCannon.label>
+  <Gun_VulcanCannon.label>バルカン キャノン</Gun_VulcanCannon.label>
   <Bullet_AMTurret.label>.50cal アンチマテリアル タレット Round</Bullet_AMTurret.label>
   <Gun_AMTurret.label>.50cal アンチマテリアル タレット Gun</Gun_AMTurret.label>
   <Bullet_LaserTurret.label>レーザー タレット Beam</Bullet_LaserTurret.label>
   <Gun_LaserTurret.label>レーザー タレット Gun</Gun_LaserTurret.label>
   <Gun_TurretPrecision.label>Precision レーザー タレット Gun</Gun_TurretPrecision.label>
   <Projectile_30x29mmGrenade.label>30mmx6 グレネード</Projectile_30x29mmGrenade.label>
-  <Gun_AGS30GrenadeLauncher.label>30mm グレネード Launcher</Gun_AGS30GrenadeLauncher.label>
+  <Gun_AGS30GrenadeLauncher.label>30mm グレネード ランチャー</Gun_AGS30GrenadeLauncher.label>
   <Bullet_EMPTurret.label>EMP タレット グレネード</Bullet_EMPTurret.label>
-  <Artillery_MortarEMP.label>EMP グレネード Launcher</Artillery_MortarEMP.label>
+  <Artillery_MortarEMP.label>EMP グレネード ランチャー</Artillery_MortarEMP.label>
   <Bullet_CannonTurret.label>120mm HEAT 砲弾</Bullet_CannonTurret.label>
   <Gun_CannonTurret.label>120mm Tank キャノン</Gun_CannonTurret.label>
   <Howizer_Cannon.label>155mm 榴弾砲 砲弾</Howizer_Cannon.label>
@@ -27,9 +27,9 @@
   <Bullet_DevastatorBomb.label>Devastator Magnetic 砲弾</Bullet_DevastatorBomb.label>
   <Artillery_DevastatorBomb.label>Devastator Magnetic カタパルト</Artillery_DevastatorBomb.label>
   <RocketLaunch.label>130mmx6 ミサイル</RocketLaunch.label>
-  <Gun_RocketComplex.label>Light ミサイル System</Gun_RocketComplex.label>
-  <Gun_MissileSystem.label>Medium ミサイル System</Gun_MissileSystem.label>
-  <Gun_RL.label>Heavy ミサイル System</Gun_RL.label>
+  <Gun_RocketComplex.label>ライト ミサイル システム</Gun_RocketComplex.label>
+  <Gun_MissileSystem.label>Medium ミサイル システム</Gun_MissileSystem.label>
+  <Gun_RL.label>Heavy ミサイル システム</Gun_RL.label>
   <Bullet_PlasmaTurret.label>プラズマ Bolt</Bullet_PlasmaTurret.label>
   <Gun_PlasmaTurret.label>プラズマ タレット Gun</Gun_PlasmaTurret.label>
   <Gun_NavalGun.label>Automated 機関砲</Gun_NavalGun.label>

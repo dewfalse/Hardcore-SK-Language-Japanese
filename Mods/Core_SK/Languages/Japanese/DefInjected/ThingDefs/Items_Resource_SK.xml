@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <NickelBar.label>ニッケル 合金</NickelBar.label>
   <Cobalt.label>コバルト 合金</Cobalt.label>
@@ -44,17 +44,17 @@
   <WeedCloth.label>麻</WeedCloth.label>
   <RamWool.label>Ram 毛</RamWool.label>
   <DevilstrandCloth.label>デビルストランド 生地</DevilstrandCloth.label>
-  <Synthread.label>Synthread</Synthread.label>
-  <Hyperweave.label>Hyperweave</Hyperweave.label>
+  <Synthread.label>シンスレッド</Synthread.label>
+  <Hyperweave.label>ハイパーウィーブ</Hyperweave.label>
   <Kevlar.label>ケブラー</Kevlar.label>
   <Chitin.label>キチン</Chitin.label>
   <HerbalMedicine.label>生 ゼリジウム</HerbalMedicine.label>
   <Medicine.label>医薬品</Medicine.label>
-  <GlitterworldMedicine.label>Advanced 医薬品</GlitterworldMedicine.label>
+  <GlitterworldMedicine.label>改良型 医薬品</GlitterworldMedicine.label>
   <HerbMedicine.label>生薬</HerbMedicine.label>
-  <GlassBatch.label>ガラス Batch</GlassBatch.label>
-  <Glass.label>ガラス Frame</Glass.label>
-  <ReinforcedGlass.label>強化ガラス Frame</ReinforcedGlass.label>
+  <GlassBatch.label>ガラス バッチ</GlassBatch.label>
+  <Glass.label>ガラス フレーム</Glass.label>
+  <ReinforcedGlass.label>強化ガラス フレーム</ReinforcedGlass.label>
   <RawCotton.label>生 木綿</RawCotton.label>
   <RawDevilstrand.label>生 デビルストランド</RawDevilstrand.label>
   <Kindling.label>焚き付け</Kindling.label>
@@ -63,26 +63,26 @@
   <Silicon.label>シリコン</Silicon.label>
   <EthanolFuel.label>エタノール 燃料</EthanolFuel.label>
   <ElectronicComponents.label>電子部品</ElectronicComponents.label>
-  <Electronics.label>Integrated 電気回路</Electronics.label>
-  <Microchips.label>Microchip Integrated 電気回路</Microchips.label>
+  <Electronics.label>集積 電気回路</Electronics.label>
+  <Microchips.label>マイクロチップ 集積 電気回路</Microchips.label>
   <BioMicrochips.label>BioElectronic Devices</BioMicrochips.label>
   <Biomatter.label>バイオマター</Biomatter.label>
-  <ArtificialBone.label>Artificial Bone</ArtificialBone.label>
+  <ArtificialBone.label>人工 骨</ArtificialBone.label>
   <Nitre.label>硝石</Nitre.label>
   <Coal.label>石炭 鉱石</Coal.label>
   <Charcoal.label>木炭</Charcoal.label>
   <CrushedStone.label>瓦礫</CrushedStone.label>
   <Ash.label>灰</Ash.label>
-  <DepletedUranium.label>Depleted ウラニウム 合金</DepletedUranium.label>
+  <DepletedUranium.label>劣化 ウラニウム 合金</DepletedUranium.label>
   <CarbonAlloy.label>カーボン Fiber 合金</CarbonAlloy.label>
   <Concrete.label>コンクリート</Concrete.label>
-  <Peat.label>Peat</Peat.label>
+  <Peat.label>ピート</Peat.label>
   <BioDiesel.label>BioDiesel 燃料</BioDiesel.label>
-  <Snow.label>雪 Block</Snow.label>
+  <Snow.label>雪 ブロック</Snow.label>
   <SoftClay.label>Soft 粘土</SoftClay.label>
-  <ClayBrick.label>粘土 Bricks</ClayBrick.label>
+  <ClayBrick.label>粘土 レンガ</ClayBrick.label>
   <Powder.label>火薬</Powder.label>
-  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.label>ナパーム</Napalm.label>
   <CrudeOil.label>原油</CrudeOil.label>
   <Polymers.label>ポリマー</Polymers.label>
   <Plastic.label>プラスチック</Plastic.label>
@@ -93,10 +93,10 @@
   <Paraffins.label>パラフィン</Paraffins.label>
   <Sulphates.label>硫黄</Sulphates.label>
   <Fuel.label>燃料 油</Fuel.label>
-  <Matter.label>Inorganic Matter</Matter.label>
+  <Matter.label>無機物</Matter.label>
   <DrillHead.label>ドリルヘッド</DrillHead.label>
   <PileOfBooks.label>Pile of Books</PileOfBooks.label>
-  <PaintingSupplies.label>Painting Supplies</PaintingSupplies.label>
+  <PaintingSupplies.label>絵画 Supplies</PaintingSupplies.label>
   <MineralSonarModule.label>鉱物 Sonar Module</MineralSonarModule.label>
   <AlphaPoly.label>Alpha Poly</AlphaPoly.label>
   <BetaPoly.label>Beta Poly</BetaPoly.label>
@@ -104,7 +104,7 @@
   <MagneticMaterial.label>Magnetic Material</MagneticMaterial.label>
   <BiosyntheticMaterial.label>BioSynthetic Material</BiosyntheticMaterial.label>
   <Hexcell.label>HexCell</Hexcell.label>
-  <Compaste.label>Compound Paste</Compaste.label>
+  <Compaste.label>合成 ペースト</Compaste.label>
   <ThrumboHorn.label>Thrumbo Horn</ThrumboHorn.label>
   <RobotParts.label>ロボット パーツ</RobotParts.label>
   <CopperBar.stuffProps.stuffAdjective>銅</CopperBar.stuffProps.stuffAdjective>
@@ -136,11 +136,11 @@
   <ReinforcedGlass.stuffProps.stuffAdjective>強化ガラス</ReinforcedGlass.stuffProps.stuffAdjective>
   <Kindling.stuffProps.stuffAdjective>焚き付け</Kindling.stuffProps.stuffAdjective>
   <EthanolFuel.stuffProps.stuffAdjective>エタノール 燃料</EthanolFuel.stuffProps.stuffAdjective>
-  <DepletedUranium.stuffProps.stuffAdjective>Depleted ウラニウム</DepletedUranium.stuffProps.stuffAdjective>
+  <DepletedUranium.stuffProps.stuffAdjective>劣化 ウラニウム</DepletedUranium.stuffProps.stuffAdjective>
   <CarbonAlloy.stuffProps.stuffAdjective>カーボン Fiber 合金</CarbonAlloy.stuffProps.stuffAdjective>
   <Concrete.stuffProps.stuffAdjective>コンクリート</Concrete.stuffProps.stuffAdjective>
-  <Snow.stuffProps.stuffAdjective>雪 Block</Snow.stuffProps.stuffAdjective>
-  <ClayBrick.stuffProps.stuffAdjective>粘土 Bricks</ClayBrick.stuffProps.stuffAdjective>
+  <Snow.stuffProps.stuffAdjective>雪 ブロック</Snow.stuffProps.stuffAdjective>
+  <ClayBrick.stuffProps.stuffAdjective>粘土 レンガ</ClayBrick.stuffProps.stuffAdjective>
   <AlphaPoly.stuffProps.stuffAdjective>Alpha Poly</AlphaPoly.stuffProps.stuffAdjective>
   <BetaPoly.stuffProps.stuffAdjective>Beta Poly</BetaPoly.stuffProps.stuffAdjective>
 </LanguageData>

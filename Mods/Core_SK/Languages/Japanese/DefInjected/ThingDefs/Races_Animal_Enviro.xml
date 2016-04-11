@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?> 
+﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Furx.label>Furx</Furx.label>
+  <Furx.label>ファラックス</Furx.label>
   <Rimdog.label>リムドッグ</Rimdog.label>
   <Rimwolf.label>リムウルフ</Rimwolf.label>
   <GermanShepherd.label>ジャーマンシェパード</GermanShepherd.label>
@@ -8,19 +8,19 @@
   <BorderCollie.label>ボーダーコリー</BorderCollie.label>
   <FRaptor.label>Feathered ラプトル</FRaptor.label>
   <Fenrir.label>フェンリル</Fenrir.label>
-  <Mosquito.label>Mosquito</Mosquito.label>
+  <Mosquito.label>蚊</Mosquito.label>
   <Crashbug.label>クラッシュバグ</Crashbug.label>
   <Fly.label>ハエ</Fly.label>
   <Flea.label>ノミ</Flea.label>
   <Tarantula.label>タランチュラ</Tarantula.label>
-  <Spindlecrib.label>Spindlecrib</Spindlecrib.label>
+  <Spindlecrib.label>スピンドルクリブ</Spindlecrib.label>
   <Scorpion.label>サソリ</Scorpion.label>
-  <Feralisk.label>Feralisk</Feralisk.label>
-  <Terramorph.label>Terramorph</Terramorph.label>
+  <Feralisk.label>フェラリクス</Feralisk.label>
+  <Terramorph.label>テラモーフ</Terramorph.label>
   <Alphalo.label>アルファマッファロー</Alphalo.label>
   <Quadhog.label>クアッドホッグ</Quadhog.label>
   <Rimram.label>リムラム</Rimram.label>
   <Snork.label>Snork</Snork.label>
   <Hedgehog.label>ハリネズミ</Hedgehog.label>
-  <Lacosdile.label>Lacosdile</Lacosdile.label>
+  <Lacosdile.label>ラコスダイル</Lacosdile.label>
 </LanguageData>
