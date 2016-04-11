@@ -64,4 +64,8 @@
   <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
   <NewHydroponicsBasin.label>改良型 水耕栽培器</NewHydroponicsBasin.label>
   <ClutterAlloyHydroponicsBasinVS.label>水耕栽培 Pot</ClutterAlloyHydroponicsBasinVS.label>
+  <soylenttable.Label>Soylent Machine</soylenttable.Label>
+  <GlassworkTable.Label>ガラス製造 テーブル</GlassworkTable.Label>
+  <BenchRecycle.Label>Textile Bench をリサイクルする</BenchRecycle.Label>
+  <meditable.Label>医療 テーブル</meditable.Label>
 </LanguageData>
