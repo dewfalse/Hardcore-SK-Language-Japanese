@@ -2,52 +2,52 @@
 <LanguageData>
   <CraftApparello_Holdem.label>Fancy ズボン を仕立てる</CraftApparello_Holdem.label>
   <CraftApparello_Pollypolly.label>Constructor&apos;s Trousers を仕立てる</CraftApparello_Pollypolly.label>
-  <CraftUSCM_CamoPants.label>迷彩 Military ズボン を仕立てる</CraftUSCM_CamoPants.label>
-  <CraftMarine_MilitaryPants.label>Marine Military ズボン を仕立てる</CraftMarine_MilitaryPants.label>
-  <CraftApparello_Spants.label>Space Marine Leggings を仕立てる</CraftApparello_Spants.label>
+  <CraftUSCM_CamoPants.label>迷彩 ミリタリー ズボン を仕立てる</CraftUSCM_CamoPants.label>
+  <CraftMarine_MilitaryPants.label>マリーン ミリタリー ズボン を仕立てる</CraftMarine_MilitaryPants.label>
+  <CraftApparello_Spants.label>Space マリーン Leggings を仕立てる</CraftApparello_Spants.label>
   <CraftApparello_Cryptonautpants.label>Cryptonaut ズボン を仕立てる</CraftApparello_Cryptonautpants.label>
-  <CraftApparello_ReinforcedGlove.label>Reinforced Gloves を鍛造する</CraftApparello_ReinforcedGlove.label>
-  <CraftApparello_Snipeglove.label>Stabilizer Gloves を仕立てる</CraftApparello_Snipeglove.label>
-  <CraftApparello_SoothingLove.label>Soothing Gloves を仕立てる</CraftApparello_SoothingLove.label>
+  <CraftApparello_ReinforcedGlove.label>Reinforced グローブ を鍛造する</CraftApparello_ReinforcedGlove.label>
+  <CraftApparello_Snipeglove.label>Stabilizer グローブ を仕立てる</CraftApparello_Snipeglove.label>
+  <CraftApparello_SoothingLove.label>Soothing グローブ を仕立てる</CraftApparello_SoothingLove.label>
   <CraftApparello_docglove.label>Doctor&apos;s Cutters を仕立てる</CraftApparello_docglove.label>
   <CraftApparello_docglovetwo.label>Doctor&apos;s Pincers を仕立てる</CraftApparello_docglovetwo.label>
-  <CraftApparello_Snipeglovetwo.label>Discharger Gloves を仕立てる</CraftApparello_Snipeglovetwo.label>
-  <CraftApparello_CalmingLove.label>Calmax Gloves を仕立てる</CraftApparello_CalmingLove.label>
-  <CraftApparello_Gamerglove.label>電力 Gloves を仕立てる</CraftApparello_Gamerglove.label>
+  <CraftApparello_Snipeglovetwo.label>Discharger グローブ を仕立てる</CraftApparello_Snipeglovetwo.label>
+  <CraftApparello_CalmingLove.label>Calmax グローブ を仕立てる</CraftApparello_CalmingLove.label>
+  <CraftApparello_Gamerglove.label>電力 グローブ を仕立てる</CraftApparello_Gamerglove.label>
   <CraftApparello_MetalBoots.label>Metal ブーツ を鍛造する</CraftApparello_MetalBoots.label>
   <CraftApparello_Boots.label>Spurred ブーツ を仕立てる</CraftApparello_Boots.label>
   <CraftApparello_Spboots.label>Cryptonaut Springers を仕立てる</CraftApparello_Spboots.label>
   <CraftApparello_Shadess.label>サンシェード を鍛造する</CraftApparello_Shadess.label>
   <CraftApparello_Brimsk.label>Goggled Ski マスク を鍛造する</CraftApparello_Brimsk.label>
-  <CraftMarine_BattleMask.label>Marine Storm マスク を鍛造する</CraftMarine_BattleMask.label>
+  <CraftMarine_BattleMask.label>マリーン Storm マスク を鍛造する</CraftMarine_BattleMask.label>
   <CraftApparello_Visoor.label>Shuttle Pilot&apos;s Visor を仕立てる</CraftApparello_Visoor.label>
   <CraftMedievalArmor_Hauberk.label>Hauberk を鍛造する</CraftMedievalArmor_Hauberk.label>
   <CraftApparel_VestPlate.label>Armored ベスト を仕立てる</CraftApparel_VestPlate.label>
   <CraftRimarsenal_VestPlate.label>Tactical ベスト を仕立てる</CraftRimarsenal_VestPlate.label>
-  <CraftSpeacialForces_VestPlate.label>Marine ベスト を仕立てる</CraftSpeacialForces_VestPlate.label>
+  <CraftSpeacialForces_VestPlate.label>マリーン ベスト を仕立てる</CraftSpeacialForces_VestPlate.label>
   <CraftApparello_Gspot.label>合金 ベスト を仕立てる</CraftApparello_Gspot.label>
   <CraftApparel_Jetpack.label>ジェットパック を鍛造する</CraftApparel_Jetpack.label>
-  <CraftMarine_TShirt.label>Marine シャツ を仕立てる</CraftMarine_TShirt.label>
-  <CraftCamo_GhillieSuit.label>迷彩 Ghillie スーツ を仕立てる</CraftCamo_GhillieSuit.label>
+  <CraftMarine_TShirt.label>マリーン シャツ を仕立てる</CraftMarine_TShirt.label>
+  <CraftCamo_GhillieSuit.label>迷彩 ギリー スーツ を仕立てる</CraftCamo_GhillieSuit.label>
   <CraftApparello_XcomOne.label>Air Force Overalls を仕立てる</CraftApparello_XcomOne.label>
   <CraftApparello_XcomOneCraft.label>X-Com Overalls を仕立てる</CraftApparello_XcomOneCraft.label>
   <CraftApparello_GSkin.label>ジャンプスーツ を仕立てる</CraftApparello_GSkin.label>
   <CraftApparello_GSkinSpacer.label>Cryptopod ボディースーツ を仕立てる</CraftApparello_GSkinSpacer.label>
-  <CraftSpeacialForces_Bodysuit.label>Marine ボディースーツ を仕立てる</CraftSpeacialForces_Bodysuit.label>
+  <CraftSpeacialForces_Bodysuit.label>マリーン ボディースーツ を仕立てる</CraftSpeacialForces_Bodysuit.label>
   <CraftCarbon_overalls.label>カーボン Overalls を仕立てる</CraftCarbon_overalls.label>
-  <CraftApparel_NSuit.label>Marine スーツ を仕立てる</CraftApparel_NSuit.label>
+  <CraftApparel_NSuit.label>マリーン スーツ を仕立てる</CraftApparel_NSuit.label>
   <CraftSkynet_Cloak.label>スカイネット Cloak を仕立てる</CraftSkynet_Cloak.label>
   <CraftApparello_GShell.label>ライト 電力 アーマー を鍛造する</CraftApparello_GShell.label>
   <CraftApparello_Meditux.label>Doctor&apos;s Brocade を仕立てる</CraftApparello_Meditux.label>
   <CraftScout_Jaffa_Armor.label>Scout アーマー を仕立てる</CraftScout_Jaffa_Armor.label>
-  <CraftApparello_GShellII.label>Medium 電力 アーマー を鍛造する</CraftApparello_GShellII.label>
+  <CraftApparello_GShellII.label>ミディアム 電力 アーマー を鍛造する</CraftApparello_GShellII.label>
   <CraftApparello_Syndicate.label>シンジケート コート を仕立てる</CraftApparello_Syndicate.label>
   <CraftMedievalArmor_PlateArmor.label>Plate アーマー を鍛造する</CraftMedievalArmor_PlateArmor.label>
-  <CraftGhillieOverall.label>Marine Ghillie Overalls を仕立てる</CraftGhillieOverall.label>
-  <CraftMarine_Armor.label>Marine Personal アーマー を鍛造する</CraftMarine_Armor.label>
+  <CraftGhillieOverall.label>マリーン ギリー Overalls を仕立てる</CraftGhillieOverall.label>
+  <CraftMarine_Armor.label>マリーン Personal アーマー を鍛造する</CraftMarine_Armor.label>
   <CraftApparel_PhaseArmor.label>Phase アーマー を鍛造する</CraftApparel_PhaseArmor.label>
   <CraftApparel_PhaseJetArmor.label>Phase Jet アーマー を鍛造する</CraftApparel_PhaseJetArmor.label>
-  <CraftApparello_HA.label>Hive アーマー を鍛造する</CraftApparello_HA.label>
+  <CraftApparello_HA.label>ハイブ アーマー を鍛造する</CraftApparello_HA.label>
   <CraftApparello_Steamhull.label>Steamhull を鍛造する</CraftApparello_Steamhull.label>
   <CraftApparel_PowerArmor.label>電力 アーマー を鍛造する</CraftApparel_PowerArmor.label>
   <CraftRimarsenal_InteractorCloak.label>Interactor Cloak を仕立てる</CraftRimarsenal_InteractorCloak.label>
@@ -57,24 +57,24 @@
   <CraftApparello_Moron.label>Kettlehat を鍛造する</CraftApparello_Moron.label>
   <CraftMedievalArmor_NasalHelmet.label>Nasal ヘルメット を鍛造する</CraftMedievalArmor_NasalHelmet.label>
   <CraftWinter_Cap.label>冬 Cap を仕立てる</CraftWinter_Cap.label>
-  <CraftApparel_MilitaryHelmet.label>Military ヘルメット を鍛造する</CraftApparel_MilitaryHelmet.label>
+  <CraftApparel_MilitaryHelmet.label>ミリタリー ヘルメット を鍛造する</CraftApparel_MilitaryHelmet.label>
   <CraftApparel_KevlarHelmet.label>ケブラー ヘルメット を鍛造する</CraftApparel_KevlarHelmet.label>
-  <CraftMarine_Helmet.label>Marine Ballistic ヘルメット を鍛造する</CraftMarine_Helmet.label>
-  <CraftGhillie_Hood.label>Ghillie Hood を仕立てる</CraftGhillie_Hood.label>
+  <CraftMarine_Helmet.label>マリーン Ballistic ヘルメット を鍛造する</CraftMarine_Helmet.label>
+  <CraftGhillie_Hood.label>ギリー フード を仕立てる</CraftGhillie_Hood.label>
   <CraftJaffa_BasicHelmet.label>Scout ヘルメット を鍛造する</CraftJaffa_BasicHelmet.label>
   <CraftUSCM_CamoHelmet.label>迷彩 Ballistic ヘルメット を鍛造する</CraftUSCM_CamoHelmet.label>
-  <CraftMilitaryHelmetGoggles.label>Military Googled ヘルメット を鍛造する</CraftMilitaryHelmetGoggles.label>
-  <CraftUSCM_PilotHelmet.label>Military Pilot ヘルメット を鍛造する</CraftUSCM_PilotHelmet.label>
+  <CraftMilitaryHelmetGoggles.label>ミリタリー Googled ヘルメット を鍛造する</CraftMilitaryHelmetGoggles.label>
+  <CraftUSCM_PilotHelmet.label>ミリタリー Pilot ヘルメット を鍛造する</CraftUSCM_PilotHelmet.label>
   <CraftTactical_Helmet.label>Tactical ヘルメット を鍛造する</CraftTactical_Helmet.label>
   <CraftSecurity_Bandana.label>防衛 バンダナ を仕立てる</CraftSecurity_Bandana.label>
   <CraftApparello_Medihelmet.label>Medic&apos;s ケブラー ヘルメット を鍛造する</CraftApparello_Medihelmet.label>
   <CraftApparello_Footy.label>Clan Marked Balaclava を仕立てる</CraftApparello_Footy.label>
-  <CraftMarine_TacticalMask.label>Marine Tactical マスク を仕立てる</CraftMarine_TacticalMask.label>
+  <CraftMarine_TacticalMask.label>マリーン Tactical マスク を仕立てる</CraftMarine_TacticalMask.label>
   <CraftApparel_PsychicFoilHelmet.label>サイキック Foil ヘルメット を鍛造する</CraftApparel_PsychicFoilHelmet.label>
   <CraftApparello_Raz.label>Joywirer&apos;s Cap を鍛造する</CraftApparello_Raz.label>
   <CraftApparello_Quote.label>War Engineer&apos;s Comm-Link を鍛造する</CraftApparello_Quote.label>
   <CraftApparello_Rockman.label>Shuttle Pilot Helm を仕立てる</CraftApparello_Rockman.label>
-  <CraftInteractor_Helmet.label>Interactor Hood を仕立てる</CraftInteractor_Helmet.label>
+  <CraftInteractor_Helmet.label>Interactor フード を仕立てる</CraftInteractor_Helmet.label>
   <CraftWeldingHelmet.label>Welding ヘルメット を鍛造する</CraftWeldingHelmet.label>
   <CraftApparello_NorbalWarrior.label>Bascinet を鍛造する</CraftApparello_NorbalWarrior.label>
   <CraftMedievalArmor_Armet.label>Armet を鍛造する</CraftMedievalArmor_Armet.label>
@@ -86,7 +86,7 @@
   <CraftApparello_ViperGas.label>エレファントガスマスク を仕立てる</CraftApparello_ViperGas.label>
   <CraftApparello_ViperGasTwo.label>Hooded エレファントガスマスク を仕立てる</CraftApparello_ViperGasTwo.label>
   <CraftApparello_Cyninja.label>Tac-Team Headcover を仕立てる</CraftApparello_Cyninja.label>
-  <CraftApparello_Hood.label>シンジケート Hood を仕立てる</CraftApparello_Hood.label>
+  <CraftApparello_Hood.label>シンジケート フード を仕立てる</CraftApparello_Hood.label>
   <CraftApparel_PhaseHelmet.label>Phase ヘルメット を鍛造する</CraftApparel_PhaseHelmet.label>
   <CraftApparel_PhaseJetHelmet.label>Phase Jet ヘルメット を鍛造する</CraftApparel_PhaseJetHelmet.label>
   <CraftSiegearmorHelmet.label>Siege アーマー ヘルメット を鍛造する</CraftSiegearmorHelmet.label>
@@ -95,7 +95,7 @@
   <CraftApparello_ProtoFin.label>MindBlast-Headgear を鍛造する</CraftApparello_ProtoFin.label>
   <CraftApparello_Antsyhat.label>Antis-Headgear を鍛造する</CraftApparello_Antsyhat.label>
   <CraftApparello_Meffect.label>Enviro-Headgear を鍛造する</CraftApparello_Meffect.label>
-  <CraftApparello_Hivehat.label>Hive ヘルメット を鍛造する</CraftApparello_Hivehat.label>
+  <CraftApparello_Hivehat.label>ハイブ ヘルメット を鍛造する</CraftApparello_Hivehat.label>
   <CraftApparello_Hivehell.label>蒸気 ヘルメット を鍛造する</CraftApparello_Hivehell.label>
   <CraftApparello_LPow.label>ライト 電力 アーマー ヘルメット を鍛造する</CraftApparello_LPow.label>
   <CraftApparel_DoomHelmet.label>Doom ヘルメット を鍛造する</CraftApparel_DoomHelmet.label>
@@ -103,5 +103,5 @@
   <CraftBuckler.label>バックラー を鍛造する</CraftBuckler.label>
   <CraftMedievalShield.label>Medieval シールド を鍛造する</CraftMedievalShield.label>
   <CraftBallisticShield.label>防弾盾 を鍛造する</CraftBallisticShield.label>
-  <CraftApparello_NorbalKing.label>Horned Cap を鍛造する</CraftApparello_NorbalKing.label>
+  <CraftApparello_NorbalKing.label>角つき Cap を鍛造する</CraftApparello_NorbalKing.label>
 </LanguageData>

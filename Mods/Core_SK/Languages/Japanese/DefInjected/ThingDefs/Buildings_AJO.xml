@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <GoTable.label>碁盤</GoTable.label>
-  <ReversiTable.label>Reversi テーブル</ReversiTable.label>
-  <CardTable.label>Card テーブル</CardTable.label>
+  <ReversiTable.label>オセロ テーブル</ReversiTable.label>
+  <CardTable.label>カード テーブル</CardTable.label>
   <RimColony.label>RimColony</RimColony.label>
   <Bookcase.label>本棚</Bookcase.label>
   <ReadingTable.label>読書台</ReadingTable.label>

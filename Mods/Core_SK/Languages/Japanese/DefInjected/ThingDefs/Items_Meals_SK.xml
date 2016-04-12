@@ -5,7 +5,7 @@
   <MealSimple.label>簡易 Meal</MealSimple.label>
   <MealFine.label>Fine Meal</MealFine.label>
   <MealLavish.label>Lavish Meal</MealLavish.label>
-  <MealLuxury.label>Luxury Meal</MealLuxury.label>
+  <MealLuxury.label>豪華な Meal</MealLuxury.label>
   <MealSalad.label>簡易 サラダ</MealSalad.label>
   <MealJerky.label>ジャーキー</MealJerky.label>
   <driedfruit.label>Dried Fruit</driedfruit.label>
@@ -14,19 +14,19 @@
   <Burger.label>ハンバーガー</Burger.label>
   <CheeseBurger.label>チーズ ハンバーガー</CheeseBurger.label>
   <DeluxeBurger.label>Deluxe ハンバーガー</DeluxeBurger.label>
-  <GrilledCheese.label>Grilled チーズ Sandwich</GrilledCheese.label>
+  <GrilledCheese.label>Grilled チーズ サンドイッチ</GrilledCheese.label>
   <Pizza.label>ピザ</Pizza.label>
   <FruitYogurt.label>Fruit ヨーグルト</FruitYogurt.label>
   <Chocomilk.label>チョコレート ミルク</Chocomilk.label>
   <RoastedMeat.label>Roasted 肉</RoastedMeat.label>
   <StewMushrooms.label>キノコ シチュー</StewMushrooms.label>
   <SaladwMushrooms.label>サラダ with キノコ</SaladwMushrooms.label>
-  <RoastwMushrooms.label>Pot Roast and キノコ</RoastwMushrooms.label>
+  <RoastwMushrooms.label>ポット Roast and キノコ</RoastwMushrooms.label>
   <FriedVegetables.label>揚げ物の盛り合わせ</FriedVegetables.label>
   <MushroomTincture.label>キノコ チンキ剤</MushroomTincture.label>
   <MedicalDrink.label>抗生物質</MedicalDrink.label>
   <Cuptea.label>1杯の 茶</Cuptea.label>
-  <CupSpectagoTea.label>1杯の Spectago 茶</CupSpectagoTea.label>
+  <CupSpectagoTea.label>1杯の スペクターゴ 茶</CupSpectagoTea.label>
   <CupCoffee.label>1杯の コーヒー</CupCoffee.label>
   <FruitDrink.label>Fruit Drink</FruitDrink.label>
   <Caramel.label>キャラメル</Caramel.label>
@@ -36,14 +36,14 @@
   <PiePumpkin.label>かぼちゃ パイ 一切れ</PiePumpkin.label>
   <SweetBun.label>菓子パン</SweetBun.label>
   <Chocolate.label>チョコレート</Chocolate.label>
-  <Cigarillos.label>Cigarillos</Cigarillos.label>
-  <Cigar.label>Cigar</Cigar.label>
+  <Cigarillos.label>シガリロ</Cigarillos.label>
+  <Cigar.label>葉巻</Cigar.label>
   <HerbsCollection.label>ハーブ Collection</HerbsCollection.label>
   <Weed.label>ウィード</Weed.label>
   <WeedCig.label>ウィード シガレット</WeedCig.label>
   <OneKick.label>One Kick</OneKick.label>
   <SpaceSpice.label>Space Spice</SpaceSpice.label>
-  <WeedOil.label>ウィード 油</WeedOil.label>
+  <WeedOil.label>ウィード オイル</WeedOil.label>
   <soylentgreen.label>ソイレント・グリーン</soylentgreen.label>
   <ExtraCannedFood.label>Extra 缶詰 Meal</ExtraCannedFood.label>
   <BasicCannedFood.label>Basic 缶詰 Meal</BasicCannedFood.label>

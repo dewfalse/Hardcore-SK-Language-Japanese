@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MechanicalPrimaryPowerCore.label>primary 電力 コア</MechanicalPrimaryPowerCore.label>
+  <MechanicalAuxiliaryPowerCore.label>auxiliary 電力 コア</MechanicalAuxiliaryPowerCore.label>
+  <MechanicalPrimaryCapacitor.label>primary supercapacitor</MechanicalPrimaryCapacitor.label>
+  <MechanicalSecondaryCapacitor.label>secondary supercapacitor</MechanicalSecondaryCapacitor.label>
+  <MechanicalTertiaryCapacitor.label>tertiary supercapacitor</MechanicalTertiaryCapacitor.label>
+  <MechanicalLeftHeatSink.label>左 compression heatsink</MechanicalLeftHeatSink.label>
+  <MechanicalRightHeatSink.label>右 compression heatsink</MechanicalRightHeatSink.label>
+  <MechanicalCoolantPump.label>coolant ポンプ</MechanicalCoolantPump.label>
+  <MechanicalCoolantTank.label>coolant tank</MechanicalCoolantTank.label>
+  <MechanicalWeaponActuator.label>primary 武器 actuator</MechanicalWeaponActuator.label>
+  <MechanicalMeleeCombatModule.label>melee combat module</MechanicalMeleeCombatModule.label>
+  <MechanicalHydraulicsControl.label>hydraulics control unit</MechanicalHydraulicsControl.label>
+  <MechanicalLeftUpperActuator.label>左 upper actuator</MechanicalLeftUpperActuator.label>
+  <MechanicalRightUpperActuator.label>右 upper actuator</MechanicalRightUpperActuator.label>
+  <MechanicalLeftUpperPiston.label>左 upper piston</MechanicalLeftUpperPiston.label>
+  <MechanicalRightUpperPiston.label>右 upper piston</MechanicalRightUpperPiston.label>
+  <MechanicalLeftLowerActuator.label>左 lower actuator</MechanicalLeftLowerActuator.label>
+  <MechanicalRightLowerActuator.label>右 lower actuator</MechanicalRightLowerActuator.label>
+  <MechanicalLeftLowerPiston.label>左 lower piston</MechanicalLeftLowerPiston.label>
+  <MechanicalRightLowerPiston.label>右 lower piston</MechanicalRightLowerPiston.label>
+  <MechanicalRollerBearing.label>roller bearing</MechanicalRollerBearing.label>
+</LanguageData>

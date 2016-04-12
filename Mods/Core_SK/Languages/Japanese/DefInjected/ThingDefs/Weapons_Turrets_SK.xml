@@ -4,7 +4,7 @@
   <Bullet_TurretImprovised.label>Improvised タレット 弾丸</Bullet_TurretImprovised.label>
   <Gun_TurretImprovised.label>タレット Gun</Gun_TurretImprovised.label>
   <Bullet_M2Browning.label>14.5mm MG 弾丸</Bullet_M2Browning.label>
-  <Gun_M2Browning.label>M2 Browning Machine Gun</Gun_M2Browning.label>
+  <Gun_M2Browning.label>M2 Browning マシーン Gun</Gun_M2Browning.label>
   <Bullet_35mm.label>35mm API 弾丸</Bullet_35mm.label>
   <Gun_ChainGun.label>35mm 機関砲 砲弾</Gun_ChainGun.label>
   <Bullet_Avenger.label>30mm Avenger 砲弾</Bullet_Avenger.label>
@@ -28,7 +28,7 @@
   <Artillery_DevastatorBomb.label>Devastator Magnetic カタパルト</Artillery_DevastatorBomb.label>
   <RocketLaunch.label>130mmx6 ミサイル</RocketLaunch.label>
   <Gun_RocketComplex.label>ライト ミサイル システム</Gun_RocketComplex.label>
-  <Gun_MissileSystem.label>Medium ミサイル システム</Gun_MissileSystem.label>
+  <Gun_MissileSystem.label>ミディアム ミサイル システム</Gun_MissileSystem.label>
   <Gun_RL.label>Heavy ミサイル システム</Gun_RL.label>
   <Bullet_PlasmaTurret.label>プラズマ Bolt</Bullet_PlasmaTurret.label>
   <Gun_PlasmaTurret.label>プラズマ タレット Gun</Gun_PlasmaTurret.label>

@@ -2,12 +2,12 @@
 <LanguageData>
   <Door.label>ドア</Door.label>
   <Autodoor.label>自動ドア</Autodoor.label>
-  <FenceGate.label>フェンス Gate</FenceGate.label>
-  <Blastdoor.label>Blast 自動ドア</Blastdoor.label>
+  <FenceGate.label>フェンス ゲート</FenceGate.label>
+  <Blastdoor.label>ブラスト 自動ドア</Blastdoor.label>
   <CellDoor.label>Cell ドア</CellDoor.label>
-  <OpenBlastDoor.label>Large Blast Gate (Open)</OpenBlastDoor.label>
-  <ClosedBlastDoor.label>Large Blast Gate (Closed)</ClosedBlastDoor.label>
-  <JammedBlastDoor.label>Large Blast Gate (Jammed)</JammedBlastDoor.label>
+  <OpenBlastDoor.label>ラージ ブラスト ゲート (Open)</OpenBlastDoor.label>
+  <ClosedBlastDoor.label>ラージ ブラスト ゲート (Closed)</ClosedBlastDoor.label>
+  <JammedBlastDoor.label>ラージ ブラスト ゲート (Jammed)</JammedBlastDoor.label>
   <Wall.label>壁</Wall.label>
   <WallLog.label>壁</WallLog.label>
   <Snowywall.label>雪の壁</Snowywall.label>

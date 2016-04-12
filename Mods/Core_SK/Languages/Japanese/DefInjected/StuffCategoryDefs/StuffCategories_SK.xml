@@ -3,21 +3,21 @@
   <Matty.label>Matty</Matty.label>
   <Precious.label>Precious</Precious.label>
   <Metallic.label>金属製</Metallic.label>
-  <RareMetallic.label>Rare 金属製</RareMetallic.label>
+  <RareMetallic.label>レア 金属製</RareMetallic.label>
   <SolidMetallic.label>Solid 金属製</SolidMetallic.label>
   <Woody.label>木の</Woody.label>
   <Stony.label>Stony</Stony.label>
-  <Fabric.label>Fabric</Fabric.label>
-  <HF.label>ハイテク Fabric</HF.label>
+  <Fabric.label>布</Fabric.label>
+  <HF.label>ハイテク 布</HF.label>
   <Leathery.label>Leathery</Leathery.label>
   <Plastic.label>プラスチック</Plastic.label>
   <Glass.label>ガラス</Glass.label>
   <Parts.label>パーツ</Parts.label>
-  <WoodLogs.label>木 Logs</WoodLogs.label>
+  <WoodLogs.label>木 丸太</WoodLogs.label>
   <Kindlingstuff.label>焚き付け</Kindlingstuff.label>
   <Foods.label>Foods</Foods.label>
   <Stuff.label>Stuff</Stuff.label>
-  <Chemical.label>Chemical</Chemical.label>
+  <Chemical.label>化学</Chemical.label>
   <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
   <Paint.label>Paint</Paint.label>
 </LanguageData>

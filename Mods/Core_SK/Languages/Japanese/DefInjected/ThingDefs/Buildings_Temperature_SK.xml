@@ -2,13 +2,13 @@
 <LanguageData>
   <Campfire.label>キャンプファイア</Campfire.label>
   <FirePit.label>炉</FirePit.label>
-  <Building_Heater.label>石炭 Burner</Building_Heater.label>
-  <HeaterHopper.label>石炭 Burner ホッパー</HeaterHopper.label>
+  <Building_Heater.label>石炭 バーナー</Building_Heater.label>
+  <HeaterHopper.label>石炭 バーナー ホッパー</HeaterHopper.label>
   <EHeatedFloor.label>電動 Heated フロア</EHeatedFloor.label>
-  <SmallHeater.label>Small ヒーター</SmallHeater.label>
-  <SmallFan.label>Small Fan</SmallFan.label>
+  <SmallHeater.label>スモール ヒーター</SmallHeater.label>
+  <SmallFan.label>スモール 扇風機</SmallFan.label>
   <Heater.label>ヒーター</Heater.label>
-  <Cooler.label>Medium Cooler</Cooler.label>
+  <Cooler.label>ミディアム クーラー</Cooler.label>
   <GH.label>地熱 ヒーター</GH.label>
   <Vent.label>Vent</Vent.label>
 </LanguageData>

@@ -11,13 +11,13 @@
   <Hopper.label>ディスペンサー ホッパー</Hopper.label>
   <Brewery.label>醸造台</Brewery.label>
   <TableTobacco.label>タバコ 巻き作業台</TableTobacco.label>
-  <TableCoffee.label>コーヒー Machine</TableCoffee.label>
+  <TableCoffee.label>コーヒー マシーン</TableCoffee.label>
   <TableSawmillHand.label>手動のこぎり台</TableSawmillHand.label>
   <TableSawmillElectric.label>電動 のこぎり台</TableSawmillElectric.label>
   <TableFurnace.label>手動溶鉱炉</TableFurnace.label>
   <ElectricSmelter.label>電動 溶鉱炉</ElectricSmelter.label>
   <TableMachining.label>電動 精密工作機械</TableMachining.label>
-  <TableElectronics.label>Electronics テーブル</TableElectronics.label>
+  <TableElectronics.label>エレクトロニクス テーブル</TableElectronics.label>
   <TableTailor.label>Tailor&apos;s 織機</TableTailor.label>
   <ModernLoom.label>モダン 織機</ModernLoom.label>
   <HyperLoom.label>Hyper 織機</HyperLoom.label>
@@ -32,19 +32,19 @@
   <TableSculpting.label>彫刻台</TableSculpting.label>
   <ConcreteMixer.label>手動コンクリート ミキサー</ConcreteMixer.label>
   <EConcreteMixer.label>電動 コンクリート ミキサー</EConcreteMixer.label>
-  <Extractor.label>Mine Extractor</Extractor.label>
-  <ExtractorDebris.label>Exhausted Mine Extractor</ExtractorDebris.label>
-  <RareExtractor.label>改良型 Mine Extractor</RareExtractor.label>
-  <ExtractorDebrisRare.label>Exhausted 改良型 Mine Extractor</ExtractorDebrisRare.label>
-  <OilExtractor.label>油 Extractor</OilExtractor.label>
-  <Fissure.label>油 Fissure</Fissure.label>
-  <FissureGenerator.label>Drilling Rig</FissureGenerator.label>
+  <Extractor.label>マイン エクストラクター</Extractor.label>
+  <ExtractorDebris.label>枯渇した マイン エクストラクター</ExtractorDebris.label>
+  <RareExtractor.label>改良型 マイン エクストラクター</RareExtractor.label>
+  <ExtractorDebrisRare.label>枯渇した 改良型 マイン エクストラクター</ExtractorDebrisRare.label>
+  <OilExtractor.label>オイル エクストラクター</OilExtractor.label>
+  <Fissure.label>オイル Fissure</Fissure.label>
+  <FissureGenerator.label>採掘 リグ</FissureGenerator.label>
   <ChemicalLab.label>石油化学プラント</ChemicalLab.label>
   <GC.label>ガス 遠心分離機</GC.label>
   <CentrifugeFeeder.label>ガス 遠心分離機 ホッパー</CentrifugeFeeder.label>
   <Crematorium.label>火葬炉</Crematorium.label>
   <ResearchBench.label>研究設備</ResearchBench.label>
-  <TableChemlab.label>Chemical Laboratory</TableChemlab.label>
+  <TableChemlab.label>化学 ラボ</TableChemlab.label>
   <TableOrganvat.label>臓器培養槽</TableOrganvat.label>
   <TableComposter.label>コンポスター</TableComposter.label>
   <WeaponCraftingWorkTable.label>武器 工作 作業台</WeaponCraftingWorkTable.label>
@@ -53,19 +53,19 @@
   <AmmoCraftingTable.label>弾薬 工作 テーブル</AmmoCraftingTable.label>
   <TableBasicProsthetic.label>義肢 作業台</TableBasicProsthetic.label>
   <TableSurrogates.label>代用 臓器 作業台</TableSurrogates.label>
-  <TableSynthetics.label>合成 臓器 Assembler</TableSynthetics.label>
-  <TableBionics.label>Bionics 作業台</TableBionics.label>
-  <UpgradingStation.label>改良型 Bionics 作業台</UpgradingStation.label>
-  <RobAssem.label>Robotic Assembler</RobAssem.label>
-  <Matterfab.label>クアンタム Fabricator</Matterfab.label>
+  <TableSynthetics.label>合成 臓器 組立機</TableSynthetics.label>
+  <TableBionics.label>人工生体義肢 作業台</TableBionics.label>
+  <UpgradingStation.label>改良型 人工生体義肢 作業台</UpgradingStation.label>
+  <RobAssem.label>ロボット 組立機</RobAssem.label>
+  <Matterfab.label>クアンタム ファブリケーター</Matterfab.label>
   <HadronCollider.label>ハドロン コライダー</HadronCollider.label>
   <HadronColliderFeeder.label>ハドロン コライダー ホッパー</HadronColliderFeeder.label>
-  <PremitiveHydroponic.label>Saturated soil</PremitiveHydroponic.label>
+  <PremitiveHydroponic.label>飽和土</PremitiveHydroponic.label>
   <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
   <NewHydroponicsBasin.label>改良型 水耕栽培器</NewHydroponicsBasin.label>
-  <ClutterAlloyHydroponicsBasinVS.label>水耕栽培 Pot</ClutterAlloyHydroponicsBasinVS.label>
-  <soylenttable.Label>Soylent Machine</soylenttable.Label>
+  <ClutterAlloyHydroponicsBasinVS.label>水耕栽培 ポット</ClutterAlloyHydroponicsBasinVS.label>
+  <soylenttable.Label>ソイレント マシーン</soylenttable.Label>
   <GlassworkTable.Label>ガラス製造 テーブル</GlassworkTable.Label>
-  <BenchRecycle.Label>Textile Bench をリサイクルする</BenchRecycle.Label>
+  <BenchRecycle.Label>生地リサイクル台</BenchRecycle.Label>
   <meditable.Label>医療 テーブル</meditable.Label>
 </LanguageData>

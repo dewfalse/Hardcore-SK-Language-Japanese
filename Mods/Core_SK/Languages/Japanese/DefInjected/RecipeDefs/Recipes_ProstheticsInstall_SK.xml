@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <installlifesupportheart.label>Blood Pump を移植する</installlifesupportheart.label>
-  <installlifesupportlung.label>Respirator を移植する</installlifesupportlung.label>
-  <installlifesupportkidney.label>Urine Filter を移植する</installlifesupportkidney.label>
-  <installlifesupportliver.label>Blood Filter を移植する</installlifesupportliver.label>
+  <installlifesupportheart.label>血液 ポンプ を移植する</installlifesupportheart.label>
+  <installlifesupportlung.label>人工呼吸器 を移植する</installlifesupportlung.label>
+  <installlifesupportkidney.label>尿 フィルター を移植する</installlifesupportkidney.label>
+  <installlifesupportliver.label>血液 フィルター を移植する</installlifesupportliver.label>
   <InstallNaturalHeart.label>心臓 を移植する</InstallNaturalHeart.label>
   <InstallNaturalLiver.label>肝臓 を移植する</InstallNaturalLiver.label>
   <InstallNaturalKidney.label>腎臓 を移植する</InstallNaturalKidney.label>
@@ -18,7 +18,7 @@
   <InstallArtificialBone_Small.label>人工 骨 を移植する</InstallArtificialBone_Small.label>
   <InstallArtificialBone_Medium.label>人工 骨 を移植する</InstallArtificialBone_Medium.label>
   <InstallArtificialBonePiece_Large.label>人工 骨 を移植する</InstallArtificialBonePiece_Large.label>
-  <HealScars.label>Scar を治療する</HealScars.label>
+  <HealScars.label>傷跡 を治療する</HealScars.label>
   <InstallSteelArm.label>鋼鉄 腕 を移植する</InstallSteelArm.label>
   <InstallEyePatch.label>眼帯 を移植する</InstallEyePatch.label>
   <InstallHookHand.label>フック型義手 を移植する</InstallHookHand.label>
@@ -34,7 +34,7 @@
   <InstallArtificialNose.label>人工 鼻 を移植する</InstallArtificialNose.label>
   <InstallHydraulicJaw.label>水圧式 顎 を移植する</InstallHydraulicJaw.label>
   <InstallArtificialPelvis.label>人工 骨盤 を移植する</InstallArtificialPelvis.label>
-  <InstallBrainStimulator.label>Brain Stimulator を移植する</InstallBrainStimulator.label>
+  <InstallBrainStimulator.label>脳刺激装置 を移植する</InstallBrainStimulator.label>
   <InstallSurrogateLung.label>代用 肺 を移植する</InstallSurrogateLung.label>
   <InstallSurrogateStomach.label>代用 胃 を移植する</InstallSurrogateStomach.label>
   <InstallSurrogateLiver.label>代用 肝臓 を移植する</InstallSurrogateLiver.label>

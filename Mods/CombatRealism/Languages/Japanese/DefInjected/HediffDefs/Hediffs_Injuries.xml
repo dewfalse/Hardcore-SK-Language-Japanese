@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Burn.label>燃やす</Burn.label>
-  <Crush.label>Crush</Crush.label>
+  <Crush.label>crush</Crush.label>
   <Crack.label>crack</Crack.label>
-  <Cut.label>Cut</Cut.label>
-  <Scratch.label>Scratch</Scratch.label>
-  <Bite.label>Bite</Bite.label>
-  <Stab.label>Stab</Stab.label>
-  <Gunshot.label>Gunshot</Gunshot.label>
-  <Shredded.label>Shredded</Shredded.label>
-  <MissingBodyPart.label>Missing body part</MissingBodyPart.label>
+  <Cut.label>cut</Cut.label>
+  <Scratch.label>scratch</Scratch.label>
+  <Bite.label>bite</Bite.label>
+  <Stab.label>stab</Stab.label>
+  <Gunshot.label>gunshot</Gunshot.label>
+  <Shredded.label>shredded</Shredded.label>
+  <MissingBodyPart.label>missing body part</MissingBodyPart.label>
 </LanguageData>

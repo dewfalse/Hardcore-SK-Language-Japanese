@@ -23,7 +23,7 @@
   <FerrosiliconAlloy.label>センダスト 合金</FerrosiliconAlloy.label>
   <FerromanganeseAlloy.label>シュピーゲル 合金</FerromanganeseAlloy.label>
   <CupronickelAlloy.label>メルキオール 合金</CupronickelAlloy.label>
-  <Plasteel.label>Stein 合金</Plasteel.label>
+  <Plasteel.label>スタイン 合金</Plasteel.label>
   <Permalloy.label>パーマロイ 合金</Permalloy.label>
   <AlnicoAlloy.label>アルニコ 合金</AlnicoAlloy.label>
   <NichromeAlloy.label>ニクロム 合金</NichromeAlloy.label>
@@ -31,11 +31,11 @@
   <StelliteAlloy.label>ステライト 合金</StelliteAlloy.label>
   <TitaniumBar.label>フェロチタン 合金</TitaniumBar.label>
   <NitinolAlloy.label>ニチノール 合金</NitinolAlloy.label>
-  <PobediteAlloy.label>Pobedite 合金</PobediteAlloy.label>
+  <PobediteAlloy.label>ポベダイト 合金</PobediteAlloy.label>
   <Titanium.label>チタニウム 合金</Titanium.label>
-  <WoodLog.label>木 Log</WoodLog.label>
+  <WoodLog.label>木 丸太</WoodLog.label>
   <WoodPlank.label>木の厚板</WoodPlank.label>
-  <Bamboo.label>竹 Log</Bamboo.label>
+  <Bamboo.label>竹 丸太</Bamboo.label>
   <BambooPlank.label>竹の厚板</BambooPlank.label>
   <Cloth.label>生地</Cloth.label>
   <MuffaloWool.label>マッファロー 毛</MuffaloWool.label>
@@ -77,7 +77,7 @@
   <CarbonAlloy.label>カーボン Fiber 合金</CarbonAlloy.label>
   <Concrete.label>コンクリート</Concrete.label>
   <Peat.label>ピート</Peat.label>
-  <BioDiesel.label>BioDiesel 燃料</BioDiesel.label>
+  <BioDiesel.label>バイオ燃料 燃料</BioDiesel.label>
   <Snow.label>雪 ブロック</Snow.label>
   <SoftClay.label>Soft 粘土</SoftClay.label>
   <ClayBrick.label>粘土 レンガ</ClayBrick.label>
@@ -92,7 +92,7 @@
   <SyntheticAmmonia.label>合成 アンモニア</SyntheticAmmonia.label>
   <Paraffins.label>パラフィン</Paraffins.label>
   <Sulphates.label>硫黄</Sulphates.label>
-  <Fuel.label>燃料 油</Fuel.label>
+  <Fuel.label>燃料 オイル</Fuel.label>
   <Matter.label>無機物</Matter.label>
   <DrillHead.label>ドリルヘッド</DrillHead.label>
   <PileOfBooks.label>Pile of Books</PileOfBooks.label>
@@ -105,18 +105,18 @@
   <BiosyntheticMaterial.label>BioSynthetic Material</BiosyntheticMaterial.label>
   <Hexcell.label>HexCell</Hexcell.label>
   <Compaste.label>合成 ペースト</Compaste.label>
-  <ThrumboHorn.label>Thrumbo Horn</ThrumboHorn.label>
+  <ThrumboHorn.label>スランボ 角</ThrumboHorn.label>
   <RobotParts.label>ロボット パーツ</RobotParts.label>
   <CopperBar.stuffProps.stuffAdjective>銅</CopperBar.stuffProps.stuffAdjective>
   <AluminiumBar.stuffProps.stuffAdjective>アルミニウム</AluminiumBar.stuffProps.stuffAdjective>
   <CastIron.stuffProps.stuffAdjective>鋳鉄</CastIron.stuffProps.stuffAdjective>
   <SteelBar.stuffProps.stuffAdjective>鋼鉄</SteelBar.stuffProps.stuffAdjective>
-  <GoldBar.stuffProps.stuffAdjective>Golden</GoldBar.stuffProps.stuffAdjective>
+  <GoldBar.stuffProps.stuffAdjective>金</GoldBar.stuffProps.stuffAdjective>
   <SilverBar.stuffProps.stuffAdjective>シルバー</SilverBar.stuffProps.stuffAdjective>
   <FerrosiliconAlloy.stuffProps.stuffAdjective>センダスト</FerrosiliconAlloy.stuffProps.stuffAdjective>
   <FerromanganeseAlloy.stuffProps.stuffAdjective>シュピーゲル</FerromanganeseAlloy.stuffProps.stuffAdjective>
   <CupronickelAlloy.stuffProps.stuffAdjective>メルキオール</CupronickelAlloy.stuffProps.stuffAdjective>
-  <Plasteel.stuffProps.stuffAdjective>Stein</Plasteel.stuffProps.stuffAdjective>
+  <Plasteel.stuffProps.stuffAdjective>スタイン</Plasteel.stuffProps.stuffAdjective>
   <Permalloy.stuffProps.stuffAdjective>パーマロイ</Permalloy.stuffProps.stuffAdjective>
   <AlnicoAlloy.stuffProps.stuffAdjective>アルニコ</AlnicoAlloy.stuffProps.stuffAdjective>
   <NichromeAlloy.stuffProps.stuffAdjective>ニクロム</NichromeAlloy.stuffProps.stuffAdjective>
@@ -124,11 +124,11 @@
   <StelliteAlloy.stuffProps.stuffAdjective>ステライト</StelliteAlloy.stuffProps.stuffAdjective>
   <TitaniumBar.stuffProps.stuffAdjective>フェロチタン</TitaniumBar.stuffProps.stuffAdjective>
   <NitinolAlloy.stuffProps.stuffAdjective>ニチノール</NitinolAlloy.stuffProps.stuffAdjective>
-  <PobediteAlloy.stuffProps.stuffAdjective>Pobedite</PobediteAlloy.stuffProps.stuffAdjective>
+  <PobediteAlloy.stuffProps.stuffAdjective>ポベダイト</PobediteAlloy.stuffProps.stuffAdjective>
   <Titanium.stuffProps.stuffAdjective>チタニウム</Titanium.stuffProps.stuffAdjective>
-  <WoodLog.stuffProps.stuffAdjective>木 Log</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.stuffProps.stuffAdjective>木 丸太</WoodLog.stuffProps.stuffAdjective>
   <WoodPlank.stuffProps.stuffAdjective>木の厚板</WoodPlank.stuffProps.stuffAdjective>
-  <Bamboo.stuffProps.stuffAdjective>竹 Log</Bamboo.stuffProps.stuffAdjective>
+  <Bamboo.stuffProps.stuffAdjective>竹 丸太</Bamboo.stuffProps.stuffAdjective>
   <BambooPlank.stuffProps.stuffAdjective>竹の厚板</BambooPlank.stuffProps.stuffAdjective>
   <WeedCloth.stuffProps.stuffAdjective>麻</WeedCloth.stuffProps.stuffAdjective>
   <RamWool.stuffProps.stuffAdjective>Ram 毛</RamWool.stuffProps.stuffAdjective>

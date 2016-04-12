@@ -1,10 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Radiation.label>放射線</Radiation.label>
-  <lifesupportheart.label>Blood Pump</lifesupportheart.label>
-  <lifesupportlung.label>Respirator</lifesupportlung.label>
-  <lifesupportkidney.label>Urine Filter</lifesupportkidney.label>
-  <lifesupportliver.label>Blood Filter</lifesupportliver.label>
+  <lifesupportheart.label>血液 ポンプ</lifesupportheart.label>
+  <lifesupportlung.label>人工呼吸器</lifesupportlung.label>
+  <lifesupportkidney.label>尿 フィルター</lifesupportkidney.label>
+  <lifesupportliver.label>血液 フィルター</lifesupportliver.label>
   <SpaceSpiceA.label>Space Spice (High)</SpaceSpiceA.label>
   <SpaceSpiceB.label>Space Spice (Surge)</SpaceSpiceB.label>
   <SpaceSpiceC.label>Space Spice (Bad Trip)</SpaceSpiceC.label>
@@ -15,7 +15,7 @@
   <Brownies.label>Brownie</Brownies.label>
   <Tobacco.label>タバコ</Tobacco.label>
   <StrongTobacco.label>タバコ</StrongTobacco.label>
-  <SpectagoTea.label>Spectago 茶</SpectagoTea.label>
+  <SpectagoTea.label>スペクターゴ 茶</SpectagoTea.label>
   <Caffeine.label>カフェイン</Caffeine.label>
   <Coffee.label>カフェイン</Coffee.label>
   <StrongCoffee.label>カフェイン</StrongCoffee.label>

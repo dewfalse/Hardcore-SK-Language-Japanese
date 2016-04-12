@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ScytherBlade.label>シザー Blade</ScytherBlade.label>
+  <ScytherBlade.label>シザー ブレード</ScytherBlade.label>
   <lifesupport.label>Life Support システム</lifesupport.label>
   <Eye.label>目</Eye.label>
   <Ear.label>耳</Ear.label>
@@ -28,7 +28,7 @@
   <SimpleProstheticLeg.label>簡易 人工疑似 脚</SimpleProstheticLeg.label>
   <SimpleProstheticArm.label>簡易 人工疑似 腕</SimpleProstheticArm.label>
   <ArtificialPelvis.label>人工 骨盤</ArtificialPelvis.label>
-  <BrainStimulator.label>Brain Stimulator</BrainStimulator.label>
+  <BrainStimulator.label>脳刺激装置</BrainStimulator.label>
   <SurrogateLung.label>代用 肺</SurrogateLung.label>
   <SurrogateStomach.label>代用 胃</SurrogateStomach.label>
   <SurrogateLiver.label>代用 肝臓</SurrogateLiver.label>
@@ -52,7 +52,7 @@
   <BionicArm.label>強化 腕</BionicArm.label>
   <BionicLeg.label>強化 脚</BionicLeg.label>
   <PowerClaw.label>電力 爪</PowerClaw.label>
-  <ScytherBlade.label>シザー Blade</ScytherBlade.label>
+  <ScytherBlade.label>シザー ブレード</ScytherBlade.label>
   <MedicalRib.label>医療 肋骨 Replacement</MedicalRib.label>
   <AdrenalineRib.label>アドレナリン 肋骨 Replacement</AdrenalineRib.label>
   <AdvancedPowerArm.label>改良型 電力 腕</AdvancedPowerArm.label>

@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Skynet_T.label>ターミネーター</Skynet_T.label>
-  <Skynet_TX.label>ターミナトリックス</Skynet_TX.label>
+  <SkynetCovert.label>Space 難民</SkynetCovert.label>
+  <SkynetLure.label>Villager</SkynetLure.label>
+  <SkynetAgent.label>ターミネーター</SkynetAgent.label>
+  <SkynetTerminator.label>ターミネーター</SkynetTerminator.label>
 </LanguageData>

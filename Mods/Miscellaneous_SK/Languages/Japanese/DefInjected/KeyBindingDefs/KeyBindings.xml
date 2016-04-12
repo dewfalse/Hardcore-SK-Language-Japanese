@@ -8,5 +8,5 @@
   <ColonistSelectionKeys_Group4.label>select group 4 / set with SHIFT+key</ColonistSelectionKeys_Group4.label>
   <ColonistSelectionKeys_SendEating.label>send active 入植者 to eat</ColonistSelectionKeys_SendEating.label>
   <ColonistSelectionKeys_SendSleeping.label>send active 入植者 to ベッド</ColonistSelectionKeys_SendSleeping.label>
-  <ColonistSelectionKeys_CenterOnColony.label>jump to random コロニー cell</ColonistSelectionKeys_CenterOnColony.label>
+  <ColonistSelectionKeys_CenterOnColony.label>jump to ランダム コロニー cell</ColonistSelectionKeys_CenterOnColony.label>
 </LanguageData>

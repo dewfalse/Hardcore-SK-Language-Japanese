@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <SunLamp.label>太陽灯</SunLamp.label>
-  <FertilizerPump.label>テラフォーミング Pump</FertilizerPump.label>
+  <FertilizerPump.label>テラフォーミング ポンプ</FertilizerPump.label>
   <OrbitalTradeBeacon.label>貿易用ビーコン</OrbitalTradeBeacon.label>
   <CommsConsole.label>通信機</CommsConsole.label>
   <MultiAnalyzer.label>マルチ・アナライザ</MultiAnalyzer.label>
   <VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
-  <ToolCabinet.label>Large ツール キャビネット</ToolCabinet.label>
-  <Small_ToolCabinet.label>Small ツール キャビネット</Small_ToolCabinet.label>
+  <ToolCabinet.label>ラージ ツール キャビネット</ToolCabinet.label>
+  <Small_ToolCabinet.label>スモール ツール キャビネット</Small_ToolCabinet.label>
   <Cook_Shelf.label>Cooking キャビネット</Cook_Shelf.label>
   <Grave.label>墓</Grave.label>
   <Sarcophagus.label>石棺</Sarcophagus.label>
@@ -20,5 +20,6 @@
   <MiningHelmetGlower.label>採掘 ヘルメット ライト</MiningHelmetGlower.label>
   <DermalRegenerator.label>Dermal regenerator</DermalRegenerator.label>
   <ImpactionCharge.label>Impaction Charge</ImpactionCharge.label>
+  <ClayCollector.label>粘土 Collector</ClayCollector.label>
   <MobileMineralSonar.Label>Mobile 鉱物 Sonar</MobileMineralSonar.Label>
 </LanguageData>

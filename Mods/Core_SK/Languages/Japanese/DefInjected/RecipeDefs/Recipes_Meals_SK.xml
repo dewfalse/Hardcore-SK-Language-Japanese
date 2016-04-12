@@ -8,8 +8,8 @@
   <CookMealFine_Bulk.label>Fine Meals を調理する</CookMealFine_Bulk.label>
   <CookMealLavish.label>Lavish Meal を調理する</CookMealLavish.label>
   <CookMealLavish_Bulk.label>Lavish Meals を調理する</CookMealLavish_Bulk.label>
-  <CookMealLuxury.label>Luxury Meal を調理する</CookMealLuxury.label>
-  <CookMealLuxury_Bulk.label>Luxury Meals を調理する</CookMealLuxury_Bulk.label>
+  <CookMealLuxury.label>豪華な Meal を調理する</CookMealLuxury.label>
+  <CookMealLuxury_Bulk.label>豪華な Meals を調理する</CookMealLuxury_Bulk.label>
   <CookRoastedMeat.label>Roasted 肉 を調理する</CookRoastedMeat.label>
   <CookMealJerky.label>ジャーキー 肉 を調理する</CookMealJerky.label>
   <MakeBread.label>焼く Bread Loaves</MakeBread.label>
@@ -26,14 +26,14 @@
   <MakeChocoMilk.label>チョコレート ミルク を作る</MakeChocoMilk.label>
   <MakeChocoMilk_Bulk.label>チョコレート ミルク を作る</MakeChocoMilk_Bulk.label>
   <BrewTea.label>Cups of 茶 を醸造する</BrewTea.label>
-  <BrewSpectagoTea.label>Cups of Spectago 茶 を醸造する</BrewSpectagoTea.label>
+  <BrewSpectagoTea.label>Cups of スペクターゴ 茶 を醸造する</BrewSpectagoTea.label>
   <BrewCoffee.label>Cups of コーヒー を醸造する</BrewCoffee.label>
   <MakeFruitDrink.label>Fruit Drinks を作る</MakeFruitDrink.label>
-  <CraftCigarillos.label>巻く Cigarillos</CraftCigarillos.label>
+  <CraftCigarillos.label>巻く シガリロ</CraftCigarillos.label>
   <CraftCigar.label>巻く Cigars</CraftCigar.label>
   <GatherHerbsCollection.label>ハーブ Collections を集める</GatherHerbsCollection.label>
   <Makeweedcig.label>巻く ウィード シガレット</Makeweedcig.label>
-  <MakeOil.label>ウィード 油 を作る</MakeOil.label>
+  <MakeOil.label>ウィード オイル を作る</MakeOil.label>
   <MakePieBlueberry.label>焼く ブルーベリー パイ</MakePieBlueberry.label>
   <MakePiePumpkin.label>焼く かぼちゃ パイ</MakePiePumpkin.label>
   <MakeChocolate.label>チョコレート を作る</MakeChocolate.label>
@@ -46,8 +46,8 @@
   <MakeSaladwMushrooms.label>キノコ サラダ を作る</MakeSaladwMushrooms.label>
   <MakeSaladwMushrooms_Bulk.label>キノコ サラダ を作る</MakeSaladwMushrooms_Bulk.label>
   <MakeVegetables.label>揚げ物の盛り合わせ を調理する</MakeVegetables.label>
-  <MakeRoastwMushrooms.label>Pot Roast and キノコ を調理する</MakeRoastwMushrooms.label>
-  <MakeRoastwMushrooms_Bulk.label>a bulk of Pot Roast and キノコ を調理する</MakeRoastwMushrooms_Bulk.label>
+  <MakeRoastwMushrooms.label>ポット Roast and キノコ を調理する</MakeRoastwMushrooms.label>
+  <MakeRoastwMushrooms_Bulk.label>a bulk of ポット Roast and キノコ を調理する</MakeRoastwMushrooms_Bulk.label>
   <MakeTincture.label>キノコ チンキ剤 を作る</MakeTincture.label>
   <MakeTincture_Bulk.label>bottles of キノコ チンキ剤 を作る</MakeTincture_Bulk.label>
   <MakeBasicCannedFood.label>Basic 缶詰 Food を作る</MakeBasicCannedFood.label>

@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <RedistHeat_Basics.label>Building duct networks</RedistHeat_Basics.label>
-  <RedistHeat_SmartDucts.label>Using smart duct outlets</RedistHeat_SmartDucts.label>
+  <RedistHeat_Basics.label>Building ダクト networks</RedistHeat_Basics.label>
+  <RedistHeat_SmartDucts.label>Using smart ダクト outlets</RedistHeat_SmartDucts.label>
   <RedistHeat_Channels.label>Lower and upper channel</RedistHeat_Channels.label>
 </LanguageData>

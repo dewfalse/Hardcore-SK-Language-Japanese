@@ -17,7 +17,7 @@
   <MakeIntegratedCircuits.label>集積 電気回路 を作る</MakeIntegratedCircuits.label>
   <MakeMicrochipIntegratedCircuits.label>マイクロチップ 集積 電子回路 を作る</MakeMicrochipIntegratedCircuits.label>
   <MakeBioelectronicDevices.label>BioElectronic Device を作る</MakeBioelectronicDevices.label>
-  <MakeBioDiesel.label>BioDiesel 燃料 を作る</MakeBioDiesel.label>
+  <MakeBioDiesel.label>バイオ燃料 燃料 を作る</MakeBioDiesel.label>
   <MakeClayBricks.label>粘土 レンガ を作る</MakeClayBricks.label>
   <RecycleApparel.label>衣服 into Textiles をリサイクルする</RecycleApparel.label>
   <MakeGlassBatch.label>ガラス バッチ を作る</MakeGlassBatch.label>
@@ -43,9 +43,9 @@
   <MakeNaturalLiver.label>生体 肝臓 を培養する</MakeNaturalLiver.label>
   <MakeNaturalKidney.label>生体 腎臓 を培養する</MakeNaturalKidney.label>
   <MakeNaturalStomach.label>生体 胃 を培養する</MakeNaturalStomach.label>
-  <MakeScytherBlade.label>シザー Blade Prothesis を作る</MakeScytherBlade.label>
+  <MakeScytherBlade.label>シザー ブレード Prothesis を作る</MakeScytherBlade.label>
   <MakeHerbMedicine.label>生薬 を作成する</MakeHerbMedicine.label>
-  <Makeherbmeds.label>Herbal 医療 Kit を作る</Makeherbmeds.label>
+  <Makeherbmeds.label>Herbal 医療 キット を作る</Makeherbmeds.label>
   <makemedicine.label>医薬品 を作成する</makemedicine.label>
   <makelifesupport.label>Life Support Device を作る</makelifesupport.label>
   <makeadvmedicine.label>改良型 医薬品 を作成する</makeadvmedicine.label>
@@ -66,7 +66,7 @@
   <MakeDrillHead.label>ドリルヘッド を作る</MakeDrillHead.label>
   <MakePainting.label>a 絵画 を製造する</MakePainting.label>
   <CookPaint.label>絵画 Supplies を製造する</CookPaint.label>
-  <MakeHexcell.label>Hex-Cells を作成する</MakeHexcell.label>
+  <MakeHexcell.label>ヘックス-Cells を作成する</MakeHexcell.label>
   <MakeCompaste.label>合成 ペースト を作成する</MakeCompaste.label>
   <MakeRobotParts.label>ロボット パーツ を作る</MakeRobotParts.label>
 </LanguageData>

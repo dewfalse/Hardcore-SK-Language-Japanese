@@ -8,7 +8,7 @@
   <CrematoriusToggleStripBodies.label>crematorius strip bodies 切り替え</CrematoriusToggleStripBodies.label>
   <FillInFissure.label>fill fissure</FillInFissure.label>
   <DeepStorageEjectAll.label>deep ストレージ eject all</DeepStorageEjectAll.label>
-  <DeactivateDroid.label>deactivate droid</DeactivateDroid.label>
-  <ExtractorChangeResource.label>extractor choose resource</ExtractorChangeResource.label>
+  <DeactivateDroid.label>deactivate ドロイド</DeactivateDroid.label>
+  <ExtractorChangeResource.label>エクストラクター choose resource</ExtractorChangeResource.label>
   <FissureGeneratorChangeFissure.label>fissure 発電機 choose fissure</FissureGeneratorChangeFissure.label>
 </LanguageData>

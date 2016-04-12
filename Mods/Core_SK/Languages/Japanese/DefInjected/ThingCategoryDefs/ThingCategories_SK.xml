@@ -6,7 +6,7 @@
   <FoodMeals.label>Meals</FoodMeals.label>
   <FoodRaw.label>生 Food</FoodRaw.label>
   <CookingSupplies.label>Cooking Supplies</CookingSupplies.label>
-  <LuxuryStuffs.label>Luxury Stuffs</LuxuryStuffs.label>
+  <LuxuryStuffs.label>豪華な Stuffs</LuxuryStuffs.label>
   <SweetMeals.label>Sweets</SweetMeals.label>
   <Alcohol.label>アルコール</Alcohol.label>
   <Energetics.label>Energy Drinks</Energetics.label>
@@ -28,7 +28,7 @@
   <SLDBar.label>Solid</SLDBar.label>
   <USLDBar.label>Ultrasolid</USLDBar.label>
   <Uranium.label>ウラニウム</Uranium.label>
-  <RARBar.label>Rare</RARBar.label>
+  <RARBar.label>レア</RARBar.label>
   <ConstuctionParts.label>Constuction</ConstuctionParts.label>
   <Parts.label>パーツ and 機械部品</Parts.label>
   <Woody.label>Crafted 木</Woody.label>
@@ -42,7 +42,7 @@
   <WeaponCrate.label>武器 箱</WeaponCrate.label>
   <Ammo.label>弾薬</Ammo.label>
   <WeaponParts.label>武器 コンポーネント</WeaponParts.label>
-  <ElectronicsCat.label>Electronics</ElectronicsCat.label>
+  <ElectronicsCat.label>エレクトロニクス</ElectronicsCat.label>
   <GlassCat.label>Glassy</GlassCat.label>
   <SuperMaterialCat.label>Super Materials</SuperMaterialCat.label>
   <FuelCat.label>燃料</FuelCat.label>
@@ -54,10 +54,10 @@
   <RAD.label>Radioactive</RAD.label>
   <PRS.label>Precious</PRS.label>
   <SLD.label>Solid</SLD.label>
-  <RAR.label>Rare</RAR.label>
+  <RAR.label>レア</RAR.label>
   <Coal.label>石炭</Coal.label>
   <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
-  <Chemical.label>Chemical</Chemical.label>
+  <Chemical.label>化学</Chemical.label>
   <Wooden.label>木の</Wooden.label>
   <RawPlant.label>生 Plant</RawPlant.label>
   <Items.label>Items</Items.label>
@@ -91,26 +91,26 @@
   <AnimalHeaddressCat.label>動物 Headdress</AnimalHeaddressCat.label>
   <HeaddressCat.label>Headdress</HeaddressCat.label>
   <SpecialHelmetsCat.label>Special Headdress</SpecialHelmetsCat.label>
-  <MilitaryHeaddressCat.label>Military Headdress</MilitaryHeaddressCat.label>
+  <MilitaryHeaddressCat.label>ミリタリー Headdress</MilitaryHeaddressCat.label>
   <LightHelmetsCat.label>ライト ヘルメット</LightHelmetsCat.label>
-  <MediumHelmetsCat.label>Medium ヘルメット</MediumHelmetsCat.label>
+  <MediumHelmetsCat.label>ミディアム ヘルメット</MediumHelmetsCat.label>
   <HeavyHelmetsCat.label>Heavy ヘルメット</HeavyHelmetsCat.label>
   <FullArmorCat.label>Full アーマー</FullArmorCat.label>
   <LightFullArmorCat.label>ライト アーマー</LightFullArmorCat.label>
-  <MediumFullArmorCat.label>Medium アーマー</MediumFullArmorCat.label>
+  <MediumFullArmorCat.label>ミディアム アーマー</MediumFullArmorCat.label>
   <HeavyFullArmorCat.label>Heavy アーマー</HeavyFullArmorCat.label>
   <UpperDressCat.label>Upper Dress</UpperDressCat.label>
   <UpperOverdressCat.label>Upper Overdress</UpperOverdressCat.label>
   <LightUpperArmorCat.label>ライト アーマー</LightUpperArmorCat.label>
-  <MediumUpperArmorCat.label>Medium アーマー</MediumUpperArmorCat.label>
+  <MediumUpperArmorCat.label>ミディアム アーマー</MediumUpperArmorCat.label>
   <HeavyUpperArmorCat.label>Heavy アーマー</HeavyUpperArmorCat.label>
   <PantsCat.label>ズボン</PantsCat.label>
   <UrbanPantsCat.label>Urban ズボン</UrbanPantsCat.label>
-  <MilitaryPantsCat.label>Military ズボン</MilitaryPantsCat.label>
+  <MilitaryPantsCat.label>ミリタリー ズボン</MilitaryPantsCat.label>
   <FullBodySuitsCat.label>Full ボディースーツ</FullBodySuitsCat.label>
   <BodySuitsCat.label>ボディースーツ</BodySuitsCat.label>
   <VestsCat.label>ベスト</VestsCat.label>
-  <GlovesCat.label>Gloves</GlovesCat.label>
+  <GlovesCat.label>グローブ</GlovesCat.label>
   <BootsCat.label>ブーツ</BootsCat.label>
   <ShieldCat.label>シールド</ShieldCat.label>
   <AccessoriesCat.label>装飾</AccessoriesCat.label>
@@ -129,7 +129,7 @@
   <SetSecurity.label>セキュリティー装備セット</SetSecurity.label>
   <SetScout.label>スカウト装備セット</SetScout.label>
   <SetSniper.label>スナイパー装備セット</SetSniper.label>
-  <Setmarinearmor.label>マリン装備セット</Setmarinearmor.label>
+  <Setmarinearmor.label>マリーン装備セット</Setmarinearmor.label>
   <SetInteractor.label>インターレクター装備セット</SetInteractor.label>
   <Setpowerarmor.label>パワーアーマー装備セット</Setpowerarmor.label>
   <Sethivearmor.label>ハイブアーマー装備セット</Sethivearmor.label>
@@ -142,9 +142,9 @@
   <BodyParts.label>生体 臓器</BodyParts.label>
   <BasicProstheses.label>Basic 義肢</BasicProstheses.label>
   <SimpleProstheses.label>簡易 義肢</SimpleProstheses.label>
-  <BionicProstheses.label>Bionics</BionicProstheses.label>
-  <AdvancedProstheses.label>改良型 Bionics</AdvancedProstheses.label>
-  <CyberneticProstheses.label>サイバネティクス Bionics</CyberneticProstheses.label>
+  <BionicProstheses.label>人工生体義肢</BionicProstheses.label>
+  <AdvancedProstheses.label>改良型 人工生体義肢</AdvancedProstheses.label>
+  <CyberneticProstheses.label>サイバネティクス 人工生体義肢</CyberneticProstheses.label>
   <SurrogateOrgans.label>代用 臓器</SurrogateOrgans.label>
   <SyntheticOrgans.label>合成 臓器</SyntheticOrgans.label>
   <Chunks.label>塊</Chunks.label>

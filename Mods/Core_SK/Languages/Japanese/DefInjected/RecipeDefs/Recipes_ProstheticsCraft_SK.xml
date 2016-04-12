@@ -15,7 +15,7 @@
   <CreateHookHand.label>フック型義手 を作成する</CreateHookHand.label>
   <CreateDenture.label>入れ歯 を作成する</CreateDenture.label>
   <CreateWoodenFoot.label>木の 足 を作成する</CreateWoodenFoot.label>
-  <CreateBrainStimulator.label>Brain Stimulator を作成する</CreateBrainStimulator.label>
+  <CreateBrainStimulator.label>脳刺激装置 を作成する</CreateBrainStimulator.label>
   <CreateSurrogateLung.label>代用 肺 を製造する</CreateSurrogateLung.label>
   <CreateSurrogateStomach.label>代用 胃 を製造する</CreateSurrogateStomach.label>
   <CreateSurrogateLiver.label>代用 肝臓 を製造する</CreateSurrogateLiver.label>
@@ -49,7 +49,7 @@
   <CreateAdvancedBionicJaw.label>強化 顎 をアップグレードする</CreateAdvancedBionicJaw.label>
   <CreateAdvancedBionicEar.label>強化 耳 をアップグレードする</CreateAdvancedBionicEar.label>
   <CreateAdvancedBionicSpine.label>強化 脊椎 をアップグレードする</CreateAdvancedBionicSpine.label>
-  <CreatePowerClaw.label>シザー Blade をアップグレードする</CreatePowerClaw.label>
+  <CreatePowerClaw.label>シザー ブレード をアップグレードする</CreatePowerClaw.label>
   <CreateExoskeletonSuit.label>外骨格 スーツ を作成する</CreateExoskeletonSuit.label>
   <CreateGTBionicEye.label>サイバネティクス 強化 目 を製造する</CreateGTBionicEye.label>
   <CreateGTBionicArm.label>サイバネティクス 強化 腕 を製造する</CreateGTBionicArm.label>

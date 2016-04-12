@@ -1,11 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Sandbags.label>Sandbags</Sandbags.label>
+  <Sandbags.label>土嚢</Sandbags.label>
   <Parapet.label>胸壁</Parapet.label>
   <chevalDeFrise.label>防御柵</chevalDeFrise.label>
   <WallEmbrasure.label>銃眼</WallEmbrasure.label>
   <WallWire.label>Barbed 電線</WallWire.label>
-  <Moat.label>Shallow Moat</Moat.label>
+  <Moat.label>浅い 堀</Moat.label>
   <TrapDeadfall.label>落とし 罠</TrapDeadfall.label>
   <TrapIEDBomb.label>IED 罠</TrapIEDBomb.label>
   <TrapIEDIncendiary.label>IED ナパーム 罠</TrapIEDIncendiary.label>
@@ -27,7 +27,7 @@
   <HowitzerTurretGun.label>155mm 榴弾砲 キャノン タレット</HowitzerTurretGun.label>
   <Turret_DevastatorMortarBomb.label>Devastator Magnetic カタパルト</Turret_DevastatorMortarBomb.label>
   <LightMissileSystem.label>ライト ミサイル システム</LightMissileSystem.label>
-  <MediumMissileSystem.label>Medium ミサイル システム</MediumMissileSystem.label>
+  <MediumMissileSystem.label>ミディアム ミサイル システム</MediumMissileSystem.label>
   <RLGun.label>Heavy ミサイル システム</RLGun.label>
   <NavalGunTurretGun.label>35mm Automated 機関砲 タレット</NavalGunTurretGun.label>
   <Building_Pawn_Upgrader.label>Nanite シールド Station</Building_Pawn_Upgrader.label>

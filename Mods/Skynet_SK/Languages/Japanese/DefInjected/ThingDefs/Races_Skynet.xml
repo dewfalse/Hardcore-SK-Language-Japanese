@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Skynet_Terminator.label>ターミネーター</Skynet_Terminator.label>
-  <Skynet_Terminatrix.label>ターミナトリックス</Skynet_Terminatrix.label>
+  <SkynetCovert.label>人間</SkynetCovert.label>
+  <SkynetAgent.label>ターミネーター</SkynetAgent.label>
+  <SkynetLure.label>人間</SkynetLure.label>
+  <SkynetTerminator.label>ターミネーター</SkynetTerminator.label>
 </LanguageData>

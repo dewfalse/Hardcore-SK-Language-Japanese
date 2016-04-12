@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
+  <Brain.label>brain</Brain.label>
+  <Spine.label>脊椎</Spine.label>
   <Rib.label>肋骨</Rib.label>
   <LeftLeg.label>左 脚</LeftLeg.label>
   <LeftFoot.label>左 足</LeftFoot.label>

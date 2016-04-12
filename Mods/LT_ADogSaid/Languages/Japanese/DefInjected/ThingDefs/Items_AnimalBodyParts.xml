@@ -3,12 +3,12 @@
   <BionicEyeAnimal.label>強化 動物 目</BionicEyeAnimal.label>
   <SimpleProstheticArmAnimal.label>簡易 人工疑似 動物 腕</SimpleProstheticArmAnimal.label>
   <BionicArmAnimal.label>強化 動物 腕</BionicArmAnimal.label>
-  <SimpleProstheticLegAnimalSmall.label>簡易 人工疑似 動物 脚 (Small)</SimpleProstheticLegAnimalSmall.label>
-  <SimpleProstheticLegAnimalMedium.label>簡易 人工疑似 動物 脚 (Medium)</SimpleProstheticLegAnimalMedium.label>
-  <SimpleProstheticLegAnimalLarge.label>簡易 人工疑似 動物 脚 (Large)</SimpleProstheticLegAnimalLarge.label>
+  <SimpleProstheticLegAnimalSmall.label>簡易 人工疑似 動物 脚 (スモール)</SimpleProstheticLegAnimalSmall.label>
+  <SimpleProstheticLegAnimalMedium.label>簡易 人工疑似 動物 脚 (ミディアム)</SimpleProstheticLegAnimalMedium.label>
+  <SimpleProstheticLegAnimalLarge.label>簡易 人工疑似 動物 脚 (ラージ)</SimpleProstheticLegAnimalLarge.label>
   <SimpleProstheticLegAnimalHuge.label>簡易 人工疑似 動物 脚 (Huge)</SimpleProstheticLegAnimalHuge.label>
-  <BionicLegAnimalSmall.label>強化 動物 脚 (Small)</BionicLegAnimalSmall.label>
-  <BionicLegAnimalMedium.label>強化 動物 脚 (medium)</BionicLegAnimalMedium.label>
-  <BionicLegAnimalLarge.label>強化 動物 脚 (Large)</BionicLegAnimalLarge.label>
+  <BionicLegAnimalSmall.label>強化 動物 脚 (スモール)</BionicLegAnimalSmall.label>
+  <BionicLegAnimalMedium.label>強化 動物 脚 (ミディアム)</BionicLegAnimalMedium.label>
+  <BionicLegAnimalLarge.label>強化 動物 脚 (ラージ)</BionicLegAnimalLarge.label>
   <BionicLegAnimalHuge.label>強化 動物 脚 (Huge)</BionicLegAnimalHuge.label>
 </LanguageData>

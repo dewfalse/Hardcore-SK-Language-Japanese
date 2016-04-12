@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <MineralDeposits.label>鉱床 of 鉱物</MineralDeposits.label>
-  <RareMineralDeposits.label>鉱床 of Rare 鉱物</RareMineralDeposits.label>
+  <RareMineralDeposits.label>鉱床 of レア 鉱物</RareMineralDeposits.label>
   <Oilfield.label>鉱床 of 原油</Oilfield.label>
   <MineableSteel.label>鉄 鉱石 鉱床</MineableSteel.label>
   <MineableSilver.label>シルバー 鉱石 鉱床</MineableSilver.label>

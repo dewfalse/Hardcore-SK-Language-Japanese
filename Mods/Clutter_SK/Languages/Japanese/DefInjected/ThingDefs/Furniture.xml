@@ -1,17 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ClutterSmallTableModern.label>モダン テーブル (Small)</ClutterSmallTableModern.label>
-  <ClutterMediumTableModern.label>モダン テーブル (Medium)</ClutterMediumTableModern.label>
-  <ClutterSquareTableModern.label>モダン テーブル (Square)</ClutterSquareTableModern.label>
+  <ClutterSmallTableModern.label>モダン テーブル (スモール)</ClutterSmallTableModern.label>
+  <ClutterMediumTableModern.label>モダン テーブル (ミディアム)</ClutterMediumTableModern.label>
+  <ClutterSquareTableModern.label>モダン テーブル (スクエア)</ClutterSquareTableModern.label>
   <ClutterCouchA.label>カウチ</ClutterCouchA.label>
   <ClutterComfySeat.label>Cozy アームチェア</ClutterComfySeat.label>
   <ClutterStool.label>Redisigned スツール</ClutterStool.label>
-  <ClutterFreezer.label>Small Freezer</ClutterFreezer.label>
+  <ClutterFreezer.label>スモール 冷凍庫</ClutterFreezer.label>
   <ClutterTrashBin.label>Auto ゴミ箱</ClutterTrashBin.label>
-  <ClutterLockerA.label>Clothing ロッカー</ClutterLockerA.label>
+  <ClutterLockerA.label>衣料 ロッカー</ClutterLockerA.label>
   <ClutterCabinetA.label>キャビネット</ClutterCabinetA.label>
   <ClutterLocker.label>ロッカー</ClutterLocker.label>
-  <TinkerTable.label>Tinker テーブル</TinkerTable.label>
-  <TinkerTableMKII.label>Tinker テーブル MK2</TinkerTableMKII.label>
+  <TinkerTable.label>ティンカー テーブル</TinkerTable.label>
+  <TinkerTableMKII.label>ティンカー テーブル MK2</TinkerTableMKII.label>
   <ClutterBedA.Label>Stylish ベッド</ClutterBedA.Label>
 </LanguageData>
