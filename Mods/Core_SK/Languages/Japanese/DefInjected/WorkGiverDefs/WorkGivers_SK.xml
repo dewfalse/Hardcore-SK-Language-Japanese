@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <FightFires.label>消火</FightFires.label>
+  <RepairItem.label>修繕</RepairItem.label>
+  <DoBillsTableGrill.label>グリル調理</DoBillsTableGrill.label>
+  <DoBillsMakeWeapons.label>鍛冶</DoBillsMakeWeapons.label>
+  <DoBillsBrew.label>醸造</DoBillsBrew.label>
+  <DoBillsMakeApparel.label>仕立て</DoBillsMakeApparel.label>
+  <DoBillsMakeWoodPlanks.label>のこぎりを使う</DoBillsMakeWoodPlanks.label>
+  <DoBillsSmeltMetal_Hand.label>金属を精錬</DoBillsSmeltMetal_Hand.label>
+  <DoBillsTableElectronics.label>電子機器制作</DoBillsTableElectronics.label>
+  <DoBillsTableLoom.label>織機を使う</DoBillsTableLoom.label>
+  <DoBillsTableComposter.label>コンポスターを使う</DoBillsTableComposter.label>
+  <DoBillsTableChemlab.label>化学実験室を使う</DoBillsTableChemlab.label>
+  <DoBillsTableOrganvat.label>臓器培養槽を使う</DoBillsTableOrganvat.label>
+  <DoBillsRecycle.label>衣装リサイクル台で作業する</DoBillsRecycle.label>
+  <TrainingMedicine.label>解剖台でトレーニング</TrainingMedicine.label>
+  <DoBillsRobassem.label>ロボット組立台を使う</DoBillsRobassem.label>
+  <DoBillsMatterfab.label>do matter fab bills</DoBillsMatterfab.label>
+  <DoBillsTableSurrogates.label>義肢制作</DoBillsTableSurrogates.label>
+  <DoBillsMixconcrete.label>コンクリートを混ぜる</DoBillsMixconcrete.label>
+  <DoBillChemicalLab.label>石油化学プラントを使う</DoBillChemicalLab.label>
+  <DoBillsMakeGlass.label>ガラス製造</DoBillsMakeGlass.label>
+  <DoBillsWeaponCraftingWorkTable.label>遠距離武器制作</DoBillsWeaponCraftingWorkTable.label>
+  <DoBillsConvert.label>マターコンバータを使う</DoBillsConvert.label>
+  <DoBillsComponentAssemblyBench.label>コンポーネント組み立て</DoBillsComponentAssemblyBench.label>
+  <DoBillsSoylent.label>ソイレントマシーンを使う</DoBillsSoylent.label>
+  <DoBillsMediTable.label>医療大を使う</DoBillsMediTable.label>
+  <CollectSand.label>砂採集</CollectSand.label>
+  <CollectPeat.label>ピート採集</CollectPeat.label>
+  <CollectCrushedStone.label>岩塊採集</CollectCrushedStone.label>
+  <CollectSnow.label>雪ブロック作り</CollectSnow.label>
+  <CollectSoftClay.label>粘土採集</CollectSoftClay.label>
+  <DoBillsCookPro.label>プロ用コンロで調理</DoBillsCookPro.label>
+  <DoBillsMakePainting.label>絵画</DoBillsMakePainting.label>
+  <DoBillsCanningstove.label>圧力鍋で調理</DoBillsCanningstove.label>
+  <DoBillsBake.label>キャンディテーブル</DoBillsBake.label>
+  <DoBillsTableOven.label>オーブン</DoBillsTableOven.label>
+  <DoBillsTobacco.label>タバコ</DoBillsTobacco.label>
+  <DoBillsCoffee.label>コーヒー</DoBillsCoffee.label>
+  <DoBillsBioRefinery.label>バイオリファイナリーで抽出する</DoBillsBioRefinery.label>
+  <QRY_DoBillsQuarry.label>採掘</QRY_DoBillsQuarry.label>
+  <DoBillsCremate.label>火葬</DoBillsCremate.label>
+</LanguageData>

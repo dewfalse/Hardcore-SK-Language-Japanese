@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Apparel_HuskerHood.label>ハスカーフード</Apparel_HuskerHood.label>
+  <Apparel_SkulkerHood.label>スカルカーフード</Apparel_SkulkerHood.label>
+  <Apparel_ThumperHood.label>タンパーフード</Apparel_ThumperHood.label>
+  <Apparel_GrinderHelmet.label>フルフェイスヘルメット</Apparel_GrinderHelmet.label>
+  <Apparel_ScorcherHelmet.label>ファラルガスマスク</Apparel_ScorcherHelmet.label>
+  <Slag_Vest_Improved.label>ファラルベスト</Slag_Vest_Improved.label>
+  <Slag_Plate_Crude.label>ファラルプレートアーマー</Slag_Plate_Crude.label>
+  <Slag_Plate_Improved.label>トゲ付きファラルプレートアーマー</Slag_Plate_Improved.label>
+</LanguageData>

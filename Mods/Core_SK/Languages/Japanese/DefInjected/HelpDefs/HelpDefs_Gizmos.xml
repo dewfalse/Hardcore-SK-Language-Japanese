@@ -2,7 +2,7 @@
 <LanguageData>
   <TRST.label>Trouble starting</TRST.label>
   <BLDN.label>Buildings</BLDN.label>
-  <CRFT.label>工作</CRFT.label>
-  <MISC.label>その他</MISC.label>
+  <CRFT.label>Crafting</CRFT.label>
+  <Misc.label>Misc</Misc.label>
   <ABT.label>About</ABT.label>
 </LanguageData>

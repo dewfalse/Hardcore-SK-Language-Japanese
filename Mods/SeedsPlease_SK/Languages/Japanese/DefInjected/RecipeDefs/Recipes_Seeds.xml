@@ -1,41 +1,41 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <HempSeed.label>ウィード から種子を取る</HempSeed.label>
-  <XerigiumSeed.label>生 ゼリジウム から種子を取る</XerigiumSeed.label>
-  <EggSeed.label>ナス Fruit から種子を取る</EggSeed.label>
-  <MushroomSeed.label>生 シャンピニオン から種子を取る</MushroomSeed.label>
-  <PotatoSeed.label>じゃがいも から種子を取る</PotatoSeed.label>
-  <CornSeed.label>とうもろこし から種子を取る</CornSeed.label>
-  <RiceSeed.label>米 から種子を取る</RiceSeed.label>
-  <StrawberrySeed.label>いちご から種子を取る</StrawberrySeed.label>
-  <CottonSeed.label>生 木綿 から種子を取る</CottonSeed.label>
-  <DevilstrandSeed.label>生 デビルストランド から種子を取る</DevilstrandSeed.label>
-  <HopSeed.label>ホップ から種子を取る</HopSeed.label>
-  <CoffeeSeed.label>コーヒー 豆 から種子を取る</CoffeeSeed.label>
-  <TobaccoSeed.label>タバコの葉 から種子を取る</TobaccoSeed.label>
-  <BlueberrySeed.label>ブルーベリー から種子を取る</BlueberrySeed.label>
-  <PumpkinSeed.label>かぼちゃ から種子を取る</PumpkinSeed.label>
-  <TomatoSeed.label>トマト から種子を取る</TomatoSeed.label>
-  <LettuceSeed.label>レタス から種子を取る</LettuceSeed.label>
-  <CarrotSeed.label>にんじん から種子を取る</CarrotSeed.label>
-  <CocoaSeed.label>ココア 豆 から種子を取る</CocoaSeed.label>
-  <SugarcaneSeed.label>さとうきび から種子を取る</SugarcaneSeed.label>
-  <PlantbeanSeed.label>豆 Pods から種子を取る</PlantbeanSeed.label>
-  <PlantTeaSeed.label>茶の葉 から種子を取る</PlantTeaSeed.label>
-  <AloeSeed.label>アロエの葉 から種子を取る</AloeSeed.label>
-  <BambooSeed.label>竹 丸太 から種子を取る</BambooSeed.label>
-  <AppleSeed.label>りんご から種子を取る</AppleSeed.label>
-  <BananaSeed.label>バナナ から種子を取る</BananaSeed.label>
-  <OrangeSeed.label>オレンジ から種子を取る</OrangeSeed.label>
-  <PeachSeed.label>もも から種子を取る</PeachSeed.label>
-  <GrapeSeed.label>ぶどう から種子を取る</GrapeSeed.label>
-  <mediplantSeed.label>野ばら から種子を取る</mediplantSeed.label>
-  <mediplantySeed.label>オトギリソウ から種子を取る</mediplantySeed.label>
-  <mediplantgSeed.label>ミントの葉 から種子を取る</mediplantgSeed.label>
-  <SpectagoSeed.label>Rainbow Petals から種子を取る</SpectagoSeed.label>
-  <WheatSeed.label>小麦 から種子を取る</WheatSeed.label>
-  <OatsSeed.label>燕麦 から種子を取る</OatsSeed.label>
-  <GooseberrySeed.label>グースベリー から種子を取る</GooseberrySeed.label>
-  <CloudberrySeed.label>クラウドベリー から種子を取る</CloudberrySeed.label>
-  <OnionSeed.label>玉ねぎ から種子を取る</OnionSeed.label>
+  <HempSeed.label>大麻から種子を採る</HempSeed.label>
+  <HealrootSeed.label>ヒールルートから種子を採る</HealrootSeed.label>
+  <EggSeed.label>ナスから種子を採る</EggSeed.label>
+  <MushroomSeed.label>シャンピニオンから種子を採る</MushroomSeed.label>
+  <PotatoSeed.label>ジャガイモから種子を採る</PotatoSeed.label>
+  <CornSeed.label>トウモロコシから種子を採る</CornSeed.label>
+  <RiceSeed.label>米から種子を採る</RiceSeed.label>
+  <StrawberrySeed.label>苺から種子を採る</StrawberrySeed.label>
+  <CottonSeed.label>木綿から種子を採る</CottonSeed.label>
+  <DevilstrandSeed.label>デビルストランドから種子を採る</DevilstrandSeed.label>
+  <HopSeed.label>ホップから種子を採る</HopSeed.label>
+  <CoffeeSeed.label>コーヒー豆から種子を採る</CoffeeSeed.label>
+  <TobaccoSeed.label>煙草の葉から種子を採る</TobaccoSeed.label>
+  <BlueberrySeed.label>ブルーベリーから種子を採る</BlueberrySeed.label>
+  <PumpkinSeed.label>カボチャから種子を採る</PumpkinSeed.label>
+  <TomatoSeed.label>トマトから種子を採る</TomatoSeed.label>
+  <LettuceSeed.label>レタスから種子を採る</LettuceSeed.label>
+  <CarrotSeed.label>ニンジンから種子を採る</CarrotSeed.label>
+  <CocoaSeed.label>ココア豆から種子を採る</CocoaSeed.label>
+  <SugarcaneSeed.label>サトウキビから種子を採る</SugarcaneSeed.label>
+  <PlantbeanSeed.label>大豆から種子を採る</PlantbeanSeed.label>
+  <PlantTeaSeed.label>茶葉から種子を採る</PlantTeaSeed.label>
+  <AloeSeed.label>アロエから種子を採る</AloeSeed.label>
+  <BambooSeed.label>竹から種子を採る</BambooSeed.label>
+  <AppleSeed.label>リンゴから種子を採る</AppleSeed.label>
+  <BananaSeed.label>バナナから種子を採る</BananaSeed.label>
+  <OrangeSeed.label>オレンジから種子を採る</OrangeSeed.label>
+  <PeachSeed.label>モモから種子を採る</PeachSeed.label>
+  <GrapeSeed.label>ブドウから種子を採る</GrapeSeed.label>
+  <PlantWildRoseSeed.label>バラから種子を採る</PlantWildRoseSeed.label>
+  <PlantHypericumSeed.label>オトギリソウから種子を採る</PlantHypericumSeed.label>
+  <PlantMintSeed.label>ミントから種子を採る</PlantMintSeed.label>
+  <SpectagoSeed.label>レインボーペタルから種子を採る</SpectagoSeed.label>
+  <WheatSeed.label>小麦から種子を採る</WheatSeed.label>
+  <OatsSeed.label>カラス麦から種子を採る</OatsSeed.label>
+  <GooseberrySeed.label>スグリから種子を採る</GooseberrySeed.label>
+  <CloudberrySeed.label>キイチゴから種子を採る</CloudberrySeed.label>
+  <OnionSeed.label>タマネギから種子を採る</OnionSeed.label>
 </LanguageData>

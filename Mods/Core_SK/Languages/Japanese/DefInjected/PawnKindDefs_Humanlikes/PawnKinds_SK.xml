@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BrotherhoodGuard.label>Brotherhood Guard</BrotherhoodGuard.label>
+  <BrotherhoodTrader.label>Brotherhood trader</BrotherhoodTrader.label>
+  <BrotherhoodStriker.label>Brotherhood Striker</BrotherhoodStriker.label>
+  <BrotherhoodProtector.label>Brotherhood Protector</BrotherhoodProtector.label>
+  <BrotherhoodBombardier.label>Brotherhood Bombardier</BrotherhoodBombardier.label>
+  <BrotherhoodDemolisher.label>Brotherhood Demolisher</BrotherhoodDemolisher.label>
+  <BrotherhoodScout.label>Brotherhood Scout</BrotherhoodScout.label>
+  <BrotherhoodDestroyer.label>Brotherhood Destroyer</BrotherhoodDestroyer.label>
+  <BrotherhoodSentinel.label>Brotherhood Sentinel</BrotherhoodSentinel.label>
+  <SectarianSoldier.label>Sectarian Soldier</SectarianSoldier.label>
+  <SectarianStriker.label>Sectarian Striker</SectarianStriker.label>
+  <SectarianHunter.label>Sectarian Hunter</SectarianHunter.label>
+  <SectarianBombardier.label>Sectarian Bombardier</SectarianBombardier.label>
+  <SectarianDemolisher.label>Sectarian Demolisher</SectarianDemolisher.label>
+  <SectarianEagleEye.label>Sectarian Eagle Eye</SectarianEagleEye.label>
+  <SectarianDestroyer.label>Sectarian Destroyer</SectarianDestroyer.label>
+  <SectarianTrader.label>Sectarian trader</SectarianTrader.label>
+  <SectarianSentinel.label>Sectarian Sentinel</SectarianSentinel.label>
+  <SyndicateProspector.label>Syndicate Prospector</SyndicateProspector.label>
+  <SyndicateStriker.label>Syndicate Striker</SyndicateStriker.label>
+  <SyndicateHunter.label>Syndicate Hunter</SyndicateHunter.label>
+  <SyndicateHawkeye.label>Syndicate Hawkeye</SyndicateHawkeye.label>
+  <SyndicateDevastator.label>Syndicate Devastator</SyndicateDevastator.label>
+  <SyndicateAnnihilator.label>Syndicate Annihilator</SyndicateAnnihilator.label>
+  <SyndicateBloodborne.label>Syndicate bloodborne</SyndicateBloodborne.label>
+  <OrionChaser.label>Orion Chaser</OrionChaser.label>
+  <OrionSunderer.label>Orion Sunderer</OrionSunderer.label>
+  <OrionHunter.label>Orion Hunter</OrionHunter.label>
+  <OrionHawkeye.label>Orion Hawkeye</OrionHawkeye.label>
+  <OrionRager.label>Orion Rager</OrionRager.label>
+  <OrionSunRiser.label>Orion Sun Riser</OrionSunRiser.label>
+  <OrionBloodborne.label>Orion bloodborne</OrionBloodborne.label>
+  <EmpireDesperado.label>Empire Desperado</EmpireDesperado.label>
+  <EmpireBrigand.label>Empire Brigand</EmpireBrigand.label>
+  <EmpireTrader.label>Empire trader</EmpireTrader.label>
+  <EmpireHessian.label>Empire Hessian</EmpireHessian.label>
+  <EmpireExploder.label>Empire Exploder</EmpireExploder.label>
+  <EmpireKing.label>Empire King</EmpireKing.label>
+  <PredatorsRaven.label>Predators Raven</PredatorsRaven.label>
+  <PredatorsLynx.label>Predators Lynx</PredatorsLynx.label>
+  <PredatorsWolf.label>Predators Wolf</PredatorsWolf.label>
+  <PredatorsHawkeye.label>Predators Hawkeye</PredatorsHawkeye.label>
+  <PredatorsBomber.label>Predators Bomber</PredatorsBomber.label>
+  <PredatorsShaman.label>Predators Shaman</PredatorsShaman.label>
+  <PredatorsSlasher.label>Predators Slasher</PredatorsSlasher.label>
+  <PredatorsTrader.label>Predators trader</PredatorsTrader.label>
+  <NovaAllianceSoldier.label>Nova Corps Soldier</NovaAllianceSoldier.label>
+  <NovaTrader.label>Nova trader</NovaTrader.label>
+  <NovaAllianceAssault.label>Nova Corps Assault</NovaAllianceAssault.label>
+  <NovaAllianceSapper.label>Nova Corps Sapper</NovaAllianceSapper.label>
+  <NovaCommander.label>Nova commander</NovaCommander.label>
+  <NarnInsurgent.label>Narn Insurgent</NarnInsurgent.label>
+  <NarnHeadCutter.label>Narn Head Cutter</NarnHeadCutter.label>
+  <NarnShahid.label>Narn Shahid</NarnShahid.label>
+  <NarnShaman.label>Narn shaman</NarnShaman.label>
+  <NarnTrader.label>Narn trader</NarnTrader.label>
+  <OrassanWindrunner.label>Orassan windrunner</OrassanWindrunner.label>
+  <OrassanElder.label>Orassan elder</OrassanElder.label>
+  <OrassanTrader.label>Orassan trader</OrassanTrader.label>
+  <OrassanAdventurer.label>Orassan adventurer</OrassanAdventurer.label>
+  <OrassanHunter.label>Orassan hunter</OrassanHunter.label>
+  <OrassanPredator.label>Orassan predator</OrassanPredator.label>
+</LanguageData>

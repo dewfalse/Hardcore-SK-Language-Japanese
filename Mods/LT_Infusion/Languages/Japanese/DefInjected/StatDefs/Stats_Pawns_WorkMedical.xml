@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <MedicalOperationSpeed.label>医療 手術 スピード</MedicalOperationSpeed.label>
-  <SurgerySuccessChance.label>Surgery success chance</SurgerySuccessChance.label>
-  <BaseHealingQuality.label>Base healing quality</BaseHealingQuality.label>
-  <HealingSpeed.label>Healing スピード</HealingSpeed.label>
+  <MedicalOperationSpeed.label>医療・処置速度</MedicalOperationSpeed.label>
+  <SurgerySuccessChance.label>外科手術の成功率</SurgerySuccessChance.label>
+  <BaseHealingQuality.label>医療・医者の質</BaseHealingQuality.label>
+  <HealingSpeed.label>医療・医者の手際良さ</HealingSpeed.label>
 </LanguageData>

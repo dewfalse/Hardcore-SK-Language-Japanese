@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Eclipse.label>日食</Eclipse.label>
+  <SolarFlare.label>太陽フレア</SolarFlare.label>
+  <PsychicDrone.label>サイコドローン</PsychicDrone.label>
+  <ToxicFallout.label>死の灰</ToxicFallout.label>
+  <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
+  <HeatWave.label>熱波</HeatWave.label>
+  <ColdSnap.label>寒波</ColdSnap.label>
+  <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+  <ShortCircuit.label>電気ケーブル</ShortCircuit.label>
+  <CropBlight.label>疫病</CropBlight.label>
+  <Alphabeavers.label>ビーバー達</Alphabeavers.label>
+</LanguageData>

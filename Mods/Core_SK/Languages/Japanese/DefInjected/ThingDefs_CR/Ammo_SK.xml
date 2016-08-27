@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ammo_Bolt_Metallic.label>metallic bolt</Ammo_Bolt_Metallic.label>
+  <Ammo_Bolt_Explosive.label>explosive bolt</Ammo_Bolt_Explosive.label>
+  <Ammo_44Mag.label>.44 Remington Magnum</Ammo_44Mag.label>
+  <Ammo_50AE_FMJ.label>.50 inch Action Express (FMJ)</Ammo_50AE_FMJ.label>
+  <Ammo_50AE_AP.label>.50 inch Action Express (AP)</Ammo_50AE_AP.label>
+  <Ammo_50AE_HP.label>.50 inch Action Express (HP)</Ammo_50AE_HP.label>
+  <Ammo_9x39Soviet.label>9x39mm Soviet sniper standart</Ammo_9x39Soviet.label>
+  <Ammo_545x39mmR_FMJ.label>5.45x39mm Russian (FMJ)</Ammo_545x39mmR_FMJ.label>
+  <Ammo_545x39mmR_AP.label>5.45x39mm Russian (AP)</Ammo_545x39mmR_AP.label>
+  <Ammo_545x39mmR_HP.label>5.45x39mm Russian (HP)</Ammo_545x39mmR_HP.label>
+  <Ammo_M72LAW_HEAT.label>M72 LAW grenade (HEAT)</Ammo_M72LAW_HEAT.label>
+  <Ammo_M72LAW_Thermobaric.label>M72 LAW grenade (Thermobaric)</Ammo_M72LAW_Thermobaric.label>
+  <Ammo_M72LAW_Frag.label>M72 LAW grenade (Frag)</Ammo_M72LAW_Frag.label>
+  <Ammo_FGMJ_HEAT.label>AT Missile round (HEAT)</Ammo_FGMJ_HEAT.label>
+  <Ammo_FGMJ_Thermobaric.label>AT Missile round (Thermobaric)</Ammo_FGMJ_Thermobaric.label>
+  <Ammo_FGMJ_Frag.label>AT Missile round (Frag)</Ammo_FGMJ_Frag.label>
+  <Ammo_PlasmaBolt.label>Plasma bolt</Ammo_PlasmaBolt.label>
+  <Ammo_DualPlasmaBolt.label>Dual Plasma bolt</Ammo_DualPlasmaBolt.label>
+  <Ammo_RailRay.label>Charged Rail Ray</Ammo_RailRay.label>
+  <Ammo_ChargedLaser.label>Charged Laser beam</Ammo_ChargedLaser.label>
+  <Ammo_120mmCannonShell_HEAT.label>120mm cannon shell (HEAT)</Ammo_120mmCannonShell_HEAT.label>
+  <Ammo_120mmCannonShell_HE.label>120mm cannon shell (HE)</Ammo_120mmCannonShell_HE.label>
+  <Ammo_120mmCannonShell_EMP.label>120mm cannon shell (EMP)</Ammo_120mmCannonShell_EMP.label>
+  <Ammo_155mmHowitzerShell_HE.label>155mm howitzer shell (HE)</Ammo_155mmHowitzerShell_HE.label>
+  <Ammo_155mmHowitzerShell_EMP.label>155mm howitzer shell (EMP)</Ammo_155mmHowitzerShell_EMP.label>
+  <Ammo_130mmRocketMissile.label>130mm rocket missile (HE)</Ammo_130mmRocketMissile.label>
+  <Ammo_20x102mm.label>20x102mm cartridge</Ammo_20x102mm.label>
+  <Ammo_30x173mm.label>30x173mm cartridge</Ammo_30x173mm.label>
+  <Ammo_35x228mm.label>35x228 cartridge</Ammo_35x228mm.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ShipChunkDrop.label>宇宙船の残骸が、空から、この近辺に落ちてきます。</ShipChunkDrop.label>
+  <OrbitalTraderArrival.label>商船は、 惑星のそばを 通過しようと しています。</OrbitalTraderArrival.label>
+  <TraderCaravanArrival.label>キャラバン</TraderCaravanArrival.label>
+  <VisitorGroup.label>訪問者</VisitorGroup.label>
+  <TravelerGroup.label>旅行者</TravelerGroup.label>
+  <ResourcePodCrash.label>漂着物</ResourcePodCrash.label>
+  <RaidFriendly.label>友軍</RaidFriendly.label>
+  <WandererJoin.label>入植者</WandererJoin.label>
+  <RefugeePodCrash.label>脱出ポッド</RefugeePodCrash.label>
+  <PsychicSoothe.label>サイコスード</PsychicSoothe.label>
+  <SelfTame.label>ひとなつっこく寄ってきた</SelfTame.label>
+  <FarmAnimalsWanderIn.label>家畜は加わった</FarmAnimalsWanderIn.label>
+</LanguageData>

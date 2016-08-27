@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ship_Beam.label>船体骨格</Ship_Beam.label>
+  <Ship_CryptosleepCasket.label>宇宙船用冬眠カプセル</Ship_CryptosleepCasket.label>
+  <Ship_ComputerCore.label>コンピュータコア</Ship_ComputerCore.label>
+  <Ship_Reactor.label>反物質炉</Ship_Reactor.label>
+  <Ship_Engine.label>反物質エンジン</Ship_Engine.label>
+</LanguageData>

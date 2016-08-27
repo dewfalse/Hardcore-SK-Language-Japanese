@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Bullet_40Rimfire_FMJ.label>.40 Rimfire bullet (FMJ)</Bullet_40Rimfire_FMJ.label>
+  <Bullet_40Rimfire_AP.label>.40 Rimfire bullet (AP)</Bullet_40Rimfire_AP.label>
+  <Bullet_40Rimfire_HP.label>.40 Rimfire bullet (HP)</Bullet_40Rimfire_HP.label>
+  <Bullet_9x19mmPara_FMJ.label>9mm Para bullet (FMJ)</Bullet_9x19mmPara_FMJ.label>
+  <Bullet_9x19mmPara_AP.label>9mm Para bullet (AP)</Bullet_9x19mmPara_AP.label>
+  <Bullet_9x19mmPara_HP.label>9mm Para bullet (HP)</Bullet_9x19mmPara_HP.label>
+  <Bullet_45ACP_FMJ.label>.45 ACP bullet (FMJ)</Bullet_45ACP_FMJ.label>
+  <Bullet_45ACP_AP.label>.45 ACP bullet (AP)</Bullet_45ACP_AP.label>
+  <Bullet_45ACP_HP.label>.45 ACP bullet (HP)</Bullet_45ACP_HP.label>
+</LanguageData>

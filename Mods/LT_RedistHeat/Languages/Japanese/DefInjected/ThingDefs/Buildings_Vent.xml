@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Vent.label>Vent</Vent.label>
-  <RedistHeat_ActiveVent.label>Active vent</RedistHeat_ActiveVent.label>
+  <Vent.label>換気口</Vent.label>
+  <RedistHeat_ActiveVent.label>強制換気口</RedistHeat_ActiveVent.label>
 </LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Bullet_50BMG_FMJ.label>.50 BMG bullet (FMJ)</Bullet_50BMG_FMJ.label>
+  <Bullet_50BMG_Sabot.label>.50 BMG bullet (Sabot)</Bullet_50BMG_Sabot.label>
+  <Bullet_50BMG_HE.label>.50 BMG bullet (HE)</Bullet_50BMG_HE.label>
+  <Bullet_50BMG_Incendiary.label>.50 BMG bullet (AP-I)</Bullet_50BMG_Incendiary.label>
+  <Bullet_145x114mm_FMJ.label>14.5x114mm bullet (FMJ)</Bullet_145x114mm_FMJ.label>
+  <Bullet_145x114mm_HE.label>14.5x114mm bullet (HE)</Bullet_145x114mm_HE.label>
+  <Bullet_145x114mm_Incendiary.label>14.5x114mm bullet (AP-I)</Bullet_145x114mm_Incendiary.label>
+</LanguageData>

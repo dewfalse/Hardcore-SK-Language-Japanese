@@ -1,156 +1,162 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Root.label>root</Root.label>
-  <Resources.label>Resources</Resources.label>
-  <Foods.label>Foods</Foods.label>
-  <FoodMeals.label>Meals</FoodMeals.label>
-  <FoodRaw.label>生 Food</FoodRaw.label>
+  <Root.label>目次</Root.label>
+  <Resources.label>資源</Resources.label>
+  <Foods.label>食物</Foods.label>
+  <FoodMeals.label>調理済</FoodMeals.label>
+  <FoodRaw.label>生素材</FoodRaw.label>
   <CookingSupplies.label>Cooking Supplies</CookingSupplies.label>
-  <LuxuryStuffs.label>豪華な Stuffs</LuxuryStuffs.label>
-  <SweetMeals.label>Sweets</SweetMeals.label>
+  <LuxuryStuffs.label>Luxury Stuffs</LuxuryStuffs.label>
+  <SweetMeals.label>お菓子</SweetMeals.label>
   <Alcohol.label>アルコール</Alcohol.label>
-  <Energetics.label>Energy Drinks</Energetics.label>
-  <Drugs.label>Drugs</Drugs.label>
-  <Animalfood.label>動物 Food</Animalfood.label>
-  <Fluffy_CatFoods.label>キャットフード</Fluffy_CatFoods.label>
-  <MeatRaw.label>肉</MeatRaw.label>
-  <PlantFoodRaw.label>ベジタリアン</PlantFoodRaw.label>
+  <Energetics.label>エナジードリンク</Energetics.label>
+  <Drugs.label>ドラッグ</Drugs.label>
+  <Animalfood.label>Animal Food</Animalfood.label>
+  <Fluffy_CatFoods.label>Cat Food</Fluffy_CatFoods.label>
+  <MeatRaw.label>Meat</MeatRaw.label>
+  <PlantFoodRaw.label>Vegetarian</PlantFoodRaw.label>
   <BasicPlantFoodRaw.label>Basic Food</BasicPlantFoodRaw.label>
   <ExtraPlantFoodRaw.label>Extra Food</ExtraPlantFoodRaw.label>
   <FruitFoodRaw.label>フルーツ</FruitFoodRaw.label>
-  <OtherFoodRaw.label>動物 Products</OtherFoodRaw.label>
-  <EggsUnfertilized.label>卵 (無精卵)</EggsUnfertilized.label>
-  <EggsFertilized.label>卵 (有精卵)</EggsFertilized.label>
-  <Manufactured.label>Manufactured</Manufactured.label>
-  <Metallic.label>Metal 合金</Metallic.label>
-  <HCMBar.label>High Conductivity</HCMBar.label>
-  <PRSBar.label>Precious</PRSBar.label>
-  <SLDBar.label>Solid</SLDBar.label>
-  <USLDBar.label>Ultrasolid</USLDBar.label>
-  <Uranium.label>ウラニウム</Uranium.label>
-  <RARBar.label>レア</RARBar.label>
+  <OtherFoodRaw.label>生卵</OtherFoodRaw.label>
+  <EggsUnfertilized.label>卵(無精卵)</EggsUnfertilized.label>
+  <EggsFertilized.label>卵(有精卵)</EggsFertilized.label>
+  <Manufactured.label>加工品</Manufactured.label>
+  <Metallic.label>金属</Metallic.label>
+  <HCMBar.label>高伝導性</HCMBar.label>
+  <PRSBar.label>貴金属</PRSBar.label>
+  <SLDBar.label>固体</SLDBar.label>
+  <USLDBar.label>超硬度材料</USLDBar.label>
+  <RARBar.label>レアメタル</RARBar.label>
+  <RADBar.label>放射性物質</RADBar.label>
   <ConstuctionParts.label>Constuction</ConstuctionParts.label>
-  <Parts.label>パーツ and 機械部品</Parts.label>
-  <Woody.label>Crafted 木</Woody.label>
-  <Textiles.label>Textiles</Textiles.label>
-  <BTextiles.label>Basic</BTextiles.label>
+  <Parts.label>Parts and Mechanisms</Parts.label>
+  <Woody.label>Crafted Wood</Woody.label>
+  <Textiles.label>織物</Textiles.label>
+  <BTextiles.label>基本</BTextiles.label>
   <HTextiles.label>ハイテク</HTextiles.label>
   <CTextiles.label>コンポーネント</CTextiles.label>
-  <Leathers.label>革</Leathers.label>
+  <Leathers.label>皮</Leathers.label>
   <Medicine.label>医薬品</Medicine.label>
   <Canware.label>Canware</Canware.label>
-  <WeaponCrate.label>武器 箱</WeaponCrate.label>
+  <WeaponCrate.label>武器</WeaponCrate.label>
   <Ammo.label>弾薬</Ammo.label>
-  <WeaponParts.label>武器 コンポーネント</WeaponParts.label>
-  <ElectronicsCat.label>エレクトロニクス</ElectronicsCat.label>
-  <GlassCat.label>Glassy</GlassCat.label>
+  <WeaponParts.label>武器コンポーネント</WeaponParts.label>
+  <ElectronicsCat.label>電子機器</ElectronicsCat.label>
+  <GlassCat.label>ガラス</GlassCat.label>
   <SuperMaterialCat.label>Super Materials</SuperMaterialCat.label>
   <FuelCat.label>燃料</FuelCat.label>
-  <ResourcesRaw.label>生 Resources</ResourcesRaw.label>
-  <Extracted.label>Extracted</Extracted.label>
-  <StoneBlocks.label>石 ブロック</StoneBlocks.label>
-  <Metals.label>Metal 鉱石</Metals.label>
-  <HCM.label>High Conductivity</HCM.label>
-  <RAD.label>Radioactive</RAD.label>
-  <PRS.label>Precious</PRS.label>
-  <SLD.label>Solid</SLD.label>
-  <RAR.label>レア</RAR.label>
-  <Coal.label>石炭</Coal.label>
-  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
-  <Chemical.label>化学</Chemical.label>
-  <Wooden.label>木の</Wooden.label>
-  <RawPlant.label>生 Plant</RawPlant.label>
-  <Items.label>Items</Items.label>
-  <Art.label>Art</Art.label>
+  <ExplosivesCat.label>爆発物</ExplosivesCat.label>
+  <ResourcesRaw.label>原材料</ResourcesRaw.label>
+  <SeedsCategory.label>種子</SeedsCategory.label>
+  <Extracted.label>抽出物</Extracted.label>
+  <StoneBlocks.label>石材</StoneBlocks.label>
+  <Metals.label>金属鉱石</Metals.label>
+  <HCM.label>高伝導性</HCM.label>
+  <RAD.label>放射性物質</RAD.label>
+  <PRS.label>貴金属</PRS.label>
+  <SLD.label>固体</SLD.label>
+  <RAR.label>レアメタル</RAR.label>
+  <Coal.label>炭</Coal.label>
+  <Hydrocarbons.label>炭化水素</Hydrocarbons.label>
+  <Chemical.label>化学物質</Chemical.label>
+  <Wooden.label>木</Wooden.label>
+  <RawPlant.label>生野菜</RawPlant.label>
+  <Items.label>物品</Items.label>
+  <Art.label>芸術</Art.label>
   <Furniture.label>家具</Furniture.label>
-  <Unfinished.label>未完成の</Unfinished.label>
+  <Unfinished.label>未完成品</Unfinished.label>
+  <Artifacts.label>アーティファクト</Artifacts.label>
   <Weapons.label>武器</Weapons.label>
-  <WeaponsMelee.label>Melee 武器</WeaponsMelee.label>
+  <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
   <AgileMelee.label>Agile</AgileMelee.label>
   <SharpMelee.label>Sharp</SharpMelee.label>
   <BluntMelee.label>Blunt</BluntMelee.label>
   <HeavyMelee.label>Heavy</HeavyMelee.label>
-  <SpecialMelee.label>Special</SpecialMelee.label>
-  <WeaponsRanged.label>Ranged 武器</WeaponsRanged.label>
-  <BowRanged.label>Bows</BowRanged.label>
+  <SpecialMelee.label>スペシャル</SpecialMelee.label>
+  <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
+  <BowRanged.label>弓</BowRanged.label>
   <CrossbarRanged.label>Crossbar</CrossbarRanged.label>
-  <ThrownRanged.label>Thrown</ThrownRanged.label>
+  <ThrownRanged.label>投擲武器</ThrownRanged.label>
   <Pistols.label>ピストル</Pistols.label>
-  <Shotguns.label>ショットガン</Shotguns.label>
-  <SMGs.label>SMGs</SMGs.label>
+  <Shotguns.label>散弾銃</Shotguns.label>
+  <SMGs.label>サブマシンガン</SMGs.label>
   <Rifles.label>ライフル</Rifles.label>
-  <SRifles.label>スナイパー ライフル</SRifles.label>
-  <Heavy.label>Heavy</Heavy.label>
-  <Launchers.label>ランチャー</Launchers.label>
-  <Futuristic.label>Futuristic</Futuristic.label>
-  <Grenades.label>グレネード</Grenades.label>
-  <Tools.label>Tools</Tools.label>
-  <SpecialWeapons.label>Special 武器</SpecialWeapons.label>
+  <SRifles.label>狙撃銃</SRifles.label>
+  <MachineGun.label>機関銃</MachineGun.label>
+  <Glaunchers.label>グレネードランチャー</Glaunchers.label>
+  <Launchers.label>ロケットランチャーRocket launchers</Launchers.label>
+  <Specialranged.label>Special ranged</Specialranged.label>
+  <Futuristic.label>先進武器</Futuristic.label>
+  <Grenades.label>投擲武器</Grenades.label>
+  <Tools.label>ツール</Tools.label>
+  <SpecialWeapons.label>Special Weapon</SpecialWeapons.label>
   <Apparel.label>衣服</Apparel.label>
   <Headgear.label>Headgear</Headgear.label>
-  <AnimalHeaddressCat.label>動物 Headdress</AnimalHeaddressCat.label>
-  <HeaddressCat.label>Headdress</HeaddressCat.label>
+  <AnimalHeaddressCat.label>Animal Headdress</AnimalHeaddressCat.label>
+  <HeaddressCat.label>頭飾り</HeaddressCat.label>
   <SpecialHelmetsCat.label>Special Headdress</SpecialHelmetsCat.label>
-  <MilitaryHeaddressCat.label>ミリタリー Headdress</MilitaryHeaddressCat.label>
-  <LightHelmetsCat.label>ライト ヘルメット</LightHelmetsCat.label>
-  <MediumHelmetsCat.label>ミディアム ヘルメット</MediumHelmetsCat.label>
-  <HeavyHelmetsCat.label>Heavy ヘルメット</HeavyHelmetsCat.label>
-  <FullArmorCat.label>Full アーマー</FullArmorCat.label>
-  <LightFullArmorCat.label>ライト アーマー</LightFullArmorCat.label>
-  <MediumFullArmorCat.label>ミディアム アーマー</MediumFullArmorCat.label>
-  <HeavyFullArmorCat.label>Heavy アーマー</HeavyFullArmorCat.label>
+  <MilitaryHeaddressCat.label>Military Headdress</MilitaryHeaddressCat.label>
+  <LightHelmetsCat.label>ライトヘルメット</LightHelmetsCat.label>
+  <MediumHelmetsCat.label>ミディアムヘルメット</MediumHelmetsCat.label>
+  <HeavyHelmetsCat.label>ヘビーヘルメット</HeavyHelmetsCat.label>
+  <FullArmorCat.label>フルアーマー</FullArmorCat.label>
+  <LightFullArmorCat.label>ライトアーマー</LightFullArmorCat.label>
+  <MediumFullArmorCat.label>ミディアムアーマー</MediumFullArmorCat.label>
+  <HeavyFullArmorCat.label>ヘビーアーマー</HeavyFullArmorCat.label>
   <UpperDressCat.label>Upper Dress</UpperDressCat.label>
   <UpperOverdressCat.label>Upper Overdress</UpperOverdressCat.label>
-  <LightUpperArmorCat.label>ライト アーマー</LightUpperArmorCat.label>
-  <MediumUpperArmorCat.label>ミディアム アーマー</MediumUpperArmorCat.label>
-  <HeavyUpperArmorCat.label>Heavy アーマー</HeavyUpperArmorCat.label>
+  <LightUpperArmorCat.label>ライトアーマー</LightUpperArmorCat.label>
+  <MediumUpperArmorCat.label>ミディアムアーマー</MediumUpperArmorCat.label>
+  <HeavyUpperArmorCat.label>ヘビーアーマー</HeavyUpperArmorCat.label>
   <PantsCat.label>ズボン</PantsCat.label>
-  <UrbanPantsCat.label>Urban ズボン</UrbanPantsCat.label>
-  <MilitaryPantsCat.label>ミリタリー ズボン</MilitaryPantsCat.label>
-  <FullBodySuitsCat.label>Full ボディースーツ</FullBodySuitsCat.label>
+  <UrbanPantsCat.label>アーバンパンツ</UrbanPantsCat.label>
+  <MilitaryPantsCat.label>ミリタリーパンツ</MilitaryPantsCat.label>
+  <FullBodySuitsCat.label>フルボディースーツ</FullBodySuitsCat.label>
   <BodySuitsCat.label>ボディースーツ</BodySuitsCat.label>
   <VestsCat.label>ベスト</VestsCat.label>
   <GlovesCat.label>グローブ</GlovesCat.label>
   <BootsCat.label>ブーツ</BootsCat.label>
   <ShieldCat.label>シールド</ShieldCat.label>
-  <AccessoriesCat.label>装飾</AccessoriesCat.label>
-  <SpecialApparelCat.label>Special</SpecialApparelCat.label>
-  <Sets.label>Sets</Sets.label>
-  <SetCookie.label>料理人装備セット</SetCookie.label>
-  <SetMedical.label>メディック装備セット</SetMedical.label>
-  <SetSmith.label>鍛冶屋装備セット</SetSmith.label>
-  <SetHarvester.label>農業装備セット</SetHarvester.label>
-  <SetMiner.label>採掘装備セット</SetMiner.label>
-  <SetConstructor.label>建設装備セット</SetConstructor.label>
-  <SetChemicalProtectionSuit.label>防護服装備セット</SetChemicalProtectionSuit.label>
-  <SetGasMask.label>ガスマスク装備セット</SetGasMask.label>
-  <SetMedieval.label>中世風装備セット</SetMedieval.label>
-  <SetBandit.label>山賊装備セット</SetBandit.label>
-  <SetSecurity.label>セキュリティー装備セット</SetSecurity.label>
-  <SetScout.label>スカウト装備セット</SetScout.label>
-  <SetSniper.label>スナイパー装備セット</SetSniper.label>
-  <Setmarinearmor.label>マリーン装備セット</Setmarinearmor.label>
-  <SetInteractor.label>インターレクター装備セット</SetInteractor.label>
-  <Setpowerarmor.label>パワーアーマー装備セット</Setpowerarmor.label>
-  <Sethivearmor.label>ハイブアーマー装備セット</Sethivearmor.label>
-  <Setsteamarmor.label>スチーム装備セット</Setsteamarmor.label>
-  <SetSiegearmor.label>シージアーマー包囲戦装備セット</SetSiegearmor.label>
-  <SetSyndicate.label>シンジケート装備セット</SetSyndicate.label>
-  <SetCombatarmor.label>コンバットアーマー装備セット</SetCombatarmor.label>
-  <SetJet.label>ジェット装備セット</SetJet.label>
-  <BodyPartsAndImplants.label>Body パーツ</BodyPartsAndImplants.label>
-  <BodyParts.label>生体 臓器</BodyParts.label>
-  <BasicProstheses.label>Basic 義肢</BasicProstheses.label>
-  <SimpleProstheses.label>簡易 義肢</SimpleProstheses.label>
-  <BionicProstheses.label>人工生体義肢</BionicProstheses.label>
-  <AdvancedProstheses.label>改良型 人工生体義肢</AdvancedProstheses.label>
-  <CyberneticProstheses.label>サイバネティクス 人工生体義肢</CyberneticProstheses.label>
-  <SurrogateOrgans.label>代用 臓器</SurrogateOrgans.label>
-  <SyntheticOrgans.label>合成 臓器</SyntheticOrgans.label>
+  <AccessoriesCat.label>アクセサリー</AccessoriesCat.label>
+  <SpecialApparelCat.label>スペシャル</SpecialApparelCat.label>
+  <Sets.label>セット</Sets.label>
+  <SetCookie.label>コックセット</SetCookie.label>
+  <SetMedical.label>メディックセット</SetMedical.label>
+  <SetSmith.label>鍛冶セット</SetSmith.label>
+  <SetHarvester.label>農夫セット</SetHarvester.label>
+  <SetMiner.label>鉱夫セット</SetMiner.label>
+  <SetConstructor.label>ビルダーセット</SetConstructor.label>
+  <SetChemicalProtectionSuit.label>防護服セット</SetChemicalProtectionSuit.label>
+  <SetGasMask.label>ガスマスクセット</SetGasMask.label>
+  <SetMedieval.label>中世セット</SetMedieval.label>
+  <SetBandit.label>山賊セット</SetBandit.label>
+  <SetSecurity.label>セキュリティセット</SetSecurity.label>
+  <SetScout.label>スカウトセット</SetScout.label>
+  <SetSniper.label>スナイパーセット</SetSniper.label>
+  <Setmarinearmor.label>海兵セット</Setmarinearmor.label>
+  <SetInteractor.label>インタラクタセット</SetInteractor.label>
+  <Setpowerarmor.label>パワーアーマーセット</Setpowerarmor.label>
+  <Sethivearmor.label>ハイヴアーマーセット</Sethivearmor.label>
+  <Setsteamarmor.label>Steamセット</Setsteamarmor.label>
+  <SetSiegearmor.label>シージアーマーセット</SetSiegearmor.label>
+  <SetSyndicate.label>シンジケートセット</SetSyndicate.label>
+  <SetCombatarmor.label>コンバットアーマーセット</SetCombatarmor.label>
+  <SetJet.label>ジェットセット</SetJet.label>
+  <BodyParts.label>義肢</BodyParts.label>
+  <BodyPartsNatural.label>Natural</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>Artificial</BodyPartsArtificial.label>
+  <BasicProstheses.label>基本義肢</BasicProstheses.label>
+  <SimpleProstheses.label>単純な義肢</SimpleProstheses.label>
+  <BionicProstheses.label>人工義肢</BionicProstheses.label>
+  <AdvancedProstheses.label>改良型人工義肢</AdvancedProstheses.label>
+  <CyberneticProstheses.label>サイバネ義肢</CyberneticProstheses.label>
+  <SurrogateOrgans.label>代用臓器</SurrogateOrgans.label>
+  <SyntheticOrgans.label>人工臓器</SyntheticOrgans.label>
   <Chunks.label>塊</Chunks.label>
-  <StoneChunks.label>石 塊</StoneChunks.label>
+  <StoneChunks.label>岩塊</StoneChunks.label>
   <Corpses.label>死骸</Corpses.label>
-  <CorpsesHumanlike.label>Humanlike 死骸</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>動物 死骸</CorpsesAnimal.label>
-  <CorpsesMechanoid.label>メカノイド 死骸</CorpsesMechanoid.label>
+  <CorpsesHumanlike.label>ヒトの死骸</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>動物の死骸</CorpsesAnimal.label>
+  <CorpsesMechanoid.label>機械の塊</CorpsesMechanoid.label>
 </LanguageData>

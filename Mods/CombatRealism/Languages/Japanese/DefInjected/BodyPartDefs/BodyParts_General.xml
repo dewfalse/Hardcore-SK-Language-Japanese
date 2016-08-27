@@ -1,10 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Brain.label>brain</Brain.label>
+  <Brain.label>脳</Brain.label>
   <Spine.label>脊椎</Spine.label>
   <Rib.label>肋骨</Rib.label>
-  <LeftLeg.label>左 脚</LeftLeg.label>
-  <LeftFoot.label>左 足</LeftFoot.label>
-  <RightLeg.label>右 脚</RightLeg.label>
-  <RightFoot.label>右 足</RightFoot.label>
+  <LeftLeg.label>左脚</LeftLeg.label>
+  <LeftFoot.label>左足</LeftFoot.label>
+  <RightLeg.label>右脚</RightLeg.label>
+  <RightFoot.label>右足</RightFoot.label>
 </LanguageData>

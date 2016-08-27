@@ -1,14 +1,14 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ChunkSlagSteel.label>鋼鉄 スラグ 塊</ChunkSlagSteel.label>
-  <Sandstone.label>砂岩 鉱床</Sandstone.label>
-  <ChunkSandstone.label>砂岩 塊</ChunkSandstone.label>
-  <Granite.label>花崗岩 鉱床</Granite.label>
-  <ChunkGranite.label>花崗岩 塊</ChunkGranite.label>
-  <Limestone.label>石灰岩 鉱床</Limestone.label>
-  <ChunkLimestone.label>石灰岩 塊</ChunkLimestone.label>
-  <Slate.label>粘板岩 鉱床</Slate.label>
-  <ChunkSlate.label>粘板岩 塊</ChunkSlate.label>
-  <Marble.label>大理石 鉱床</Marble.label>
-  <ChunkMarble.label>大理石 塊</ChunkMarble.label>
+  <ChunkSlagSteel.label>スチールのくず鉄</ChunkSlagSteel.label>
+  <Sandstone.label>砂岩の鉱床</Sandstone.label>
+  <ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
+  <Granite.label>花崗岩の鉱床</Granite.label>
+  <ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
+  <Limestone.label>石灰岩の鉱床</Limestone.label>
+  <ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
+  <Slate.label>粘板岩の鉱床</Slate.label>
+  <ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
+  <Marble.label>大理石の鉱床</Marble.label>
+  <ChunkMarble.label>大理石の塊</ChunkMarble.label>
 </LanguageData>

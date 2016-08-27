@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <WorkGiver_HarvestAquacultureBasinProduction.label>水産養殖器から収穫する</WorkGiver_HarvestAquacultureBasinProduction.label>
+  <WorkGiver_DoBillsAtAquacultureBasin.label>水産養殖器に補充する</WorkGiver_DoBillsAtAquacultureBasin.label>
+  <FillAquacultureHopper.label>水産養殖器のホッパーに充填する</FillAquacultureHopper.label>
+  <WorkGiver_DoBillsAtFishingPier.label>釣り</WorkGiver_DoBillsAtFishingPier.label>
+  <WorkGiver_FishAtFishingPier.label>桟橋で釣りをする</WorkGiver_FishAtFishingPier.label>
+</LanguageData>

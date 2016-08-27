@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <MakeMiningHelmet.label>採掘 ヘルメット を作る</MakeMiningHelmet.label>
-  <MakeCPS.label>化学防護 スーツ を作る</MakeCPS.label>
-  <MakeCPH.label>化学防護 ヘルメット を作る</MakeCPH.label>
-  <BuildTFJ_Tool_Woodcutting_Handaxe.label>ハンドアックス を作る</BuildTFJ_Tool_Woodcutting_Handaxe.label>
-  <BuildTFJ_Tool_Building_Hammer.label>ハンマー を作る</BuildTFJ_Tool_Building_Hammer.label>
-  <BuildTFJ_Tool_Mining_Pickaxe.label>ツルハシ を作る</BuildTFJ_Tool_Mining_Pickaxe.label>
-  <MakePsychicInsanityLance.label>サイキック Insanity Lance を作る</MakePsychicInsanityLance.label>
-  <MakePsychicShockLance.label>サイキック ショック Lance を作る</MakePsychicShockLance.label>
-  <MakePsychicAnimalPulser.label>サイキック 動物 Pulser を作る</MakePsychicAnimalPulser.label>
-  <MakePsychicSoothePulser.label>サイキック Soothe Pulser を作る</MakePsychicSoothePulser.label>
+  <MakeMiningHelmet.label>採掘用ヘルメット</MakeMiningHelmet.label>
+  <MakeCPS.label>化学防護服</MakeCPS.label>
+  <MakeCPH.label>化学防護ヘルメット</MakeCPH.label>
+  <BuildTFJ_Tool_Woodcutting_Handaxe.label>ハンドアックス</BuildTFJ_Tool_Woodcutting_Handaxe.label>
+  <BuildTFJ_Tool_Building_Hammer.label>ハンマー</BuildTFJ_Tool_Building_Hammer.label>
+  <BuildTFJ_Tool_Mining_Pickaxe.label>ツルハシ</BuildTFJ_Tool_Mining_Pickaxe.label>
+  <MakePsychicInsanityLance.label>狂気の槍(Psychic Insanity Lance)</MakePsychicInsanityLance.label>
+  <MakePsychicShockLance.label>衝撃の槍(psychic shock lance)</MakePsychicShockLance.label>
+  <MakePsychicAnimalPulser.label>凶暴の波動(psychic animal pulser)</MakePsychicAnimalPulser.label>
+  <MakePsychicSoothePulser.label>和の波動(psychic soothe pulser)</MakePsychicSoothePulser.label>
 </LanguageData>

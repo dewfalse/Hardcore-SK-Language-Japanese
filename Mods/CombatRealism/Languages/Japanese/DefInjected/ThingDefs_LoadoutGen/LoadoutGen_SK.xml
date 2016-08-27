@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <LoadoutGen_MechanoidSmallAmmo.label>Loadout Generator - Mechanoid Small ammo</LoadoutGen_MechanoidSmallAmmo.label>
+  <LoadoutGen_MechanoidMediumAmmo.label>Loadout Generator - Mechanoid Medium ammo</LoadoutGen_MechanoidMediumAmmo.label>
+  <LoadoutGen_MechanoidBigAmmo.label>Loadout Generator - Mechanoid Big ammo</LoadoutGen_MechanoidBigAmmo.label>
+  <LoadoutGen_Silver.label>Loadout Generator - Silver</LoadoutGen_Silver.label>
+  <LoadoutGen_AmmoTypeA.label>Loadout Generator - Ammo 1x3</LoadoutGen_AmmoTypeA.label>
+  <LoadoutGen_AmmoTypeB.label>Loadout Generator - Ammo 3x6</LoadoutGen_AmmoTypeB.label>
+  <LoadoutGen_AmmoTypeC.label>Loadout Generator - Ammo 5x10</LoadoutGen_AmmoTypeC.label>
+  <LoadoutGen_AmmoTypeD.label>Loadout Generator - Ammo 20x30</LoadoutGen_AmmoTypeD.label>
+  <LoadoutGen_AmmoTypeE.label>Loadout Generator - Ammo 30x60</LoadoutGen_AmmoTypeE.label>
+  <LoadoutGen_AmmoTypeF.label>Loadout Generator - Ammo 80x150</LoadoutGen_AmmoTypeF.label>
+  <LoadoutGen_AmmoTypeG.label>Loadout Generator - Ammo 150x300</LoadoutGen_AmmoTypeG.label>
+  <LoadoutGen_AmmoTypeH.label>Loadout Generator - Ammo 250x450</LoadoutGen_AmmoTypeH.label>
+  <LoadoutGen_AmmoTypeI.label>Loadout Generator - Ammo 300x500</LoadoutGen_AmmoTypeI.label>
+  <LoadoutGen_AmmoTypeJ.label>Loadout Generator - Ammo 450x600</LoadoutGen_AmmoTypeJ.label>
+  <LoadoutGen_AmmoTypeK.label>Loadout Generator - Ammo 700x1000</LoadoutGen_AmmoTypeK.label>
+  <LoadoutGen_SidearmAmmoTypeA.label>Loadout Generator - Sidearm ammo</LoadoutGen_SidearmAmmoTypeA.label>
+  <LoadoutGen_SidearmAmmoTypeB.label>Loadout Generator - Sidearm ammo</LoadoutGen_SidearmAmmoTypeB.label>
+  <LoadoutGen_SidearmAmmoTypeC.label>Loadout Generator - Sidearm ammo</LoadoutGen_SidearmAmmoTypeC.label>
+  <LoadoutGen_SidearmGrenadeFlashbang.label>Loadout Generator - GrenadeFlashbang</LoadoutGen_SidearmGrenadeFlashbang.label>
+  <LoadoutGen_SidearmGrenadeTierOne.label>Loadout Generator - Molotov</LoadoutGen_SidearmGrenadeTierOne.label>
+  <LoadoutGen_SidearmMaroderDestroyer.label>Loadout Generator - MaroderDestroyer</LoadoutGen_SidearmMaroderDestroyer.label>
+  <LoadoutGen_SidearmGrenadeTierTwo.label>Loadout Generator - GrenadeFrag</LoadoutGen_SidearmGrenadeTierTwo.label>
+  <LoadoutGen_SidearmGrenadierDestroyer.label>Loadout Generator - GrenadierDestroyer</LoadoutGen_SidearmGrenadierDestroyer.label>
+  <LoadoutGen_SidearmRagerDestroyer.label>Loadout Generator - GrenadierDestroyer</LoadoutGen_SidearmRagerDestroyer.label>
+  <LoadoutGen_NorbalHammer.label>Loadout Generator - Norbal Hammer</LoadoutGen_NorbalHammer.label>
+  <LoadoutGen_NorbalDestroyer.label>Loadout Generator - Norbal Destroyer</LoadoutGen_NorbalDestroyer.label>
+  <LoadoutGen_Pila.label>Loadout Generator - Pila</LoadoutGen_Pila.label>
+  <LoadoutGen_MercSidearmPistol.label>Loadout Generator - Merc sidearm Pistol</LoadoutGen_MercSidearmPistol.label>
+  <LoadoutGen_MercSidearmExPistol.label>Loadout Generator - Merc sidearm Ex Pistol</LoadoutGen_MercSidearmExPistol.label>
+  <LoadoutGen_MercSidearmSMG.label>Loadout Generator - Merc sidearm SMG</LoadoutGen_MercSidearmSMG.label>
+  <LoadoutGen_MercSidearmExSMG.label>Loadout Generator - Merc sidearm SMG</LoadoutGen_MercSidearmExSMG.label>
+</LanguageData>

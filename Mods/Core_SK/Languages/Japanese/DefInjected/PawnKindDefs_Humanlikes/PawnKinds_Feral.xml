@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <FeralHusker.label>Husker</FeralHusker.label>
+  <FeralMangler.label>Mangler</FeralMangler.label>
+  <FeralScorcher.label>Scorcher</FeralScorcher.label>
+  <FeralBoomer.label>Boomer</FeralBoomer.label>
+  <FeralThumper.label>Thumper</FeralThumper.label>
+  <FeralGrinder.label>Grinder</FeralGrinder.label>
+  <FeralSkulker.label>Skulker</FeralSkulker.label>
+  <FeralLeader.label>Leader</FeralLeader.label>
+</LanguageData>

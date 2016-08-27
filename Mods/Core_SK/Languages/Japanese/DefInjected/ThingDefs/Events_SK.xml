@@ -1,38 +1,40 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <FWcounter.label>unspecified filth</FWcounter.label>
-  <GENcounter.label>unspecified filth</GENcounter.label>
-  <SCcounter.label>unspecified filth</SCcounter.label>
-  <EQcounter.label>unspecified filth</EQcounter.label>
-  <RazorRainIncoming.label>隕石 雨 (Incoming!)</RazorRainIncoming.label>
-  <Thing_RazorSpawner.label>隕石 Spawner</Thing_RazorSpawner.label>
-  <MeteorIncoming.label>隕石 (Incoming!)</MeteorIncoming.label>
-  <Thing_MeteorSpawner.label>隕石 Spawner</Thing_MeteorSpawner.label>
+  <FWcounter.label>汚れ</FWcounter.label>
+  <GENcounter.label>汚れ</GENcounter.label>
+  <SCcounter.label>汚れ</SCcounter.label>
+  <EQcounter.label>汚れ</EQcounter.label>
+  <NuclearStrikeIncoming.label>Razor Rain (Incoming!)</NuclearStrikeIncoming.label>
+  <RazorRainIncoming.label>Razor Rain (Incoming!)</RazorRainIncoming.label>
+  <Thing_RazorSpawner.label>Razor Spawner</Thing_RazorSpawner.label>
+  <MeteorIncoming.label>Meteor (Incoming!)</MeteorIncoming.label>
+  <Thing_MeteorSpawner.label>Meteor Spawner</Thing_MeteorSpawner.label>
   <Meteor.label>隕石</Meteor.label>
-  <SandstoneBoulder.label>砂岩 隕石</SandstoneBoulder.label>
-  <SlateBoulder.label>粘板岩 隕石</SlateBoulder.label>
-  <IronBoulder.label>鉄 隕石</IronBoulder.label>
-  <LimestoneBoulder.label>石灰岩 隕石</LimestoneBoulder.label>
-  <GraniteBoulder.label>花崗岩 隕石</GraniteBoulder.label>
-  <CopperBoulder.label>銅 隕石</CopperBoulder.label>
-  <MarbleBoulder.label>大理石 隕石</MarbleBoulder.label>
-  <MineralBoulder.label>鉄 隕石</MineralBoulder.label>
-  <SilverBoulder.label>シルバー 隕石</SilverBoulder.label>
-  <AluminiumBoulder.label>アルミニウム 隕石</AluminiumBoulder.label>
-  <UraniumBoulder.label>ウラニウム 隕石</UraniumBoulder.label>
+  <SandstoneBoulder.label>砂岩隕石</SandstoneBoulder.label>
+  <SlateBoulder.label>粘板岩隕石</SlateBoulder.label>
+  <IronBoulder.label>鉄隕石</IronBoulder.label>
+  <LimestoneBoulder.label>石灰岩隕石</LimestoneBoulder.label>
+  <GraniteBoulder.label>花崗岩隕石</GraniteBoulder.label>
+  <CopperBoulder.label>銅隕石</CopperBoulder.label>
+  <MarbleBoulder.label>大理石隕石</MarbleBoulder.label>
+  <MineralBoulder.label>鉄隕石</MineralBoulder.label>
+  <SilverBoulder.label>シルバー隕石</SilverBoulder.label>
+  <AluminiumBoulder.label>アルミニウム隕石</AluminiumBoulder.label>
+  <UraniumBoulder.label>ウラン隕石</UraniumBoulder.label>
   <Crate.label>箱</Crate.label>
-  <FloodWater.label>Flood Water</FloodWater.label>
+  <FloodWater.label>洪水</FloodWater.label>
   <FloodSpread.label>Flooder</FloodSpread.label>
-  <RPcounter.label>unspecified filth</RPcounter.label>
-  <MTcounter.label>unspecified filth</MTcounter.label>
-  <MDcounter.label>unspecified filth</MDcounter.label>
-  <MTRcounter.label>unspecified filth</MTRcounter.label>
-  <BVcounter.label>unspecified filth</BVcounter.label>
-  <SScounter.label>unspecified filth</SScounter.label>
-  <RADcounter.label>unspecified filth</RADcounter.label>
-  <NFcounter.label>unspecified filth</NFcounter.label>
-  <CosmicRAD.label>放射線 filth</CosmicRAD.label>
-  <NFRAD.label>放射線 filth</NFRAD.label>
+  <RPcounter.label>汚れ</RPcounter.label>
+  <MTcounter.label>汚れ</MTcounter.label>
+  <MDcounter.label>汚れ</MDcounter.label>
+  <MTRcounter.label>汚れ</MTRcounter.label>
+  <BVcounter.label>汚れ</BVcounter.label>
+  <SDcounter.label>汚れ</SDcounter.label>
+  <SScounter.label>汚れ</SScounter.label>
+  <RADcounter.label>汚れ</RADcounter.label>
+  <NFcounter.label>汚れ</NFcounter.label>
+  <CosmicRAD.label>radiation filth</CosmicRAD.label>
+  <NFRAD.label>radiation filth</NFRAD.label>
   <Abomination.label>忌まわしきもの</Abomination.label>
-  <Void.label>Shadow</Void.label>
+  <Void.label>影</Void.label>
 </LanguageData>

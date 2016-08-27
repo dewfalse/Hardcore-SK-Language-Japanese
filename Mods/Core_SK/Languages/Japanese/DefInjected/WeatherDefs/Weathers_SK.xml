@@ -1,14 +1,15 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Clear.label>晴れ</Clear.label>
-  <Dark.label>Darkness</Dark.label>
+  <Clear.label>快晴</Clear.label>
+  <Dark.label>常闇</Dark.label>
   <Fog.label>霧</Fog.label>
   <Rain.label>雨</Rain.label>
   <RainyThunderstorm.label>雷雨</RainyThunderstorm.label>
-  <Rainstorm.label>Heavy 暴風雨</Rainstorm.label>
-  <FoggyRain.label>Foggy 雨</FoggyRain.label>
-  <SnowHard.label>Hard 雪</SnowHard.label>
-  <Blizzard.label>Blizzard</Blizzard.label>
-  <SnowGentle.label>Gentle 雪</SnowGentle.label>
-  <Fallout.label>Fallout</Fallout.label>
+  <Rainstorm.label>暴風雨</Rainstorm.label>
+  <FoggyRain.label>霧雨</FoggyRain.label>
+  <SnowHard.label>大雪</SnowHard.label>
+  <Blizzard.label>吹雪</Blizzard.label>
+  <SnowGentle.label>小雪</SnowGentle.label>
+  <Fallout.label>死の灰</Fallout.label>
+  <NuclearWinter.label>吹雪</NuclearWinter.label>
 </LanguageData>

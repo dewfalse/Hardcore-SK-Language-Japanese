@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeAmmo_RPG7Grenade_HEAT.label>make RPG-7 HEAT grenades x5</MakeAmmo_RPG7Grenade_HEAT.label>
+  <MakeAmmo_RPG7Grenade_Thermobaric.label>make RPG-7 thermobaric grenades x5</MakeAmmo_RPG7Grenade_Thermobaric.label>
+  <MakeAmmo_RPG7Grenade_Frag.label>make RPG-7 frag grenades x5</MakeAmmo_RPG7Grenade_Frag.label>
+  <MakeAmmo_M72LAW_HEAT.label>make M72 LAW HEAT grenades x5</MakeAmmo_M72LAW_HEAT.label>
+  <MakeAmmo_M72LAW_Thermobaric.label>make M72 LAW thermobaric grenades x5</MakeAmmo_M72LAW_Thermobaric.label>
+  <MakeAmmo_M72LAW_Frag.label>make M72 LAW frag grenades x5</MakeAmmo_M72LAW_Frag.label>
+  <MakeAmmo_FGMJ_HEAT.label>make AT Missile HEAT x5</MakeAmmo_FGMJ_HEAT.label>
+  <MakeAmmo_FGMJ_Thermobaric.label>make AT Missile Thermobaric round x5</MakeAmmo_FGMJ_Thermobaric.label>
+  <MakeAmmo_FGMJ_Frag.label>make AT Missile round x5</MakeAmmo_FGMJ_Frag.label>
+  <MakeAmmo_130mmRocketMissile.label>make 130mm Rocket missiles x2</MakeAmmo_130mmRocketMissile.label>
+</LanguageData>

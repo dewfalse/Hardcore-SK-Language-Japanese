@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <DoorMat.Label>ドアマット</DoorMat.Label>
+  <OneOneRoundRug.Label>ラグ(円形) 1x1</OneOneRoundRug.Label>
+  <TwoTwoRoundRug.Label>ラグ(円形) 2x2</TwoTwoRoundRug.Label>
+  <ThreeThreeRoundRug.Label>ラグ(円形) 3x3</ThreeThreeRoundRug.Label>
+  <FourFourRoundRug.Label>ラグ(円形) 4x4</FourFourRoundRug.Label>
+  <FiveFiveRoundRug.Label>ラグ(円形) 5x5</FiveFiveRoundRug.Label>
+  <SixSixRoundRug.Label>ラグ(円形) 6x6</SixSixRoundRug.Label>
+  <SevenSevenRoundRug.Label>ラグ(円形) 7x7</SevenSevenRoundRug.Label>
+  <OneOneSquareRug.Label>ラグ(四角) 1x1</OneOneSquareRug.Label>
+  <TwoTwoSquareRug.Label>ラグ(四角) 2x2</TwoTwoSquareRug.Label>
+  <ThreeThreeSquareRug.Label>ラグ(四角) 3x3</ThreeThreeSquareRug.Label>
+  <FourFourSquareRug.Label>ラグ(四角) 4x4</FourFourSquareRug.Label>
+  <FiveFiveSquareRug.Label>ラグ(四角) 5x5</FiveFiveSquareRug.Label>
+  <SixSixSquareRug.Label>ラグ(四角) 6x6</SixSixSquareRug.Label>
+  <SevenSevenSquareRug.Label>ラグ(四角) 7x7</SevenSevenSquareRug.Label>
+  <OneTwoRunner.Label>ランナー 1x2</OneTwoRunner.Label>
+  <OneThreeRunner.Label>ランナー 1x3</OneThreeRunner.Label>
+  <OneFourRunner.Label>ランナー 1x4</OneFourRunner.Label>
+  <OneFiveRunner.Label>ランナー 1x5</OneFiveRunner.Label>
+  <OneSixRunner.Label>ランナー 1x6</OneSixRunner.Label>
+  <OneSevenRunner.Label>ランナー 1x7</OneSevenRunner.Label>
+  <ThoThreeRectangleRug.Label>ラグ(長方形) 2x3</ThoThreeRectangleRug.Label>
+  <TwoFourRectangleRug.Label>ラグ(長方形) 2x4</TwoFourRectangleRug.Label>
+  <ThreeFourRectangleRug.Label>ラグ(長方形) 3x4</ThreeFourRectangleRug.Label>
+  <ThreeFiveRectangleRug.Label>ラグ(長方形) 3x5</ThreeFiveRectangleRug.Label>
+  <FourFiveRectangleRug.Label>ラグ(長方形) 4x5</FourFiveRectangleRug.Label>
+  <FourSixRectangleRug.Label>ラグ(長方形) 4x6</FourSixRectangleRug.Label>
+  <FourSevenRectangleRug.Label>ラグ(長方形) 4x7</FourSevenRectangleRug.Label>
+  <FiveSevenRectangleRug.Label>ラグ(長方形) 5x7</FiveSevenRectangleRug.Label>
+</LanguageData>

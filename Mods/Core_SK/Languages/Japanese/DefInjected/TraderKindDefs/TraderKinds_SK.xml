@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <BulkGoodsTrader.label>Bulk Resources 商人</BulkGoodsTrader.label>
-  <FoodTrader.label>Food 商人</FoodTrader.label>
-  <ManufacturedGoodsTrader.label>Manufactured Resource 商人</ManufacturedGoodsTrader.label>
-  <CraftedGoodsTrader.label>Crafted Goods 商人</CraftedGoodsTrader.label>
-  <CombatSupplier.label>Combat Supplier</CombatSupplier.label>
-  <ExoticTrader.label>Exotic Goods 商人</ExoticTrader.label>
-  <SlaveTrader.label>Slave 商人</SlaveTrader.label>
-  <DeepSpaceMiningShip.label>Deep Space 採掘 宇宙船</DeepSpaceMiningShip.label>
-  <PirateMerchant.label>海賊 Merchant</PirateMerchant.label>
-  <AnimalTrader.label>動物 商人</AnimalTrader.label>
+  <BulkGoodsTrader.label>Bulk Resources Trader</BulkGoodsTrader.label>
+  <FoodTrader.label>Food Trader</FoodTrader.label>
+  <ManufacturedGoodsTrader.label>Manufactured Resource Trader</ManufacturedGoodsTrader.label>
+  <CraftedGoodsTrader.label>Crafted Goods Trader</CraftedGoodsTrader.label>
+  <CombatSupplier.label>武器商</CombatSupplier.label>
+  <ExoticTrader.label>エキゾチックトレーダー</ExoticTrader.label>
+  <SlaveTrader.label>奴隷商</SlaveTrader.label>
+  <DeepSpaceMiningShip.label>深宇宙採掘船</DeepSpaceMiningShip.label>
+  <PirateMerchant.label>闇商</PirateMerchant.label>
+  <AnimalTrader.label>Animal Trader</AnimalTrader.label>
 </LanguageData>

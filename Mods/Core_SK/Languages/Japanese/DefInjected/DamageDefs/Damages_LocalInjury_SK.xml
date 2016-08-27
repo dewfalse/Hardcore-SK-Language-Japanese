@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Bomb.label>爆弾</Bomb.label>
-  <Optic.label>Optic</Optic.label>
+  <Optic.label>視覚</Optic.label>
   <Plasma.label>プラズマ</Plasma.label>
   <Microwave.label>マイクロウェーブ</Microwave.label>
-  <AntiMateriel.label>アンチマテリアル</AntiMateriel.label>
+  <AntiMateriel.label>Antimateriel</AntiMateriel.label>
   <Fragment.label>Fragment</Fragment.label>
-  <Radiation.label>放射線</Radiation.label>
-  <ArmorPiercing.label>アーマー-piercing</ArmorPiercing.label>
-  <LaserBurn.label>レーザー-燃やす</LaserBurn.label>
+  <Radiation.label>Radiation</Radiation.label>
+  <ArmorPiercing.label>Armor-piercing</ArmorPiercing.label>
+  <LaserBurn.label>Laser-burn</LaserBurn.label>
   <MechCrush.label>Crush</MechCrush.label>
 </LanguageData>

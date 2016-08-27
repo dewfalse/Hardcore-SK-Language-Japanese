@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ManagingSoftware.label>Basic managing software</ManagingSoftware.label>
-  <AdvancedManagingSoftware.label>改良型 managing software</AdvancedManagingSoftware.label>
-  <PowerManagement.label>電力 management</PowerManagement.label>
+  <ManagingSoftware.label>基本管理ソフトウエア</ManagingSoftware.label>
+  <AdvancedManagingSoftware.label>上位管理ソフトウエア</AdvancedManagingSoftware.label>
+  <PowerManagement.label>電力管理</PowerManagement.label>
 </LanguageData>

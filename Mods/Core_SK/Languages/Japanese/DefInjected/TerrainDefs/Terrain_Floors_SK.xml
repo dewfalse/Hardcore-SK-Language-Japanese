@@ -1,80 +1,122 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <SoilRich.label>肥えた土</SoilRich.label>
-  <SoilTilled.label>Tilled Soil</SoilTilled.label>
-  <WoodPlankFloor.label>オーク 厚板</WoodPlankFloor.label>
-  <WoodPlankFloor2.label>ブラウン 木 フロア</WoodPlankFloor2.label>
-  <WoodPlankFloor3.label>ライト 木 厚板</WoodPlankFloor3.label>
-  <WoodPlankFloor4.label>Styled 木 フロア</WoodPlankFloor4.label>
-  <WoodPlankFloor5.label>ブラウン 木 厚板</WoodPlankFloor5.label>
-  <WoodPlankFloor6.label>Tan 木 厚板</WoodPlankFloor6.label>
+  <SoilTilled.label>耕地</SoilTilled.label>
+  <WoodPlankFloor.label>Oak Planks</WoodPlankFloor.label>
+  <WoodPlankFloor2.label>Brown Wood Floor</WoodPlankFloor2.label>
+  <WoodPlankFloor3.label>Light Wood Planks</WoodPlankFloor3.label>
+  <WoodPlankFloor4.label>Styled Wood Floor</WoodPlankFloor4.label>
+  <WoodPlankFloor5.label>Brown Wood Planks</WoodPlankFloor5.label>
+  <WoodPlankFloor6.label>Tan Wood Planks</WoodPlankFloor6.label>
+  <ParquetFloor.label>Parquet</ParquetFloor.label>
   <Concrete.label>コンクリート</Concrete.label>
-  <DarkConcrete.label>Dark コンクリート</DarkConcrete.label>
-  <CeramicTile.label>セラミック タイル</CeramicTile.label>
-  <PavedTile.label>舗装 タイル</PavedTile.label>
-  <SilverTile.label>シルバー タイル</SilverTile.label>
-  <SterileTile.label>Sterile タイル</SterileTile.label>
-  <MetalTile.label>白 Metal タイル</MetalTile.label>
-  <MetalTile2.label>黒 Metal タイル</MetalTile2.label>
-  <MetalTile3.label>Grey Metal タイル</MetalTile3.label>
-  <MetalTile4.label>Patterned Metal タイル</MetalTile4.label>
-  <CarpetBeige.label>Beige 絨毯</CarpetBeige.label>
-  <CarpetRed.label>赤 絨毯</CarpetRed.label>
-  <CarpetGreen.label>緑 絨毯</CarpetGreen.label>
-  <CarpetBlue.label>青 絨毯</CarpetBlue.label>
-  <CarpetCream.label>Cream 絨毯</CarpetCream.label>
-  <CarpetDark.label>Dark 絨毯</CarpetDark.label>
-  <GoldTile.label>金 タイル</GoldTile.label>
-  <GoldSolid.label>Solid 金</GoldSolid.label>
-  <TileSandstone.label>砂岩 タイル</TileSandstone.label>
-  <TileGranite.label>花崗岩 タイル</TileGranite.label>
-  <TileLimestone.label>石灰岩 タイル</TileLimestone.label>
-  <TileSlate.label>粘板岩 タイル</TileSlate.label>
-  <TileMarble.label>大理石 タイル</TileMarble.label>
-  <RoughSandstoneFloor.label>荒い 砂岩</RoughSandstoneFloor.label>
-  <RoughGraniteFloor.label>荒い 花崗岩</RoughGraniteFloor.label>
-  <RoughLimestoneFloor.label>荒い 石灰岩</RoughLimestoneFloor.label>
-  <RoughSlateFloor.label>荒い 粘板岩</RoughSlateFloor.label>
-  <RoughMarbleFloor.label>荒い 大理石</RoughMarbleFloor.label>
-  <ClutterWoodTileA.Label>Dark 木 Tiles</ClutterWoodTileA.Label>
-  <CarpetOrange.Label>オレンジ 絨毯</CarpetOrange.Label>
-  <CarpetYellow.Label>黄 絨毯</CarpetYellow.Label>
-  <CarpetTurquoise.Label>青緑 絨毯</CarpetTurquoise.Label>
-  <CarpetPurple.Label>紫 絨毯</CarpetPurple.Label>
-  <CarpetWhite.Label>白 絨毯</CarpetWhite.Label>
-  <CarpetBlack.Label>黒 絨毯</CarpetBlack.Label>
-  <CheckCarpetRed.Label>赤 Checkered 絨毯</CheckCarpetRed.Label>
-  <CheckCarpetOrange.Label>オレンジ Checkered 絨毯</CheckCarpetOrange.Label>
-  <CheckCarpetYellow.Label>黄 Checkered 絨毯</CheckCarpetYellow.Label>
-  <CheckCarpetGreen.Label>緑 Checkered 絨毯</CheckCarpetGreen.Label>
-  <CheckCarpetTurquoise.Label>青緑 Checkered 絨毯</CheckCarpetTurquoise.Label>
-  <CheckCarpetBlue.Label>青 Checkered 絨毯</CheckCarpetBlue.Label>
-  <CheckCarpetPurple.Label>紫 Checkered 絨毯</CheckCarpetPurple.Label>
-  <CheckCarpetWhite.Label>白 Checkered 絨毯</CheckCarpetWhite.Label>
-  <CheckCarpetBlack.Label>黒 Checkered 絨毯</CheckCarpetBlack.Label>
-  <FloorStoneSlabsSandstone.Label>石 Slabs (砂岩)</FloorStoneSlabsSandstone.Label>
-  <FloorStoneSlabsGranite.Label>石 Slabs (花崗岩)</FloorStoneSlabsGranite.Label>
-  <FloorStoneSlabsLimestone.Label>石 Slabs (石灰岩)</FloorStoneSlabsLimestone.Label>
-  <FloorStoneSlabsSlate.Label>石 Slabs (粘板岩)</FloorStoneSlabsSlate.Label>
-  <FloorStoneSlabsMarble.Label>石 Slabs (大理石)</FloorStoneSlabsMarble.Label>
-  <FloorStoneHexSandstone.Label>ヘックス 舗装 (砂岩)</FloorStoneHexSandstone.Label>
-  <FloorStoneHexGranite.Label>ヘックス 舗装 (花崗岩)</FloorStoneHexGranite.Label>
-  <FloorStoneHexLimestone.Label>ヘックス 舗装 (石灰岩)</FloorStoneHexLimestone.Label>
-  <FloorStoneHexSlate.Label>ヘックス 舗装 (粘板岩)</FloorStoneHexSlate.Label>
-  <FloorStoneHexMarble.Label>ヘックス 舗装 (大理石)</FloorStoneHexMarble.Label>
-  <FloorStoneMosaicSandstone.Label>モザイク 舗装 (砂岩)</FloorStoneMosaicSandstone.Label>
-  <FloorStoneMosaicGranite.Label>モザイク 舗装 (花崗岩)</FloorStoneMosaicGranite.Label>
-  <FloorStoneMosaicLimestone.Label>モザイク 舗装 (石灰岩)</FloorStoneMosaicLimestone.Label>
-  <FloorStoneMosaicSlate.Label>モザイク 舗装 (粘板岩)</FloorStoneMosaicSlate.Label>
-  <FloorStoneMosaicMarble.Label>モザイク 舗装 (大理石)</FloorStoneMosaicMarble.Label>
-  <FloorStoneRoughSandstone.Label>荒い 舗装 (砂岩)</FloorStoneRoughSandstone.Label>
-  <FloorStoneRoughGranite.Label>荒い 舗装 (花崗岩)</FloorStoneRoughGranite.Label>
-  <FloorStoneRoughLimestone.Label>荒い 舗装 (石灰岩)</FloorStoneRoughLimestone.Label>
-  <FloorStoneRoughSlate.Label>荒い 舗装 (粘板岩)</FloorStoneRoughSlate.Label>
-  <FloorStoneRoughMarble.Label>荒い 舗装 (大理石)</FloorStoneRoughMarble.Label>
-  <FloorStoneRandomSandstone.Label>ランダム 舗装 (砂岩)</FloorStoneRandomSandstone.Label>
-  <FloorStoneRandomGranite.Label>ランダム 舗装 (花崗岩)</FloorStoneRandomGranite.Label>
-  <FloorStoneRandomLimestone.Label>ランダム 舗装 (石灰岩)</FloorStoneRandomLimestone.Label>
-  <FloorStoneRandomSlate.Label>ランダム 舗装 (粘板岩)</FloorStoneRandomSlate.Label>
-  <FloorStoneRandomMarble.Label>ランダム 舗装 (大理石)</FloorStoneRandomMarble.Label>
+  <DarkConcrete.label>Dark Concrete</DarkConcrete.label>
+  <CeramicTile.label>Ceramic Tile</CeramicTile.label>
+  <PavedTile.label>コンクリ舗装タイル</PavedTile.label>
+  <SilverTile.label>銀製タイル</SilverTile.label>
+  <SterileTile.label>抗菌タイル</SterileTile.label>
+  <MetalTile.label>白の金属タイル</MetalTile.label>
+  <MetalTile2.label>黒の金属タイル</MetalTile2.label>
+  <MetalTile3.label>灰色の金属タイル</MetalTile3.label>
+  <MetalTile4.label>模様入り金属メッキ</MetalTile4.label>
+  <PlateCopperBar.label>銅メッキ</PlateCopperBar.label>
+  <PlateSilver.label>シルバーメッキ</PlateSilver.label>
+  <PlateGold.label>ゴールドメッキ</PlateGold.label>
+  <PlateSteel.label>スチールメッキ</PlateSteel.label>
+  <PlateCupronickelAlloy.label>メルキオールメッキ</PlateCupronickelAlloy.label>
+  <PlateNichromeAlloy.label>ニクロムメッキ</PlateNichromeAlloy.label>
+  <CarpetBeige.label>ベージュ色の絨毯</CarpetBeige.label>
+  <CarpetRed.label>赤の絨毯</CarpetRed.label>
+  <CarpetGreen.label>緑の絨毯</CarpetGreen.label>
+  <CarpetBlue.label>青の絨毯</CarpetBlue.label>
+  <CarpetCream.label>クリーム色の絨毯</CarpetCream.label>
+  <CarpetDark.label>シックな絨毯</CarpetDark.label>
+  <GoldTile.label>黄金タイル</GoldTile.label>
+  <GoldSolid.label>Solid Gold</GoldSolid.label>
+  <TileSandstone.label>砂岩タイル</TileSandstone.label>
+  <TileGranite.label>花崗岩タイル</TileGranite.label>
+  <TileLimestone.label>石灰岩タイル</TileLimestone.label>
+  <TileSlate.label>粘板岩タイル</TileSlate.label>
+  <TileMarble.label>大理石タイル</TileMarble.label>
+  <MBrickSandstone.label>砂岩のブロック</MBrickSandstone.label>
+  <MBrickGranite.label>花崗岩のブロック</MBrickGranite.label>
+  <MBrickLimestone.label>石灰岩のブロック</MBrickLimestone.label>
+  <MBrickSlate.label>粘板岩のブロック</MBrickSlate.label>
+  <MBrickMarble.label>大理石のブロック</MBrickMarble.label>
+  <SBrickSandstone.label>砂岩の小ブロック</SBrickSandstone.label>
+  <SBrickGranite.label>花崗岩の小ブロック</SBrickGranite.label>
+  <SBrickLimestone.label>石灰岩の小ブロック</SBrickLimestone.label>
+  <SBrickSlate.label>粘板岩の小ブロック</SBrickSlate.label>
+  <SBrickMarble.label>大理石の小ブロック</SBrickMarble.label>
+  <MedBrickSandstone.label>砂岩の地中海風ブロック</MedBrickSandstone.label>
+  <MedBrickGranite.label>花崗岩の地中海風ブロック</MedBrickGranite.label>
+  <MedBrickLimestone.label>石灰岩の地中海風ブロック</MedBrickLimestone.label>
+  <MedBrickSlate.label>粘板岩の地中海風ブロック</MedBrickSlate.label>
+  <MedBrickMarble.label>大理石の地中海風ブロック</MedBrickMarble.label>
+  <CobbleFloorSandstone.label>砂岩の玉石フロア</CobbleFloorSandstone.label>
+  <CobbleFloorGranite.label>花崗岩の玉石フロア</CobbleFloorGranite.label>
+  <CobbleFloorLimestone.label>石灰岩の玉石フロア</CobbleFloorLimestone.label>
+  <CobbleFloorSlate.label>粘板岩の玉石フロア</CobbleFloorSlate.label>
+  <CobbleFloorMarble.label>大理石の玉石フロア</CobbleFloorMarble.label>
+  <UEBrickSandstone.label>砂岩のレンガ</UEBrickSandstone.label>
+  <UEBrickGranite.label>花崗岩のレンガ</UEBrickGranite.label>
+  <UEBrickLimestone.label>石灰岩のレンガ</UEBrickLimestone.label>
+  <UEBrickSlate.label>粘板岩のレンガ</UEBrickSlate.label>
+  <UEBrickMarble.label>大理石のレンガ</UEBrickMarble.label>
+  <EXF_TileSandstone.label>砂岩タイル</EXF_TileSandstone.label>
+  <EXF_TileGranite.label>花崗岩タイル</EXF_TileGranite.label>
+  <EXF_TileLimestone.label>石灰岩タイル</EXF_TileLimestone.label>
+  <EXF_TileSlate.label>粘板岩タイル</EXF_TileSlate.label>
+  <EXF_TileMarble.label>大理石タイル</EXF_TileMarble.label>
+  <HerrBrickSandstone.label>砂岩のヘリンボーンレンガ</HerrBrickSandstone.label>
+  <HerrBrickGranite.label>花崗岩のヘリンボーンレンガ</HerrBrickGranite.label>
+  <HerrBrickLimestone.label>石灰岩のヘリンボーンレンガ</HerrBrickLimestone.label>
+  <HerrBrickSlate.label>粘板岩のヘリンボーンレンガ</HerrBrickSlate.label>
+  <HerrBrickMarble.label>大理石のヘリンボーンレンガ</HerrBrickMarble.label>
+  <RoughSandstoneFloor.label>荒い砂岩</RoughSandstoneFloor.label>
+  <RoughGraniteFloor.label>荒い花崗岩</RoughGraniteFloor.label>
+  <RoughLimestoneFloor.label>荒い石灰岩</RoughLimestoneFloor.label>
+  <RoughSlateFloor.label>荒い粘板岩</RoughSlateFloor.label>
+  <RoughMarbleFloor.label>荒い大理石</RoughMarbleFloor.label>
+  <ClutterWoodTileA.Label>フローリング</ClutterWoodTileA.Label>
+  <CarpetOrange.Label>オレンジ色の絨毯</CarpetOrange.Label>
+  <CarpetYellow.Label>黄色の絨毯</CarpetYellow.Label>
+  <CarpetTurquoise.Label>空色の絨毯</CarpetTurquoise.Label>
+  <CarpetPurple.Label>紫色の絨毯</CarpetPurple.Label>
+  <CarpetWhite.Label>白い絨毯</CarpetWhite.Label>
+  <CarpetBlack.Label>黒い絨毯</CarpetBlack.Label>
+  <CheckCarpetRed.Label>赤の格子柄絨毯</CheckCarpetRed.Label>
+  <CheckCarpetOrange.Label>オレンジ色の格子柄絨毯</CheckCarpetOrange.Label>
+  <CheckCarpetYellow.Label>黄色の格子柄絨毯</CheckCarpetYellow.Label>
+  <CheckCarpetGreen.Label>緑の格子柄絨毯</CheckCarpetGreen.Label>
+  <CheckCarpetTurquoise.Label>空色の格子柄絨毯</CheckCarpetTurquoise.Label>
+  <CheckCarpetBlue.Label>青い格子柄絨毯</CheckCarpetBlue.Label>
+  <CheckCarpetPurple.Label>紫炉の格子柄絨毯</CheckCarpetPurple.Label>
+  <CheckCarpetWhite.Label>白い格子柄絨毯</CheckCarpetWhite.Label>
+  <CheckCarpetBlack.Label>黒い格子柄絨毯</CheckCarpetBlack.Label>
+  <FloorStoneSlabsSandstone.Label>石版 (砂岩)</FloorStoneSlabsSandstone.Label>
+  <FloorStoneSlabsGranite.Label>石版 (花崗岩)</FloorStoneSlabsGranite.Label>
+  <FloorStoneSlabsLimestone.Label>石版 (石灰岩)</FloorStoneSlabsLimestone.Label>
+  <FloorStoneSlabsSlate.Label>石版 (粘板岩)</FloorStoneSlabsSlate.Label>
+  <FloorStoneSlabsMarble.Label>石版 (大理石)</FloorStoneSlabsMarble.Label>
+  <FloorStoneHexSandstone.Label>ヘックス舗装 (砂岩)</FloorStoneHexSandstone.Label>
+  <FloorStoneHexGranite.Label>ヘックス舗装 (花崗岩)</FloorStoneHexGranite.Label>
+  <FloorStoneHexLimestone.Label>ヘックス舗装 (石灰岩)</FloorStoneHexLimestone.Label>
+  <FloorStoneHexSlate.Label>ヘックス舗装 (粘板岩)</FloorStoneHexSlate.Label>
+  <FloorStoneHexMarble.Label>ヘックス舗装 (大理石)</FloorStoneHexMarble.Label>
+  <FloorStoneMosaicSandstone.Label>モザイク舗装 (砂岩)</FloorStoneMosaicSandstone.Label>
+  <FloorStoneMosaicGranite.Label>モザイク舗装 (花崗岩)</FloorStoneMosaicGranite.Label>
+  <FloorStoneMosaicLimestone.Label>モザイク舗装 (石灰岩)</FloorStoneMosaicLimestone.Label>
+  <FloorStoneMosaicSlate.Label>モザイク舗装 (粘板岩)</FloorStoneMosaicSlate.Label>
+  <FloorStoneMosaicMarble.Label>モザイク舗装 (大理石)</FloorStoneMosaicMarble.Label>
+  <FloorStoneRoughSandstone.Label>ラフな舗装 (砂岩)</FloorStoneRoughSandstone.Label>
+  <FloorStoneRoughGranite.Label>ラフな舗装 (花崗岩)</FloorStoneRoughGranite.Label>
+  <FloorStoneRoughLimestone.Label>ラフな舗装 (石灰岩)</FloorStoneRoughLimestone.Label>
+  <FloorStoneRoughSlate.Label>ラフな舗装 (粘板岩)</FloorStoneRoughSlate.Label>
+  <FloorStoneRoughMarble.Label>ラフな舗装 (大理石)</FloorStoneRoughMarble.Label>
+  <FloorStoneRandomSandstone.Label>ランダム舗装 (砂岩)</FloorStoneRandomSandstone.Label>
+  <FloorStoneRandomGranite.Label>ランダム舗装 (花崗岩)</FloorStoneRandomGranite.Label>
+  <FloorStoneRandomLimestone.Label>ランダム舗装 (石灰岩)</FloorStoneRandomLimestone.Label>
+  <FloorStoneRandomSlate.Label>ランダム舗装 (粘板岩)</FloorStoneRandomSlate.Label>
+  <FloorStoneRandomMarble.Label>ランダム舗装 (大理石)</FloorStoneRandomMarble.Label>
 </LanguageData>

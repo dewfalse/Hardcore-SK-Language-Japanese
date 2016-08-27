@@ -1,42 +1,42 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <PotatoSeeds.label>じゃがいもの種子</PotatoSeeds.label>
-  <CornSeeds.label>とうもろこしの種子</CornSeeds.label>
-  <OnionSeeds.label>玉ねぎの種子</OnionSeeds.label>
+  <PotatoSeeds.label>ジャガイモの種子</PotatoSeeds.label>
+  <CornSeeds.label>トウモロコシの種子</CornSeeds.label>
+  <OnionSeeds.label>タマネギの種子</OnionSeeds.label>
   <RiceSeeds.label>米の種子</RiceSeeds.label>
-  <StrawberrySeeds.label>いちごの種子</StrawberrySeeds.label>
+  <StrawberrySeeds.label>苺の種子</StrawberrySeeds.label>
   <CottonSeeds.label>木綿の種子</CottonSeeds.label>
   <DevilstrandSeeds.label>デビルストランドの種子</DevilstrandSeeds.label>
-  <XerigiumSeeds.label>ゼリジウムの種子</XerigiumSeeds.label>
+  <HealrootSeeds.label>ヒールルートの種子</HealrootSeeds.label>
   <HopsSeeds.label>ホップの種子</HopsSeeds.label>
   <CoffeeSeeds.label>コーヒーの種子</CoffeeSeeds.label>
   <TobaccoSeeds.label>タバコの種子</TobaccoSeeds.label>
-  <HempSeeds.label>ウィードの種子</HempSeeds.label>
+  <HempSeeds.label>大麻の種子</HempSeeds.label>
   <BlueberrySeeds.label>ブルーベリーの種子</BlueberrySeeds.label>
-  <PumpkinSeeds.label>かぼちゃの種子</PumpkinSeeds.label>
+  <PumpkinSeeds.label>カボチャの種子</PumpkinSeeds.label>
   <TomatoSeeds.label>トマトの種子</TomatoSeeds.label>
   <LettuceSeeds.label>レタスの種子</LettuceSeeds.label>
-  <CarrotSeeds.label>にんじんの種子</CarrotSeeds.label>
+  <CarrotSeeds.label>ニンジンの種子</CarrotSeeds.label>
   <CocoaSeeds.label>ココアの種子</CocoaSeeds.label>
-  <SugarcaneSeeds.label>さとうきびの種子</SugarcaneSeeds.label>
-  <SpectagoSeeds.label>スペクターゴの種子</SpectagoSeeds.label>
+  <SugarcaneSeeds.label>サトウキビの種子</SugarcaneSeeds.label>
+  <SpectagoSeeds.label>Spectago 種子</SpectagoSeeds.label>
   <EggSeeds.label>ナスの種子</EggSeeds.label>
-  <BeanSeeds.label>豆の種子</BeanSeeds.label>
+  <BeanSeeds.label>大豆の種子</BeanSeeds.label>
   <MushroomSeeds.label>シャンピニオンの種子</MushroomSeeds.label>
   <BambooSeeds.label>竹の種子</BambooSeeds.label>
-  <AppleSeeds.label>りんごの種子</AppleSeeds.label>
+  <AppleSeeds.label>リンゴの種子</AppleSeeds.label>
   <BananaSeeds.label>バナナの種子</BananaSeeds.label>
   <OrangeSeeds.label>オレンジの種子</OrangeSeeds.label>
-  <PeachSeeds.label>ももの種子</PeachSeeds.label>
-  <GrapeSeeds.label>ぶどうの種子</GrapeSeeds.label>
-  <TeaSeeds.label>茶の種子</TeaSeeds.label>
+  <PeachSeeds.label>モモの種子</PeachSeeds.label>
+  <GrapeSeeds.label>ブドウの種子</GrapeSeeds.label>
+  <TeaSeeds.label>チャノキの種子</TeaSeeds.label>
   <AloeSeeds.label>アロエの種子</AloeSeeds.label>
-  <mediplantSeeds.label>野ばらの種子</mediplantSeeds.label>
-  <mediplantySeeds.label>オトギリソウの種子</mediplantySeeds.label>
-  <mediplantgSeeds.label>ミントの種子</mediplantgSeeds.label>
+  <PlantWildRoseSeeds.label>バラの種子</PlantWildRoseSeeds.label>
+  <PlantHypericumSeeds.label>オトギリソウの種子</PlantHypericumSeeds.label>
+  <PlantMintSeeds.label>ミントの種子</PlantMintSeeds.label>
   <WheatSeeds.label>小麦の種子</WheatSeeds.label>
-  <OatsSeeds.label>燕麦の種子</OatsSeeds.label>
-  <CloudberrySeeds.label>クラウドベリーの種子</CloudberrySeeds.label>
-  <GooseberrySeeds.label>グースベリーの種子</GooseberrySeeds.label>
+  <OatsSeeds.label>カラス麦の種子</OatsSeeds.label>
+  <CloudberrySeeds.label>キイチゴの種子</CloudberrySeeds.label>
+  <GooseberrySeeds.label>スグリの種子</GooseberrySeeds.label>
   <HeveaSeeds.label>ゴムノキの種子</HeveaSeeds.label>
 </LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Projectile_Arrow_Stone.label>矢 (石)</Projectile_Arrow_Stone.label>
+  <Projectile_Arrow_Metallic.label>矢 (金属)</Projectile_Arrow_Metallic.label>
+  <Projectile_Arrow_Explosive.label>矢 (爆発)</Projectile_Arrow_Explosive.label>
+  <Pilum_Thrown.label>投槍</Pilum_Thrown.label>
+</LanguageData>

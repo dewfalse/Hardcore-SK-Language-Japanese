@@ -1,10 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Light.label>ライト</Light.label>
-  <LightApparel.label>ライト</LightApparel.label>
+  <Light.label>light</Light.label>
+  <LightApparel.label>light</LightApparel.label>
   <Heavy.label>heavy</Heavy.label>
   <HeavyRange.label>heavy</HeavyRange.label>
-  <Small.label>スモール</Small.label>
+  <Small.label>small</Small.label>
   <Big.label>big</Big.label>
   <Long.label>long</Long.label>
   <Thick.label>thick</Thick.label>
@@ -28,11 +28,11 @@
   <Clean.label>clean</Clean.label>
   <Assaulting.label>assaulting</Assaulting.label>
   <AssaultingRange.label>assaulting</AssaultingRange.label>
-  <Healing.label>healing</Healing.label>
+  <Healing.label>治療</Healing.label>
   <Weaving.label>weaving</Weaving.label>
   <Hunting.label>hunting</Hunting.label>
   <Cooking.label>cooking</Cooking.label>
-  <Mining.label>採掘</Mining.label>
+  <Mining.label>mining</Mining.label>
   <Establishing.label>establishing</Establishing.label>
   <Farming.label>farming</Farming.label>
   <Stonevein.label>stonevein</Stonevein.label>
@@ -51,9 +51,9 @@
   <HomingRange.label>homing</HomingRange.label>
   <Swift.label>swift</Swift.label>
   <SwiftApparel.label>swift</SwiftApparel.label>
-  <Ancient.label>古代の</Ancient.label>
-  <AncientRange.label>古代の</AncientRange.label>
-  <AncientApparel.label>古代の</AncientApparel.label>
+  <Ancient.label>ancient</Ancient.label>
+  <AncientRange.label>ancient</AncientRange.label>
+  <AncientApparel.label>ancient</AncientApparel.label>
   <Controlling.label>controlling</Controlling.label>
   <Fel.label>fel</Fel.label>
   <FelRange.label>fel</FelRange.label>

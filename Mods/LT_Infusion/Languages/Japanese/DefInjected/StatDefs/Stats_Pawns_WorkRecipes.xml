@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <SculptingSpeed.label>Sculpting スピード</SculptingSpeed.label>
-  <TailoringSpeed.label>Tailoring スピード</TailoringSpeed.label>
-  <SmithingSpeed.label>Smithing スピード</SmithingSpeed.label>
-  <CookSpeed.label>Cooking スピード</CookSpeed.label>
-  <FoodPoisonChance.label>Food poison chance</FoodPoisonChance.label>
-  <BrewingSpeed.label>Brewing スピード</BrewingSpeed.label>
-  <ButcheryFleshSpeed.label>Butchery スピード</ButcheryFleshSpeed.label>
-  <ButcheryFleshEfficiency.label>Butchery efficiency</ButcheryFleshEfficiency.label>
-  <ButcheryMechanoidSpeed.label>メカノイド disassembly スピード</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidEfficiency.label>メカノイド disassembly efficiency</ButcheryMechanoidEfficiency.label>
-  <StonecuttingSpeed.label>Stonecutting スピード</StonecuttingSpeed.label>
-  <SmeltingSpeed.label>Smelting スピード</SmeltingSpeed.label>
+  <SculptingSpeed.label>彫刻速度</SculptingSpeed.label>
+  <TailoringSpeed.label>縫製速度</TailoringSpeed.label>
+  <SmithingSpeed.label>鍛冶速度</SmithingSpeed.label>
+  <CookSpeed.label>調理速度</CookSpeed.label>
+  <FoodPoisonChance.label>食中毒の発生率</FoodPoisonChance.label>
+  <BrewingSpeed.label>醸造速度</BrewingSpeed.label>
+  <ButcheryFleshSpeed.label>食肉加工速度</ButcheryFleshSpeed.label>
+  <ButcheryFleshEfficiency.label>食肉加工熟練度</ButcheryFleshEfficiency.label>
+  <ButcheryMechanoidSpeed.label>機械生命の解体速度</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidEfficiency.label>機械生命の解体熟練度</ButcheryMechanoidEfficiency.label>
+  <StonecuttingSpeed.label>石材加工速度</StonecuttingSpeed.label>
+  <SmeltingSpeed.label>精錬速度</SmeltingSpeed.label>
 </LanguageData>

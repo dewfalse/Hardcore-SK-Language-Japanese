@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='UTF-8'?> 
-<LanguageData>
-  <A2BBelt.label>コンベア belt</A2BBelt.label>
-  <A2BCurve.label>curved belt</A2BCurve.label>
-  <A2BLoader.label>loader</A2BLoader.label>
-  <A2BUnloader.label>unloader</A2BUnloader.label>
-  <A2BSplitter.label>splitter</A2BSplitter.label>
-  <A2BMerger.label>merger</A2BMerger.label>
-</LanguageData>

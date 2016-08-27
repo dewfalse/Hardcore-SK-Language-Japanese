@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <M240B_Crate.label>7.62x51mm M240B MG crate</M240B_Crate.label>
+  <MinigunTurret_Crate.label>7.62x51mm M134ガトリング銃</MinigunTurret_Crate.label>
+  <MGTurret_Crate.label>50BMG M2 Browning MG crate</MGTurret_Crate.label>
+  <KPV_Crate.label>14.5mm KPV MG crate</KPV_Crate.label>
+  <Oerlikonautocannon_Crate.label>20x102mm Oerlikon autocannon crate</Oerlikonautocannon_Crate.label>
+  <VulcanCannon_Crate.label>20mm Vulcan Cannon Crate</VulcanCannon_Crate.label>
+  <Chain_Crate.label>30x173mm GSh-30 cannon crate</Chain_Crate.label>
+  <Avenger_Crate.label>35x228mm GAU-8 Avenger crate</Avenger_Crate.label>
+  <AGSturret_Crate.label>30mm AGS-17 crate</AGSturret_Crate.label>
+  <AGCturret_Crate.label>30mm AGS-30 crate</AGCturret_Crate.label>
+  <Mortar_Crate.label>80mm溜弾迫撃砲</Mortar_Crate.label>
+  <FlakTurret_Crate.label>90mm Flak turret crate</FlakTurret_Crate.label>
+  <CannonTurret_Crate.label>120mm Tank cannon crate</CannonTurret_Crate.label>
+  <HowitzerTurret_Crate.label>155mm Howitzer Cannon Crate</HowitzerTurret_Crate.label>
+  <TOW_Crate.label>AT missile BGM-71 TOW crate</TOW_Crate.label>
+  <LightMissileSystem_Crate.label>AT missile FGM-148 Javelin Crate</LightMissileSystem_Crate.label>
+  <MediumMissileSystem_Crate.label>130mm Medium Missile System crate</MediumMissileSystem_Crate.label>
+  <RocketLauncher_Crate.label>130mm Heavy Missile System crate</RocketLauncher_Crate.label>
+  <SentryTurret_Crate.label>.40Rimfire Sentry light crate</SentryTurret_Crate.label>
+  <HeavyTurret_Crate.label>145x114mm Sentry heavy crate</HeavyTurret_Crate.label>
+  <NavalGunTurret_Crate.label>30x173mm Sentry naval crate</NavalGunTurret_Crate.label>
+  <SentryRocketLauncher_Crate.label>AT missile Sentry rocket launcher crate</SentryRocketLauncher_Crate.label>
+  <SentryBlasterTurret_Crate.label>6x24mm Sentry blaster crate</SentryBlasterTurret_Crate.label>
+  <LaserTurret_Crate.label>Laser Turret Crate</LaserTurret_Crate.label>
+</LanguageData>

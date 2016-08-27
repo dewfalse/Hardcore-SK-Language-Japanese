@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Uranium.label>ウラン鉱石</Uranium.label>
+  <HEU.label>濃縮ウラン</HEU.label>
+  <MineableUranium.label>ウラン鉱床</MineableUranium.label>
+  <Uranium.stuffProps.stuffAdjective>ウラン</Uranium.stuffProps.stuffAdjective>
+</LanguageData>

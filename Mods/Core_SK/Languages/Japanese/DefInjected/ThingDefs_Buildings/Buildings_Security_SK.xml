@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <TurretGun.label>Sentry light turret</TurretGun.label>
+  <Turret_Blaster.label>Sentry blaster turret</Turret_Blaster.label>
+  <Turret_Laserbeam.label>Sentry laserbeam turret</Turret_Laserbeam.label>
+  <Turret_Heavy.label>Sentry heavy turret</Turret_Heavy.label>
+  <NavalGunTurretGun.label>Sentry naval turret</NavalGunTurretGun.label>
+  <Turret_SentryRocketLauncher.label>Sentry rocket launcher</Turret_SentryRocketLauncher.label>
+  <Turret_MortarBombCR.label>81mm迫撃砲(榴弾)</Turret_MortarBombCR.label>
+  <Turret_M240B.label>7.62x51mm M240B MG</Turret_M240B.label>
+  <Turret_M2Browning.label>50BMG M2 Browning MG</Turret_M2Browning.label>
+  <Turret_Minigun.label>M134ガトリング銃</Turret_Minigun.label>
+  <Turret_KPV.label>14.5mm KPV MG</Turret_KPV.label>
+  <Turret_ChainGun.label>30mm GSh-30 cannon</Turret_ChainGun.label>
+  <AvengerTurretGun.label>35mm GAU-8 Avenger</AvengerTurretGun.label>
+  <Turret_Oerlikonautocannon.label>20mm Oerlikon autocannon</Turret_Oerlikonautocannon.label>
+  <Turret_VulcanCannon.label>20mm Vulcan cannon</Turret_VulcanCannon.label>
+  <Turret_AGSThirty.label>AGS-17</Turret_AGSThirty.label>
+  <Turret_AGS30GrenadeLauncher.label>AGS-30</Turret_AGS30GrenadeLauncher.label>
+  <Turret_Flak.label>90mm Flak turret</Turret_Flak.label>
+  <Turret_Cannon.label>120mm tank cannon turret</Turret_Cannon.label>
+  <HowitzerTurretGun.label>155mm Howitzer Cannon turret</HowitzerTurretGun.label>
+  <Turret_TOWLauncher.label>BGM-71 TOW</Turret_TOWLauncher.label>
+  <LightMissileSystem.label>MS FGM-148 Javelin</LightMissileSystem.label>
+  <MediumMissileSystem.label>Medium Missile System</MediumMissileSystem.label>
+  <RLGun.label>Heavy Missile System</RLGun.label>
+</LanguageData>

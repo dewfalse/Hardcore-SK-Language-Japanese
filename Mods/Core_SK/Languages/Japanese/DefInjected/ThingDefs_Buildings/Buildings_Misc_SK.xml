@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SunLamp.label>太陽灯</SunLamp.label>
+  <HeatSunLamp.label>改良型太陽灯</HeatSunLamp.label>
+  <FertilizerPump.label>テラフォーミングポンプ</FertilizerPump.label>
+  <OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
+  <CommsConsole.label>通信機</CommsConsole.label>
+  <MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
+  <VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
+  <FileCabinet.label>ファイルキャビネット</FileCabinet.label>
+  <Patterner.label>パターンデザイナー</Patterner.label>
+  <ToolCabinet.label>Large ツール キャビネット</ToolCabinet.label>
+  <Small_ToolCabinet.label>Small ツール キャビネット</Small_ToolCabinet.label>
+  <CookingTools.label>クッキングツール</CookingTools.label>
+  <FirefoamPopper.label>泡消化器</FirefoamPopper.label>
+  <MoisturePump.label>モイスチャーポンプ</MoisturePump.label>
+  <Grave.label>墓</Grave.label>
+  <Sarcophagus.label>石棺</Sarcophagus.label>
+  <CryptosleepCasket.label>冬眠カプセル</CryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
+  <Holodeck.label>ホロスイート</Holodeck.label>
+  <AutopsyTable.label>解剖台</AutopsyTable.label>
+  <PunchingBag.label>サンドバッグ</PunchingBag.label>
+  <MiningHelmetGlower.label>採掘用ヘルメット用ライト</MiningHelmetGlower.label>
+  <DermalRegenerator.label>皮膚再生</DermalRegenerator.label>
+  <ImpactionCharge.label>インパクションチャージ</ImpactionCharge.label>
+  <ClayCollector.label>粘土コレクター</ClayCollector.label>
+  <Buildings_SubspaceBurstTransponder.label>サブスペースバーストトランスポンダ</Buildings_SubspaceBurstTransponder.label>
+  <Stargate.label>スターゲート</Stargate.label>
+  <MobileMineralSonar.Label>モバイル鉱物ソナー</MobileMineralSonar.Label>
+</LanguageData>

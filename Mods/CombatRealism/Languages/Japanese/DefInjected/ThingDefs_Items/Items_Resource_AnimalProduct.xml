@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Milk.label>ミルク</Milk.label>
+  <EggChickenUnfertilized.label>鶏卵(無精卵)</EggChickenUnfertilized.label>
+  <EggChickenFertilized.label>鶏卵(有精卵)</EggChickenFertilized.label>
+  <EggCobraFertilized.label>コブラの卵(有精卵)</EggCobraFertilized.label>
+  <EggIguanaFertilized.label>イグアナの卵(有精卵)</EggIguanaFertilized.label>
+  <EggTortoiseFertilized.label>カメの卵(有精卵)</EggTortoiseFertilized.label>
+  <InsectJelly.label>インセクトゼリー</InsectJelly.label>
+</LanguageData>

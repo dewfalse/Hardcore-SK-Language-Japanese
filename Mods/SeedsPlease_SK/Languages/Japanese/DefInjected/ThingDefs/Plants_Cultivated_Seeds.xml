@@ -1,42 +1,42 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <PlantPotato.label>じゃがいも Plant</PlantPotato.label>
-  <PlantCorn.label>とうもろこし Plant</PlantCorn.label>
-  <PlantRice.label>米 Plant</PlantRice.label>
-  <PlantStrawberry.label>いちご Plant</PlantStrawberry.label>
-  <PlantCotton.label>木綿 茂み</PlantCotton.label>
-  <PlantDevilstrand.label>デビルストランド キノコ</PlantDevilstrand.label>
-  <PlantXerigium.label>ゼリジウム Plant</PlantXerigium.label>
-  <PlantHops.label>ホップ Plant</PlantHops.label>
-  <Plantblueberry.label>ブルーベリー 茂み</Plantblueberry.label>
-  <Plantcloudberry.label>クラウドベリー 茂み</Plantcloudberry.label>
-  <Plantgooseberry.label>グースベリー 茂み</Plantgooseberry.label>
-  <Planteggplant.label>ナス 茂み</Planteggplant.label>
-  <Plantpumpkin.label>かぼちゃ Vine</Plantpumpkin.label>
-  <Plantbean.label>豆 Stalk</Plantbean.label>
-  <PlantTomato.label>トマト Vine</PlantTomato.label>
-  <PlantCarrot.label>にんじん Plant</PlantCarrot.label>
-  <Plantcocoa.label>ココアの木</Plantcocoa.label>
-  <Plantsugarcane.label>さとうきび Plant</Plantsugarcane.label>
-  <Plantaloe.label>アロエ Plant</Plantaloe.label>
-  <Plantbamboo.label>竹 Stalk</Plantbamboo.label>
-  <PlantTea.label>茶 Shrub</PlantTea.label>
-  <PlantAppletree.label>りんごの木</PlantAppletree.label>
-  <PlantBananaTree.label>バナナの木</PlantBananaTree.label>
-  <PlantorangeTree.label>オレンジの木</PlantorangeTree.label>
-  <PlantPeachTree.label>ももの木</PlantPeachTree.label>
-  <Plantgrape.label>ぶどう Vine</Plantgrape.label>
-  <Plantmushroom.label>シャンピニオン キノコ</Plantmushroom.label>
-  <Plantoats.label>燕麦 Grass</Plantoats.label>
-  <Plantwheat.label>小麦 Grass</Plantwheat.label>
-  <PlantCoffee.label>コーヒー Plant</PlantCoffee.label>
-  <PlantTobacco.label>タバコ Plant</PlantTobacco.label>
-  <WeedP.label>ウィード Plant</WeedP.label>
-  <PlantLettuce.label>レタス Plant</PlantLettuce.label>
-  <mediplant.label>野ばら Plant</mediplant.label>
-  <mediplanty.label>オトギリソウ Plant</mediplanty.label>
-  <mediplantg.label>ミント Plant</mediplantg.label>
-  <Plantonion.label>玉ねぎ Plant</Plantonion.label>
-  <PlantOutdoorSpectago.label>スペクターゴ Flower</PlantOutdoorSpectago.label>
-  <PlantHeveaTree.label>ゴムノキの木</PlantHeveaTree.label>
+  <PlantPotato.label>ジャガイモ</PlantPotato.label>
+  <PlantCorn.label>トウモロコシ</PlantCorn.label>
+  <PlantRice.label>米</PlantRice.label>
+  <PlantStrawberry.label>苺</PlantStrawberry.label>
+  <PlantCotton.label>木綿</PlantCotton.label>
+  <PlantDevilstrand.label>デビルストランド</PlantDevilstrand.label>
+  <PlantHealroot.label>ヒールルート</PlantHealroot.label>
+  <PlantHops.label>ホップ</PlantHops.label>
+  <Plantblueberry.label>ブルーベリー</Plantblueberry.label>
+  <Plantcloudberry.label>キイチゴ</Plantcloudberry.label>
+  <Plantgooseberry.label>スグリ</Plantgooseberry.label>
+  <Planteggplant.label>ナス</Planteggplant.label>
+  <Plantpumpkin.label>カボチャ</Plantpumpkin.label>
+  <Plantbean.label>大豆</Plantbean.label>
+  <PlantTomato.label>トマト</PlantTomato.label>
+  <PlantCarrot.label>ニンジン</PlantCarrot.label>
+  <Plantcocoa.label>ココア</Plantcocoa.label>
+  <Plantsugarcane.label>サトウキビ</Plantsugarcane.label>
+  <Plantaloe.label>アロエ</Plantaloe.label>
+  <Plantbamboo.label>竹</Plantbamboo.label>
+  <PlantTea.label>チャノキ</PlantTea.label>
+  <PlantAppletree.label>リンゴ</PlantAppletree.label>
+  <PlantBananaTree.label>バナナ</PlantBananaTree.label>
+  <PlantorangeTree.label>オレンジ</PlantorangeTree.label>
+  <PlantPeachTree.label>モモ</PlantPeachTree.label>
+  <Plantgrape.label>ブドウ</Plantgrape.label>
+  <Plantmushroom.label>シャンピニオン</Plantmushroom.label>
+  <Plantoats.label>カラス麦</Plantoats.label>
+  <Plantwheat.label>小麦</Plantwheat.label>
+  <PlantCoffee.label>コーヒー</PlantCoffee.label>
+  <PlantTobacco.label>タバコ</PlantTobacco.label>
+  <WeedPlant.label>大麻</WeedPlant.label>
+  <PlantLettuce.label>レタス</PlantLettuce.label>
+  <PlantWildRose.label>バラ</PlantWildRose.label>
+  <PlantHypericum.label>オトギリソウ</PlantHypericum.label>
+  <PlantMint.label>ミント</PlantMint.label>
+  <Plantonion.label>タマネギ</Plantonion.label>
+  <PlantOutdoorSpectago.label>スペクターゴ</PlantOutdoorSpectago.label>
+  <PlantHeveaTree.label>ゴムノキ</PlantHeveaTree.label>
 </LanguageData>

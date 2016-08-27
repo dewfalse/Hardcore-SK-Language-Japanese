@@ -2,15 +2,15 @@
 <LanguageData>
   <Hitech.label>ハイテク</Hitech.label>
   <Furniture.label>家具</Furniture.label>
-  <Production.label>製造</Production.label>
-  <Accessories.label>装飾</Accessories.label>
-  <Security.label>防衛</Security.label>
-  <Floors.label>Home フロア</Floors.label>
+  <Production.label>Production</Production.label>
+  <Accessories.label>アクセサリー</Accessories.label>
+  <Security.label>Security</Security.label>
+  <Floors.label>Home Floors</Floors.label>
   <Power.label>電力</Power.label>
   <OutsideFloors.label>特殊フロア</OutsideFloors.label>
-  <Misc.label>その他</Misc.label>
-  <NaturalFloors.label>自然フロア</NaturalFloors.label>
-  <Ship.label>宇宙船</Ship.label>
-  <Temperature.label>冷暖房</Temperature.label>
-  <Joy.label>娯楽</Joy.label>
+  <Misc.label>Misc</Misc.label>
+  <NaturalFloors.label>フロア</NaturalFloors.label>
+  <Ship.label>Ship</Ship.label>
+  <Temperature.label>Temperature</Temperature.label>
+  <Joy.label>Joy</Joy.label>
 </LanguageData>

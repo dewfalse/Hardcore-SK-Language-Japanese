@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <FM_BasicManagerStation.label>Basic 管理 デスク</FM_BasicManagerStation.label>
-  <FM_ManagerStation.label>管理 デスク</FM_ManagerStation.label>
-  <FM_AIManager.label>AI 管理</FM_AIManager.label>
+  <FM_BasicManagerStation.label>基本マネージャーデスク</FM_BasicManagerStation.label>
+  <FM_ManagerStation.label>マネージャーデスク</FM_ManagerStation.label>
+  <FM_AIManager.label>AIマネージャー</FM_AIManager.label>
 </LanguageData>

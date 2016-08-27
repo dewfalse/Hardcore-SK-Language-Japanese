@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Fish_Sduiggles.label>スディグル</Fish_Sduiggles.label>
+  <Fish_Seasnake.label>ウミヘビ</Fish_Seasnake.label>
+  <Fish_Mashgon.label>マシュゴン</Fish_Mashgon.label>
+  <Fish_Blueblade.label>ブルーブレード</Fish_Blueblade.label>
+  <Fish_Tailteeth.label>テイルティース</Fish_Tailteeth.label>
+  <RawSeaFood_SduigglesTentacle.label>スディグルの触手</RawSeaFood_SduigglesTentacle.label>
+  <RawSeaFood_SeasnakeFilet.label>ウミヘビの切り身</RawSeaFood_SeasnakeFilet.label>
+  <RawSeaFood_Mashgon.label>マシュゴン</RawSeaFood_Mashgon.label>
+  <RawSeaFood_BluebladeFilet.label>ブルーブレードの切り身</RawSeaFood_BluebladeFilet.label>
+  <RawSeaFood_TailteethSteak.label>テイルティースのステーキ</RawSeaFood_TailteethSteak.label>
+</LanguageData>

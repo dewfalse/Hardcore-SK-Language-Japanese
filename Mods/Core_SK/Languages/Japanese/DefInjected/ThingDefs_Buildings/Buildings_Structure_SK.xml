@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Door.label>ドア</Door.label>
+  <Autodoor.label>自動ドア</Autodoor.label>
+  <FenceGate.label>フェンスゲート</FenceGate.label>
+  <Blastdoor.label>ブラスト自動ドア</Blastdoor.label>
+  <CellDoor.label>個室ドア</CellDoor.label>
+  <OpenBlastDoor.label>大型ブラストゲート (開)</OpenBlastDoor.label>
+  <ClosedBlastDoor.label>大型ブラストゲート (閉)</ClosedBlastDoor.label>
+  <JammedBlastDoor.label>大型ブラストゲート (故障)</JammedBlastDoor.label>
+  <Wall.label>壁</Wall.label>
+  <WallLog.label>壁</WallLog.label>
+  <Snowywall.label>雪壁</Snowywall.label>
+  <Fence.label>フェンス</Fence.label>
+  <WallLighted.label>Motion Sensor Lighted Wall</WallLighted.label>
+  <ClutterSilverWall.label>Panel Reinforced Wall</ClutterSilverWall.label>
+  <ClutterUWallLight.label>Utility Wall With Lights</ClutterUWallLight.label>
+  <RoofSupport.label>屋根の支え</RoofSupport.label>
+  <DoorGlass.label>ドア</DoorGlass.label>
+  <Window.label>窓枠</Window.label>
+  <WindowSpawner.label>窓</WindowSpawner.label>
+  <WindowGlower.label>太陽光</WindowGlower.label>
+</LanguageData>

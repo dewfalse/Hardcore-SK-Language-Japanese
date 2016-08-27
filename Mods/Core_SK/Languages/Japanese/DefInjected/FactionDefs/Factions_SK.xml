@@ -2,10 +2,13 @@
 <LanguageData>
   <Brotherhood.label>Bloodmoon brotherhood</Brotherhood.label>
   <Sectarian.label>Church of violance</Sectarian.label>
-  <Syndicate.label>シンジケート faction</Syndicate.label>
-  <Orion.label>玉ねぎ Corporation</Orion.label>
-  <Nightblades.label>Nightblades</Nightblades.label>
+  <Syndicate.label>Syndicate faction</Syndicate.label>
+  <Orion.label>Orion Corporation</Orion.label>
+  <Empire.label>Empire</Empire.label>
   <Predators.label>Predators band</Predators.label>
   <NovaAlliance.label>Nova alliance</NovaAlliance.label>
   <NarnGang.label>Narn&apos;s gang</NarnGang.label>
+  <NorbalTribe.label>norbal</NorbalTribe.label>
+  <Feral.label>Feral clan</Feral.label>
+  <Orassan.label>Orassan Enclave</Orassan.label>
 </LanguageData>

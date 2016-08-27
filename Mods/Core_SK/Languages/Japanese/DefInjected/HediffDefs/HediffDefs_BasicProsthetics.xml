@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <SteelArm.label>鋼鉄 腕</SteelArm.label>
-  <EyePatch.label>眼帯</EyePatch.label>
-  <HookHand.label>フック型義手</HookHand.label>
+  <SteelArm.label>鉄腕</SteelArm.label>
+  <EyePatch.label>アイパッチ</EyePatch.label>
+  <HookHand.label>フック</HookHand.label>
   <denture.label>入れ歯</denture.label>
-  <PegLeg.label>木の 脚</PegLeg.label>
-  <WoodenFoot.label>木の 足</WoodenFoot.label>
+  <PegLeg.label>木製義肢(脚)</PegLeg.label>
+  <WoodenFoot.label>木製義肢(足)</WoodenFoot.label>
 </LanguageData>

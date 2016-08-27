@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <VolcanicWinter.label>Volcanic 冬</VolcanicWinter.label>
-  <HeatWave.label>Heat wave</HeatWave.label>
-  <ColdSnap.label>Cold snap</ColdSnap.label>
-  <SolarApocalypse.label>太陽 apocalypse</SolarApocalypse.label>
+  <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
+  <HeatWave.label>熱波</HeatWave.label>
+  <ColdSnap.label>寒波</ColdSnap.label>
+  <SolarApocalypse.label>Solar apocalypse</SolarApocalypse.label>
 </LanguageData>

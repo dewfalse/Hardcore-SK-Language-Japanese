@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm NATO cartridge (FMJ)</Ammo_556x45mmNATO_FMJ.label>
+  <Ammo_556x45mmNATO_AP.label>5.56x45mm NATO cartridge (AP)</Ammo_556x45mmNATO_AP.label>
+  <Ammo_556x45mmNATO_HP.label>5.56x45mm NATO cartridge (HP)</Ammo_556x45mmNATO_HP.label>
+  <Ammo_762x39mmSoviet_FMJ.label>7.62x39mm Soviet cartridge (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
+  <Ammo_762x39mmSoviet_AP.label>7.62x39mm Soviet cartridge (AP)</Ammo_762x39mmSoviet_AP.label>
+  <Ammo_762x39mmSoviet_HP.label>7.62x39mm Soviet cartridge (HP)</Ammo_762x39mmSoviet_HP.label>
+  <Ammo_303British_FMJ.label>.303 British cartridge (FMJ)</Ammo_303British_FMJ.label>
+  <Ammo_303British_AP.label>.303 British cartridge (AP)</Ammo_303British_AP.label>
+  <Ammo_303British_HP.label>.303 British cartridge (HP)</Ammo_303British_HP.label>
+  <Ammo_762x51mmNATO_FMJ.label>7.62x51mm NATO cartridge (FMJ)</Ammo_762x51mmNATO_FMJ.label>
+  <Ammo_762x51mmNATO_AP.label>7.62x51mm NATO cartridge (AP)</Ammo_762x51mmNATO_AP.label>
+  <Ammo_762x51mmNATO_HP.label>7.62x51mm NATO cartridge (HP)</Ammo_762x51mmNATO_HP.label>
+  <Ammo_762x54mmR_FMJ.label>7.62x54mmR cartridge (FMJ)</Ammo_762x54mmR_FMJ.label>
+  <Ammo_762x54mmR_AP.label>7.62x54mmR cartridge (AP)</Ammo_762x54mmR_AP.label>
+  <Ammo_762x54mmR_HP.label>7.62x54mmR cartridge (HP)</Ammo_762x54mmR_HP.label>
+</LanguageData>

@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
+  <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
   <AimingAccuracy.label>aiming accuracy</AimingAccuracy.label>
+  <ReloadSpeed.label>リロード速度</ReloadSpeed.label>
 </LanguageData>

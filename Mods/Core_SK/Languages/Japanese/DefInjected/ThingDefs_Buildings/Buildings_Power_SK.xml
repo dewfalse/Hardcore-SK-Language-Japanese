@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <PowerConduit.label>電線</PowerConduit.label>
+  <HeavyPowerConduit.label>高圧電線</HeavyPowerConduit.label>
+  <PowerSwitch.label>ブレーカスイッチ</PowerSwitch.label>
+  <Battery.label>バッテリー</Battery.label>
+  <FissionBattery.label>核分裂バッテリー</FissionBattery.label>
+  <SolarGenerator.label>太陽光発電機</SolarGenerator.label>
+  <WindTurbine.label>風力発電機</WindTurbine.label>
+  <SteamGenerator.label>蒸気発電機</SteamGenerator.label>
+  <FueledGenerator.label>死体発電機</FueledGenerator.label>
+  <BioGenerator.label>バイオ発電機</BioGenerator.label>
+  <BioRefinery.label>バイオリファイナリー</BioRefinery.label>
+  <CoalPowerPlant.label>石炭発電機</CoalPowerPlant.label>
+  <FuelPowerPlant.label>燃料発電機</FuelPowerPlant.label>
+  <GeothermalGenerator.label>地熱発電機</GeothermalGenerator.label>
+  <ThermoelectricGenerator.label>熱電発電機</ThermoelectricGenerator.label>
+  <NPP.label>原子力発電機</NPP.label>
+  <NPPD.label>放射性廃棄物</NPPD.label>
+  <MNP.label>軍事用原子力発電機</MNP.label>
+  <MNPD.label>放射性廃棄物</MNPD.label>
+  <CapsuleReactor.label>カプセル反応炉</CapsuleReactor.label>
+  <GauseWindTurbine.label>ガウス風力発電機</GauseWindTurbine.label>
+  <TeslaLigthningPower.label>テスラ発電機</TeslaLigthningPower.label>
+  <PlasmaGeothermalPlant.label>プラズマ反応炉</PlasmaGeothermalPlant.label>
+  <PlasmaGen.label>プラズマ発生機</PlasmaGen.label>
+  <XenonIonTurbine.label>キセノンイオンタービン</XenonIonTurbine.label>
+  <AntimatterReactor.label>反物質炉</AntimatterReactor.label>
+</LanguageData>

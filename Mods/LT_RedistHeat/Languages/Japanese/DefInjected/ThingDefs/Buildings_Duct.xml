@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <RedistHeat_DuctPipeUpper.label>ダクト pipe (upper)</RedistHeat_DuctPipeUpper.label>
-  <RedistHeat_DuctPipeLower.label>ダクト pipe (lower)</RedistHeat_DuctPipeLower.label>
-  <RedistHeat_DuctOutlet.label>ダクト outlet</RedistHeat_DuctOutlet.label>
-  <RedistHeat_SmartDuctOutlet.label>Smart ダクト outlet</RedistHeat_SmartDuctOutlet.label>
-  <RedistHeat_DuctIntake.label>ダクト intake</RedistHeat_DuctIntake.label>
-  <RedistHeat_DuctCooler.label>ダクト クーラー</RedistHeat_DuctCooler.label>
+  <RedistHeat_DuctPipeUpper.label>ダクトパイプ(上部)</RedistHeat_DuctPipeUpper.label>
+  <RedistHeat_DuctPipeLower.label>ダクトパイプ(下部)</RedistHeat_DuctPipeLower.label>
+  <RedistHeat_DuctOutlet.label>ダクト排出口</RedistHeat_DuctOutlet.label>
+  <RedistHeat_SmartDuctOutlet.label>スマートダクト排出口</RedistHeat_SmartDuctOutlet.label>
+  <RedistHeat_DuctIntake.label>吸気ダクト</RedistHeat_DuctIntake.label>
+  <RedistHeat_DuctCooler.label>ダクトクーラー</RedistHeat_DuctCooler.label>
 </LanguageData>

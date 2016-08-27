@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MiniMapOverlay_Colonists.label>入植者</MiniMapOverlay_Colonists.label>
+  <MiniMapOverlay_NonColonistPawns.label>non-colonists</MiniMapOverlay_NonColonistPawns.label>
+  <MiniMapOverlay_Wildlife.label>wildlife</MiniMapOverlay_Wildlife.label>
+  <MiniMapOverlay_PowerGrid.label>power grid</MiniMapOverlay_PowerGrid.label>
+</LanguageData>

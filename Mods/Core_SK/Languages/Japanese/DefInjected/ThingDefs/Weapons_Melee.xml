@@ -1,26 +1,26 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <MeleeWeapon_Spear.label>槍</MeleeWeapon_Spear.label>
-  <MeleeWeapon_Mace.label>矛</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Club.label>棍棒</MeleeWeapon_Club.label>
-  <NorbalMeleeWeapon_ShortSwordtwo.label>Norbal Sword</NorbalMeleeWeapon_ShortSwordtwo.label>
-  <NorbalMeleeWeapon_ShortSword.label>Heroic Sword</NorbalMeleeWeapon_ShortSword.label>
-  <NorbalMeleeWeapon_Ax.label>Norbal War Axe</NorbalMeleeWeapon_Ax.label>
-  <NorbalMeleeWeapon_Bigax.label>Battleaxe</NorbalMeleeWeapon_Bigax.label>
+  <MeleeWeapon_Spear.label>スピア</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Mace.label>メイス</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Club.label>クラブ</MeleeWeapon_Club.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.label>ノーバルソード</NorbalMeleeWeapon_ShortSwordtwo.label>
+  <NorbalMeleeWeapon_ShortSword.label>ヒロイックソード</NorbalMeleeWeapon_ShortSword.label>
+  <NorbalMeleeWeapon_Ax.label>ノーバルウォーアックス</NorbalMeleeWeapon_Ax.label>
+  <NorbalMeleeWeapon_Bigax.label>バトルアックス</NorbalMeleeWeapon_Bigax.label>
   <MeleeWeapon_Dagger.label>ダガー</MeleeWeapon_Dagger.label>
   <MeleeWeapon_Gladius.label>グラディウス</MeleeWeapon_Gladius.label>
-  <MeleeWeapon_LongSword.label>長剣</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.label>ロングスウォード</MeleeWeapon_LongSword.label>
   <MeleeWeapon_Scimitar.label>シミター</MeleeWeapon_Scimitar.label>
   <MeleeWeapon_Glaive.label>グレイブ</MeleeWeapon_Glaive.label>
   <MeleeWeapon_Partisan.label>パルチザン</MeleeWeapon_Partisan.label>
   <MeleeWeapon_Knife.label>ナイフ</MeleeWeapon_Knife.label>
   <MeleeWeapon_Bonesaw.label>骨のこぎり</MeleeWeapon_Bonesaw.label>
-  <MeleeWeapon_Machete.label>マチェーテ</MeleeWeapon_Machete.label>
+  <MeleeWeapon_Machete.label>マチューテ</MeleeWeapon_Machete.label>
   <MeleeWeapon_Monkeywrench.label>モンキーレンチ</MeleeWeapon_Monkeywrench.label>
-  <MeleeWeapon_Cleaver.label>包丁</MeleeWeapon_Cleaver.label>
+  <MeleeWeapon_Cleaver.label>肉切り包丁</MeleeWeapon_Cleaver.label>
   <MeleeWeapon_Shiv.label>ジャックナイフ</MeleeWeapon_Shiv.label>
   <MeleeWeapon_Tanto.label>短刀</MeleeWeapon_Tanto.label>
   <MeleeWeapon_Katana.label>刀</MeleeWeapon_Katana.label>
-  <MeleeWeapon_Tsurugi.label>剣</MeleeWeapon_Tsurugi.label>
+  <MeleeWeapon_Tsurugi.label>日本刀</MeleeWeapon_Tsurugi.label>
   <MeleeWeapon_Sledgehammer.label>スレッジハンマー</MeleeWeapon_Sledgehammer.label>
 </LanguageData>

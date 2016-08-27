@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SK_Technology.label>テクノロジー</SK_Technology.label>
+  <Electricity.label>電気</Electricity.label>
+  <SK_ProductionI.label>生産 I</SK_ProductionI.label>
+  <SK_ProductionII.label>生産 II</SK_ProductionII.label>
+  <SK_ProductionIII.label>生産 III</SK_ProductionIII.label>
+  <SK_BiochemistryI.label>生化学 I</SK_BiochemistryI.label>
+  <SK_BiochemistryII.label>生化学 II</SK_BiochemistryII.label>
+  <SK_Bioenergy.label>バイオエネルギー</SK_Bioenergy.label>
+  <SK_BiochemistryIII.label>生化学 III</SK_BiochemistryIII.label>
+  <NutrientPaste.label>合成食物 I</NutrientPaste.label>
+  <NutrientPasteI.label>合成食物 II</NutrientPasteI.label>
+  <NutrientPasteII.label>合成食物 III</NutrientPasteII.label>
+  <SK_GlassworkingI.label>ガラス製造 I</SK_GlassworkingI.label>
+  <SK_GlassworkingII.label>ガラス製造 II</SK_GlassworkingII.label>
+  <SK_MedicineI.label>医学 I</SK_MedicineI.label>
+  <HospitalBed.label>病院 I</HospitalBed.label>
+  <VitalsMonitor.label>病院 II</VitalsMonitor.label>
+  <VitalsMonitorI.label>病院 III</VitalsMonitorI.label>
+  <SK_HospitalIV.label>病院 IV</SK_HospitalIV.label>
+  <SK_MedicineII.label>医学 II</SK_MedicineII.label>
+  <SK_MedicineIII.label>医学 III</SK_MedicineIII.label>
+  <ComplexClothing.label>裁縫 I</ComplexClothing.label>
+  <CarpetMaking.label>織機</CarpetMaking.label>
+  <CarpetMakingII.label>上位織機</CarpetMakingII.label>
+  <TailoringII.label>裁縫 II</TailoringII.label>
+  <PoweredArmor.label>裁縫 III</PoweredArmor.label>
+  <SK_ElectronicsI.label>エレクトロニクス基礎</SK_ElectronicsI.label>
+  <SK_TelecommunicationI.label>遠距離通信</SK_TelecommunicationI.label>
+  <SK_TelecommunicationII.label>通信アレイ</SK_TelecommunicationII.label>
+  <SK_TelecommunicationIII.label>戦術コンピューター</SK_TelecommunicationIII.label>
+  <MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
+  <SK_ElectronicsIII.label>ナノエレクトロニクス 基礎</SK_ElectronicsIII.label>
+  <SK_BionicsI.label>人工義肢 I</SK_BionicsI.label>
+  <SK_BionicsII.label>人工義肢 II</SK_BionicsII.label>
+  <SK_BionicsIII.label>改良型人工義肢</SK_BionicsIII.label>
+  <SK_Quarry.label>クァーリー</SK_Quarry.label>
+  <SK_MiningI.label>採掘 I</SK_MiningI.label>
+  <SK_MiningII.label>採掘 II</SK_MiningII.label>
+  <SK_MiningIII.label>採掘 III</SK_MiningIII.label>
+  <SK_Petrochemistry.label>石油化学プラント</SK_Petrochemistry.label>
+  <Machining.label>工作機械 I</Machining.label>
+  <SK_MachiningII.label>工作機械 II</SK_MachiningII.label>
+  <ComponentAssembly.label>工作機械 III</ComponentAssembly.label>
+  <SK_AppliedPhysicsI.label>応用物理学 I</SK_AppliedPhysicsI.label>
+  <SK_Robotics.label>ロボット工学</SK_Robotics.label>
+  <SK_NanotechnologyI.label>ナノテク</SK_NanotechnologyI.label>
+  <SK_NanotechnologyII.label>ナノレプリケーション</SK_NanotechnologyII.label>
+  <SK_Cybernetics.label>サイバネティクス</SK_Cybernetics.label>
+  <SK_DermalRegenerator.label>皮膚再生</SK_DermalRegenerator.label>
+  <Personal_Shield_research.label>ナノマシン遮断防御</Personal_Shield_research.label>
+  <SK_AppliedPhysicsII.label>応用物理学 II</SK_AppliedPhysicsII.label>
+  <SK_Antimatter.label>反物質</SK_Antimatter.label>
+  <SK_AppliedPhysicsIII.label>応用物理学 III</SK_AppliedPhysicsIII.label>
+  <SK_Teleportation.label>テレポーテーション</SK_Teleportation.label>
+  <ShipBasics.label>宇宙航行</ShipBasics.label>
+  <ShipCryptosleep.label>冬眠カプセル</ShipCryptosleep.label>
+  <ShipEngine.label>反物質エンジン</ShipEngine.label>
+  <ShipReactor.label>反物質炉</ShipReactor.label>
+  <ShipComputerCore.label>コンピュータコア</ShipComputerCore.label>
+  <Smithing.label>鍛冶</Smithing.label>
+  <SmithingI.label>金属加工</SmithingI.label>
+  <SmithingII.label>上位金属加工</SmithingII.label>
+  <SmithingV.label>ハイテク金属加工</SmithingV.label>
+  <ElectricSmelting.label>冶金術 I</ElectricSmelting.label>
+  <SK_MetallurgyII.label>冶金術 II</SK_MetallurgyII.label>
+  <SK_MetallurgyIII.label>冶金術 III</SK_MetallurgyIII.label>
+  <SK_MetallurgyIV.label>冶金術 IV</SK_MetallurgyIV.label>
+  <SK_ConstructionI.label>建設 I</SK_ConstructionI.label>
+  <SK_ConstructionII.label>建設 II</SK_ConstructionII.label>
+  <SK_ConstructionIII.label>建設 III</SK_ConstructionIII.label>
+</LanguageData>

@@ -3,12 +3,17 @@
   <Cut.label>cut</Cut.label>
   <Crush.label>crush</Crush.label>
   <Blunt.label>blunt</Blunt.label>
+  <Beanbag.label>お手玉</Beanbag.label>
   <Stab.label>stab</Stab.label>
-  <Bullet.label>弾丸</Bullet.label>
-  <Arrow.label>arrow</Arrow.label>
+  <Bullet.label>bullet</Bullet.label>
+  <Fragment.label>fragment</Fragment.label>
+  <Arrow.label>矢</Arrow.label>
   <Scratch.label>scratch</Scratch.label>
   <Bite.label>bite</Bite.label>
   <ToxicBite.label>toxic bite</ToxicBite.label>
-  <Bomb.label>爆弾</Bomb.label>
-  <Fragment.label>fragment</Fragment.label>
+  <Bomb.label>bomb</Bomb.label>
+  <Thermobaric.label>thermobaric</Thermobaric.label>
+  <Flame.label>flame</Flame.label>
+  <Frostbite.label>frostbite</Frostbite.label>
+  <Electrical.label>electrical</Electrical.label>
 </LanguageData>

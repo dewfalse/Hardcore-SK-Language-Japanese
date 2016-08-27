@@ -1,11 +1,29 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ComfyTech.label>新 家具 I</ComfyTech.label>
-  <ComfyTechTierII.label>新 家具 II</ComfyTechTierII.label>
-  <ComfyTechTierIII.label>新 家具 III</ComfyTechTierIII.label>
-  <ComfyTechTierIV.label>新 家具 IV</ComfyTechTierIV.label>
-  <ComfyTechTierV.label>新 家具 V</ComfyTechTierV.label>
-  <ComfyTechTierVI.label>新 家具 VI</ComfyTechTierVI.label>
-  <StorageI.label>ストレージ I</StorageI.label>
-  <StorageII.label>ストレージ II</StorageII.label>
+  <SK_DiningRoomI.label>ダイニングルーム I</SK_DiningRoomI.label>
+  <SK_DiningRoomII.label>ダイニングルーム II</SK_DiningRoomII.label>
+  <SK_DiningRoomIII.label>ダイニングルーム III</SK_DiningRoomIII.label>
+  <SK_DiningRoomIV.label>ダイニングルーム IV</SK_DiningRoomIV.label>
+  <SK_RecreationRoomI.label>レクリエーション I</SK_RecreationRoomI.label>
+  <SK_RecreationRoomII.label>レクリエーション II</SK_RecreationRoomII.label>
+  <TubeTelevision.label>レクリエーション III</TubeTelevision.label>
+  <SK_RecreationRoomIV.label>レクリエーション IV</SK_RecreationRoomIV.label>
+  <SK_BedroomI.label>ベッドルーム I</SK_BedroomI.label>
+  <SK_BedroomII.label>ベッドルーム II</SK_BedroomII.label>
+  <SK_BedroomIII.label>ベッドルーム III</SK_BedroomIII.label>
+  <SK_BedroomIV.label>ベッドルーム IV</SK_BedroomIV.label>
+  <SK_ErgonomicsI.label>人間工学 I</SK_ErgonomicsI.label>
+  <SK_ErgonomicsII.label>人間工学 II</SK_ErgonomicsII.label>
+  <MultiAnalyzer.label>人間工学 III</MultiAnalyzer.label>
+  <SK_HygleneI.label>衛生 I</SK_HygleneI.label>
+  <ElectricCremation.label>衛生 II</ElectricCremation.label>
+  <SK_StorageI.label>ストレージ I</SK_StorageI.label>
+  <SK_StorageII.label>ストレージ II</SK_StorageII.label>
+  <SK_StorageIII.label>ストレージ III</SK_StorageIII.label>
+  <SK_TrainingFacilitiesI.label>トレーニング施設 I</SK_TrainingFacilitiesI.label>
+  <SK_TrainingFacilitiesII.label>トレーニング施設 II</SK_TrainingFacilitiesII.label>
+  <FloorArt.label>フロア I</FloorArt.label>
+  <FloorArtII.label>フロア II</FloorArtII.label>
+  <FloorArtIII.label>フロア III</FloorArtIII.label>
+  <FloorArtIV.label>フロア IV</FloorArtIV.label>
 </LanguageData>

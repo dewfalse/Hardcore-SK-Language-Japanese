@@ -1,23 +1,23 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
   <Matty.label>Matty</Matty.label>
-  <Precious.label>Precious</Precious.label>
-  <Metallic.label>金属製</Metallic.label>
-  <RareMetallic.label>レア 金属製</RareMetallic.label>
-  <SolidMetallic.label>Solid 金属製</SolidMetallic.label>
-  <Woody.label>木の</Woody.label>
-  <Stony.label>Stony</Stony.label>
-  <Fabric.label>布</Fabric.label>
-  <HF.label>ハイテク 布</HF.label>
-  <Leathery.label>Leathery</Leathery.label>
+  <Precious.label>貴金属</Precious.label>
+  <Metallic.label>Metallic</Metallic.label>
+  <RareMetallic.label>Rare Metallic</RareMetallic.label>
+  <SolidMetallic.label>Solid Metallic</SolidMetallic.label>
+  <Woody.label>木</Woody.label>
+  <Stony.label>石</Stony.label>
+  <Fabric.label>生地</Fabric.label>
+  <HF.label>ハイテク生地</HF.label>
+  <Leathery.label>革</Leathery.label>
   <Plastic.label>プラスチック</Plastic.label>
   <Glass.label>ガラス</Glass.label>
-  <Parts.label>パーツ</Parts.label>
-  <WoodLogs.label>木 丸太</WoodLogs.label>
-  <Kindlingstuff.label>焚き付け</Kindlingstuff.label>
-  <Foods.label>Foods</Foods.label>
+  <Parts.label>部品</Parts.label>
+  <WoodLogs.label>木材</WoodLogs.label>
+  <Kindlingstuff.label>薪</Kindlingstuff.label>
+  <Foods.label>食物</Foods.label>
   <Stuff.label>Stuff</Stuff.label>
-  <Chemical.label>化学</Chemical.label>
-  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
-  <Paint.label>Paint</Paint.label>
+  <Chemical.label>化学物質</Chemical.label>
+  <Hydrocarbons.label>炭化水素</Hydrocarbons.label>
+  <Paint.label>絵画</Paint.label>
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <PowerArm.label>電力 腕</PowerArm.label>
-  <BionicHand.label>強化 手</BionicHand.label>
-  <BionicFoot.label>強化 足</BionicFoot.label>
-  <BionicEar.label>強化 耳 インプラント</BionicEar.label>
-  <BionicJaw.label>強化 顎 インプラント</BionicJaw.label>
-  <SilentJaw.label>Silent 顎 インプラント</SilentJaw.label>
-  <BionicSpine.label>強化 脊椎</BionicSpine.label>
-  <MedicalRib.label>医療 肋骨 Replacement</MedicalRib.label>
-  <AdrenalineRib.label>アドレナリン 肋骨</AdrenalineRib.label>
+  <PowerArm.label>パワーアーム</PowerArm.label>
+  <BionicHand.label>強化義手</BionicHand.label>
+  <BionicFoot.label>強化義足</BionicFoot.label>
+  <BionicEar.label>強化義耳移植</BionicEar.label>
+  <BionicJaw.label>強化義顎移植</BionicJaw.label>
+  <SilentJaw.label>無声顎</SilentJaw.label>
+  <BionicSpine.label>強化義脊椎</BionicSpine.label>
+  <MedicalRib.label>医療肋骨</MedicalRib.label>
+  <AdrenalineRib.label>アドレナリン肋骨</AdrenalineRib.label>
 </LanguageData>

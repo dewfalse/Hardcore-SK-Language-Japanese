@@ -1,53 +1,53 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <MechanicalShell.label>砲弾</MechanicalShell.label>
-  <PlasmaCutter.label>プラズマ cutter</PlasmaCutter.label>
+  <MechanicalShell.label>甲羅</MechanicalShell.label>
+  <PlasmaCutter.label>プラズマカッター</PlasmaCutter.label>
   <MechanicalAntenna.label>触角</MechanicalAntenna.label>
   <MechanicalCore.label>コア</MechanicalCore.label>
-  <FrontLeftMechanicalLeg.label>前 左 脚</FrontLeftMechanicalLeg.label>
-  <FrontRightMechanicalLeg.label>前 右 脚</FrontRightMechanicalLeg.label>
-  <MiddleLeftMechanicalLeg.label>中 左 脚</MiddleLeftMechanicalLeg.label>
-  <MiddleRightMechanicalLeg.label>中 右 脚</MiddleRightMechanicalLeg.label>
-  <RearLeftMechanicalLeg.label>後ろ 左 脚</RearLeftMechanicalLeg.label>
-  <RearRightMechanicalLeg.label>後ろ 右 脚</RearRightMechanicalLeg.label>
-  <MechanicalGearBox.label>Gear box</MechanicalGearBox.label>
-  <FrontParalyzeComponent.label>Paralytic コンポーネント</FrontParalyzeComponent.label>
-  <WheelsEnclosure.label>Wheel enclosure</WheelsEnclosure.label>
-  <LeftWheel.label>左 wheel</LeftWheel.label>
-  <RightWheel.label>右 wheel</RightWheel.label>
-  <BackWheel.label>Back wheel</BackWheel.label>
+  <FrontLeftMechanicalLeg.label>左前脚</FrontLeftMechanicalLeg.label>
+  <FrontRightMechanicalLeg.label>右前脚</FrontRightMechanicalLeg.label>
+  <MiddleLeftMechanicalLeg.label>左中脚</MiddleLeftMechanicalLeg.label>
+  <MiddleRightMechanicalLeg.label>右中脚</MiddleRightMechanicalLeg.label>
+  <RearLeftMechanicalLeg.label>左後脚</RearLeftMechanicalLeg.label>
+  <RearRightMechanicalLeg.label>右後脚</RearRightMechanicalLeg.label>
+  <MechanicalGearBox.label>ギヤボックス</MechanicalGearBox.label>
+  <FrontParalyzeComponent.label>麻痺コンポーネント</FrontParalyzeComponent.label>
+  <WheelsEnclosure.label>車輪カバー</WheelsEnclosure.label>
+  <LeftWheel.label>左車輪</LeftWheel.label>
+  <RightWheel.label>右車輪</RightWheel.label>
+  <BackWheel.label>後輪</BackWheel.label>
   <MechanicalCoreSkullywag.label>コア</MechanicalCoreSkullywag.label>
-  <CoreProcessor.label>コア processor</CoreProcessor.label>
-  <InfraredSensor.label>Infrared センサー</InfraredSensor.label>
-  <MechanicalSkull.label>鋼鉄 skull</MechanicalSkull.label>
+  <CoreProcessor.label>コアプロセッサー</CoreProcessor.label>
+  <InfraredSensor.label>赤外線センサー</InfraredSensor.label>
+  <MechanicalSkull.label>スチール頭蓋骨</MechanicalSkull.label>
   <MechanicalCoreScoutbot.label>コア</MechanicalCoreScoutbot.label>
-  <MechanicalHoverComponent.label>Hover コンポーネント</MechanicalHoverComponent.label>
-  <MechanicalBackupHoverComponent.label>Backup hover コンポーネント</MechanicalBackupHoverComponent.label>
-  <FrontGun.label>前 gun</FrontGun.label>
-  <TopRightGunProtrusion.label>Top 右 gun protrusion</TopRightGunProtrusion.label>
-  <BottomRightGunProtrusion.label>Bottom 右 gun protrusion</BottomRightGunProtrusion.label>
-  <TopLeftGunProtrusion.label>Top 左 gun protrusion</TopLeftGunProtrusion.label>
-  <BottomLeftGunProtrusion.label>Bottom 左 gun protrusion</BottomLeftGunProtrusion.label>
-  <FrontShield.label>前 シールド</FrontShield.label>
-  <ShieldWindow.label>前 シールド 窓</ShieldWindow.label>
-  <MechanicalCephalothorax.label>cephalothorax</MechanicalCephalothorax.label>
-  <LargeMechanicalAbdomen.label>ラージ abdomen</LargeMechanicalAbdomen.label>
+  <MechanicalHoverComponent.label>ホバーコンポーネント</MechanicalHoverComponent.label>
+  <MechanicalBackupHoverComponent.label>補助ホバーコンポーネント</MechanicalBackupHoverComponent.label>
+  <FrontGun.label>前銃</FrontGun.label>
+  <TopRightGunProtrusion.label>右上部固定銃</TopRightGunProtrusion.label>
+  <BottomRightGunProtrusion.label>右下部固定銃</BottomRightGunProtrusion.label>
+  <TopLeftGunProtrusion.label>左上部固定銃</TopLeftGunProtrusion.label>
+  <BottomLeftGunProtrusion.label>左下部固定銃</BottomLeftGunProtrusion.label>
+  <FrontShield.label>フロントシールド</FrontShield.label>
+  <ShieldWindow.label>フロントシールドウインドウ</ShieldWindow.label>
+  <MechanicalCephalothorax.label>頭胸甲</MechanicalCephalothorax.label>
+  <LargeMechanicalAbdomen.label>腹腔</LargeMechanicalAbdomen.label>
   <MechanicalTentacle.label>触手</MechanicalTentacle.label>
-  <MechanicalTentacleSection.label>触手 section</MechanicalTentacleSection.label>
+  <MechanicalTentacleSection.label>触手房</MechanicalTentacleSection.label>
   <Claw.label>爪</Claw.label>
-  <ClawGrip.label>爪 grip</ClawGrip.label>
-  <SightSensor.label>Sight センサー</SightSensor.label>
-  <FrontLeftMechanicalPalp.label>前 シールド 窓</FrontLeftMechanicalPalp.label>
-  <FrontRightMechanicalPalp.label>前 シールド 窓</FrontRightMechanicalPalp.label>
-  <MechanicalBody.label>Mechanical body</MechanicalBody.label>
-  <ArmorPlating.label>アーマー plating</ArmorPlating.label>
-  <InternalMetalPlate.label>Internal metal plate</InternalMetalPlate.label>
-  <MetalTusk.label>Metal tusk</MetalTusk.label>
-  <MechanicalBodySmall.label>Body</MechanicalBodySmall.label>
-  <LeftTubing.label>左 tubing</LeftTubing.label>
-  <RightTubing.label>右 tubing</RightTubing.label>
-  <FuelContainer.label>燃料 コンテナ</FuelContainer.label>
-  <Igniter.label>Igniter</Igniter.label>
-  <LeftExplosiveTank.label>左 explosive tank</LeftExplosiveTank.label>
-  <RightExplosiveTank.label>右 explosive tank</RightExplosiveTank.label>
+  <ClawGrip.label>爪</ClawGrip.label>
+  <SightSensor.label>視覚センサー</SightSensor.label>
+  <FrontLeftMechanicalPalp.label>フロントシールドウインドウ</FrontLeftMechanicalPalp.label>
+  <FrontRightMechanicalPalp.label>フロントシールドウインドウ</FrontRightMechanicalPalp.label>
+  <MechanicalBody.label>機械胴体</MechanicalBody.label>
+  <ArmorPlating.label>アーマープレート</ArmorPlating.label>
+  <InternalMetalPlate.label>内部金属プレート</InternalMetalPlate.label>
+  <MetalTusk.label>金属牙</MetalTusk.label>
+  <MechanicalBodySmall.label>胴体</MechanicalBodySmall.label>
+  <LeftTubing.label>左配管</LeftTubing.label>
+  <RightTubing.label>右配管</RightTubing.label>
+  <FuelContainer.label>燃料コンテナ</FuelContainer.label>
+  <Igniter.label>発火装置</Igniter.label>
+  <LeftExplosiveTank.label>左爆発物タンク</LeftExplosiveTank.label>
+  <RightExplosiveTank.label>右爆発物タンク</RightExplosiveTank.label>
 </LanguageData>

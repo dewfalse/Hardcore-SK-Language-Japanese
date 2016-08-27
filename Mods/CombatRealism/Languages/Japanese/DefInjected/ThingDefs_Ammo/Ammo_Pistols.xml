@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ammo_40Rimfire_FMJ.label>.40 Rimfire cartridge (FMJ)</Ammo_40Rimfire_FMJ.label>
+  <Ammo_40Rimfire_AP.label>.40 Rimfire cartridge (AP)</Ammo_40Rimfire_AP.label>
+  <Ammo_40Rimfire_HP.label>.40 Rimfire cartridge (HP)</Ammo_40Rimfire_HP.label>
+  <Ammo_9x19mmPara_FMJ.label>9x19mm Para cartridge (FMJ)</Ammo_9x19mmPara_FMJ.label>
+  <Ammo_9x19mmPara_AP.label>9x19mm Para cartridge (AP)</Ammo_9x19mmPara_AP.label>
+  <Ammo_9x19mmPara_HP.label>9x19mm Para cartridge (HP)</Ammo_9x19mmPara_HP.label>
+  <Ammo_45ACP_FMJ.label>.45 ACP cartridge (FMJ)</Ammo_45ACP_FMJ.label>
+  <Ammo_45ACP_AP.label>.45 ACP cartridge (AP)</Ammo_45ACP_AP.label>
+  <Ammo_45ACP_HP.label>.45 ACP cartridge (HP)</Ammo_45ACP_HP.label>
+</LanguageData>

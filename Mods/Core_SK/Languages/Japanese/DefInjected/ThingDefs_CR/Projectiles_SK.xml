@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BaseBulletv.label>bullet</BaseBulletv.label>
+  <Projectile_ExplosiveBolt.label>explosive bolt</Projectile_ExplosiveBolt.label>
+  <Projectile_MetallicBolt.label>metallic bolt</Projectile_MetallicBolt.label>
+  <Bullet_44inchMAG.label>.44 Remington Magnum</Bullet_44inchMAG.label>
+  <Bullet_50AE_FMJ.label>.50 inch Action Express (FMJ)</Bullet_50AE_FMJ.label>
+  <Bullet_50AE_AP.label>.50 inch Action Express (AP)</Bullet_50AE_AP.label>
+  <Bullet_50AE_HP.label>.50 inch Action Express (HP)</Bullet_50AE_HP.label>
+  <Bullet_545x39mmR_FMJ.label>5.45mm Russian bullet (FMJ)</Bullet_545x39mmR_FMJ.label>
+  <Bullet_545x39mmR_AP.label>5.45mm Russian bullet (AP)</Bullet_545x39mmR_AP.label>
+  <Bullet_545x39mmR_HP.label>5.45mm Russian bullet (HP)</Bullet_545x39mmR_HP.label>
+  <Bullet_9x39Soviet.label>9x39mm Soviet sniper standart</Bullet_9x39Soviet.label>
+  <Bullet_M72LAW_HEAT.label>M72 LAW rocket (HEAT)</Bullet_M72LAW_HEAT.label>
+  <Bullet_M72LAW_Thermobaric.label>M72 LAW rocket (Thermobaric)</Bullet_M72LAW_Thermobaric.label>
+  <Bullet_M72LAW_Frag.label>M72 LAW rocket (Frag)</Bullet_M72LAW_Frag.label>
+  <Bullet_FGMJGrenade_HEAT.label>AT Missile (HEAT)</Bullet_FGMJGrenade_HEAT.label>
+  <Bullet_FGMJGrenade_Thermobaric.label>AT Missile (Thermobaric)</Bullet_FGMJGrenade_Thermobaric.label>
+  <Bullet_FGMJGrenade_Frag.label>AT Missile (Frag)</Bullet_FGMJGrenade_Frag.label>
+  <Bullet_Plasma.label>Plasma bolt</Bullet_Plasma.label>
+  <Bullet_PlasmaTurret.label>Dual plasma bolt</Bullet_PlasmaTurret.label>
+  <Bullet_ChargeLance.label>MH-1レイルガン</Bullet_ChargeLance.label>
+  <Bullet_Laserbeam.label>Laser beam</Bullet_Laserbeam.label>
+  <Bullet_120mmCannonShell_HEAT.label>120mm cannon shell (HEAT)</Bullet_120mmCannonShell_HEAT.label>
+  <Bullet_120mmCannonShell_HE.label>120mm cannon shell (HE)</Bullet_120mmCannonShell_HE.label>
+  <Bullet_120mmCannonShell_EMP.label>120mm cannon shell (EMP)</Bullet_120mmCannonShell_EMP.label>
+  <Bullet_155mmHowitzerShell_HE.label>155mm howitzer shell (HE)</Bullet_155mmHowitzerShell_HE.label>
+  <Bullet_155mmHowitzerShell_EMP.label>155mm howitzer shell (EMP)</Bullet_155mmHowitzerShell_EMP.label>
+  <Bullet_130mmRocketMissile.label>130mm HE Rocket missile</Bullet_130mmRocketMissile.label>
+  <Bullet_20x102mm.label>20x102mm bullet (HE)</Bullet_20x102mm.label>
+  <Bullet_30x173mm.label>30x173mm avenger shell</Bullet_30x173mm.label>
+  <Bullet_35x228mm.label>35x228mm avenger shell</Bullet_35x228mm.label>
+</LanguageData>

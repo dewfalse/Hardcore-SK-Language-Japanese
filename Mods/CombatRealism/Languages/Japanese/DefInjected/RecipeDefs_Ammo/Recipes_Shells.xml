@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeAmmo_30x173mm.label>make 30x173mm cartridge x70</MakeAmmo_30x173mm.label>
+  <MakeAmmo_35x228mm.label>make 35x228mm cartridge x60</MakeAmmo_35x228mm.label>
+  <MakeAmmo_20x102mm.label>make 20x102mm cartridge x120</MakeAmmo_20x102mm.label>
+  <MakeArtilleryShell.label>81mm榴弾(迫撃砲用)x5</MakeArtilleryShell.label>
+  <MakeAmmo_81mmMortarShell_Incendiary.label>81mm焼夷弾(迫撃砲用)x5</MakeAmmo_81mmMortarShell_Incendiary.label>
+  <MakeAmmo_81mmMortarShell_EMP.label>81mmEMP(迫撃砲用)x5</MakeAmmo_81mmMortarShell_EMP.label>
+  <MakeAmmo_90mmCannonShell_HEAT.label>make 90mm HEAT cannon shells x5</MakeAmmo_90mmCannonShell_HEAT.label>
+  <MakeAmmo_90mmCannonShell_HE.label>make 90mm HE cannon shells x5</MakeAmmo_90mmCannonShell_HE.label>
+  <MakeAmmo_90mmCannonShell_EMP.label>make 90mm EMP cannon shells x5</MakeAmmo_90mmCannonShell_EMP.label>
+  <MakeAmmo_120mmCannonShell_HEAT.label>make 120mm HEAT cannon shells x4</MakeAmmo_120mmCannonShell_HEAT.label>
+  <MakeAmmo_120mmCannonShell_HE.label>make 120mm HE cannon shells x4</MakeAmmo_120mmCannonShell_HE.label>
+  <MakeAmmo_120mmCannonShell_EMP.label>make 120mm EMP cannon shells x4</MakeAmmo_120mmCannonShell_EMP.label>
+  <MakeAmmo_155mmHowitzerShell_HE.label>make 155mm HE howitzer shells x2</MakeAmmo_155mmHowitzerShell_HE.label>
+  <MakeAmmo_155mmHowitzerShell_EMP.label>make 155mm EMP howitzer shells x5</MakeAmmo_155mmHowitzerShell_EMP.label>
+</LanguageData>

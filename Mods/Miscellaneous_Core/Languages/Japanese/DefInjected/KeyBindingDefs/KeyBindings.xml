@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ColonistSelectionKeys_Help.label>open selection help menu (SHIFT+key)</ColonistSelectionKeys_Help.label>
+  <ColonistSelectionKeys_Release.label>release pawns / SHIFT: Change mode</ColonistSelectionKeys_Release.label>
+  <ColonistSelectionKeys_Group1.label>select group 1 / set with SHIFT+key</ColonistSelectionKeys_Group1.label>
+  <ColonistSelectionKeys_Group2.label>select group 2 / set with SHIFT+key</ColonistSelectionKeys_Group2.label>
+  <ColonistSelectionKeys_Group3.label>select group 3 / set with SHIFT+key</ColonistSelectionKeys_Group3.label>
+  <ColonistSelectionKeys_Group4.label>select group 4 / set with SHIFT+key</ColonistSelectionKeys_Group4.label>
+  <ColonistSelectionKeys_SendEating.label>send active colonist to eat</ColonistSelectionKeys_SendEating.label>
+  <ColonistSelectionKeys_SendSleeping.label>send active colonist to bed</ColonistSelectionKeys_SendSleeping.label>
+  <ColonistSelectionKeys_CenterOnColony.label>jump to random colony cell</ColonistSelectionKeys_CenterOnColony.label>
+</LanguageData>

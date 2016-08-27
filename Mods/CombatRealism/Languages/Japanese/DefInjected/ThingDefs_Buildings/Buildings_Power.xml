@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SolarGenerator.label>太陽光発電</SolarGenerator.label>
+  <GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
+  <FueledGenerator.label>火力発電</FueledGenerator.label>
+  <Battery.label>バッテリー</Battery.label>
+</LanguageData>

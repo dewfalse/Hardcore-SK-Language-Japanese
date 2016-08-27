@@ -1,9 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Bullet_MortarIncendiary.label>80mm Incendiary 迫撃砲 砲弾</Bullet_MortarIncendiary.label>
-  <Artillery_MortarIncendiary.label>80mm Incendiary 迫撃砲 ランチャー</Artillery_MortarIncendiary.label>
-  <Bullet_MortarBomb.label>80mm Explosive 迫撃砲 砲弾</Bullet_MortarBomb.label>
-  <Artillery_MortarBomb.label>80mm Explosive 迫撃砲 ランチャー</Artillery_MortarBomb.label>
-  <Bullet_MortarEMP.label>80mm EMP 迫撃砲 砲弾</Bullet_MortarEMP.label>
-  <Artillery_MortarEMP.label>80mm EMP 迫撃砲 ランチャー</Artillery_MortarEMP.label>
+  <Artillery_81mmMortar.label>81mm迫撃砲(榴弾)</Artillery_81mmMortar.label>
+  <Artillery_MortarIncendiary.label>81mm焼夷迫撃砲</Artillery_MortarIncendiary.label>
+  <Artillery_MortarBomb.label>81mm溜弾迫撃砲</Artillery_MortarBomb.label>
+  <Artillery_MortarEMP.label>81mmEMP迫撃砲</Artillery_MortarEMP.label>
 </LanguageData>

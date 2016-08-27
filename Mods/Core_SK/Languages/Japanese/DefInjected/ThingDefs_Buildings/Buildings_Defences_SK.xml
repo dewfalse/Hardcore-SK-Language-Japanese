@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Sandbags.label>サンドバッグ</Sandbags.label>
+  <Parapet.label>欄干</Parapet.label>
+  <chevalDeFrise.label>逆茂木</chevalDeFrise.label>
+  <WallEmbrasure.label>銃眼</WallEmbrasure.label>
+  <WallWire.label>有刺鉄線</WallWire.label>
+  <Moat.label>堀</Moat.label>
+  <TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
+  <TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
+  <TrapIEDIncendiary.label>IED 焼夷トラップ</TrapIEDIncendiary.label>
+  <Building_Pawn_Upgrader.label>ナノマシンシールドステーション</Building_Pawn_Upgrader.label>
+</LanguageData>

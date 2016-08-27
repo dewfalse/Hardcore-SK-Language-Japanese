@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BaseBulletv.label>bullet</BaseBulletv.label>
+  <Bullet_30x64mmFuel_Incendiary.label>incendiary bolt</Bullet_30x64mmFuel_Incendiary.label>
+  <Bullet_30x64mmFuel_Thermobaric.label>thermobaric bolt</Bullet_30x64mmFuel_Thermobaric.label>
+  <Bullet_30x64mmFuel_Foam.label>foam bolt</Bullet_30x64mmFuel_Foam.label>
+  <Bullet_80x256mmFuel_Thermobaric.label>焼夷弾</Bullet_80x256mmFuel_Thermobaric.label>
+  <Bullet_6x24mmCharged.label>チャージライフル弾</Bullet_6x24mmCharged.label>
+  <Bullet_6x24mmCharged_AP.label>チャージライフル弾(Conc.)</Bullet_6x24mmCharged_AP.label>
+  <Bullet_6x24mmCharged_Ion.label>チャージライフル弾(Ion)</Bullet_6x24mmCharged_Ion.label>
+  <Bullet_5x35mmCharged.label>レイルガン装弾</Bullet_5x35mmCharged.label>
+  <Bullet_12x64mmCharged.label>ブラスター弾</Bullet_12x64mmCharged.label>
+</LanguageData>

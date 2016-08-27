@@ -1,19 +1,22 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <MineralDeposits.label>鉱床 of 鉱物</MineralDeposits.label>
-  <RareMineralDeposits.label>鉱床 of レア 鉱物</RareMineralDeposits.label>
-  <Oilfield.label>鉱床 of 原油</Oilfield.label>
-  <MineableSteel.label>鉄 鉱石 鉱床</MineableSteel.label>
-  <MineableSilver.label>シルバー 鉱石 鉱床</MineableSilver.label>
-  <MineableGold.label>金 鉱石 鉱床</MineableGold.label>
-  <MineableNitre.label>硝石 鉱床</MineableNitre.label>
-  <MineableCoal.label>石炭 鉱石 鉱床</MineableCoal.label>
-  <MineablePlasteel.label>ニッケル 鉱石 鉱床</MineablePlasteel.label>
-  <MineableCopper.label>銅 鉱石 鉱床</MineableCopper.label>
-  <MineableAluminium.label>ボーキサイト 鉱石 鉱床</MineableAluminium.label>
-  <MineableTitanium.label>イルメナイト 鉱石 鉱床</MineableTitanium.label>
-  <MineableManganese.label>軟マンガン鉱 鉱石 鉱床</MineableManganese.label>
-  <MineableTungsten.label>鉄マンガン重石 鉱石 鉱床</MineableTungsten.label>
+  <MineralDeposits.label>鉱床</MineralDeposits.label>
+  <RareMineralDeposits.label>レア鉱床</RareMineralDeposits.label>
+  <Oilfield.label>原油鉱床</Oilfield.label>
+  <MineableSteel.label>鉄鉱床</MineableSteel.label>
+  <MineableSilver.label>シルバー鉱床</MineableSilver.label>
+  <MineableGold.label>ゴールド鉱床</MineableGold.label>
+  <MineableNitre.label>硝石鉱床</MineableNitre.label>
+  <MineableCoal.label>石炭鉱床</MineableCoal.label>
+  <MineablePlasteel.label>ニッケル鉱床</MineablePlasteel.label>
+  <MineableTin.label>スズ鉱床</MineableTin.label>
+  <MineableCopper.label>銅鉱床</MineableCopper.label>
+  <MineableAluminium.label>ボーキサイト鉱床</MineableAluminium.label>
+  <MineableTitanium.label>チタン鉄鉱床</MineableTitanium.label>
+  <MineableManganese.label>軟マンガン鉱床</MineableManganese.label>
+  <MineableTungsten.label>タングステン鉱床</MineableTungsten.label>
   <SteamGeyser.label>間欠泉</SteamGeyser.label>
-  <CollapsedRocks.label>Collapsed 岩</CollapsedRocks.label>
+  <CollapsedRocks.label>崩落した岩</CollapsedRocks.label>
+  <MineableGlowstone.label>グロウストーン鉱床</MineableGlowstone.label>
+  <MineableColdstone.label>コールドストーン鉱床</MineableColdstone.label>
 </LanguageData>

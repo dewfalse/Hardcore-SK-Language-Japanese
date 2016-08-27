@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Zombie.label>ゾンビ</Zombie.label>
+  <TribalZombie.label>ゾンビ戦士</TribalZombie.label>
+  <PirateZombie.label>ゾンビ宙賊</PirateZombie.label>
+  <OutlanderZombie.label>ゾンビ衛兵</OutlanderZombie.label>
+  <MercenaryZombie.label>ゾンビ傭兵</MercenaryZombie.label>
+</LanguageData>

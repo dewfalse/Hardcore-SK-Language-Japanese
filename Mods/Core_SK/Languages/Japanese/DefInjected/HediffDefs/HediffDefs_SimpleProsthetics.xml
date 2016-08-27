@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <GlassEye.label>ガラス 目</GlassEye.label>
-  <CrystalEye.label>クリスタル 目</CrystalEye.label>
-  <SimpleProstheticHand.label>簡易 人工疑似 手</SimpleProstheticHand.label>
-  <SimpleProstheticFoot.label>簡易 人工疑似 足</SimpleProstheticFoot.label>
-  <SimpleProstheticArm.label>簡易 人工疑似 腕</SimpleProstheticArm.label>
-  <SimpleProstheticLeg.label>簡易 人工疑似 脚</SimpleProstheticLeg.label>
-  <ArtificialNose.label>人工 鼻</ArtificialNose.label>
-  <HydraulicJaw.label>水圧式 顎</HydraulicJaw.label>
-  <ArtificialPelvis.label>人工 骨盤</ArtificialPelvis.label>
+  <GlassEye.label>ガラスの眼</GlassEye.label>
+  <CrystalEye.label>クリスタルの眼</CrystalEye.label>
+  <SimpleProstheticHand.label>人工疑似手</SimpleProstheticHand.label>
+  <SimpleProstheticFoot.label>人工疑似足</SimpleProstheticFoot.label>
+  <SimpleProstheticArm.label>人工疑似腕</SimpleProstheticArm.label>
+  <SimpleProstheticLeg.label>人工疑似脚</SimpleProstheticLeg.label>
+  <ArtificialNose.label>人工鼻</ArtificialNose.label>
+  <HydraulicJaw.label>水圧式顎</HydraulicJaw.label>
+  <ArtificialPelvis.label>人工骨盤</ArtificialPelvis.label>
 </LanguageData>

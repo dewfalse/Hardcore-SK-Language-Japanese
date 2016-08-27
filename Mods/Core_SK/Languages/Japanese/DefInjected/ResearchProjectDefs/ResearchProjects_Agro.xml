@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SK_Agriculture.label>農業</SK_Agriculture.label>
+  <SK_VegetablesI.label>野菜 I</SK_VegetablesI.label>
+  <SK_VegetablesII.label>野菜 II</SK_VegetablesII.label>
+  <SK_VegetablesIII.label>野菜 III</SK_VegetablesIII.label>
+  <SK_FruitsI.label>フルーツ I</SK_FruitsI.label>
+  <SK_FruitsII.label>フルーツ II</SK_FruitsII.label>
+  <SK_FruitsIII.label>フルーツ III</SK_FruitsIII.label>
+  <SK_CerealsI.label>穀物 I</SK_CerealsI.label>
+  <SK_CerealsII.label>穀物 II</SK_CerealsII.label>
+  <SK_CerealsIII.label>穀物 III</SK_CerealsIII.label>
+  <SK_OrchardsI.label>果樹 I</SK_OrchardsI.label>
+  <SK_OrchardsII.label>果樹 II</SK_OrchardsII.label>
+  <SK_OrchardsIII.label>果樹 III</SK_OrchardsIII.label>
+  <SK_TreesI.label>樹木 I</SK_TreesI.label>
+  <SK_TreesII.label>樹木 II</SK_TreesII.label>
+  <SK_TreesIII.label>樹木 III</SK_TreesIII.label>
+  <SK_FiberCropsI.label>繊維植物 I</SK_FiberCropsI.label>
+  <Devilstrand.label>繊維植物 II</Devilstrand.label>
+  <DevilstrandI.label>繊維植物 III</DevilstrandI.label>
+  <SK_MedicalCropsI.label>薬草 I</SK_MedicalCropsI.label>
+  <SK_MedicalCropsII.label>薬草 II</SK_MedicalCropsII.label>
+  <SK_MedicalCropsIII.label>薬草 III</SK_MedicalCropsIII.label>
+  <SK_TropicalCropsI.label>熱帯植物 I</SK_TropicalCropsI.label>
+  <SK_TropicalCropsII.label>熱帯植物 II</SK_TropicalCropsII.label>
+  <SK_TropicalCropsIII.label>熱帯植物 III</SK_TropicalCropsIII.label>
+  <SK_DrugCropsI.label>ドラッグ I</SK_DrugCropsI.label>
+  <SK_DrugCropsII.label>ドラッグ II</SK_DrugCropsII.label>
+  <SK_FlowersI.label>草花 I</SK_FlowersI.label>
+  <SK_FlowersII.label>草花 II</SK_FlowersII.label>
+  <SK_FlowersIII.label>草花 III</SK_FlowersIII.label>
+  <SK_LivestockI.label>家畜 I</SK_LivestockI.label>
+  <SK_LivestockII.label>家畜 II</SK_LivestockII.label>
+  <SK_LivestockIII.label>家畜 III</SK_LivestockIII.label>
+  <SK_FishingI.label>漁業 I</SK_FishingI.label>
+  <SK_FishingII.label>漁業 II</SK_FishingII.label>
+  <SK_SoilFertillizationI.label>土壌改良 I</SK_SoilFertillizationI.label>
+  <SK_SoilFertillizationII.label>土壌改良 II</SK_SoilFertillizationII.label>
+  <MoisturePump.label>土壌改良 III</MoisturePump.label>
+  <SK_IndoorFarming.label>屋内栽培</SK_IndoorFarming.label>
+  <Hydroponics.label>水耕栽培 I</Hydroponics.label>
+  <SK_HydroponicsII.label>水耕栽培 II</SK_HydroponicsII.label>
+  <SK_FungiI.label>キノコ I</SK_FungiI.label>
+  <SK_FungiII.label>キノコ II</SK_FungiII.label>
+  <SK_FungiIII.label>キノコ III</SK_FungiIII.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ArtilleryShell.label>81mm榴弾(迫撃砲用)</ArtilleryShell.label>
+  <Ammo_81mmMortarShell_Incendiary.label>81mm焼夷弾(迫撃砲用)</Ammo_81mmMortarShell_Incendiary.label>
+  <Ammo_81mmMortarShell_EMP.label>81mmEMP(迫撃砲用)</Ammo_81mmMortarShell_EMP.label>
+  <Ammo_90mmCannonShell_HEAT.label>90mm cannon shell (HEAT)</Ammo_90mmCannonShell_HEAT.label>
+  <Ammo_90mmCannonShell_HE.label>90mm cannon shell (HE)</Ammo_90mmCannonShell_HE.label>
+  <Ammo_90mmCannonShell_EMP.label>90mm cannon shell (EMP)</Ammo_90mmCannonShell_EMP.label>
+</LanguageData>

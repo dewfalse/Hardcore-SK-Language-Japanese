@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Proj_GrenadeFrag.label>frag grenade</Proj_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>frag grenade</Weapon_GrenadeFrag.label>
+  <Proj_GrenadeMolotov.label>火炎瓶</Proj_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.label>火炎瓶</Weapon_GrenadeMolotov.label>
+  <Proj_GrenadeEMP.label>EMP grenade</Proj_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>EMP grenade</Weapon_GrenadeEMP.label>
+  <Proj_GrenadeFlashbang.label>flashbang grenade</Proj_GrenadeFlashbang.label>
+  <Weapon_GrenadeFlashbang.label>flashbang grenade</Weapon_GrenadeFlashbang.label>
+</LanguageData>

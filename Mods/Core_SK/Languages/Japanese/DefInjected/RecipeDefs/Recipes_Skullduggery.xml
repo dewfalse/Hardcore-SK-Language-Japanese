@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CraftHumuskulliusa.label>スカルマスク</CraftHumuskulliusa.label>
+  <CraftSkullcap.label>スカルキャップ</CraftSkullcap.label>
+  <CraftWingedSkullcap.label>羽根つきスカルキャップ</CraftWingedSkullcap.label>
+  <CraftFurheadgarment.label>毛皮目出し帽</CraftFurheadgarment.label>
+  <CraftHornedHeadGarment.label>角付き目出し帽</CraftHornedHeadGarment.label>
+  <CraftFurhat.label>毛皮帽子</CraftFurhat.label>
+  <CraftWoollenCap.label>毛糸帽子</CraftWoollenCap.label>
+  <CraftTuskheadgarment.label>牙付き目出し帽</CraftTuskheadgarment.label>
+  <CraftThickLeatherheadgarment.label>厚革目出し帽</CraftThickLeatherheadgarment.label>
+  <CraftRamheadgarment.label>ラム目出し帽</CraftRamheadgarment.label>
+  <CraftChitinheadgarment.label>キチン目出し帽</CraftChitinheadgarment.label>
+  <CraftFeatheredHeaddress.label>羽根つき頭飾り</CraftFeatheredHeaddress.label>
+  <CraftShimmeringCrown.label>ティアラ</CraftShimmeringCrown.label>
+</LanguageData>

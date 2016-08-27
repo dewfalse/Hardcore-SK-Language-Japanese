@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AmmoSet_Bolt.label>bolts</AmmoSet_Bolt.label>
+  <AmmoSet_44Magnum.label>.44 Remington Magnum</AmmoSet_44Magnum.label>
+  <AmmoSet_50AE.label>.50 inch Action Express</AmmoSet_50AE.label>
+  <AmmoSet_545x39mmR.label>5.45x39mm Russian</AmmoSet_545x39mmR.label>
+  <AmmoSet_9x39mmSoviet.label>9x39mm Soviet Sniper</AmmoSet_9x39mmSoviet.label>
+  <AmmoSet_M72LAW.label>M72 LAW grenade</AmmoSet_M72LAW.label>
+  <AmmoSet_FGMJ.label>AT Missile round</AmmoSet_FGMJ.label>
+  <AmmoSet_PlasmaBolt.label>Plasma bolt</AmmoSet_PlasmaBolt.label>
+  <AmmoSet_DualPlasmaBolt.label>Dual plasma bolt</AmmoSet_DualPlasmaBolt.label>
+  <AmmoSet_ChargedLaser.label>Charged Laser beam</AmmoSet_ChargedLaser.label>
+  <AmmoSet_RailRay.label>MH-1 Charged rail ray</AmmoSet_RailRay.label>
+  <AmmoSet_120mmCannonShell.label>120mm cannon shell</AmmoSet_120mmCannonShell.label>
+  <AmmoSet_155mmHowitzerShell.label>155mm howitzer shell</AmmoSet_155mmHowitzerShell.label>
+  <AmmoSet_130mmRocketMissile.label>130mm rocket missile (HE)</AmmoSet_130mmRocketMissile.label>
+  <AmmoSet_20x102mm.label>20x102mm cartridge</AmmoSet_20x102mm.label>
+  <AmmoSet_30x173mm.label>30x173mm cartridge</AmmoSet_30x173mm.label>
+  <AmmoSet_35x228mm.label>35x228mm cartridge</AmmoSet_35x228mm.label>
+</LanguageData>

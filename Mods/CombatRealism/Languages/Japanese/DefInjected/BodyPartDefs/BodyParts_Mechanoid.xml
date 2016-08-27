@@ -1,9 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <LeftBlade.label>左 ブレード</LeftBlade.label>
-  <RightBlade.label>右 ブレード</RightBlade.label>
-  <LeftMechanicalLeg.label>左 脚</LeftMechanicalLeg.label>
-  <LeftMechanicalFoot.label>左 足</LeftMechanicalFoot.label>
-  <RightMechanicalLeg.label>右 脚</RightMechanicalLeg.label>
-  <RightMechanicalFoot.label>右 足</RightMechanicalFoot.label>
+  <MechanicalThorax.label>胸腔</MechanicalThorax.label>
+  <LeftBlade.label>左刃</LeftBlade.label>
+  <RightBlade.label>右刃</RightBlade.label>
+  <LeftMechanicalLeg.label>左脚</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>左足</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>右脚</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>右足</RightMechanicalFoot.label>
 </LanguageData>

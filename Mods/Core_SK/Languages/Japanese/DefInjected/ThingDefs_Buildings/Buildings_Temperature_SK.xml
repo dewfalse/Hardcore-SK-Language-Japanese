@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Campfire.label>焚き火</Campfire.label>
+  <EHeatedFloor.label>床暖房</EHeatedFloor.label>
+  <Heater.label>電気ストーブ</Heater.label>
+  <ColdstoneBattery.label>コールドストーンバッテリー</ColdstoneBattery.label>
+  <Cooler.label>クーラー</Cooler.label>
+  <GH.label>地熱ヒーター</GH.label>
+  <Vent.label>換気口</Vent.label>
+  <MiningHelmetGlower.label>採掘用ヘルメット用ライト</MiningHelmetGlower.label>
+</LanguageData>

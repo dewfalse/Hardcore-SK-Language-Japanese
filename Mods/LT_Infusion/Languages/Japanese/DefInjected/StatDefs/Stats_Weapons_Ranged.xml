@@ -1,8 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
-  <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-  <AccuracyMedium.label>Accuracy (ミディアム)</AccuracyMedium.label>
-  <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
   <RangedWeapon_Cooldown.label>Ranged cooldown</RangedWeapon_Cooldown.label>
+  <AimEfficiency.label>aiming efficiency</AimEfficiency.label>
+  <ShotSpread.label>spread</ShotSpread.label>
+  <SwayFactor.label>weapon sway</SwayFactor.label>
 </LanguageData>

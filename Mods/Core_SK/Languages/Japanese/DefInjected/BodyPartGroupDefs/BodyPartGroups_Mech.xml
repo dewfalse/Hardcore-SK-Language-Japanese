@@ -1,14 +1,14 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <PlasmaCutter.label>プラズマ cutter</PlasmaCutter.label>
-  <FrontLeftMechanicalLeg.label>前 左 脚</FrontLeftMechanicalLeg.label>
-  <FrontRightMechanicalLeg.label>前 右 脚</FrontRightMechanicalLeg.label>
-  <FrontParalyzeComponent.label>Paralytic コンポーネント</FrontParalyzeComponent.label>
-  <WheelsEnclosure.label>Wheel enclosure</WheelsEnclosure.label>
+  <PlasmaCutter.label>プラズマカッター</PlasmaCutter.label>
+  <FrontLeftMechanicalLeg.label>左前脚</FrontLeftMechanicalLeg.label>
+  <FrontRightMechanicalLeg.label>右前脚</FrontRightMechanicalLeg.label>
+  <FrontParalyzeComponent.label>麻痺コンポーネント</FrontParalyzeComponent.label>
+  <WheelsEnclosure.label>車輪カバー</WheelsEnclosure.label>
   <MechanicalCoreSkullywag.label>コア</MechanicalCoreSkullywag.label>
   <MechanicalCoreScoutbot.label>コア</MechanicalCoreScoutbot.label>
   <CoveredByShield.label>シールド</CoveredByShield.label>
   <MeleeTentacles.label>触手</MeleeTentacles.label>
-  <Igniter.label>Igniter</Igniter.label>
-  <FuelContainer.label>燃料 コンテナ</FuelContainer.label>
+  <Igniter.label>発火装置</Igniter.label>
+  <FuelContainer.label>燃料コンテナ</FuelContainer.label>
 </LanguageData>

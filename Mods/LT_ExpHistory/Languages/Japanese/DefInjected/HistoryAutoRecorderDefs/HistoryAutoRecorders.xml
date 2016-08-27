@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='UTF-8'?> 
-<LanguageData>
-  <MealsTotal.label>Prepared meals</MealsTotal.label>
-  <RawFoodTotal.label>生 肉</RawFoodTotal.label>
-  <PlantFoodTotal.label>生 plants</PlantFoodTotal.label>
-  <StoredPower.label>Stored 電力</StoredPower.label>
-  <PowerConsumed.label>電力 consumed</PowerConsumed.label>
-  <PowerGenerated.label>電力 generated</PowerGenerated.label>
-</LanguageData>

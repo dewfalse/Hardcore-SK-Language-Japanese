@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <NorbalWarrior.label>Warmonger</NorbalWarrior.label>
+  <NorbalTrader.label>Norbal trader</NorbalTrader.label>
+  <NorbalRager.label>Berserker</NorbalRager.label>
+  <NorbalDestroyer.label>Thunderer</NorbalDestroyer.label>
+  <NorbalArcher.label>Skirmisher</NorbalArcher.label>
+  <NorbalSage.label>Sage</NorbalSage.label>
+  <NorbalGrandSage.label>Konungr</NorbalGrandSage.label>
+  <NorbalHero.label>Hersir</NorbalHero.label>
+  <NorbalThane.label>Jarl</NorbalThane.label>
+  <NorbalSnorb.label>Thrall</NorbalSnorb.label>
+  <NorbalKarl.label>Karl</NorbalKarl.label>
+</LanguageData>

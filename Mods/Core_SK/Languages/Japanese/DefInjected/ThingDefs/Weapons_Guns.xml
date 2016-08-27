@@ -1,18 +1,85 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <TrainingBullet.label>Training 弾丸</TrainingBullet.label>
-  <Nail_naillet.label>nail</Nail_naillet.label>
-  <Bullet_45ACP.label>.45ACP 弾丸</Bullet_45ACP.label>
-  <Bullet_40SW.label>.40 inch Smith-Wesson 弾丸</Bullet_40SW.label>
-  <Bullet_44inchMAG.label>.44 Remington Magnum</Bullet_44inchMAG.label>
-  <Bullet_50AE.label>.50 inch Action Express</Bullet_50AE.label>
-  <Bullet_10GaugeShotGun.label>10-Gauge ショットガン 砲弾</Bullet_10GaugeShotGun.label>
-  <Bullet_12GaugeShotGun.label>12-Gauge ショットガン 砲弾</Bullet_12GaugeShotGun.label>
-  <Bullet_303InchBritish.label>.303 inch British</Bullet_303InchBritish.label>
-  <Bullet_556x45Nato.label>5.56x45mm NATO STANAG</Bullet_556x45Nato.label>
-  <Bullet_545x39Soviet.label>5.45x39mm Soviet</Bullet_545x39Soviet.label>
-  <Bullet_762x39FMJ.label>7.62x39mm FMJ</Bullet_762x39FMJ.label>
-  <Bullet_9x39Soviet.label>9x39mm Soviet</Bullet_9x39Soviet.label>
-  <Bullet_762x51Nato.label>7.62x51mm NATO</Bullet_762x51Nato.label>
-  <300inchMagnum.label>.300 inch Winchester magnum</300inchMagnum.label>
+  <Bullet_FireExtinguisher.label>foam</Bullet_FireExtinguisher.label>
+  <Gun_Pistol.label>Colt M1911</Gun_Pistol.label>
+  <Gun_P226Gun.label>SIG Sauer P226</Gun_P226Gun.label>
+  <RF_Gun_Deringer.label>Remington M95 Derringer</RF_Gun_Deringer.label>
+  <RF_Gun_AT2K.label>Sphinx AT 2000</RF_Gun_AT2K.label>
+  <RF_Gun_93R.label>Beretta 93R</RF_Gun_93R.label>
+  <RF_Gun_VektorCP.label>Vektor CP1</RF_Gun_VektorCP.label>
+  <RF_Gun_ParaOrdnancePFourteenFortyfive.label>Para Ordnance P14-45</RF_Gun_ParaOrdnancePFourteenFortyfive.label>
+  <Gun_DesertEagle.label>Desert Eagle .45 ACP</Gun_DesertEagle.label>
+  <Gun_Magnum.label>.44 Remington Magnum</Gun_Magnum.label>
+  <Gun_M37A2_USCM.label>M37A2 ポンプ式散弾銃</Gun_M37A2_USCM.label>
+  <Gun_PumpShotgun.label>Remington 870</Gun_PumpShotgun.label>
+  <RF_Gun_Striker.label>Striker shotgun</RF_Gun_Striker.label>
+  <Gun_TacticalShotgun.label>M45 Tactical Shotgun</Gun_TacticalShotgun.label>
+  <RF_Gun_AAtwelve.label>Atchisson Assault AA-12</RF_Gun_AAtwelve.label>
+  <Gun_TacticalAutoshotgun.label>M90 CAWS</Gun_TacticalAutoshotgun.label>
+  <RF_Gun_Tecnine.label>TEC-9</RF_Gun_Tecnine.label>
+  <RF_Gun_GreaseGun.label>M3 Greasegun</RF_Gun_GreaseGun.label>
+  <Gun_PDW.label>Uzi</Gun_PDW.label>
+  <RF_Gun_TMP.label>Silenced TMP</RF_Gun_TMP.label>
+  <RF_Gun_Skorpion.label>Scorpion EVO 3</RF_Gun_Skorpion.label>
+  <RF_Gun_Vector.label>Kriss Vector K10</RF_Gun_Vector.label>
+  <Gun_MP5Gun.label>HK MP5A3</Gun_MP5Gun.label>
+  <Gun_UMP45Gun.label>HK UMP45</Gun_UMP45Gun.label>
+  <Gun_HeavySMG.label>Spectre M4 Luger</Gun_HeavySMG.label>
+  <Gun_SurvivalRifle.label>Lee-Enfield</Gun_SurvivalRifle.label>
+  <RF_Gun_Mosin.label>Mosin-Nagant M91</RF_Gun_Mosin.label>
+  <Gun_AKS74U.label>AKS-74U</Gun_AKS74U.label>
+  <RF_Gun_CXfour.label>Beretta CX4</RF_Gun_CXfour.label>
+  <RF_Gun_PCnine.label>Ruger PC-9</RF_Gun_PCnine.label>
+  <RF_Gun_USC.label>HK USC</RF_Gun_USC.label>
+  <Gun_M4A1Gun.label>M4A1 Carbine</Gun_M4A1Gun.label>
+  <Gun_AssaultRifle.label>M16 Rifle</Gun_AssaultRifle.label>
+  <RF_Gun_XMeight.label>HK XM8 Military Rifle</RF_Gun_XMeight.label>
+  <Gun_FAMAS.label>FAMAS G2</Gun_FAMAS.label>
+  <Gun_AK47Gun.label>AK-47</Gun_AK47Gun.label>
+  <Gun_MarineSturmRifle.label>Tavor TAR-21</Gun_MarineSturmRifle.label>
+  <Gun_TacticalCombatRifle.label>MA5 ICWS</Gun_TacticalCombatRifle.label>
+  <Gun_SG553Gun.label>SIG SG553</Gun_SG553Gun.label>
+  <Gun_AUG.label>Steyr AUG A3</Gun_AUG.label>
+  <Gun_SCAR_H.label>FN SCAR-H</Gun_SCAR_H.label>
+  <Gun_SniperRifle.label>M24 Sniper Rifle</Gun_SniperRifle.label>
+  <Gun_DragunovSVU.label>SVU OTs-03 Dragunov</Gun_DragunovSVU.label>
+  <Gun_Vintorez.label>VSS Thread Cutter</Gun_Vintorez.label>
+  <Gun_M42A_USCM.label>M42A Scope Rifle</Gun_M42A_USCM.label>
+  <RF_Gun_WA2K.label>Walther WA 2000 Rifle</RF_Gun_WA2K.label>
+  <RF_Gun_ARFifty.label>Armalite AR-50</RF_Gun_ARFifty.label>
+  <RF_Gun_MDFifty.label>Micor Defense MD50</RF_Gun_MDFifty.label>
+  <RF_Gun_HecateII.label>Ultima Ratio Hecate II</RF_Gun_HecateII.label>
+  <Gun_ATR.label>PTRD-41 Rifle</Gun_ATR.label>
+  <Gun_TAMSR.label>SRS99 AM Sniper Rifle</Gun_TAMSR.label>
+  <Gun_M82Gun.label>Barrett M82A1 SASR</Gun_M82Gun.label>
+  <RF_Gun_Galil.label>RPK-74</RF_Gun_Galil.label>
+  <Gun_LMG.label>L-15機関銃</Gun_LMG.label>
+  <Gun_HeavyCombatRifle.label>MA39X ICWS</Gun_HeavyCombatRifle.label>
+  <Gun_HHMG.label>M249 LMG SAW MG</Gun_HHMG.label>
+  <Gun_Minigun.label>XM214 Microgun</Gun_Minigun.label>
+  <Gun_M56_USCM.label>M56 Smart Gun</Gun_M56_USCM.label>
+  <Gun_IncendiaryLauncher.label>RL T9 Burning Sun</Gun_IncendiaryLauncher.label>
+  <Gun_MilkorMGL.label>Milkor MGL</Gun_MilkorMGL.label>
+  <Gun_RPG.label>RPG-7</Gun_RPG.label>
+  <Gun_M5_USCM.label>M5 RPG</Gun_M5_USCM.label>
+  <Gun_LAW.label>M72 LAW</Gun_LAW.label>
+  <Gun_DoomsdayRocket.label>R3最終ロケット兵器</Gun_DoomsdayRocket.label>
+  <Gun_TripleRocket.label>R3 Blast-Rocket Launcher</Gun_TripleRocket.label>
+  <Gun_ChargeRifle.label>R2ブラスター砲</Gun_ChargeRifle.label>
+  <LaserRifle.label>One-beam Laser Pulser</LaserRifle.label>
+  <HeavyLasergun.label>Tri-beam Laser Pulser</HeavyLasergun.label>
+  <BurstLasergun.label>Penta-beam Laser Pulser</BurstLasergun.label>
+  <Gun_PlasmaPrecision.label>C2 Precision Plasma Blaster</Gun_PlasmaPrecision.label>
+  <Gun_PlasmaCarbine.label>C3 Plasma Blaster</Gun_PlasmaCarbine.label>
+  <Gun_PlasmaRifle.label>C7 Multi-Plasma Blaster</Gun_PlasmaRifle.label>
+  <Gun_ChargeLance.label>Extraterrestrial Railgun</Gun_ChargeLance.label>
+  <Gun_RailgunMKI.label>X-Zero Railgun</Gun_RailgunMKI.label>
+  <Gun_lightmechblaster.label>Mech. Light Blaster</Gun_lightmechblaster.label>
+  <Gun_ChargeBlasterHeavy.label>Mech. 重ブラスター砲</Gun_ChargeBlasterHeavy.label>
+  <Gun_InfernoCannon.label>Mech. 焼夷弾投射器</Gun_InfernoCannon.label>
+  <Gun_mechlaser.label>Mechanoid Laser Pulser</Gun_mechlaser.label>
+  <Gun_mechheavylaser.label>Mech. Heavy Laser Pulser</Gun_mechheavylaser.label>
+  <Gun_MechPlasmaHeavy.label>Mech. Plasma Heavy Blaster</Gun_MechPlasmaHeavy.label>
+  <Gun_MechPlasma.label>Mech. プラズマブラスター</Gun_MechPlasma.label>
+  <Gun_FireExtinguisher.label>消火器</Gun_FireExtinguisher.label>
 </LanguageData>

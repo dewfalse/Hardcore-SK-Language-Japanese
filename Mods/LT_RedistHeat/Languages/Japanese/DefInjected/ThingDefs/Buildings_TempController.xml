@@ -1,11 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Heater.label>スモール ヒーター</Heater.label>
-  <Cooler.label>ミディアム クーラー</Cooler.label>
-  <RH_SmallCooler.label>スモール クーラー</RH_SmallCooler.label>
-  <RH_MediumHeater.label>ミディアム ヒーター</RH_MediumHeater.label>
-  <RedistHeat_HeaterGlower.label>ミディアム ヒーター</RedistHeat_HeaterGlower.label>
-  <RedistHeat_IndustrialHeater.label>Industrial ヒーター</RedistHeat_IndustrialHeater.label>
-  <RedistHeat_IndustrialCooler.label>Industrial クーラー</RedistHeat_IndustrialCooler.label>
-  <RedistHeat_ExhaustPort.label>Exhaust port</RedistHeat_ExhaustPort.label>
+  <Heater.label>小型ヒーター</Heater.label>
+  <Cooler.label>中型ヒーター</Cooler.label>
+  <RH_SmallCooler.label>小型クーラー</RH_SmallCooler.label>
+  <RH_MediumHeater.label>中型ヒーター</RH_MediumHeater.label>
+  <RedistHeat_HeaterGlower.label>中型ヒーター</RedistHeat_HeaterGlower.label>
+  <RedistHeat_IndustrialHeater.label>工業用ヒーター</RedistHeat_IndustrialHeater.label>
+  <RedistHeat_IndustrialCooler.label>工業用クーラー</RedistHeat_IndustrialCooler.label>
+  <RedistHeat_ExhaustPort.label>排気口</RedistHeat_ExhaustPort.label>
 </LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SK_Security.label>セキュリティ I</SK_Security.label>
+  <IEDBomb.label>セキュリティ II</IEDBomb.label>
+  <IEDIncendiary.label>セキュリティ III</IEDIncendiary.label>
+  <Firefoam.label>消火</Firefoam.label>
+  <SK_MachinegunsturretsI.label>機関銃</SK_MachinegunsturretsI.label>
+  <MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
+  <ChargedShot.label>機関砲</ChargedShot.label>
+  <SK_MachinegunsturretsIV.label>改良型機関砲</SK_MachinegunsturretsIV.label>
+  <SK_CannonturretsI.label>タレット I</SK_CannonturretsI.label>
+  <Mortars.label>タレット II</Mortars.label>
+  <SK_CannonturretsIII.label>タレット III</SK_CannonturretsIII.label>
+  <SK_MissilelaunchersI.label>ミサイルランチャー I</SK_MissilelaunchersI.label>
+  <SK_MissilelaunchersII.label>ミサイルランチャー II</SK_MissilelaunchersII.label>
+  <SK_MissilelaunchersIII.label>ミサイルランチャー III</SK_MissilelaunchersIII.label>
+  <GunTurrets.label>セントリータレット</GunTurrets.label>
+  <AdvGunTurrets.label>改良型セントリータレット</AdvGunTurrets.label>
+  <SK_Futuristicturrets.label>先進セントリータレット</SK_Futuristicturrets.label>
+</LanguageData>

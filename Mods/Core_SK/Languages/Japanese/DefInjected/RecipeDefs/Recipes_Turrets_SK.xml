@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <BuildM240B_Crate.label>7.62x51mm M240B MG</BuildM240B_Crate.label>
+  <BuildMinigunTurret_Crate.label>7.62x51mm M134ガトリング銃</BuildMinigunTurret_Crate.label>
+  <BuildMGTurret_Crate.label>50BMG M2 ブローニング MG</BuildMGTurret_Crate.label>
+  <BuildKPV_Crate.label>14.5mm KPV MG</BuildKPV_Crate.label>
+  <BuildOerlikonautocannon_Crate.label>Build 20x102mm Oerlikon autocannon crate</BuildOerlikonautocannon_Crate.label>
+  <BuildVulcanCannon_Crate.label>Build 20mm Vulcan Cannon crate</BuildVulcanCannon_Crate.label>
+  <BuildChain_Crate.label>Build 30x173mm GSh-30 cannon crate</BuildChain_Crate.label>
+  <BuildAvenger_Crate.label>Build 35x228mm GAU-8 Avenger crate</BuildAvenger_Crate.label>
+  <BuildAGSturret_Crate.label>30mm AGS-17</BuildAGSturret_Crate.label>
+  <BuildAGCturret_Crate.label>30mm AGS-30</BuildAGCturret_Crate.label>
+  <BuildMortar_Crate.label>80mm迫撃砲(榴弾)</BuildMortar_Crate.label>
+  <BuildFlakTurret_Crate.label>Build 90mm Flak turret crate</BuildFlakTurret_Crate.label>
+  <BuildCannonTurret_Crate.label>Build 120mm Tank cannon crate</BuildCannonTurret_Crate.label>
+  <BuildHowitzerTurret_Crate.label>Build 155mm Howitzer Cannon Crate</BuildHowitzerTurret_Crate.label>
+  <BuildTOW_Crate.label>Build AT missile BGM-71 TOW crate</BuildTOW_Crate.label>
+  <BuildLightMissileSystem_Crate.label>Build AT missile FGM-148 Javelin crate</BuildLightMissileSystem_Crate.label>
+  <BuildMediumMissileSystem_Crate.label>Build 130mm Medium Missile System crate</BuildMediumMissileSystem_Crate.label>
+  <BuildRocketLauncher_Crate.label>Build 130mm Heavy Missile System crate</BuildRocketLauncher_Crate.label>
+  <BuildSentryTurret_Crate.label>Build .40Rimfire Sentry light crate</BuildSentryTurret_Crate.label>
+  <BuildHeavyTurret_Crate.label>Build 145x114mm Sentry heavy crate</BuildHeavyTurret_Crate.label>
+  <BuildNavalGunTurret_Crate.label>Build 30x173mm Sentry naval crate</BuildNavalGunTurret_Crate.label>
+  <BuildSentryRocketLauncher_Crate.label>Build AT missile Sentry rocket launcher crate</BuildSentryRocketLauncher_Crate.label>
+  <BuildSentryBlasterTurret_Crate.label>Build 6x24mm Sentry blaster crate</BuildSentryBlasterTurret_Crate.label>
+  <BuildLaserTurret_Crate.label>Build LaserTurret_Crate</BuildLaserTurret_Crate.label>
+</LanguageData>

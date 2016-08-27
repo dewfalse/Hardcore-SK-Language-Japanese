@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Fluffy_FeenixPasses.label>fenix passes</Fluffy_FeenixPasses.label>
+  <Fluffy_IcicatPasses.label>icicat passes</Fluffy_IcicatPasses.label>
+  <HeatWaveExtreme.label>heat wave extreme</HeatWaveExtreme.label>
+  <ColdSnapExtreme.label>cold snap extreme</ColdSnapExtreme.label>
+  <HeatWaveRidiculous.label>heat wave ridiculous</HeatWaveRidiculous.label>
+  <HotFlashstorm.label>hot flashstorm</HotFlashstorm.label>
+  <RaptorPasses.label>raptor passes</RaptorPasses.label>
+  <TribeMigration.label>tribe migration</TribeMigration.label>
+  <BoulderHit.label>boulder hit</BoulderHit.label>
+  <BoulderMassHit.label>boulder masshit</BoulderMassHit.label>
+  <RazorRain.label>razor rain</RazorRain.label>
+  <HungryLocusts.label>hungry locusts</HungryLocusts.label>
+  <MalariaRaid.label>malaria raid</MalariaRaid.label>
+  <FleaRaid.label>flea raid</FleaRaid.label>
+  <Plunderers.label>plunderers</Plunderers.label>
+  <Earthquake.label>earthquake</Earthquake.label>
+  <Flood.label>flood</Flood.label>
+  <AnimalGenocide.label>animal genocide</AnimalGenocide.label>
+  <PrisonRiot.label>prison riot</PrisonRiot.label>
+  <PrisonerRampage.label>prison rampage</PrisonerRampage.label>
+  <PrisonSuicide.label>prison suicide</PrisonSuicide.label>
+  <NuclearIncident.label>nuclear incident</NuclearIncident.label>
+  <NuclearFallout.label>nuclear fallout</NuclearFallout.label>
+  <CosmicRadiation.label>cosmic radiation</CosmicRadiation.label>
+  <AnimalMigration.label>animal migration</AnimalMigration.label>
+  <Stroke.label>stroke</Stroke.label>
+  <AccidentalExplosion.label>accidental explosion</AccidentalExplosion.label>
+  <SickNausea.label>sick nausea</SickNausea.label>
+  <ColonistStash.label>colonist stash</ColonistStash.label>
+  <EclipseFeral.label>eclipse feral</EclipseFeral.label>
+  <EclipseMeteorImpact.label>eclipse meteor impact</EclipseMeteorImpact.label>
+  <MysteriousTransmission.label>mysterious transmission</MysteriousTransmission.label>
+  <Darkness.label>darkness</Darkness.label>
+  <PermanentDarkness.label>permanent darkness</PermanentDarkness.label>
+  <MajorRescue.label>major resque</MajorRescue.label>
+  <UnexpectedGuest.label>unexpected guest</UnexpectedGuest.label>
+  <HiddenResources.label>hidden resources</HiddenResources.label>
+</LanguageData>

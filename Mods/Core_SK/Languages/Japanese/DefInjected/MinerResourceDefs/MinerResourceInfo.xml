@@ -1,16 +1,16 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <SandstoneResourceInfo.label>砂岩 塊</SandstoneResourceInfo.label>
-  <GraniteResourceInfo.label>花崗岩 塊</GraniteResourceInfo.label>
-  <LimestoneResourceInfo.label>石灰岩 塊</LimestoneResourceInfo.label>
-  <SlateResourceInfo.label>粘板岩 塊</SlateResourceInfo.label>
-  <MarbleResourceInfo.label>大理石 塊</MarbleResourceInfo.label>
-  <SteelResourceInfo.label>鉄 鉱石</SteelResourceInfo.label>
-  <AluminiumResourceInfo.label>ボーキサイト 鉱石</AluminiumResourceInfo.label>
-  <CopperResourceInfo.label>銅 鉱石</CopperResourceInfo.label>
-  <PyrolusiteResourceInfo.label>軟マンガン鉱 鉱石</PyrolusiteResourceInfo.label>
-  <CoalResourceInfo.label>石炭 鉱石</CoalResourceInfo.label>
+  <SandstoneResourceInfo.label>砂岩の塊</SandstoneResourceInfo.label>
+  <GraniteResourceInfo.label>花崗岩の塊</GraniteResourceInfo.label>
+  <LimestoneResourceInfo.label>石灰岩の塊</LimestoneResourceInfo.label>
+  <SlateResourceInfo.label>粘板岩の塊</SlateResourceInfo.label>
+  <MarbleResourceInfo.label>大理石の塊</MarbleResourceInfo.label>
+  <SteelResourceInfo.label>鉄鉱石</SteelResourceInfo.label>
+  <AluminiumResourceInfo.label>ボーキサイト鉱石</AluminiumResourceInfo.label>
+  <CopperResourceInfo.label>銅鉱石</CopperResourceInfo.label>
+  <PyrolusiteResourceInfo.label>軟マンガン鉱石</PyrolusiteResourceInfo.label>
+  <CoalResourceInfo.label>石炭鉱石</CoalResourceInfo.label>
   <NitreResourceInfo.label>硝石</NitreResourceInfo.label>
-  <SilverResourceInfo.label>シルバー 鉱石</SilverResourceInfo.label>
-  <GoldResourceInfo.label>金 鉱石</GoldResourceInfo.label>
+  <SilverResourceInfo.label>シルバー鉱石</SilverResourceInfo.label>
+  <GoldResourceInfo.label>ゴールド鉱石</GoldResourceInfo.label>
 </LanguageData>

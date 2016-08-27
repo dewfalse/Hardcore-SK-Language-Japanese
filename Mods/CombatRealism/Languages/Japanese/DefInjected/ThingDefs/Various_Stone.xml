@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <ChunkSlagSteel.label>steel slag chunk</ChunkSlagSteel.label>
+  <Sandstone.label>砂岩</Sandstone.label>
+  <ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
+  <BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
+  <Granite.label>花崗岩</Granite.label>
+  <ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
+  <BlocksGranite.label>花崗岩のブロック</BlocksGranite.label>
+  <Limestone.label>石灰岩</Limestone.label>
+  <ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
+  <BlocksLimestone.label>石灰岩のブロック</BlocksLimestone.label>
+  <Slate.label>粘板岩</Slate.label>
+  <ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
+  <BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
+  <Marble.label>大理石</Marble.label>
+  <ChunkMarble.label>大理石の塊</ChunkMarble.label>
+  <BlocksMarble.label>大理石のブロック</BlocksMarble.label>
+  <BlocksSandstone.stuffProps.stuffAdjective>砂岩</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksGranite.stuffProps.stuffAdjective>花崗岩</BlocksGranite.stuffProps.stuffAdjective>
+  <BlocksLimestone.stuffProps.stuffAdjective>石灰岩</BlocksLimestone.stuffProps.stuffAdjective>
+  <BlocksSlate.stuffProps.stuffAdjective>粘板岩</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksMarble.stuffProps.stuffAdjective>大理石</BlocksMarble.stuffProps.stuffAdjective>
+</LanguageData>

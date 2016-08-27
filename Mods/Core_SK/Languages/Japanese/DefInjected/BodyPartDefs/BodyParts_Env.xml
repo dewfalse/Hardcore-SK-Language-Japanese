@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <FrontLeftFlipper.label>前 左 ヒレ</FrontLeftFlipper.label>
-  <FrontRightFlipper.label>前 右 ヒレ</FrontRightFlipper.label>
-  <RearLeftFlipper.label>後ろ 左 ヒレ</RearLeftFlipper.label>
-  <RearRightFlipper.label>後ろ 右 ヒレ</RearRightFlipper.label>
+  <FrontLeftFlipper.label>左前ひれ</FrontLeftFlipper.label>
+  <FrontRightFlipper.label>右前ひれ</FrontRightFlipper.label>
+  <RearLeftFlipper.label>左後ひれ</RearLeftFlipper.label>
+  <RearRightFlipper.label>右後ひれ</RearRightFlipper.label>
 </LanguageData>

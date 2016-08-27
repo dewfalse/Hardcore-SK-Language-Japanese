@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Cassandra.label>Cassandra Classic</Cassandra.label>
-  <Phoebe.label>Phoebe Chillax</Phoebe.label>
-  <Randy.label>Randy ランダム</Randy.label>
-  <Accipiter.label>Accipiter Periodic</Accipiter.label>
+  <Cassandra.label>カサンドラ クラシック</Cassandra.label>
+  <Phoebe.label>フェーベ ベースビルダー</Phoebe.label>
+  <Randy.label>ランディ ランダム</Randy.label>
+  <Accipiter.label>Accipiter Hysteric</Accipiter.label>
   <Sereniz.label>Sereniz Sadistic</Sereniz.label>
   <Hildegarde.label>Hildegarde Epic</Hildegarde.label>
   <Rey.label>Rey Torturer</Rey.label>

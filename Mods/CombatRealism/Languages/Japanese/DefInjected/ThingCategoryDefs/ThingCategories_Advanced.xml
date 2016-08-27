@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <AmmoAdvanced.label>advanced</AmmoAdvanced.label>
+  <Ammo30x64mmFuelCell.label>30x64mm Fuel Cell</Ammo30x64mmFuelCell.label>
+  <Ammo80x128mmFuelCell.label>80x128mm Fuel Cell</Ammo80x128mmFuelCell.label>
+  <Ammo6x24mmCharged.label>6x24mm Charged</Ammo6x24mmCharged.label>
+  <Ammo5x35mmCharged.label>5x35mm Charged</Ammo5x35mmCharged.label>
+  <Ammo12x64mmCharged.label>12x64mm Charged</Ammo12x64mmCharged.label>
+</LanguageData>

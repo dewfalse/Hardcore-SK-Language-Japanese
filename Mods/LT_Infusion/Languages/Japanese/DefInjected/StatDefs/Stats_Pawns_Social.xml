@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <RecruitPrisonerChance.label>Recruit 囚人 chance</RecruitPrisonerChance.label>
-  <TameAnimalChance.label>Tame 動物 chance</TameAnimalChance.label>
-  <TrainAnimalChance.label>Train 動物 chance</TrainAnimalChance.label>
-  <SocialImpact.label>Social chat impact</SocialImpact.label>
-  <GiftImpact.label>Diplomatic gift impact</GiftImpact.label>
-  <TradePriceImprovement.label>Trade price improvement</TradePriceImprovement.label>
+  <RecruitPrisonerChance.label>勧誘成功率</RecruitPrisonerChance.label>
+  <TameAnimalChance.label>手なずけ成功率</TameAnimalChance.label>
+  <TrainAnimalChance.label>調教成功率</TrainAnimalChance.label>
+  <SocialImpact.label>政治力</SocialImpact.label>
+  <GiftImpact.label>好意の印</GiftImpact.label>
+  <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
 </LanguageData>

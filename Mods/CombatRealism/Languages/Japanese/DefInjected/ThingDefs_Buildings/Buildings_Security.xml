@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Sandbags.label>サンドバッグ</Sandbags.label>
+  <TurretGun.label>auto-turret</TurretGun.label>
+  <TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
+  <TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
+  <TrapIEDIncendiary.label>IED 焼夷トラップ</TrapIEDIncendiary.label>
+</LanguageData>

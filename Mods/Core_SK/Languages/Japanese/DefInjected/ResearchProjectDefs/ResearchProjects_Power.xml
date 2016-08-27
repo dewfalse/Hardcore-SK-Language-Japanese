@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <SK_Power.label>電力</SK_Power.label>
+  <SK_RenewableI.label>再生可能電力 I</SK_RenewableI.label>
+  <SolarPanels.label>再生可能電力 II</SolarPanels.label>
+  <GeothermalPower.label>再生可能電力 III</GeothermalPower.label>
+  <SK_RenewableIV.label>再生可能電力 IV</SK_RenewableIV.label>
+  <SK_ConvectionalI.label>対流電力 I</SK_ConvectionalI.label>
+  <SK_ConvectionalII.label>対流電力 II</SK_ConvectionalII.label>
+  <SK_ConvectionalIII.label>対流電力 III</SK_ConvectionalIII.label>
+  <SK_PlasmaI.label>プラズマ電力 I</SK_PlasmaI.label>
+  <SK_PlasmaII.label>プラズマ電力 II</SK_PlasmaII.label>
+  <SK_PlasmaIII.label>プラズマ電力 III</SK_PlasmaIII.label>
+  <AirConditioning.label>インフラ I</AirConditioning.label>
+  <Autodoors.label>インフラ II</Autodoors.label>
+  <ColoredLights.label>彩色灯</ColoredLights.label>
+  <Batteries.label>インフラ III</Batteries.label>
+  <SK_InfrastructureIV.label>インフラ IV</SK_InfrastructureIV.label>
+  <SK_NuclearI.label>原子力 I</SK_NuclearI.label>
+  <SK_NuclearII.label>原子力 II</SK_NuclearII.label>
+  <SK_NuclearIII.label>原子力 III</SK_NuclearIII.label>
+</LanguageData>

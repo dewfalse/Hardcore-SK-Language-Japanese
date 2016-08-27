@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeFishingRod.label>釣り竿</MakeFishingRod.label>
+  <ShellMashgon.label>マシュゴン</ShellMashgon.label>
+  <PrepareSduiggles.label>スディグル</PrepareSduiggles.label>
+  <PrepareSeasnake.label>ウミヘビ</PrepareSeasnake.label>
+  <PrepareBlueblade.label>ブルーブレード</PrepareBlueblade.label>
+  <ButcherTailteeth.label>食肉加工</ButcherTailteeth.label>
+  <SupplyMashgonEggs.label>マシュゴンの卵</SupplyMashgonEggs.label>
+  <SupplyBluebladeEggs.label>ブルーブレードの卵</SupplyBluebladeEggs.label>
+  <SupplyTailteethEggs.label>テイルティースの卵</SupplyTailteethEggs.label>
+  <BuildHarpoon.label>銛</BuildHarpoon.label>
+</LanguageData>

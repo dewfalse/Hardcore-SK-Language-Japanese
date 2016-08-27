@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ammo_50BMG_FMJ.label>.50 BMG cartridge (FMJ)</Ammo_50BMG_FMJ.label>
+  <Ammo_50BMG_AP.label>.50 BMG cartridge (Sabot)</Ammo_50BMG_AP.label>
+  <Ammo_50BMG_HE.label>.50 BMG cartridge (HE)</Ammo_50BMG_HE.label>
+  <Ammo_50BMG_Incendiary.label>.50 BMG cartridge (AP-I)</Ammo_50BMG_Incendiary.label>
+  <Ammo_145x114mm_FMJ.label>14.5x114mm cartridge (FMJ)</Ammo_145x114mm_FMJ.label>
+  <Ammo_145x114mm_HE.label>14.5x114mm cartridge (HE)</Ammo_145x114mm_HE.label>
+  <Ammo_145x114mm_Incendiary.label>14.5x114mm cartridge (AP-I)</Ammo_145x114mm_Incendiary.label>
+</LanguageData>

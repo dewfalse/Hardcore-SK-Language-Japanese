@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeAmmo_30x64mmFuel_Incendiary.label>make 30x64mm fuel cell (Incendiary) x50</MakeAmmo_30x64mmFuel_Incendiary.label>
+  <MakeAmmo_30x64mmFuel_Thermobaric.label>make 30x64mm fuel cell (Thermobaric) x50</MakeAmmo_30x64mmFuel_Thermobaric.label>
+  <MakeAmmo_30x64mmFuel_Foam.label>make 30x64mm fuel cell (Foam) x50</MakeAmmo_30x64mmFuel_Foam.label>
+  <MakeAmmo_6x24mmCharged.label>make 6x24mm Charged cartridge x200</MakeAmmo_6x24mmCharged.label>
+  <MakeAmmo_6x24mmCharged_AP.label>make 6x24mm Charged (Conc.) cartridge x200</MakeAmmo_6x24mmCharged_AP.label>
+  <MakeAmmo_6x24mmCharged_Ion.label>make 6x24mm Charged (Ion) cartridge x200</MakeAmmo_6x24mmCharged_Ion.label>
+  <MakeAmmo_PlasmaBolt.label>make Plasma charged bolt cartridge x200</MakeAmmo_PlasmaBolt.label>
+  <MakeAmmo_DualPlasmaBolt.label>make Dual Plasma Charged bolt cartridge x200</MakeAmmo_DualPlasmaBolt.label>
+  <MakeAmmo_RailRay.label>make Charged Rail Ray cartridge x100</MakeAmmo_RailRay.label>
+  <MakeAmmo_ChargedLaser.label>make Charged Laser beam cartridge x100</MakeAmmo_ChargedLaser.label>
+</LanguageData>

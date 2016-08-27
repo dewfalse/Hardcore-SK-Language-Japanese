@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <Ammo_30x64mmFuel_Incendiary.label>30x64mm fuel cell (Incendiary)</Ammo_30x64mmFuel_Incendiary.label>
+  <Ammo_30x64mmFuel_Thermobaric.label>30x64mm fuel cell (Thermobaric)</Ammo_30x64mmFuel_Thermobaric.label>
+  <Ammo_30x64mmFuel_Foam.label>30x64mm fuel cell (Foam)</Ammo_30x64mmFuel_Foam.label>
+  <Ammo_80x256mmFuel_Thermobaric.label>80x256mm fuel cell (Thermobaric)</Ammo_80x256mmFuel_Thermobaric.label>
+  <Ammo_6x24mmCharged.label>6x24mm Charged cartridge</Ammo_6x24mmCharged.label>
+  <Ammo_6x24mmCharged_AP.label>6x24mm Charged cartridge (Conc.)</Ammo_6x24mmCharged_AP.label>
+  <Ammo_6x24mmCharged_Ion.label>6x24mm Charged cartridge (Ion)</Ammo_6x24mmCharged_Ion.label>
+  <Ammo_5x35mmCharged.label>5x35mm Charged cartridge</Ammo_5x35mmCharged.label>
+  <Ammo_12x64mmCharged.label>12x64mm Charged cartridge</Ammo_12x64mmCharged.label>
+</LanguageData>

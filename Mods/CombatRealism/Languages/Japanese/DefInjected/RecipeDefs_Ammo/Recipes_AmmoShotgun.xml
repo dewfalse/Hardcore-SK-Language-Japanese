@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <MakeAmmo_12Gauge_Buck.label>make 12 gauge (Buck) shell x100</MakeAmmo_12Gauge_Buck.label>
+  <MakeAmmo_12Gauge_Bird.label>make 12 gauge (Bird) shell x100</MakeAmmo_12Gauge_Bird.label>
+  <MakeAmmo_12Gauge_Slug.label>make 12 gauge (Slug) shell x100</MakeAmmo_12Gauge_Slug.label>
+  <MakeAmmo_12Gauge_Beanbag.label>make 12 gauge (Beanbag) shell x100</MakeAmmo_12Gauge_Beanbag.label>
+  <MakeAmmo_12Gauge_ElectroSlug.label>make 12 gauge (EMP) shell x100</MakeAmmo_12Gauge_ElectroSlug.label>
+</LanguageData>

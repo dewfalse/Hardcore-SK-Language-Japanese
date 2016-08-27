@@ -1,21 +1,21 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Radiation.label>放射線</Radiation.label>
-  <lifesupportheart.label>血液 ポンプ</lifesupportheart.label>
+  <Radiation.label>Radiation</Radiation.label>
+  <lifesupportheart.label>血液ポンプ</lifesupportheart.label>
   <lifesupportlung.label>人工呼吸器</lifesupportlung.label>
-  <lifesupportkidney.label>尿 フィルター</lifesupportkidney.label>
-  <lifesupportliver.label>血液 フィルター</lifesupportliver.label>
-  <SpaceSpiceA.label>Space Spice (High)</SpaceSpiceA.label>
-  <SpaceSpiceB.label>Space Spice (Surge)</SpaceSpiceB.label>
-  <SpaceSpiceC.label>Space Spice (Bad Trip)</SpaceSpiceC.label>
-  <SpaceSpiceD.label>Space Spice (Doom)</SpaceSpiceD.label>
-  <Weed.label>ウィード (High)</Weed.label>
+  <lifesupportkidney.label>尿フィルター</lifesupportkidney.label>
+  <lifesupportliver.label>血液フィルター</lifesupportliver.label>
+  <SpaceSpiceA.label>スペーススパイス(高揚)</SpaceSpiceA.label>
+  <SpaceSpiceB.label>スペーススパイス(動揺)</SpaceSpiceB.label>
+  <SpaceSpiceC.label>スペーススパイス(恐慌)</SpaceSpiceC.label>
+  <SpaceSpiceD.label>スペーススパイス(破滅)</SpaceSpiceD.label>
+  <Weed.label>Weed (High)</Weed.label>
   <OnekickGood.label>OneKick (Surge)</OnekickGood.label>
   <OnekickDeath.label>One Kick (Bad Trip)</OnekickDeath.label>
   <Brownies.label>Brownie</Brownies.label>
   <Tobacco.label>タバコ</Tobacco.label>
   <StrongTobacco.label>タバコ</StrongTobacco.label>
-  <SpectagoTea.label>スペクターゴ 茶</SpectagoTea.label>
+  <SpectagoTea.label>スペクターゴ茶</SpectagoTea.label>
   <Caffeine.label>カフェイン</Caffeine.label>
   <Coffee.label>カフェイン</Coffee.label>
   <StrongCoffee.label>カフェイン</StrongCoffee.label>

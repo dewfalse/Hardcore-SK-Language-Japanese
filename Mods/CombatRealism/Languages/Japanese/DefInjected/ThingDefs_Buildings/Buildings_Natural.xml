@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<LanguageData>
+  <CollapsedRocks.label>崩落した岩</CollapsedRocks.label>
+  <MineableSteel.label>潰れた鉄材</MineableSteel.label>
+  <MineableSilver.label>シルバー鉱石</MineableSilver.label>
+  <MineableGold.label>ゴールド鉱石</MineableGold.label>
+  <MineableUranium.label>ウラン鉱石</MineableUranium.label>
+  <MineablePlasteel.label>潰れたプラスチール</MineablePlasteel.label>
+  <MineableJade.label>ヒスイ</MineableJade.label>
+  <MineableComponent.label>潰れた機械</MineableComponent.label>
+  <SteamGeyser.label>間欠泉</SteamGeyser.label>
+  <Hive.label>巣</Hive.label>
+</LanguageData>

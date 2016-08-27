@@ -1,18 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <Arrow_Short.label>Short Bow Arrow</Arrow_Short.label>
-  <Bow_Short.label>Short Bow</Bow_Short.label>
-  <Pilum_Thrown.label>投槍 (Thrown)</Pilum_Thrown.label>
-  <Pila.label>Pila</Pila.label>
-  <Arrow_Great.label>Great Bow Arrow</Arrow_Great.label>
-  <Bow_Great.label>Great Bow</Bow_Great.label>
-  <Norbal_BoardingCrossbow.label>Bolt</Norbal_BoardingCrossbow.label>
-  <Norbal_Scorpion.label>スコルピオ</Norbal_Scorpion.label>
-  <Bolt_Arbalest.label>Bolt</Bolt_Arbalest.label>
+  <Bow_Short.label>ショートボウ</Bow_Short.label>
+  <Pila.label>投槍</Pila.label>
+  <Bow_Great.label>グレートボウ</Bow_Great.label>
+  <Norbal_Scorpion.label>スコーピオンクロスボウ</Norbal_Scorpion.label>
   <Arbalest.label>バレストラ</Arbalest.label>
-  <Bolt_Crossbow.label>Bolt</Bolt_Crossbow.label>
   <Crossbow.label>クロスボウ</Crossbow.label>
-  <NorbalArrow_Grape.label>Greatbow Arrow</NorbalArrow_Grape.label>
-  <RecurveBow.label>Recurve Bow</RecurveBow.label>
-  <NorbalBow_Grape.label>Scythian Bow</NorbalBow_Grape.label>
+  <RecurveBow.label>リカーブボウ</RecurveBow.label>
+  <NorbalBow_Grape.label>スキタイ弓</NorbalBow_Grape.label>
 </LanguageData>

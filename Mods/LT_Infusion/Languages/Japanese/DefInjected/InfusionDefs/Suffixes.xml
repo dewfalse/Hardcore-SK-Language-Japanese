@@ -4,14 +4,14 @@
   <Scout.label>scout</Scout.label>
   <Ranger.label>ranger</Ranger.label>
   <Worker.label>worker</Worker.label>
-  <Guard.label>guard</Guard.label>
+  <Guard.label>衛兵</Guard.label>
   <Mind.label>mind</Mind.label>
   <Knowledge.label>knowledge</Knowledge.label>
   <Discovery.label>discovery</Discovery.label>
   <Labour.label>labour</Labour.label>
   <Haste.label>haste</Haste.label>
-  <Summer.label>夏</Summer.label>
-  <Winter.label>冬</Winter.label>
+  <Summer.label>summer</Summer.label>
+  <Winter.label>winter</Winter.label>
   <Defense.label>defense</Defense.label>
   <Success.label>success</Success.label>
   <Passion.label>passion</Passion.label>
@@ -21,7 +21,7 @@
   <Fastwalk.label>fastwalk</Fastwalk.label>
   <Friendship.label>friendship</Friendship.label>
   <Desert.label>砂漠</Desert.label>
-  <Tundra.label>tundra</Tundra.label>
+  <Tundra.label>ツンドラ</Tundra.label>
   <Protection.label>protection</Protection.label>
   <Memories.label>memories</Memories.label>
   <Experiments.label>experiments</Experiments.label>
@@ -32,7 +32,7 @@
   <Victory.label>victory</Victory.label>
   <Sight.label>sight</Sight.label>
   <Flame.label>flame</Flame.label>
-  <Ice.label>ice</Ice.label>
+  <Ice.label>氷面</Ice.label>
   <Stronghold.label>stronghold</Stronghold.label>
   <Omnipresence.label>omnipresence</Omnipresence.label>
   <Omnipotence.label>omnipotence</Omnipotence.label>
@@ -41,7 +41,7 @@
   <Master.label>master</Master.label>
   <Alliance.label>alliance</Alliance.label>
   <Sunlight.label>太陽光</Sunlight.label>
-  <Moonlight.label>moonlight</Moonlight.label>
+  <Moonlight.label>月光</Moonlight.label>
   <Titanguard.label>titanguard</Titanguard.label>
   <Infinity.label>infinity</Infinity.label>
   <Possibility.label>possibility</Possibility.label>

@@ -1,17 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ConvertResourcesRaw.label>無機物 を作る</ConvertResourcesRaw.label>
-  <ConvertToSteel.label>鉄 鉱石 を作る</ConvertToSteel.label>
-  <ConvertToCopper.label>銅 鉱石 を作る</ConvertToCopper.label>
-  <ConvertToAluminium.label>ボーキサイト 鉱石 を作る</ConvertToAluminium.label>
-  <ConvertToPyrolusite.label>軟マンガン鉱 鉱石 を作る</ConvertToPyrolusite.label>
-  <ConvertToNickel.label>ニッケル 鉱石 を作る</ConvertToNickel.label>
-  <ConvertToUranium.label>ウラニウム 鉱石 を作る</ConvertToUranium.label>
-  <ConvertToTitanium.label>イルメナイト 鉱石 を作る</ConvertToTitanium.label>
-  <ConvertToWolframite.label>鉄マンガン重石 鉱石 を作る</ConvertToWolframite.label>
-  <ConvertToSilver.label>シルバー 鉱石 を作る</ConvertToSilver.label>
-  <ConvertToGold.label>金 鉱石 を作る</ConvertToGold.label>
-  <ConvertToCloth.label>生地 を作る</ConvertToCloth.label>
-  <ConvertToGlassBatch.label>ガラス バッチ を作る</ConvertToGlassBatch.label>
-  <ConvertToPolymers.label>ポリマー を作る</ConvertToPolymers.label>
+  <ConvertResourcesRaw.label>マターを作る</ConvertResourcesRaw.label>
+  <ConvertToSteel.label>鉄鉱石</ConvertToSteel.label>
+  <ConvertToCopper.label>銅鉱石</ConvertToCopper.label>
+  <ConvertToAluminium.label>ボーキサイト鉱石</ConvertToAluminium.label>
+  <ConvertToPyrolusite.label>軟マンガン鉱石</ConvertToPyrolusite.label>
+  <ConvertToNickel.label>ニッケル鉱石</ConvertToNickel.label>
+  <ConvertToUranium.label>ウラン鉱石</ConvertToUranium.label>
+  <ConvertToTitanium.label>チタン鉱石</ConvertToTitanium.label>
+  <ConvertToWolframite.label>タングステン鉱石</ConvertToWolframite.label>
+  <ConvertToSilver.label>シルバー鉱石</ConvertToSilver.label>
+  <ConvertToGold.label>ゴールド鉱石</ConvertToGold.label>
+  <ConvertToCloth.label>木綿</ConvertToCloth.label>
+  <ConvertToGlassBatch.label>ガラスバッチ</ConvertToGlassBatch.label>
+  <ConvertToPolymers.label>ポリマー</ConvertToPolymers.label>
 </LanguageData>

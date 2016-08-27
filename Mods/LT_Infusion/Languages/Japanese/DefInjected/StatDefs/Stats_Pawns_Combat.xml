@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?> 
 <LanguageData>
-  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-  <AimingDelayFactor.label>Aiming time</AimingDelayFactor.label>
-  <MeleeHitChance.label>Melee hit chance</MeleeHitChance.label>
+  <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
+  <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
+  <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
+  <ReloadSpeed.label>リロード速度</ReloadSpeed.label>
 </LanguageData>
